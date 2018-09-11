@@ -1,0 +1,1242 @@
+city,entity_id,__last_seen,text,region,note,street,postal_code,country_code,country_name,street_2,__first_seen
+Genf,eu-eeas-sanctions.1900,2018-05-01 01:09:54.159202,,,,,,CH,CHE,,2018-04-12 07:35:51.717817
+Ginevra,eu-eeas-sanctions.1900,2018-05-01 01:09:54.259062,,,,,,CH,CHE,,2018-04-12 07:35:51.734336
+Sarajevo,eu-eeas-sanctions.924,2018-05-01 01:09:56.327901,,,,,,BA,BIH,,2018-04-12 07:35:49.681847
+,eu-eeas-sanctions.1019,2018-05-01 01:09:57.498724,,,,,,FR,FRA,,2018-04-12 07:35:50.290220
+Kut,eu-eeas-sanctions.2050,2018-05-01 01:09:58.012853,,,,P.O. Box 25,,IQ,IRQ,,2018-04-12 07:35:55.033169
+Al-Zahra Town,eu-eeas-sanctions.2050,2018-05-01 01:09:58.029378,,,,Kut Opp,,IQ,IRQ,,2018-04-12 07:35:55.102077
+,eu-eeas-sanctions.2194,2018-05-01 01:09:59.183274,,,,,,SY,SYR,,2018-04-12 07:35:54.566331
+Kuwait (residence as at March 2009),eu-eeas-sanctions.4140,2018-05-01 01:10:00.926525,,,,,,KW,KWT,,2018-04-12 07:36:11.405418
+"Lahore, Tehsil, Lahore City, Lahore District",eu-eeas-sanctions.5419,2018-05-01 01:10:02.811962,,,,116E Mohalla Johar,,PK,PAK,,2018-04-12 07:36:10.004649
+Peshawar,eu-eeas-sanctions.5500,2018-05-01 01:10:03.029804,,,,Ganj District,,PK,PAK,,2018-04-12 07:36:12.205352
+Caloocan City,eu-eeas-sanctions.5263,2018-05-01 01:10:03.092788,,,,10th Avenue,,PH,PHL,,2018-04-12 07:36:10.372520
+Pyongyang,eu-eeas-sanctions.5492,2018-05-01 01:10:03.213443,,,,Central District,,KP,PRK,,2018-04-12 07:36:11.971772
+Pyongyang,eu-eeas-sanctions.5494,2018-05-01 01:10:03.284495,,,,1 Saemul - Dong Pyongchon District,,KP,PRK,,2018-04-12 07:36:10.146307
+Pyongyang,eu-eeas-sanctions.5497,2018-05-01 01:10:03.396831,,,,"Rakwon-dong, Pothonggang District",,KP,PRK,,2018-04-12 07:36:11.946898
+Tehran,eu-eeas-sanctions.5289,2018-05-01 01:10:03.530208,,,,P.O. Box 16315-189,,IR,IRN,,2018-04-12 07:36:11.680157
+Tehran,eu-eeas-sanctions.5289,2018-05-01 01:10:03.605424,,,,"located on the west side of Dabestan Street, Abbas Abad District",,IR,IRN,,2018-04-12 07:36:11.696759
+Southeast Tehran,eu-eeas-sanctions.5680,2018-05-01 01:10:03.613458,,,,,,IR,IRN,,2018-04-12 07:36:15.305220
+Carthage presidence,eu-eeas-sanctions.6061,2018-05-01 01:10:04.410515,,,,124 Avenue Habib Bourguiba,,TN,TUN,,2018-04-12 07:36:26.722664
+Kandahar Province,eu-eeas-sanctions.5804,2018-05-01 01:10:04.544003,,,,Daman District,,AF,AFG,,2018-04-12 07:36:17.818520
+,eu-eeas-sanctions.5796,2018-05-01 01:10:04.672490,,,,,,PK,PAK,,2018-04-12 07:36:18.264452
+Tunis,eu-eeas-sanctions.6077,2018-05-01 01:10:05.202658,,,,41 Rue Garibaldi,,TN,TUN,,2018-04-12 07:36:20.215009
+,eu-eeas-sanctions.5629,2018-05-01 01:10:05.377904,,,,,,YE,YEM,,2018-04-12 07:36:17.435254
+Pyongyang,eu-eeas-sanctions.5815,2018-05-01 01:10:05.673495,,,,"Segori-dong, Gyongheung St., Potonggang District",,KP,PRK,,2018-04-12 07:36:25.786629
+,eu-eeas-sanctions.6141,2018-05-01 01:10:06.615804,,,,,,,,,2018-04-12 07:36:21.144548
+Basrah,eu-eeas-sanctions.2008,2018-05-01 01:09:55.997188,,,,"P.O. Box 421, Basrah Khor Al-Zubair",,IQ,IRQ,,2018-04-12 07:35:54.566366
+Arluno (Milan),eu-eeas-sanctions.1094,2018-05-01 01:09:56.264172,,,,"Via Monte Grappa, 15",,IT,ITA,,2018-04-12 07:35:52.940898
+Milan,eu-eeas-sanctions.1094,2018-05-01 01:09:56.328126,,,,"Via Cefalonia, 11 (domicile, last known address)",,IT,ITA,,2018-04-12 07:35:52.957580
+Baghdad,eu-eeas-sanctions.2067,2018-05-01 01:09:56.528450,,,,"Rashid Street, P.O. Box 11387",,IQ,IRQ,,2018-04-12 07:35:53.526702
+"Zehrouni, Tunis,",eu-eeas-sanctions.1096,2018-05-01 01:09:56.553471,,,,No 2 89th Street,,TN,TUN,,2018-04-12 07:35:51.134579
+Baghdad,eu-eeas-sanctions.1981,2018-05-01 01:09:57.140256,,,,"P.O. Box 2337, Alwiyah",,IQ,IRQ,,2018-04-12 07:35:54.393719
+Al-Khalis,eu-eeas-sanctions.2015,2018-05-01 01:09:57.228880,,,,"P.O. Box 564, Al-Khalis, Diala Muhafadha",,IQ,IRQ,,2018-04-12 07:35:53.526887
+Basrah,eu-eeas-sanctions.2134,2018-05-01 01:09:57.404055,,,,P.O. Box 74,,IQ,IRQ,,2018-04-12 07:35:53.432836
+Baghdad,eu-eeas-sanctions.2036,2018-05-01 01:09:57.404079,,,,"P.O. Box 29029, Za'Faraniya",,IQ,IRQ,,2018-04-12 07:35:52.851855
+Baghdad,eu-eeas-sanctions.2145,2018-05-01 01:09:57.845878,,,,"P.O. Box 2330, Sa'doon Street",,IQ,IRQ,,2018-04-12 07:35:55.327205
+Baghdad,eu-eeas-sanctions.2058,2018-05-01 01:09:58.408020,,,,"P.O. Box 19055, Palestine Street, near Al-Shaab Stadium",,IQ,IRQ,,2018-04-12 07:35:56.625389
+Tehran,eu-eeas-sanctions.5285,2018-05-01 01:10:01.386404,,,,"221 North Falamak-Zarafshan Intersection, 4th Phase, Shahkrak-E-Ghods",14678,IR,IRN,,2018-04-12 07:36:12.105610
+Tehran,eu-eeas-sanctions.3842,2018-05-01 01:10:01.566869,,,,"Pasdaran Av., PO Box 19585/777",,IR,IRN,,2018-04-12 07:35:59.251318
+,eu-eeas-sanctions.3562,2018-05-01 01:10:02.125378,,,,,,TN,TUN,,2018-04-12 07:35:58.001025
+Geneva,eu-eeas-sanctions.1900,2018-05-01 01:09:54.075421,,,,,,CH,CHE,,2018-04-12 07:35:51.624074
+Genève,eu-eeas-sanctions.1900,2018-05-01 01:09:54.140738,,,,,,CH,CHE,,2018-04-12 07:35:51.692809
+Amman,eu-eeas-sanctions.1883,2018-05-01 01:09:56.803402,,,,,,JO,JOR,,2018-04-12 07:35:53.721675
+Damascus,eu-eeas-sanctions.6835,2018-05-01 01:10:08.216614,,,,Al Watan Newspaper – Duty Free Zone,,SY,SYR,,2018-04-12 07:36:38.106507
+Tehran,eu-eeas-sanctions.6670,2018-05-01 01:10:09.000757,,,,"3 Shahid Hamid Sadigh Alley [Building 3], Shariati Street",,IR,IRN,,2018-04-12 07:36:37.681143
+"Sumber Agung Magetan, East Java",eu-eeas-sanctions.6945,2018-05-01 01:10:09.797122,,,,Podok Pesantren AL Wayain Ngrandu,,ID,IDN,,2018-04-12 07:36:40.165195
+"Tongan-dong, Central District, Pyongyang",eu-eeas-sanctions.6855,2018-05-01 01:10:09.864118,,,,,,KP,PRK,,2018-04-12 07:36:38.436976
+"Mangungdae-gu, Pyongyang",eu-eeas-sanctions.6855,2018-05-01 01:10:09.880722,,,,,,KP,PRK,,2018-04-12 07:36:38.495250
+"Mangyongdae District, Pyongyang",eu-eeas-sanctions.6855,2018-05-01 01:10:09.897432,,,,,,KP,PRK,,2018-04-12 07:36:38.556364
+"Majengo area, Mombasa",eu-eeas-sanctions.7166,2018-05-01 01:10:11.594628,,,,,,KE,KEN,,2018-04-12 07:36:44.382586
+"Hammam Lif, Ben Arous",eu-eeas-sanctions.7478,2018-05-01 01:10:15.856191,,,,60 Rue de la Libye,,TN,TUN,,2018-04-12 07:37:46.437855
+,eu-eeas-sanctions.7478,2018-05-01 01:10:15.918542,,,,,,LY,LBY,,2018-04-12 07:37:46.459372
+,eu-eeas-sanctions.7578,2018-05-01 01:10:17.511103,,,,,,,,,2018-04-12 07:37:48.146026
+"Al Mukalla, Hadramawt province",eu-eeas-sanctions.106540,2018-05-01 01:10:17.577975,,,,,,YE,YEM,,2018-04-12 07:37:55.897552
+,eu-eeas-sanctions.107691,2018-05-01 01:10:17.941186,,,,,,LY,LBY,,2018-04-12 07:37:52.676768
+,eu-eeas-sanctions.107850,2018-05-01 01:10:18.553720,,,,,,KP,PRK,,2018-04-12 07:37:54.477306
+,eu-eeas-sanctions.108437,2018-05-01 01:10:18.858614,,,,,,SY,SYR,,2018-04-12 07:37:54.462196
+,eu-eeas-sanctions.107689,2018-05-01 01:10:19.058536,,,,,,SY,SYR,,2018-04-12 07:37:54.218894
+,eu-eeas-sanctions.109426,2018-05-01 01:10:19.237454,,,,,,CF,CAF,,2018-04-12 07:37:56.302410
+Kafia Kingi,eu-eeas-sanctions.109426,2018-05-01 01:10:19.253994,,,,,,SD,SDN,,2018-04-12 07:37:56.319217
+Kafia Kingi,eu-eeas-sanctions.109405,2018-05-01 01:10:19.784441,,,,,,SD,SDN,,2018-04-12 07:38:09.002390
+Sana’a,eu-eeas-sanctions.110891,2018-05-01 01:10:20.125893,,,,,,YE,YEM,,2018-04-12 07:37:57.969804
+,eu-eeas-sanctions.110891,2018-05-01 01:10:20.142507,,,,,,YE,YEM,,2018-04-12 07:37:57.986646
+,eu-eeas-sanctions.112314,2018-05-01 01:10:20.588271,,,,,,VN,VNM,,2018-04-12 07:38:02.132091
+Damascus,eu-eeas-sanctions.115965,2018-05-01 01:10:21.485432,,,,31983,,,,,2018-04-12 07:38:06.798366
+Tirana,eu-eeas-sanctions.1982,2018-05-01 01:09:56.756924,,,,"Irfan Tomini Street, 58",,AL,ALB,,2018-04-12 07:35:52.582509
+Mortara (PV),eu-eeas-sanctions.1127,2018-05-01 01:09:57.132234,,,,"Via Porte Giove, 1 (domicile)",,IT,ITA,,2018-04-12 07:35:52.826529
+"Punta, Santa Ana, Manila",eu-eeas-sanctions.5261,2018-05-01 01:10:01.877693,,,,3111 Ma. Bautista,,PH,PHL,,2018-04-12 07:36:11.613887
+Doha,eu-eeas-sanctions.5339,2018-05-01 01:10:02.550427,,,,,,QA,QAT,,2018-04-12 07:36:10.613265
+Tehran,eu-eeas-sanctions.5283,2018-05-01 01:10:02.742754,,,,P.O. Box 18575-365,,IR,IRN,,2018-04-12 07:36:09.529483
+Kinshasa,eu-eeas-sanctions.4686,2018-05-01 01:10:03.117840,,,,,,CD,COD,,2018-04-12 07:36:09.279536
+Teheran,eu-eeas-sanctions.5740,2018-05-01 01:10:04.076864,,,,153 Gheytariyeh Avenue - 3rd Floor - PO BOX 17665/1536,19389,,,,2018-04-12 07:36:16.489232
+Kangdong,eu-eeas-sanctions.5813,2018-05-01 01:10:04.293590,,,,,,KP,PRK,,2018-04-12 07:36:18.072638
+Monastir,eu-eeas-sanctions.6072,2018-05-01 01:10:04.893973,,,,avenue Hédi Nouira,,TN,TUN,,2018-04-12 07:36:27.072661
+Tunis,eu-eeas-sanctions.6091,2018-05-01 01:10:04.902329,,,,5 Rue El Montazah - Sidi Bousaid,,TN,TUN,,2018-04-12 07:36:20.522818
+Tunis,eu-eeas-sanctions.6075,2018-05-01 01:10:05.131007,,,,Rue du Lac Turkana-Les Berges du Lac - Apartment block Amine El Bouhaira,,TN,TUN,,2018-04-12 07:36:19.180935
+Tripoli,eu-eeas-sanctions.6139,2018-05-01 01:10:05.761166,,,,"Hay Alandalus – Jian St.
+1101",,LY,LBY,,2018-04-12 07:36:27.528243
+Hammam - Sousse,eu-eeas-sanctions.6048,2018-05-01 01:10:05.823546,,,,Chouket El Arressa,,TN,TUN,,2018-04-12 07:36:26.039402
+Bailly Romainvilliers (77),eu-eeas-sanctions.6048,2018-05-01 01:10:05.841861,,,,14 Esplanade des Guinandiers,,FR,FRA,,2018-04-12 07:36:26.106051
+,eu-eeas-sanctions.6440,2018-05-01 01:10:06.415377,,,,,,MY,MYS,,2018-04-12 07:36:24.689306
+Tehran,eu-eeas-sanctions.6404,2018-05-01 01:10:06.607022,,,,"67 Ashtian Tablo, Ghods mirheydari St, Yoosefabad",,IR,IRN,,2018-04-12 07:36:25.978940
+"Road Town, Tortola",eu-eeas-sanctions.6262,2018-05-01 01:10:06.849310,,,,"Woodbourne Hall
+3162",,VG,VGB,,2018-04-12 07:36:19.344000
+South Jakarta,eu-eeas-sanctions.6494,2018-05-01 01:10:07.032302,,,,"Jalan M. Saidi RT 010 RW 001 Pesanggrahan, South Petukangan",,ID,IDN,,2018-04-12 07:36:33.881055
+Banten,eu-eeas-sanctions.6494,2018-05-01 01:10:07.095333,,,,"Jalan Nakula of Witana Harja Complex Block C, Pamulang",,ID,IDN,,2018-04-12 07:36:33.894880
+,eu-eeas-sanctions.7570,2018-05-01 01:10:17.085830,,,,,,,,,2018-04-12 07:37:48.050709
+Islamabad,eu-eeas-sanctions.1104,2018-05-01 01:09:56.736935,,,,"House No 279, Nazimuddin Road, F-10/1",,PK,PAK,,2018-04-12 07:35:52.693142
+Maysan,eu-eeas-sanctions.2120,2018-05-01 01:09:57.133806,,,,,,IQ,IRQ,,2018-04-12 07:35:54.383150
+,eu-eeas-sanctions.1922,2018-05-01 01:09:57.315233,,,,,,IQ,IRQ,,2018-04-12 07:35:53.417247
+Baghdad,eu-eeas-sanctions.2167,2018-05-01 01:09:58.637966,,,,"Al Ljtimai Building, Jumhuriya St. (Al Khullani Square), P.O. Box 5948",,IQ,IRQ,,2018-04-12 07:35:55.110433
+Baghdad,eu-eeas-sanctions.2167,2018-05-01 01:09:58.704862,,,,"235/306 Husam Aldin St., near Al-Fateh Square",,IQ,IRQ,,2018-04-12 07:35:55.135177
+Baghdad,eu-eeas-sanctions.2177,2018-05-01 01:09:59.055178,,,,"P.O. Box 2218, Camp Sarah",,IQ,IRQ,,2018-04-12 07:35:54.301989
+Esfahan,eu-eeas-sanctions.6682,2018-05-01 01:10:08.233506,,,,"Kahorz Blvd [Unit 7, 3rd Floor Mehdi Building]",,IR,IRN,,2018-04-12 07:36:37.673725
+Tehran,eu-eeas-sanctions.6693,2018-05-01 01:10:08.392068,,,,"101 West Zardosht Street, 3rd Floor",14157,,,,2018-04-12 07:36:41.823652
+Tehran,eu-eeas-sanctions.6693,2018-05-01 01:10:08.408669,,,,139 Hoveyzeh Street,15337,,,,2018-04-12 07:36:41.937187
+Pyongyang,eu-eeas-sanctions.6863,2018-05-01 01:10:08.591872,,,,"PO Box 32, BEL Building, Jonseung-Dung, Moranbong District",,KP,PRK,,2018-04-12 07:36:38.781775
+Damascus,eu-eeas-sanctions.6834,2018-05-01 01:10:09.217626,,,,"Al Qudsi building, 2nd Floor - Baramkeh",,SY,SYR,,2018-04-12 07:36:38.040078
+"Nungrado, Pyongyang",eu-eeas-sanctions.6857,2018-05-01 01:10:09.238309,,,,,,KP,PRK,,2018-04-12 07:36:38.106343
+Damascus,eu-eeas-sanctions.6842,2018-05-01 01:10:09.246805,,,,"17 Prime Minister Building, Street Nissan",,SY,SYR,,2018-04-12 07:36:38.395329
+"Rakwon-dong, Pothonggang District, Pyongyang",eu-eeas-sanctions.6854,2018-05-01 01:10:09.730237,,,,,,KP,PRK,,2018-04-12 07:36:38.614838
+"Kandahari Bazaar, Quetta City, Baluchistan Province",eu-eeas-sanctions.7067,2018-05-01 01:10:11.043742,,,,Branch Office 1 Chohar Mir Road,,PK,PAK,,2018-04-12 07:36:45.074435
+"Quetta, Baluchistan Province",eu-eeas-sanctions.7067,2018-05-01 01:10:11.060488,,,,"Branch Office 1,  Room number 1 Abdul Sattar Plaza, Hafiz Saleem Street, Munsafi Road",,PK,PAK,,2018-04-12 07:36:45.091192
+"Quetta, Baluchistan Province",eu-eeas-sanctions.7067,2018-05-01 01:10:11.077143,,,,"Branch Office 1, Shop number 3 Dr Bano Road",,PK,PAK,,2018-04-12 07:36:45.107852
+"Quetta, Baluchistan Province",eu-eeas-sanctions.7067,2018-05-01 01:10:11.093908,,,,"Branch Office 1, Office number 3 Near Fatima Jinnah Road, Dr Bano Road",,PK,PAK,,2018-04-12 07:36:45.163169
+"Quetta, Baluchistan Province",eu-eeas-sanctions.7067,2018-05-01 01:10:11.110479,,,,"Branch Office 1 Kachara Road, Nasrullah Khan Chowk",,PK,PAK,,2018-04-12 07:36:45.224505
+"Quetta, Baluchistan Province",eu-eeas-sanctions.7067,2018-05-01 01:10:11.172998,,,,Branch Office 1 Wazir Mohammad Road,,PK,PAK,,2018-04-12 07:36:45.241137
+,eu-eeas-sanctions.7176,2018-05-01 01:10:11.181404,,,,,,UG,UGA,,2018-04-12 07:36:45.524887
+"Peshawar, Khyber Paktunkhwa Province",eu-eeas-sanctions.7067,2018-05-01 01:10:11.189734,,,,Branch Office 2,,PK,PAK,,2018-04-12 07:36:45.257803
+"Lahore, Punjab Province",eu-eeas-sanctions.7067,2018-05-01 01:10:11.206427,,,,Branch Office 3 Moishah Chowk Road,,PK,PAK,,2018-04-12 07:36:45.274494
+"Karachi, Sindh Province",eu-eeas-sanctions.7067,2018-05-01 01:10:11.223077,,,,Branch Office 4,,PK,PAK,,2018-04-12 07:36:45.338210
+"Chaman, Baluchistan Province",eu-eeas-sanctions.7067,2018-05-01 01:10:11.239791,,,,"Branch Office 5, 2 Larran Road",,PK,PAK,,2018-04-12 07:36:45.458190
+"Chaman, Baluchistan Province",eu-eeas-sanctions.7067,2018-05-01 01:10:11.306642,,,,Branch Office 5 Chaman Central Bazaar,,PK,PAK,,2018-04-12 07:36:45.508010
+Damascus,eu-eeas-sanctions.7062,2018-05-01 01:10:11.460875,,,,Al Oumaween Square,,SY,SYR,,2018-04-12 07:36:41.970754
+Baghdad,eu-eeas-sanctions.1981,2018-05-01 01:09:57.106901,,,,"Hai Babil, Lane 11, District 929",,IQ,IRQ,,2018-04-12 07:35:54.302206
+Baghdad,eu-eeas-sanctions.1981,2018-05-01 01:09:57.123527,,,,"Hai Al-Wahda, Lane 15, Area 902, Office 10",,IQ,IRQ,,2018-04-12 07:35:54.375058
+Pyongyang,eu-eeas-sanctions.6851,2018-05-01 01:10:09.330366,,,,,,KP,PRK,,2018-04-12 07:36:38.081881
+Karachi,eu-eeas-sanctions.6949,2018-05-01 01:10:10.022125,,,,,,PK,PAK,,2018-04-12 07:36:40.740220
+Rubavu/Mudende,eu-eeas-sanctions.7201,2018-05-01 01:10:11.323607,,,,,,RW,RWA,,2018-04-12 07:36:44.565681
+Damascus,eu-eeas-sanctions.7154,2018-05-01 01:10:11.461221,,,,Aleppo Street,,SY,SYR,,2018-04-12 07:36:43.645645
+,eu-eeas-sanctions.7154,2018-05-01 01:10:11.477835,,,,"P.O. BOX 5966,",,,,,2018-04-12 07:36:43.662417
+Damascus,eu-eeas-sanctions.7396,2018-05-01 01:10:13.855034,,,,P.O. Box 4470,,SY,SYR,,2018-04-12 07:37:37.774794
+,eu-eeas-sanctions.7352,2018-05-01 01:10:13.950602,,,,,,ML,MLI,,2018-04-12 07:37:21.387104
+,eu-eeas-sanctions.7414,2018-05-01 01:10:14.230086,,,,,,,,,2018-04-12 07:37:25.387638
+Simferopol,eu-eeas-sanctions.7425,2018-05-01 01:10:14.511140,,,,Aeroflotskaya street 5,295024,,,,2018-04-12 07:37:23.600081
+г. Симферополь,eu-eeas-sanctions.7425,2018-05-01 01:10:14.592839,,,,"ул. Аэрофлотская, дом 5",295024,,,,2018-04-12 07:37:23.612070
+A Haqqani Madrassa in the Afghanistan/Pakistan Border Area,eu-eeas-sanctions.7493,2018-05-01 01:10:15.482602,,,,,,AF,AFG,,2018-04-12 07:37:49.543344
+Derna,eu-eeas-sanctions.7517,2018-05-01 01:10:15.839857,,,,,,LY,LBY,,2018-04-12 07:37:46.158862
+Jebel Akhdar,eu-eeas-sanctions.7517,2018-05-01 01:10:15.856280,,,,,,LY,LBY,,2018-04-12 07:37:46.175359
+,eu-eeas-sanctions.7532,2018-05-01 01:10:15.943920,,,,,,,,,2018-04-12 07:37:48.026299
+,eu-eeas-sanctions.7549,2018-05-01 01:10:16.998807,,,,,,SY,SYR,,2018-04-12 07:37:52.610242
+,eu-eeas-sanctions.108203,2018-05-01 01:10:18.824972,,,,,,AF,AFG,,2018-04-12 07:37:56.037629
+Pyongyang,eu-eeas-sanctions.107838,2018-05-01 01:10:19.108581,,,,,,KP,PRK,,2018-04-12 07:37:54.146864
+Uccle,eu-eeas-sanctions.112118,2018-05-01 01:10:19.800535,,,,Messidorlaan 217/25,1180,BE,BEL,,2018-04-12 07:37:58.646651
+Al-Bukamal,eu-eeas-sanctions.113391,2018-05-01 01:10:20.851597,,,,,,SY,SYR,,2018-04-12 07:38:04.886581
+Albu Kamal,eu-eeas-sanctions.113391,2018-05-01 01:10:20.868258,,,,,,SY,SYR,,2018-04-12 07:38:04.948549
+,eu-eeas-sanctions.114866,2018-05-01 01:10:21.435748,,,,,,LY,LBY,,2018-04-12 07:37:59.423906
+Khama,eu-eeas-sanctions.116106,2018-05-01 01:10:21.722612,,,,,,SY,SYR,,2018-04-12 07:38:00.003500
+Aleppo,eu-eeas-sanctions.116106,2018-05-01 01:10:21.739176,,,,,,SY,SYR,,2018-04-12 07:38:00.070224
+Idlib,eu-eeas-sanctions.116106,2018-05-01 01:10:21.756087,,,,,,SY,SYR,,2018-04-12 07:38:00.124038
+Khan-Shaykhun,eu-eeas-sanctions.116106,2018-05-01 01:10:21.772765,,,,,,SY,SYR,,2018-04-12 07:38:00.140729
+,eu-eeas-sanctions.116106,2018-05-01 01:10:21.869820,,,,,,PK,PAK,,2018-04-12 07:38:00.157245
+,eu-eeas-sanctions.116106,2018-05-01 01:10:21.886137,,,,,,AF,AFG,,2018-04-12 07:38:00.173982
+Zenica,eu-eeas-sanctions.2340,2018-05-01 01:09:59.683822,,,,,,BA,BIH,,2018-04-12 07:35:55.151948
+Tehran,eu-eeas-sanctions.6689,2018-05-01 01:10:09.417567,,,,"11 Tawhid 6 Street, Moj Street, Darya Blvd, Shahrak Gharb",,IR,IRN,,2018-04-12 07:36:38.073249
+Damascus,eu-eeas-sanctions.6906,2018-05-01 01:10:09.530608,,,,16 Mazzeh Villat Ghabia Dar Es Saada [Head Office],,SY,SYR,,2018-04-12 07:36:39.798522
+Damascus,eu-eeas-sanctions.6906,2018-05-01 01:10:09.609696,,,,P.O. Box 9120,,SY,SYR,,2018-04-12 07:36:39.823554
+Damascus,eu-eeas-sanctions.6964,2018-05-01 01:10:10.468734,,,,"Al Adawi st., Petroleum building",,SY,SYR,,2018-04-12 07:36:44.399411
+,eu-eeas-sanctions.7418,2018-05-01 01:10:14.325920,,,,,,UA,UKR,,2018-04-12 07:37:28.637466
+,eu-eeas-sanctions.7350,2018-05-01 01:10:14.942865,,,,,,NG,NGA,,2018-04-12 07:37:34.958086
+"Wau, Western Bahr El Ghazal, South Sudan",eu-eeas-sanctions.105596,2018-05-01 01:10:17.015297,,,,,,SD,SDN,,2018-04-12 07:37:49.654407
+"Unity State,South Sudan",eu-eeas-sanctions.105596,2018-05-01 01:10:17.086066,,,,,,SD,SDN,,2018-04-12 07:37:49.718337
+Katyr-Yurt Republic of Chechnya (Achkhoy- Martanovskiy District),eu-eeas-sanctions.109244,2018-05-01 01:10:19.228818,,,,"Akharkho Street, 11",,RU,RUS,,2018-04-12 07:37:56.002460
+,eu-eeas-sanctions.113692,2018-05-01 01:10:20.438163,,,,,,KP,PRK,,2018-04-12 07:37:58.286152
+Pyongyang,eu-eeas-sanctions.113754,2018-05-01 01:10:20.538453,,,,,,KP,PRK,,2018-04-12 07:38:04.990282
+Pyongyang,eu-eeas-sanctions.114601,2018-05-01 01:10:20.893552,,,,"Ryonhwa-2Dong, Central District
+416",,KP,PRK,,2018-04-12 07:38:01.465859
+"Wallerfield, County of St. George East",eu-eeas-sanctions.113926,2018-05-01 01:10:21.180260,,,,"LP# 41 Ballisier Road, Smith Field Lands",,TT,TTO,,2018-04-12 07:37:58.439920
+Enterprise Chaguanas,eu-eeas-sanctions.113926,2018-05-01 01:10:21.196928,,,,"349 Dass Branch Trace, Dass Trace",,TT,TTO,,2018-04-12 07:37:58.498413
+Hatay,eu-eeas-sanctions.113926,2018-05-01 01:10:21.268761,,,,Reyhanli,,TR,TUR,,2018-04-12 07:37:58.569650
+,eu-eeas-sanctions.113926,2018-05-01 01:10:21.285249,,,,,,SY,SYR,,2018-04-12 07:37:58.773562
+,eu-eeas-sanctions.1986,2018-05-01 01:09:55.335173,,,,,,IQ,IRQ,,2018-04-12 07:35:52.274710
+Babylon,eu-eeas-sanctions.1995,2018-05-01 01:09:55.813828,,,,Hashmiya District,,IQ,IRQ,,2018-04-12 07:35:52.387063
+Baghdad,eu-eeas-sanctions.2045,2018-05-01 01:09:56.528449,,,,"P.O. Box 5670, Sadoon Street",,IQ,IRQ,,2018-04-12 07:35:53.225689
+Baghdad,eu-eeas-sanctions.2003,2018-05-01 01:09:57.490328,,,,"P.O. Box 986, Alwiya, Al Sadoon Park Area",,IQ,IRQ,,2018-04-12 07:35:55.110136
+Baghdad,eu-eeas-sanctions.2021,2018-05-01 01:09:57.507066,,,,"P.O. Box 240, Hay Al-Wihda, Al-Wathik Square",,IQ,IRQ,,2018-04-12 07:35:55.553094
+Baghdad,eu-eeas-sanctions.2038,2018-05-01 01:09:57.821378,,,,"Aqaba Bin Nafie Square, P.O. Box 989",,IQ,IRQ,,2018-04-12 07:35:56.111117
+Baghdad,eu-eeas-sanctions.2038,2018-05-01 01:09:57.837825,,,,"P.O. Box 989, Karradah Al Sharkiya",,IQ,IRQ,,2018-04-12 07:35:56.127807
+Baghdad,eu-eeas-sanctions.2074,2018-05-01 01:09:57.845880,,,,"P.O. Box 5664, Kadhumia",,IQ,IRQ,,2018-04-12 07:35:57.959436
+Baghdad,eu-eeas-sanctions.2026,2018-05-01 01:09:58.124534,,,,"P.O. Box 10028, Karrada, No. 19, Hay Al-Wadha, Mahala (904)",,IQ,IRQ,,2018-04-12 07:35:54.607884
+,eu-eeas-sanctions.3183,2018-05-01 01:10:00.092278,,,,,,CD,COD,,2018-04-12 07:35:56.194711
+,eu-eeas-sanctions.3085,2018-05-01 01:10:00.923504,,,,,,YE,YEM,,2018-04-12 07:35:56.325341
+Lanao del Sur,eu-eeas-sanctions.3225,2018-05-01 01:10:01.090198,,,,,,PH,PHL,,2018-04-12 07:35:57.258575
+Damascus,eu-eeas-sanctions.6899,2018-05-01 01:10:09.634412,,,,Merjah – Al-Furat St.,,SY,SYR,,2018-04-12 07:36:39.148886
+Damascus,eu-eeas-sanctions.6899,2018-05-01 01:10:09.652070,,,,P.O. Box: 5467,,SY,SYR,,2018-04-12 07:36:39.165734
+,eu-eeas-sanctions.6943,2018-05-01 01:10:10.239465,,,,,,,,,2018-04-12 07:36:39.715077
+Damascus,eu-eeas-sanctions.7038,2018-05-01 01:10:10.239177,,,,616 Salhieh Street,,SY,SYR,,2018-04-12 07:36:41.174212
+Aleppo,eu-eeas-sanctions.7096,2018-05-01 01:10:11.206533,,,,Bab Al-Faraj,P.O. Box 729,SY,SYR,,2018-04-12 07:36:43.103945
+,eu-eeas-sanctions.7096,2018-05-01 01:10:11.323605,,,,,,,,,2018-04-12 07:36:43.120628
+,eu-eeas-sanctions.7203,2018-05-01 01:10:11.781777,,,,,,,,,2018-04-12 07:36:44.824187
+Arak,eu-eeas-sanctions.7192,2018-05-01 01:10:11.798474,,,,"Factory: Parcham St, 13th Km of Qom Rd",38135,IR,IRN,,2018-04-12 07:36:46.366803
+Tehran,eu-eeas-sanctions.7192,2018-05-01 01:10:11.919935,,,,"Unit 38,5th Fl, Bldg, No 60 Golfam St, Jordan",19395-5716,IR,IRN,,2018-04-12 07:36:46.430308
+Hong Kong,eu-eeas-sanctions.7217,2018-05-01 01:10:11.952919,,,,"383 Hennessy Road, LM-873, RM B, 14/F, Wah Hen Commercial Centre, Wanchai",,CN,CHN,,2018-04-12 07:36:46.366304
+,eu-eeas-sanctions.7251,2018-05-01 01:10:12.265376,,,,,,ML,MLI,,2018-04-12 07:38:04.953308
+,eu-eeas-sanctions.107683,2018-05-01 01:10:18.053447,,,,,,SY,SYR,,2018-04-12 07:37:53.713680
+,eu-eeas-sanctions.110330,2018-05-01 01:10:19.867704,,,,,,KP,PRK,,2018-04-12 07:37:58.370053
+,eu-eeas-sanctions.110333,2018-05-01 01:10:19.984270,,,,,,KP,PRK,,2018-04-12 07:38:00.666269
+Nusa Kambangan Island,eu-eeas-sanctions.113378,2018-05-01 01:10:21.172211,,,,,,ID,IDN,,2018-04-12 07:38:04.981977
+,eu-eeas-sanctions.1964,2018-05-01 01:09:55.012750,,,,,,DZ,DZA,,2018-04-12 07:35:54.118186
+Hilla,eu-eeas-sanctions.2013,2018-05-01 01:09:56.239142,,,,P.O. Box 2,,IQ,IRQ,,2018-04-12 07:35:52.117604
+Baghdad,eu-eeas-sanctions.2030,2018-05-01 01:09:57.395672,,,,"Museum Square, Karkh, P.O. Box 14077",,IQ,IRQ,,2018-04-12 07:35:52.274169
+Nassiriyah,eu-eeas-sanctions.2054,2018-05-01 01:09:57.821393,,,,"P.O. Box 65, Nassiriyah",,IQ,IRQ,,2018-04-12 07:35:57.442228
+Baghdad,eu-eeas-sanctions.2104,2018-05-01 01:09:58.004706,,,,"Karkh, Nisoor Square",,IQ,IRQ,,2018-04-12 07:35:53.409375
+Tikrit,eu-eeas-sanctions.2112,2018-05-01 01:09:58.099490,,,,"P.O. Box 12, Muhafadha Salah Aldin",,IQ,IRQ,,2018-04-12 07:35:53.335481
+Mosul,eu-eeas-sanctions.2076,2018-05-01 01:09:58.374482,,,,P.O. Box 13,,IQ,IRQ,,2018-04-12 07:35:53.722852
+Baghdad,eu-eeas-sanctions.2086,2018-05-01 01:09:58.600195,,,,"P.O. Box 7041, Uqba Bin Nafia Square",,IQ,IRQ,,2018-04-12 07:35:52.842994
+Diwaniya,eu-eeas-sanctions.2155,2018-05-01 01:09:59.133355,,,,P.O. Box 71,,IQ,IRQ,,2018-04-12 07:35:55.477824
+Amman,eu-eeas-sanctions.2226,2018-05-01 01:09:59.166666,,,,P.O. Box 212953,11121,JO,JOR,,2018-04-12 07:35:55.686540
+Amman,eu-eeas-sanctions.2226,2018-05-01 01:09:59.183212,,,,P.O. Box 910606,11191,JO,JOR,,2018-04-12 07:35:55.711475
+Baghdad,eu-eeas-sanctions.2065,2018-05-01 01:10:00.027425,,,,"P.O. Box 20195, New Baghdad, Nahrawan",,IQ,IRQ,,2018-04-12 07:35:52.582583
+"Barangay Mal-Ong, Anda, Pangasinan Province",eu-eeas-sanctions.5220,2018-05-01 01:10:01.190487,,,,,,PH,PHL,,2018-04-12 07:36:10.213423
+"Sitio Dueg, Barangay Maasin, San Clemente, Tarlac Province",eu-eeas-sanctions.5220,2018-05-01 01:10:01.215570,,,,,,PH,PHL,,2018-04-12 07:36:10.234631
+"Cubao, Quezon City",eu-eeas-sanctions.5220,2018-05-01 01:10:01.240455,,,,50 Purdue Street,,PH,PHL,,2018-04-12 07:36:10.313122
+(North Kivu Province),eu-eeas-sanctions.3187,2018-05-01 01:10:01.310726,,,,,,CD,COD,,2018-04-12 07:35:56.866876
+Tehran,eu-eeas-sanctions.3840,2018-05-01 01:10:01.786160,,,,"28 Shian 5, Lavizan",,IR,IRN,,2018-04-12 07:35:58.426006
+Tehran,eu-eeas-sanctions.3840,2018-05-01 01:10:01.802434,,,,"Langare Street, Nobonyad Square",,IR,IRN,,2018-04-12 07:35:58.442516
+Kiel,eu-eeas-sanctions.5352,2018-05-01 01:10:01.983452,,,,58 Iltisstrasse,24143,DE,DEU,,2018-04-12 07:36:11.413349
+Tehran,eu-eeas-sanctions.5735,2018-05-01 01:10:03.860020,,,,"1281 Valiasr Ave., Next to 14th St",15178,IR,IRN,,2018-04-12 07:36:15.893473
+Tehran,eu-eeas-sanctions.6675,2018-05-01 01:10:09.738726,,,,"Unit 104 Gol Building, Gol Alley, North Side of Sae, Vali Asr Avenue 1139/1",,,,,2018-04-12 07:36:37.931449
+Tehran,eu-eeas-sanctions.6675,2018-05-01 01:10:09.755176,,,,PO Box 19395-6439,,,,,2018-04-12 07:36:37.986983
+"Pashtunabad, Quetta, Baluchistan Province",eu-eeas-sanctions.7065,2018-05-01 01:10:10.368292,,,,Kachray Road,,PK,PAK,,2018-04-12 07:36:42.170983
+"Nasrullah Khan Chowk, Pashtunabad Area, Baluchistan Province",eu-eeas-sanctions.7065,2018-05-01 01:10:10.384915,,,,,,PK,PAK,,2018-04-12 07:36:42.195752
+Baghdad,eu-eeas-sanctions.2000,2018-05-01 01:09:57.020334,,,,"P.O. Box 24042, Al-Jumhuriya Street, Building 66",,IQ,IRQ,,2018-04-12 07:35:52.851942
+Baghdad,eu-eeas-sanctions.2027,2018-05-01 01:09:57.323816,,,,"P.O. Box 9114, Khadhumiya",,IQ,IRQ,,2018-04-12 07:35:54.750000
+Baghdad,eu-eeas-sanctions.2175,2018-05-01 01:09:59.013210,,,,"Camp Sarah, New Baghdad St",,IQ,IRQ,,2018-04-12 07:35:55.168383
+"Abbas Abad District, Tehran",eu-eeas-sanctions.5288,2018-05-01 01:10:02.245102,,,,West side of Dabestan Street,,IR,IRN,,2018-04-12 07:36:12.188358
+Tehran,eu-eeas-sanctions.5679,2018-05-01 01:10:03.480052,,,,,,IR,IRN,,2018-04-12 07:36:16.779938
+Mashad,eu-eeas-sanctions.5660,2018-05-01 01:10:03.613719,,,,"Seyyedi Street, 3rd Km of Khalaj Road",91638,IR,IRN,,2018-04-12 07:36:15.657163
+Tehran,eu-eeas-sanctions.5671,2018-05-01 01:10:03.676393,,,,P.O. Box 16785-195,,IR,IRN,,2018-04-12 07:36:15.110311
+Mashad,eu-eeas-sanctions.5660,2018-05-01 01:10:03.676446,,,,"End of Seyedi Street, Km 4 of Khalaj Road",,IR,IRN,,2018-04-12 07:36:15.693234
+Mashad,eu-eeas-sanctions.5660,2018-05-01 01:10:03.693162,,,,P.O. Box 91735-549,,IR,IRN,,2018-04-12 07:36:15.955290
+Mashad,eu-eeas-sanctions.5660,2018-05-01 01:10:03.709746,,,,"Khalaj Rd., End of Seyyedi Alley",,IR,IRN,,2018-04-12 07:36:16.030844
+Tehran,eu-eeas-sanctions.5660,2018-05-01 01:10:03.726358,,,,"Moqan St., Pasdaran St., Pasdaran Cross Rd.",,IR,IRN,,2018-04-12 07:36:16.055992
+Tehran,eu-eeas-sanctions.5719,2018-05-01 01:10:04.085003,,,,"Mehrabad Airport, PO Box 13445-885",,IR,IRN,,2018-04-12 07:36:20.322508
+Hammam - Sousse,eu-eeas-sanctions.6051,2018-05-01 01:10:04.877382,,,,13 Ennakhil housing estate - Kantaoui,,TN,TUN,,2018-04-12 07:36:23.056547
+La Marsa,eu-eeas-sanctions.6067,2018-05-01 01:10:05.194432,,,,4 Rue Taoufik EI Hakim,,TN,TUN,,2018-04-12 07:36:18.814229
+La Marsa,eu-eeas-sanctions.6083,2018-05-01 01:10:05.456684,,,,2 Rue El Farrouj,,TN,TUN,,2018-04-12 07:36:19.836000
+Tunis,eu-eeas-sanctions.6059,2018-05-01 01:10:06.199051,,,,21 Rue d'Aristote - Carthage Salammbô,,TN,TUN,,2018-04-12 07:36:17.338763
+Damascus,eu-eeas-sanctions.6342,2018-05-01 01:10:06.231992,,,,P.O. Box 108,,SY,SYR,,2018-04-12 07:36:20.619273
+Tehran,eu-eeas-sanctions.6336,2018-05-01 01:10:06.373812,,,,"539 North Pasdaran Avenue, Tehran",,IR,IRN,,2018-04-12 07:36:21.873212
+Tehran,eu-eeas-sanctions.6336,2018-05-01 01:10:06.390199,,,,North Khaje Nasir Street [Ansar Building],,IR,IRN,,2018-04-12 07:36:21.936169
+Teheran,eu-eeas-sanctions.6444,2018-05-01 01:10:06.503494,,,,"Unit 7, No. 40, Yazdanpanah, Afriqa Blvd.",,IR,IRN,,2018-04-12 07:36:20.386040
+,eu-eeas-sanctions.6484,2018-05-01 01:10:07.095151,,,,,,ID,IDN,,2018-04-12 07:36:24.539853
+,eu-eeas-sanctions.6556,2018-05-01 01:10:07.712379,,,,,,,,,2018-04-12 07:36:35.314608
+"Rakwon-dong, Pothonggang District, Pyongyang",eu-eeas-sanctions.6852,2018-05-01 01:10:08.312824,,,,,,KP,PRK,,2018-04-12 07:36:42.195453
+"Jungson-dong, Sungri Street, Central District, Pyongyang",eu-eeas-sanctions.6860,2018-05-01 01:10:08.391873,,,,,,KP,PRK,,2018-04-12 07:36:38.606751
+Tehran,eu-eeas-sanctions.6679,2018-05-01 01:10:08.558539,,,,"11 12th Street [Entry 3], Miremad Alley, Abbas Abad",,,,,2018-04-12 07:36:43.262772
+Tehran,eu-eeas-sanctions.6672,2018-05-01 01:10:08.938121,,,,"3 Qarqavol Close, 20th Street",,,,,2018-04-12 07:36:37.570625
+Damascus,eu-eeas-sanctions.6839,2018-05-01 01:10:09.009162,,,,"P.O. Box 35202, Industrial Zone, Al- Qadam Road",,SY,SYR,,2018-04-12 07:36:38.264732
+Arbil,eu-eeas-sanctions.2139,2018-05-01 01:09:58.846438,,,,Al Nasir Square,,IQ,IRQ,,2018-04-12 07:35:54.558399
+Baghdad,eu-eeas-sanctions.2109,2018-05-01 01:09:58.871814,,,,"Sara Camp, P.O. Box 2218",,IQ,IRQ,,2018-04-12 07:35:58.262238
+Baghdad,eu-eeas-sanctions.2109,2018-05-01 01:09:58.933228,,,,"P.O. Box 12050, Al-Doura",,IQ,IRQ,,2018-04-12 07:35:58.325808
+Baghdad,eu-eeas-sanctions.2130,2018-05-01 01:09:59.005377,,,,P.O. Box 11183,,IQ,IRQ,,2018-04-12 07:35:53.334742
+Sulaimaniyah,eu-eeas-sanctions.2184,2018-05-01 01:09:59.150279,,,,P.O. Box 5,,IQ,IRQ,,2018-04-12 07:35:54.401941
+Baghdad,eu-eeas-sanctions.2151,2018-05-01 01:09:59.258680,,,,"Karradat Mariam, Karkh, P.O. Box 917",,IQ,IRQ,,2018-04-12 07:35:54.318890
+Nassiryah,eu-eeas-sanctions.2151,2018-05-01 01:09:59.274902,,,,,,IQ,IRQ,,2018-04-12 07:35:54.383492
+Kirkuk,eu-eeas-sanctions.2151,2018-05-01 01:09:59.338729,,,,,,IQ,IRQ,,2018-04-12 07:35:54.402257
+Hilla,eu-eeas-sanctions.2151,2018-05-01 01:09:59.355377,,,,,,IQ,IRQ,,2018-04-12 07:35:54.418801
+Yousufia,eu-eeas-sanctions.2151,2018-05-01 01:09:59.371832,,,,,,IQ,IRQ,,2018-04-12 07:35:54.485639
+Baghdad,eu-eeas-sanctions.2084,2018-05-01 01:10:00.084143,,,,"P.O. Box 7021, Karadt Mariam",,IQ,IRQ,,2018-04-12 07:35:53.643520
+Langen,eu-eeas-sanctions.5357,2018-05-01 01:10:02.367172,,,,133 Südliche Ringstrasse,63225,DE,DEU,,2018-04-12 07:36:17.802460
+Tripoli,eu-eeas-sanctions.3960,2018-05-01 01:10:02.533666,,,,Bab Ben Ghasheer,,LY,LBY,,2018-04-12 07:35:58.653683
+Deir ez-Zor Governorate,eu-eeas-sanctions.5618,2018-05-01 01:10:03.317938,,,,,,SY,SYR,,2018-04-12 07:36:14.972191
+,eu-eeas-sanctions.5618,2018-05-01 01:10:03.334581,,,,,,JO,JOR,,2018-04-12 07:36:14.988859
+,eu-eeas-sanctions.5618,2018-05-01 01:10:03.396556,,,,,,IQ,IRQ,,2018-04-12 07:36:15.055690
+Tehran,eu-eeas-sanctions.5729,2018-05-01 01:10:04.172272,,,,Ave. Sepahbod Gharani P.O. Box 15815/3446,,IR,IRN,,2018-04-12 07:36:17.452352
+Pyongyang,eu-eeas-sanctions.5811,2018-05-01 01:10:04.318602,,,,,,KP,PRK,,2018-04-12 07:36:18.911013
+Tunis,eu-eeas-sanctions.6050,2018-05-01 01:10:04.727194,,,,Résidence de l'Étoile du Nord - suite B- 7th floor - apt. No 25 - Centre urbain du nord - Cité El Khadra,,TN,TUN,,2018-04-12 07:36:18.168793
+Damascus,eu-eeas-sanctions.6901,2018-05-01 01:10:09.746965,,,,"Agricultural Cooperative Bank Building, Damascus Tajhez",,SY,SYR,,2018-04-12 07:36:42.253801
+Damascus,eu-eeas-sanctions.6901,2018-05-01 01:10:09.763914,,,,P.O. Box 4325,,SY,SYR,,2018-04-12 07:36:42.320581
+Lahore,eu-eeas-sanctions.6948,2018-05-01 01:10:10.197425,,,,"4 Masjid al-Qadesia, Lake Road",,PK,PAK,,2018-04-12 07:36:44.190917
+Damascus,eu-eeas-sanctions.7057,2018-05-01 01:10:11.214817,,,,Umayyad Square,,SY,SYR,,2018-04-12 07:36:42.074104
+Damascus,eu-eeas-sanctions.7062,2018-05-01 01:10:11.477380,,,,P.O. Box 250,,SY,SYR,,2018-04-12 07:36:42.073905
+Esfahan,eu-eeas-sanctions.7187,2018-05-01 01:10:11.661008,,,,"22 Bahman St., Bozorgmehr Ave",84155666,IR,IRN,,2018-04-12 07:36:44.415564
+,eu-eeas-sanctions.7174,2018-05-01 01:10:12.281936,,,,,,DZ,DZA,,2018-04-12 07:36:44.782712
+Tehran,eu-eeas-sanctions.7230,2018-05-01 01:10:14.246911,,,,,,IR,IRN,,2018-04-12 07:36:47.809606
+,eu-eeas-sanctions.7497,2018-05-01 01:10:16.214915,,,,,,SO,SOM,,2018-04-12 07:37:44.541792
+,eu-eeas-sanctions.106530,2018-05-01 01:10:17.519948,,,,,,GB,GBR,,2018-04-12 07:37:50.154422
+,eu-eeas-sanctions.106530,2018-05-01 01:10:17.536284,,,,,,SY,SYR,,2018-04-12 07:37:50.171129
+,eu-eeas-sanctions.106715,2018-05-01 01:10:18.658306,,,,,,IQ,IRQ,,2018-04-12 07:37:51.729907
+,eu-eeas-sanctions.106715,2018-05-01 01:10:18.686276,,,,,,SY,SYR,,2018-04-12 07:37:51.801672
+"Rakwon-dong, Pothonggang District, Pyongyang,",eu-eeas-sanctions.110336,2018-05-01 01:10:19.438698,,,,,,KP,PRK,,2018-04-12 07:37:57.944674
+Pyongyang,eu-eeas-sanctions.112371,2018-05-01 01:10:20.221330,,,,,,KP,PRK,,2018-04-12 07:37:58.069671
+,eu-eeas-sanctions.114848,2018-05-01 01:10:21.163788,,,,,,LY,LBY,,2018-04-12 07:37:59.423906
+Iskandariya-Babil,eu-eeas-sanctions.2186,2018-05-01 01:09:58.696292,,,,,,IQ,IRQ,,2018-04-12 07:35:54.309976
+Mosul,eu-eeas-sanctions.3080,2018-05-01 01:09:59.133213,,,,,,IQ,IRQ,,2018-04-12 07:35:55.344996
+Az Zabadani,eu-eeas-sanctions.3080,2018-05-01 01:09:59.149635,,,,,,IQ,IRQ,,2018-04-12 07:35:55.361617
+Baghdad,eu-eeas-sanctions.2178,2018-05-01 01:09:59.338769,,,,Dora,,IQ,IRQ,,2018-04-12 07:35:54.427118
+London,eu-eeas-sanctions.3421,2018-05-01 01:10:01.215318,,,,53/64 Chancery Lane,WC2A 1QU,GB,GBR,,2018-04-12 07:35:58.383947
+,eu-eeas-sanctions.5619,2018-05-01 01:10:03.668197,,,,,,IQ,IRQ,,2018-04-12 07:36:15.571801
+"Cubao, Quezon City",eu-eeas-sanctions.5265,2018-05-01 01:10:03.676501,,,,50 Purdue Street,,PH,PHL,,2018-04-12 07:36:11.896934
+Isfahan,eu-eeas-sanctions.5730,2018-05-01 01:10:03.860062,,,,"P.O. Box 81465-117,",,IR,IRN,,2018-04-12 07:36:15.672101
+Isfahan,eu-eeas-sanctions.5730,2018-05-01 01:10:03.876431,,,,P.O. Box 81465-313 Kaveh Ave.,,IR,IRN,,2018-04-12 07:36:15.688766
+"Kikoma forest, Bogoyi, Walikale (North Kivu)",eu-eeas-sanctions.5807,2018-05-01 01:10:04.672245,,,,,,CD,COD,,2018-04-12 07:36:16.314845
+Sousse,eu-eeas-sanctions.6076,2018-05-01 01:10:05.139491,,,,avenue de l'Imam Muslim (Khezama ouest),,TN,TUN,,2018-04-12 07:36:19.948039
+Hammam - Sousse,eu-eeas-sanctions.6080,2018-05-01 01:10:05.202486,,,,rue El Moez,,TN,TUN,,2018-04-12 07:36:17.802073
+Sultanate of Oman,eu-eeas-sanctions.6092,2018-05-01 01:10:05.264612,,,,,,OM,OMN,,2018-04-12 07:36:19.531295
+Tunis,eu-eeas-sanctions.6056,2018-05-01 01:10:05.306019,,,,32 Rue Hédi Karray - El Menzah,,TN,TUN,,2018-04-12 07:36:17.913969
+Gammarth Supérieur,eu-eeas-sanctions.6064,2018-05-01 01:10:05.385915,,,,3 Rue de la Colombe,,TN,TUN,,2018-04-12 07:36:17.460225
+"Douglas, Isle of Man",eu-eeas-sanctions.6263,2018-05-01 01:10:05.752861,,,,"c/o ILS Fiduciaries (IOM) Ltd, First Floor, Millennium House, Victoria Road",,GB,GBR,,2018-04-12 07:36:20.247864
+,eu-eeas-sanctions.6112,2018-05-01 01:10:05.873463,,,,,,LY,LBY,,2018-04-12 07:36:20.506391
+Minsk,eu-eeas-sanctions.6165,2018-05-01 01:10:06.015118,,,,"Белорусская ассоциация ветеранов спецподразделений войск МВД ""Честь"", Минск Маяковского, 111",220028,BY,BLR,,2018-04-12 07:36:19.743987
+Tehran,eu-eeas-sanctions.6335,2018-05-01 01:10:06.065212,,,,"Niayes Highway, Seoul Street",,IR,IRN,,2018-04-12 07:36:19.947575
+Sousse,eu-eeas-sanctions.6060,2018-05-01 01:10:06.199033,,,,rue Ibn Maja (Khezama est),,TN,TUN,,2018-04-12 07:36:18.360788
+,eu-eeas-sanctions.6483,2018-05-01 01:10:07.366207,,,,,,ID,IDN,,2018-04-12 07:36:22.197948
+Pyongyang,eu-eeas-sanctions.6850,2018-05-01 01:10:09.897180,,,,,,KP,PRK,,2018-04-12 07:36:38.548457
+Benghazi,eu-eeas-sanctions.7060,2018-05-01 01:10:10.818616,,,,,,LY,LBY,,2018-04-12 07:36:45.924583
+Tehran,eu-eeas-sanctions.7195,2018-05-01 01:10:11.206577,,,,Azadi Ave,11365-11155,IR,IRN,,2018-04-12 07:36:44.590562
+Banias,eu-eeas-sanctions.7063,2018-05-01 01:10:11.389876,,,,"Banias Industrial Area, Latakia Entrance Way",,SY,SYR,,2018-04-12 07:36:41.448719
+Banias,eu-eeas-sanctions.7063,2018-05-01 01:10:11.460876,,,,P.O. Box 13,,SY,SYR,,2018-04-12 07:36:41.465239
+,eu-eeas-sanctions.7314,2018-05-01 01:10:13.926073,,,,,,PK,PAK,,2018-04-12 07:37:49.971782
+"Simferopol, Crimea",eu-eeas-sanctions.7349,2018-05-01 01:10:14.584806,,,,52/1 Prospekt Kirova/ per. Sovarkomovskji,,UA,UKR,,2018-04-12 07:37:34.766481
+Simferopol Crimea,eu-eeas-sanctions.7349,2018-05-01 01:10:14.655562,,,,Prospekt Kirov 52,295000,,,,2018-04-12 07:37:34.783163
+г. Симферополь Крым,eu-eeas-sanctions.7349,2018-05-01 01:10:14.672132,,,,пр.Кирова 52,295000,,,,2018-04-12 07:37:34.799812
+Yalta Crimea,eu-eeas-sanctions.7429,2018-05-01 01:10:15.055706,,,,Kirov Street 31,298600,,,,2018-04-12 07:37:30.642164
+Крым,eu-eeas-sanctions.7429,2018-05-01 01:10:15.072313,,,,"г. Ялта, ул. Кирова, 31",298600,,,,2018-04-12 07:37:30.653941
+,eu-eeas-sanctions.7533,2018-05-01 01:10:16.602495,,,,,,,,,2018-04-12 07:37:51.738182
+Damascus,eu-eeas-sanctions.7590,2018-05-01 01:10:16.990246,,,,PO Box 11037,,SY,SYR,,2018-04-12 07:37:49.329230
+,eu-eeas-sanctions.106584,2018-05-01 01:10:17.844776,,,,,,SY,SYR,,2018-04-12 07:37:51.529591
+Bangui,eu-eeas-sanctions.107163,2018-05-01 01:10:18.127942,,,,,,CF,CAF,,2018-04-12 07:37:53.663470
+(Kabylie region),eu-eeas-sanctions.106552,2018-05-01 01:10:18.484397,,,,,,DZ,DZA,,2018-04-12 07:37:50.754520
+,eu-eeas-sanctions.107699,2018-05-01 01:10:18.833271,,,,,,DZ,DZA,,2018-04-12 07:37:54.244425
+,eu-eeas-sanctions.110845,2018-05-01 01:10:19.517212,,,,,,SY,SYR,,2018-04-12 07:37:58.086348
+Pyongyang,eu-eeas-sanctions.114259,2018-05-01 01:10:21.121927,,,,,,KP,PRK,,2018-04-12 07:37:58.969866
+Mombasa,eu-eeas-sanctions.115829,2018-05-01 01:10:21.189087,,,,,,KE,KEN,,2018-04-12 07:38:06.291220
+,eu-eeas-sanctions.115829,2018-05-01 01:10:21.205759,,,,,,SO,SOM,,2018-04-12 07:38:06.356388
+"Tel Afar – Al-Saad, Mosul",eu-eeas-sanctions.115699,2018-05-01 01:10:21.730962,,,,,,IQ,IRQ,,2018-04-12 07:38:00.061565
+Mosul,eu-eeas-sanctions.115699,2018-05-01 01:10:21.747665,,,,17 Tamoz,,IQ,IRQ,,2018-04-12 07:38:00.115291
+Mosul,eu-eeas-sanctions.2222,2018-05-01 01:09:59.266819,,,,,,IQ,IRQ,,2018-04-12 07:35:55.152102
+Kabul,eu-eeas-sanctions.6942,2018-05-01 01:10:10.039365,,,,"A2 City Computer Plaza, Shar- e-Now",,AF,AFG,,2018-04-12 07:36:39.245563
+Kabul,eu-eeas-sanctions.6942,2018-05-01 01:10:10.055988,,,,"Apt. 45, block 21 Microrayan 3rd",,AF,AFG,,2018-04-12 07:36:39.307213
+Tehran,eu-eeas-sanctions.7186,2018-05-01 01:10:11.594584,,,,"Iran Composites Institute, Iranian University of Science and Technology",16845-188,IR,IRN,,2018-04-12 07:36:45.499616
+Nimroz Province,eu-eeas-sanctions.7067,2018-05-01 01:10:11.594529,,,,"Branch Office 11 Ansari Market, 2nd Floor",,AF,AFG,,2018-04-12 07:36:45.892931
+"Wesh, Spin Boldak District",eu-eeas-sanctions.7067,2018-05-01 01:10:11.610884,,,,Branch Office 12 Sarafi Market,,AF,AFG,,2018-04-12 07:36:45.916611
+Farah,eu-eeas-sanctions.7067,2018-05-01 01:10:11.627644,,,,Branch Office 13 Sarafi Market,,AF,AFG,,2018-04-12 07:36:45.942482
+Dubai,eu-eeas-sanctions.7067,2018-05-01 01:10:11.644309,,,,Branch Office 14,,AE,ARE,,2018-04-12 07:36:45.966416
+Zahedan,eu-eeas-sanctions.7067,2018-05-01 01:10:11.660945,,,,Branch Office 15,,IR,IRN,,2018-04-12 07:36:45.991867
+Zabul,eu-eeas-sanctions.7067,2018-05-01 01:10:11.677638,,,,Branch Office 16,,IR,IRN,,2018-04-12 07:36:46.059608
+Damascus,eu-eeas-sanctions.7393,2018-05-01 01:10:14.751184,,,,PO Box 3361,,SY,SYR,,2018-04-12 07:37:18.879314
+Kafia Kingi,eu-eeas-sanctions.108086,2018-05-01 01:10:18.633449,,,,,,,,,2018-04-12 07:37:52.760059
+Bas-Uolo,eu-eeas-sanctions.108086,2018-05-01 01:10:18.650029,,,,,,CD,COD,,2018-04-12 07:37:52.785068
+Haut-Uolo,eu-eeas-sanctions.108086,2018-05-01 01:10:18.666758,,,,,,CD,COD,,2018-04-12 07:37:52.810101
+Mbomou,eu-eeas-sanctions.108086,2018-05-01 01:10:18.683332,,,,,,CF,CAF,,2018-04-12 07:37:52.961153
+Haut-Mbomou,eu-eeas-sanctions.108086,2018-05-01 01:10:18.753807,,,,,,CF,CAF,,2018-04-12 07:37:53.308486
+Basse-Kotto,eu-eeas-sanctions.108086,2018-05-01 01:10:18.817150,,,,,,CF,CAF,,2018-04-12 07:37:53.519561
+Haute-Kotto,eu-eeas-sanctions.108086,2018-05-01 01:10:18.833551,,,,,,CF,CAF,,2018-04-12 07:37:53.638022
+Vakaga,eu-eeas-sanctions.108086,2018-05-01 01:10:18.850242,,,,,,CF,CAF,,2018-04-12 07:37:53.654671
+,eu-eeas-sanctions.112342,2018-05-01 01:10:19.984474,,,,,,KP,PRK,,2018-04-12 07:37:57.827721
+,eu-eeas-sanctions.111143,2018-05-01 01:10:20.109043,,,,,,SY,SYR,,2018-04-12 07:37:58.370217
+Sarajevo,eu-eeas-sanctions.2340,2018-05-01 01:09:59.516738,,,,"Bihacka St., 14",,BA,BIH,,2018-04-12 07:35:55.110305
+Travnik,eu-eeas-sanctions.2340,2018-05-01 01:09:59.613630,,,,"Potur mahala St., 64",,BA,BIH,,2018-04-12 07:35:55.135223
+Karachi,eu-eeas-sanctions.3100,2018-05-01 01:09:59.897321,,,,"ST-1/A, Gulsahn-e-Iqbal, Block 2",25300,PK,PAK,,2018-04-12 07:35:56.186355
+Karachi,eu-eeas-sanctions.3100,2018-05-01 01:09:59.915119,,,,"Gulistan-e-Jauhar, Block 12",,PK,PAK,,2018-04-12 07:35:56.250119
+г. Минск,eu-eeas-sanctions.3411,2018-05-01 01:10:00.614397,,,,"Управлениe Делами Президента - ул. К.Маркса, 38",220016,BY,BLR,,2018-04-12 07:35:58.392158
+Tehran,eu-eeas-sanctions.3844,2018-05-01 01:10:00.906994,,,,"Pasdaran Av., PO Box 19585/777",,IR,IRN,,2018-04-12 07:35:58.820513
+Butembo,eu-eeas-sanctions.3744,2018-05-01 01:10:02.308748,,,,,,CD,COD,,2018-04-12 07:35:59.078658
+,eu-eeas-sanctions.3841,2018-05-01 01:10:02.492353,,,,"Sepah Islam Road, Karaj Special Road Km 10",,IR,IRN,,2018-04-12 07:35:59.140665
+Tunis,eu-eeas-sanctions.6066,2018-05-01 01:10:04.793781,,,,20 Rue Ibn Chabat - Salammbô - Carthage,,TN,TUN,,2018-04-12 07:36:19.735953
+,eu-eeas-sanctions.6129,2018-05-01 01:10:04.944098,,,,,,LY,LBY,,2018-04-12 07:36:20.898189
+La Marsa,eu-eeas-sanctions.6068,2018-05-01 01:10:05.114662,,,,4 Rue Taoufik El Hakim,,TN,TUN,,2018-04-12 07:36:17.602100
+Hammam - Sousse,eu-eeas-sanctions.6082,2018-05-01 01:10:05.377659,,,,11 rue Sidi el Gharbi,,TN,TUN,,2018-04-12 07:36:17.985375
+Tripoli,eu-eeas-sanctions.6140,2018-05-01 01:10:05.473010,,,,,,LY,LBY,,2018-04-12 07:36:27.605929
+Carthage,eu-eeas-sanctions.6084,2018-05-01 01:10:05.639912,,,,49 avenue Habib Bourguiba,,TN,TUN,,2018-04-12 07:36:23.273191
+Tunis,eu-eeas-sanctions.6058,2018-05-01 01:10:05.944900,,,,20 Rue El Achfat - Carthage,,TN,TUN,,2018-04-12 07:36:18.439175
+Damascus,eu-eeas-sanctions.6343,2018-05-01 01:10:06.119784,,,,Baghdad Street,,SY,SYR,,2018-04-12 07:36:22.223191
+,eu-eeas-sanctions.6245,2018-05-01 01:10:06.128291,,,,Hasan al-Mashay Street (off al- Zawiyah Street),,LY,LBY,,2018-04-12 07:36:19.222393
+Damascus,eu-eeas-sanctions.6343,2018-05-01 01:10:06.190275,,,,P.O. Box 8254,,SY,SYR,,2018-04-12 07:36:22.239871
+Tripoli,eu-eeas-sanctions.6241,2018-05-01 01:10:06.390259,,,,"El Ghayran Area, Ganzor El Sharqya
+1100",,LY,LBY,,2018-04-12 07:36:21.681622
+Tripoli,eu-eeas-sanctions.6241,2018-05-01 01:10:06.406819,,,,"Al Jumhouria Street, East Junzour, Al Gheran",,LY,LBY,,2018-04-12 07:36:21.698238
+,eu-eeas-sanctions.6521,2018-05-01 01:10:07.191080,,,,"Sehanya Daraa Highway, PO Box 9525",,SY,SYR,,2018-04-12 07:36:41.232180
+Damascus,eu-eeas-sanctions.6558,2018-05-01 01:10:07.712326,,,,P.O.Box 13052 Dair Ali Jordan Highway,,SY,SYR,,2018-04-12 07:36:36.719810
+,eu-eeas-sanctions.6557,2018-05-01 01:10:08.233177,,,,P.O Box 9525 Cham Holding Building Daraa Highway - Ashrafiyat Sahnaya Rif Dimashq,,SY,SYR,,2018-04-12 07:36:38.923151
+Pyongyang,eu-eeas-sanctions.6856,2018-05-01 01:10:09.217408,,,,,,KP,PRK,,2018-04-12 07:36:38.565202
+Tehran,eu-eeas-sanctions.6890,2018-05-01 01:10:09.409260,,,,"Haftom Tir Square, South Mofte Avenue, Tour Line No; 3/1, Tehran, Iran P.O. Box 1584864813",,IR,IRN,,2018-04-12 07:36:39.115219
+Tehran,eu-eeas-sanctions.6900,2018-05-01 01:10:09.442363,,,,"Postal address: Ziba Building, 10th Floor, Northern Sohrevardi Street",,IR,IRN,,2018-04-12 07:36:39.556674
+Damascus,eu-eeas-sanctions.6843,2018-05-01 01:10:09.796950,,,,"New Sham- Building of Syrian Oil Company, PO Box 60694",,SY,SYR,,2018-04-12 07:36:37.864788
+Damascus,eu-eeas-sanctions.6844,2018-05-01 01:10:09.897765,,,,Dummar - New Sham - Western Dummer 1st. Island -Property 2299- AFPC Building P.O. Box 7660,,SY,SYR,,2018-04-12 07:36:48.497078
+,eu-eeas-sanctions.6864,2018-05-01 01:10:10.376652,,,,,,UG,UGA,,2018-04-12 07:36:38.623987
+"Chaman, Baluchistan Province",eu-eeas-sanctions.7065,2018-05-01 01:10:10.401713,,,,,,PK,PAK,,2018-04-12 07:36:42.220803
+Kandahar Province,eu-eeas-sanctions.7065,2018-05-01 01:10:10.468644,,,,"Abdul Satar Food Shop, Ayno Mina 0093",,PK,PAK,,2018-04-12 07:36:42.245770
+Rubavu/Mudende,eu-eeas-sanctions.7177,2018-05-01 01:10:11.740240,,,,,,RW,RWA,,2018-04-12 07:36:43.837473
+Baghdad,eu-eeas-sanctions.2159,2018-05-01 01:09:59.005370,,,,"Al-Masbah, near Al Fatih Square",,IQ,IRQ,,2018-04-12 07:35:53.926580
+Damascus,eu-eeas-sanctions.3081,2018-05-01 01:09:59.380417,,,,,,SY,SYR,,2018-04-12 07:35:55.608393
+Az Zabadani,eu-eeas-sanctions.3081,2018-05-01 01:09:59.396904,,,,"Al-Shahid Street, Al-Mahata Neighbourhood",,SY,SYR,,2018-04-12 07:35:55.669528
+,eu-eeas-sanctions.3081,2018-05-01 01:09:59.414279,,,,,,YE,YEM,,2018-04-12 07:35:55.686296
+Mainz,eu-eeas-sanctions.3227,2018-05-01 01:10:00.172396,,,,Refugee shelter Alte Ziegelei,55128,DE,DEU,,2018-04-12 07:35:57.984042
+,eu-eeas-sanctions.4000,2018-05-01 01:10:01.065295,,,,,,DZ,DZA,,2018-04-12 07:35:59.592368
+Tehran,eu-eeas-sanctions.5681,2018-05-01 01:10:03.876435,,,,"Next to Nirou Battery Mfg. Co, Shahid Babaii Expressway, Nobonyad Square",,IR,IRN,,2018-04-12 07:36:20.019200
+Tehran,eu-eeas-sanctions.5681,2018-05-01 01:10:03.893244,,,,"Pasdaran St., P.O. Box 16765",1835,IR,IRN,,2018-04-12 07:36:20.044048
+Tehran,eu-eeas-sanctions.5681,2018-05-01 01:10:03.909812,,,,Babaei Highway — Next to Niru M.F.G,,IR,IRN,,2018-04-12 07:36:20.069199
+Pyongyang,eu-eeas-sanctions.5816,2018-05-01 01:10:04.460120,,,,"Pulgan Gori Dong 1, Potonggang District",,KP,PRK,,2018-04-12 07:36:18.289162
+"Kayla Village near Miram Shah, North Waziristan Agency (NWA), Federally Administered Tribal Areas (FATA)",eu-eeas-sanctions.5925,2018-05-01 01:10:04.893991,,,,,,PK,PAK,,2018-04-12 07:36:18.456148
+Peshawar,eu-eeas-sanctions.5925,2018-05-01 01:10:04.910737,,,,,,PK,PAK,,2018-04-12 07:36:18.377658
+Kabul,eu-eeas-sanctions.7067,2018-05-01 01:10:11.323294,,,,"Branch Office 6, Shop number 237 Shah Zada Market (also known as Sarai Shahzada), Puli Khishti area, Police District 1",,AF,AFG,,2018-04-12 07:36:45.524596
+"Kandahar City, Kandahar Province",eu-eeas-sanctions.7067,2018-05-01 01:10:11.339902,,,,"Branch Office 7, Shops number 21 and 22, 2nd Floor Kandahar City Sarafi Market",,AF,AFG,,2018-04-12 07:36:45.541146
+"Kandahar City, Kandahar Province",eu-eeas-sanctions.7067,2018-05-01 01:10:11.356557,,,,"Branch Office 7, New Sarafi Market, 2nd Floor",,AF,AFG,,2018-04-12 07:36:45.557951
+"Kandahar City, Kandahar Province",eu-eeas-sanctions.7067,2018-05-01 01:10:11.373252,,,,Branch Office 7 Safi Market,,AF,AFG,,2018-04-12 07:36:45.574582
+"Gereshk City, Nahr-e Saraj District, Helmand Province",eu-eeas-sanctions.7067,2018-05-01 01:10:11.389924,,,,Branch Office 8,,AF,AFG,,2018-04-12 07:36:45.654930
+"Lashkar Gah, Lashkar Gah District, Helmand Province",eu-eeas-sanctions.7067,2018-05-01 01:10:11.460851,,,,Branch Office 9 Lashkar Gah Bazaar,,AF,AFG,,2018-04-12 07:36:45.724693
+"Lashkar Gah District, Helmand Province",eu-eeas-sanctions.7067,2018-05-01 01:10:11.477488,,,,"Branch Office 9, Haji Ghulam Nabi Market, 2nd Floor",,AF,AFG,,2018-04-12 07:36:45.766223
+"Herat City, Herat Province",eu-eeas-sanctions.7067,2018-05-01 01:10:11.494109,,,,"Branch Office 10, Suite numbers 196-197, 3rd Floor Khorasan Market",,AF,AFG,,2018-04-12 07:36:45.783028
+"District 5, Herat City, Herat Province",eu-eeas-sanctions.7067,2018-05-01 01:10:11.510782,,,,"Branch Office 10 Khorasan Market, Shahre Naw",,AF,AFG,,2018-04-12 07:36:45.800653
+"Zaranj District, Nimroz Province",eu-eeas-sanctions.7067,2018-05-01 01:10:11.527580,,,,Branch Office 11 Sarafi Market,,AF,AFG,,2018-04-12 07:36:45.826750
+,eu-eeas-sanctions.106538,2018-05-01 01:10:18.466415,,,,,,SY,SYR,,2018-04-12 07:37:51.085257
+,eu-eeas-sanctions.106654,2018-05-01 01:10:18.937288,,,,,,IQ,IRQ,,2018-04-12 07:37:51.810386
+,eu-eeas-sanctions.106654,2018-05-01 01:10:19.000679,,,,,,SY,SYR,,2018-04-12 07:37:51.871962
+Pyongyang (Pyongchon District),eu-eeas-sanctions.107848,2018-05-01 01:10:19.203998,,,,Haeun-2-dong,,KP,PRK,,2018-04-12 07:37:55.630698
+(Hama Governorate),eu-eeas-sanctions.113397,2018-05-01 01:10:20.388399,,,,,,SY,SYR,,2018-04-12 07:37:59.715619
+(Idlib Governorate),eu-eeas-sanctions.113397,2018-05-01 01:10:20.404885,,,,,,SY,SYR,,2018-04-12 07:37:59.732147
+,eu-eeas-sanctions.114262,2018-05-01 01:10:20.446688,,,,,,KP,PRK,,2018-04-12 07:38:05.274486
+Pyongyang,eu-eeas-sanctions.114265,2018-05-01 01:10:20.546890,,,,,,KP,PRK,,2018-04-12 07:38:05.316213
+Baghdad,eu-eeas-sanctions.2120,2018-05-01 01:09:57.036984,,,,"Museum Square, Karkh",,IQ,IRQ,,2018-04-12 07:35:54.216577
+Baghdad,eu-eeas-sanctions.2120,2018-05-01 01:09:57.098665,,,,"Mosul, left side, near Al Hurya Bridge, P.O. Box 368",,IQ,IRQ,,2018-04-12 07:35:54.293453
+Baghdad,eu-eeas-sanctions.2120,2018-05-01 01:09:57.115165,,,,"Karkh, Karadat Mariam",,IQ,IRQ,,2018-04-12 07:35:54.318400
+Baghdad,eu-eeas-sanctions.2072,2018-05-01 01:09:57.682369,,,,Al Jamhuria Street,,IQ,IRQ,,2018-04-12 07:35:52.774555
+Baghdad,eu-eeas-sanctions.2159,2018-05-01 01:09:58.871822,,,,"P.O. Box 2387, Alwiyah, Saadoon St., Karrada Al Basra",,IQ,IRQ,,2018-04-12 07:35:53.857754
+Addis Abeba,eu-eeas-sanctions.2099,2018-05-01 01:10:00.164320,,,,Woreda District 24 Kebele Section 13,,ET,ETH,,2018-04-12 07:35:58.025880
+"District number 1, Kandahar City, Kandahar Province",eu-eeas-sanctions.7068,2018-05-01 01:10:11.389897,,,,"Branch Office 7, Suite number 8, 4th Floor Sarafi Market",,AF,AFG,,2018-04-12 07:36:42.203968
+"Kandahar City, Kandahar District, Kandahar Province",eu-eeas-sanctions.7068,2018-05-01 01:10:11.460838,,,,"Branch Office 7, Shop number 25, 5th Floor Sarafi Market",,AF,AFG,,2018-04-12 07:36:42.220656
+"Gerd-e-Jangal, Chaghi District, Baluchistan Province",eu-eeas-sanctions.7068,2018-05-01 01:10:11.494198,,,,Branch Office 9,,PK,PAK,,2018-04-12 07:36:42.254053
+"Chaghi, Chaghi District, Baluchistan Province",eu-eeas-sanctions.7068,2018-05-01 01:10:11.510813,,,,Branch Office 10,,PK,PAK,,2018-04-12 07:36:42.320691
+"Waish Border, Spin Boldak District, Kandahar Province",eu-eeas-sanctions.7068,2018-05-01 01:10:11.527564,,,,"Branch Office 11 Aziz Market, in front of Azizi Bank",,AF,AFG,,2018-04-12 07:36:42.340390
+"Quetta, Baluchistan Provinc",eu-eeas-sanctions.7068,2018-05-01 01:10:11.594512,,,,Branch Office 1 Munsafi Road,,PK,PAK,,2018-04-12 07:36:42.357106
+Donetsk,eu-eeas-sanctions.7420,2018-05-01 01:10:14.309325,,,,13 Prospect Zasyadko,,UA,UKR,,2018-04-12 07:37:30.437543
+"Damascus Province, Yabroud, Al Jalaa St",eu-eeas-sanctions.7586,2018-05-01 01:10:16.802537,,,,,,SY,SYR,,2018-04-12 07:37:49.177070
+Karbala,eu-eeas-sanctions.113393,2018-05-01 01:10:20.438390,,,,Al-Abbas Street,,IQ,IRQ,,2018-04-12 07:38:00.062182
+Baghdad,eu-eeas-sanctions.113393,2018-05-01 01:10:20.505276,,,,"Al-Kadhumi Complex, Al-Harthia",,IQ,IRQ,,2018-04-12 07:38:00.124273
+Al-Qaim Al Anbar Province,eu-eeas-sanctions.115730,2018-05-01 01:10:21.277236,,,,,,IQ,IRQ,,2018-04-12 07:37:59.773849
+,eu-eeas-sanctions.3185,2018-05-01 01:09:59.930580,,,,,,UG,UGA,,2018-04-12 07:35:56.867094
+Tehran,eu-eeas-sanctions.3788,2018-05-01 01:10:00.739541,,,,"33 Hormozan Building, Pirozan St., Sharaj Ghods,",,IR,IRN,,2018-04-12 07:35:58.628683
+,eu-eeas-sanctions.3343,2018-05-01 01:10:01.056840,,,,,,PH,PHL,,2018-04-12 07:35:57.225622
+Kampala,eu-eeas-sanctions.3743,2018-05-01 01:10:01.452779,,,,"Plot 55A, Upper Kololo Terrace",,UG,UGA,,2018-04-12 07:35:58.475517
+Carthage,eu-eeas-sanctions.6085,2018-05-01 01:10:04.735766,,,,49 avenue Habib Bourguiba,,TN,TUN,,2018-04-12 07:36:18.672413
+Monastir,eu-eeas-sanctions.6069,2018-05-01 01:10:05.281127,,,,avenue Mohamed Salah Sayadi - Skanes,,TN,TUN,,2018-04-12 07:36:24.977824
+,eu-eeas-sanctions.6093,2018-05-01 01:10:05.456638,,,,,,LB,LBN,,2018-04-12 07:36:18.193750
+Milton Keynes,eu-eeas-sanctions.6258,2018-05-01 01:10:05.689718,,,,"530-532 Elder Gate, Elder House",,GB,GBR,,2018-04-12 07:36:21.506604
+Tehran,eu-eeas-sanctions.6412,2018-05-01 01:10:06.398413,,,,"9 Zohre Street [Ground Floor], Mofateh Street",,IR,IRN,,2018-04-12 07:36:20.147548
+Tehran,eu-eeas-sanctions.6396,2018-05-01 01:10:06.574031,,,,"35 Bouali Sina Sharghi, Chehel Sotoun Street, Fatemi Square [Unit 1]",,IR,IRN,,2018-04-12 07:36:22.039814
+Tehran,eu-eeas-sanctions.6380,2018-05-01 01:10:06.849274,,,,"10_and_12 64th Street, Yusef Abad",,IR,IRN,,2018-04-12 07:36:20.027416
+Shiraz,eu-eeas-sanctions.6448,2018-05-01 01:10:06.999215,,,,Hossain Abad Avenue,,IR,IRN,,2018-04-12 07:36:20.514314
+,eu-eeas-sanctions.6463,2018-05-01 01:10:07.207477,,,,,,YE,YEM,,2018-04-12 07:36:21.152766
+,eu-eeas-sanctions.6561,2018-05-01 01:10:07.224202,,,,"Thawra Street, Ste Building 6ème étage",BP 2900,,,,2018-04-12 07:36:35.995324
+Tehran,eu-eeas-sanctions.6678,2018-05-01 01:10:08.025131,,,,90 Fathi Shaghaghi Street,,IR,IRN,,2018-04-12 07:36:38.289991
+,eu-eeas-sanctions.6553,2018-05-01 01:10:08.304612,,,,,,SO,SOM,,2018-04-12 07:36:36.711355
+Damascus,eu-eeas-sanctions.6611,2018-05-01 01:10:08.487999,,,,P.O. Box 2231 (Damascus Branch),,SY,SYR,,2018-04-12 07:36:36.895099
+Damascus,eu-eeas-sanctions.6611,2018-05-01 01:10:08.550582,,,,Moawiya St. (Damascus Branch),,SY,SYR,,2018-04-12 07:36:36.911744
+Damascus,eu-eeas-sanctions.6611,2018-05-01 01:10:08.566951,,,,P.O. Box 933 (Damascus Branch),,SY,SYR,,2018-04-12 07:36:36.973158
+Damascus,eu-eeas-sanctions.6611,2018-05-01 01:10:08.583489,,,,Yousef Azmeh Square (Damascus Branch),,SY,SYR,,2018-04-12 07:36:36.989786
+Aleppo,eu-eeas-sanctions.6611,2018-05-01 01:10:08.600155,,,,P.O. Box 2 (Aleppo Branch),,SY,SYR,,2018-04-12 07:36:37.006490
+Aleppo,eu-eeas-sanctions.6611,2018-05-01 01:10:08.617020,,,,Kastel Hajjarin St. (Aleppo Branch),,SY,SYR,,2018-04-12 07:36:37.070172
+Damascus,eu-eeas-sanctions.6838,2018-05-01 01:10:08.859029,,,,5 Baghdad Street,,SY,SYR,,2018-04-12 07:36:37.864811
+Damascus,eu-eeas-sanctions.6838,2018-05-01 01:10:08.930083,,,,PO Box 6394,,SY,SYR,,2018-04-12 07:36:37.889694
+Tehran,eu-eeas-sanctions.6697,2018-05-01 01:10:09.417585,,,,Mehrabad Airport,,IR,IRN,,2018-04-12 07:36:36.886625
+Beirut,eu-eeas-sanctions.6903,2018-05-01 01:10:09.625960,,,,"Makdessi Street, Hamra, Syrian Lebanese Commercial Bank Building, 6th Floor",,LB,LBN,,2018-04-12 07:36:38.606531
+Beirut,eu-eeas-sanctions.6903,2018-05-01 01:10:09.642645,,,,P.O. Box 11-8701,,LB,LBN,,2018-04-12 07:36:38.623250
+"Cemani, Grogol, Sukoharjo, Jawa Tengah",eu-eeas-sanctions.6943,2018-05-01 01:10:10.206191,,,,"58 Jl. Semenromo, 04/XV Ngruki",,ID,IDN,,2018-04-12 07:36:39.645556
+"Kandahar city, Kandahar Province",eu-eeas-sanctions.7179,2018-05-01 01:10:11.773547,,,,"Branch Office 1: Room number 33, 5th Floor, Sarafi Market",,AF,AFG,,2018-04-12 07:36:47.158287
+Kandahar Province,eu-eeas-sanctions.7179,2018-05-01 01:10:11.790220,,,,"Branch Office 2: Shop number 4, Azizi Bank, Haji Muhammad Isa Market, Wesh, Spin Boldak",,AF,AFG,,2018-04-12 07:36:47.224957
+Helmand Province,eu-eeas-sanctions.7179,2018-05-01 01:10:11.911335,,,,"Branch Office 3: Safaar Bazaar, Garmser District",,AF,AFG,,2018-04-12 07:36:47.241691
+Helmand Province,eu-eeas-sanctions.7179,2018-05-01 01:10:11.927846,,,,Branch Office 4: Lashkar Gah,,AF,AFG,,2018-04-12 07:36:47.258373
+Helmand Province,eu-eeas-sanctions.7179,2018-05-01 01:10:11.944505,,,,Branch Office 5: Gereshk District,,AF,AFG,,2018-04-12 07:36:47.313254
+Nimroz Province,eu-eeas-sanctions.7179,2018-05-01 01:10:11.961124,,,,Branch Office 6: Zaranj District,,AF,AFG,,2018-04-12 07:36:47.330400
+Basilan,eu-eeas-sanctions.3225,2018-05-01 01:10:01.156950,,,,,,PH,PHL,,2018-04-12 07:35:57.319978
+"Miramshah, North Waziristan",eu-eeas-sanctions.4020,2018-05-01 01:10:01.653080,,,,Kela neighbourhood/Danda neighbourhood,,PK,PAK,,2018-04-12 07:36:13.551475
+"Miramshah, North Waziristan",eu-eeas-sanctions.4020,2018-05-01 01:10:01.786638,,,,Manba’ul uloom Madrasa,,PK,PAK,,2018-04-12 07:36:13.563090
+"Miramshah, North Waziristan",eu-eeas-sanctions.4020,2018-05-01 01:10:01.803027,,,,Dergey Manday Madrasa,,PK,PAK,,2018-04-12 07:36:13.576463
+Radès Ben Arous,eu-eeas-sanctions.6046,2018-05-01 01:10:04.777290,,,,11 Rue de France,,TN,TUN,,2018-04-12 07:36:24.856176
+Hammam - Sousse,eu-eeas-sanctions.6062,2018-05-01 01:10:05.010693,,,,17 avenue de la République,,TN,TUN,,2018-04-12 07:36:27.014356
+Carthage -Tunis,eu-eeas-sanctions.6086,2018-05-01 01:10:05.506305,,,,8 rue du Commandant Béjaoui,,TN,TUN,,2018-04-12 07:36:20.052625
+Tripoli,eu-eeas-sanctions.6138,2018-05-01 01:10:06.006930,,,,,81370,LY,LBY,,2018-04-12 07:36:18.935460
+Janzour,eu-eeas-sanctions.6138,2018-05-01 01:10:06.023426,,,,,76351,LY,LBY,,2018-04-12 07:36:19.005830
+Tehran,eu-eeas-sanctions.6688,2018-05-01 01:10:09.050627,,,,"12 Ferdowsi, Avenue Sakhaee, avenue 30 Tir (South), nr 66",,,,,2018-04-12 07:36:36.736526
+Tehran,eu-eeas-sanctions.6886,2018-05-01 01:10:09.254954,,,,"Postal address: Shishesh Mina Street, Karaj Special Road",,IR,IRN,,2018-04-12 07:36:38.973822
+"Jodipan, Blimbing, Malang",eu-eeas-sanctions.6944,2018-05-01 01:10:09.797162,,,,42285 Jalan Ir. H. Juanda 8/10,RT/RW 002/001,ID,IDN,,2018-04-12 07:36:39.645483
+Damascus,eu-eeas-sanctions.6905,2018-05-01 01:10:10.134817,,,,"Zillat Street, Mazza Area, Dar Al Saadi Building 1st, 5th, and 6th Floor",,SY,SYR,,2018-04-12 07:36:42.340210
+Damascus,eu-eeas-sanctions.6905,2018-05-01 01:10:10.197434,,,,P.O. Box 9120,,SY,SYR,,2018-04-12 07:36:42.356983
+Damascus,eu-eeas-sanctions.7097,2018-05-01 01:10:10.885719,,,,Al-Mohafazeh Square,P.O. Box 417,SY,SYR,,2018-04-12 07:36:42.929058
+Luxemburg,eu-eeas-sanctions.7099,2018-05-01 01:10:11.214676,,,,17 rue Beaumont,1219,LU,LUX,,2018-04-12 07:36:42.998919
+"Mir Ali, North Waziristan Agency, Federal Administered Tribal Areas",eu-eeas-sanctions.7167,2018-05-01 01:10:11.919928,,,,,,PK,PAK,,2018-04-12 07:36:44.041183
+Quetta,eu-eeas-sanctions.7179,2018-05-01 01:10:11.977901,,,,"Branch Office 7: Dr Barno Road,",,PK,PAK,,2018-04-12 07:36:47.347239
+Quetta,eu-eeas-sanctions.7179,2018-05-01 01:10:12.127554,,,,"Branch Office 7: Haji Mohammed Plaza, Tol Aram Road, near Jamaluddin Afghani Road",,PK,PAK,,2018-04-12 07:36:47.412106
+Quetta,eu-eeas-sanctions.7179,2018-05-01 01:10:12.257203,,,,Branch Office 7: Kandahari Bazaar,,PK,PAK,,2018-04-12 07:36:47.433127
+Baluchistan Province,eu-eeas-sanctions.7179,2018-05-01 01:10:12.273774,,,,Branch Office 8: Chaman,,PK,PAK,,2018-04-12 07:36:47.529978
+"Chaghi, Baluchistan Province",eu-eeas-sanctions.7179,2018-05-01 01:10:12.338058,,,,Branch Office 9: Chaghi Bazaar,,AF,AFG,,2018-04-12 07:36:47.546593
+"Zahedan, Zabol Province",eu-eeas-sanctions.7179,2018-05-01 01:10:12.361667,,,,Branch Office 10,,IR,IRN,,2018-04-12 07:36:47.563331
+"Sudak, Novy Svet Crimea",eu-eeas-sanctions.7430,2018-05-01 01:10:14.511084,,,,str. Shalapina 1,298032,,,,2018-04-12 07:37:28.495197
+"г. Судак, пгт. Новый Свет Крым",eu-eeas-sanctions.7430,2018-05-01 01:10:14.592659,,,,"ул. Шаляпина, д. 1",298032,,,,2018-04-12 07:37:28.517299
+Chaman (Baluchistan Province),eu-eeas-sanctions.105763,2018-05-01 01:10:17.262589,,,,"Branch Office 1 Sanatan (variant Sanatin) Bazaar, Sanatan Bazaar Street, near Trench (variant Tranch) Road",,PK,PAK,,2018-04-12 07:37:50.000325
+,eu-eeas-sanctions.105763,2018-05-01 01:10:17.503314,,,,,,IR,IRN,,2018-04-12 07:37:50.021600
+Dubai,eu-eeas-sanctions.105763,2018-05-01 01:10:17.519867,,,,,,AE,ARE,,2018-04-12 07:37:50.103235
+(Helmand Province),eu-eeas-sanctions.105763,2018-05-01 01:10:17.536211,,,,,,AF,AFG,,2018-04-12 07:37:50.163909
+(Herat Province),eu-eeas-sanctions.105763,2018-05-01 01:10:17.552982,,,,,,AF,AFG,,2018-04-12 07:37:50.188394
+(Kandahar Province),eu-eeas-sanctions.105763,2018-05-01 01:10:17.569535,,,,,,AF,AFG,,2018-04-12 07:37:50.213333
+Islamabad,eu-eeas-sanctions.105763,2018-05-01 01:10:17.586305,,,,,,PK,PAK,,2018-04-12 07:37:50.277076
+Karachi,eu-eeas-sanctions.105763,2018-05-01 01:10:17.653109,,,,,,PK,PAK,,2018-04-12 07:37:50.346681
+Peshawar,eu-eeas-sanctions.105763,2018-05-01 01:10:17.669642,,,,,,PK,PAK,,2018-04-12 07:37:50.363317
+Lahore,eu-eeas-sanctions.105763,2018-05-01 01:10:17.686267,,,,,,PK,PAK,,2018-04-12 07:37:50.379992
+Quetta,eu-eeas-sanctions.105763,2018-05-01 01:10:17.702997,,,,,,PK,PAK,,2018-04-12 07:37:50.396648
+,eu-eeas-sanctions.107063,2018-05-01 01:10:18.553611,,,,,,DE,DEU,,2018-04-12 07:37:52.543490
+,eu-eeas-sanctions.107681,2018-05-01 01:10:18.753882,,,,,,SY,SYR,,2018-04-12 07:37:53.646921
+,eu-eeas-sanctions.107701,2018-05-01 01:10:19.066963,,,,,,SY,SYR,,2018-04-12 07:37:53.654666
+Kafia Kingi,eu-eeas-sanctions.108111,2018-05-01 01:10:19.254013,,,,,,,,,2018-04-12 07:37:54.460534
+Bas-Uolo,eu-eeas-sanctions.108111,2018-05-01 01:10:19.270677,,,,,,CD,COD,,2018-04-12 07:37:54.487352
+Oslo,eu-eeas-sanctions.3641,2018-05-01 01:10:00.501318,,,,36-V Heimdalsgate,0578,NO,NOR,,2018-04-12 07:35:57.025807
+"Butembo, North Kivu",eu-eeas-sanctions.3745,2018-05-01 01:10:00.906472,,,,,,CD,COD,,2018-04-12 07:35:59.004290
+,eu-eeas-sanctions.3341,2018-05-01 01:10:01.452517,,,,,,ID,IDN,,2018-04-12 07:35:57.784364
+"Atimonana, Quezon Province",eu-eeas-sanctions.5264,2018-05-01 01:10:02.166766,,,,,,PH,PHL,,2018-04-12 07:36:16.952373
+Harare,eu-eeas-sanctions.5336,2018-05-01 01:10:02.309156,,,,"55 Samora Machel Avenue, Trustee House, 10th Floor",,ZW,ZWE,,2018-04-12 07:36:12.189509
+Harare,eu-eeas-sanctions.5336,2018-05-01 01:10:02.334103,,,,PO Box 6597,,ZW,ZWE,,2018-04-12 07:36:12.205736
+Tehran,eu-eeas-sanctions.5290,2018-05-01 01:10:03.092788,,,,P.O. Box 16595-365,,IR,IRN,,2018-04-12 07:36:09.637702
+Tehran,eu-eeas-sanctions.5713,2018-05-01 01:10:04.043346,,,,"1 37th Avenue, Asadabadi Street",,IR,IRN,,2018-04-12 07:36:15.580239
+Tehran,eu-eeas-sanctions.5743,2018-05-01 01:10:04.885628,,,,,,IR,IRN,,2018-04-12 07:36:17.168532
+Sultanate of Oman,eu-eeas-sanctions.6111,2018-05-01 01:10:05.689805,,,,,,OM,OMN,,2018-04-12 07:36:20.523081
+Tripoli,eu-eeas-sanctions.6124,2018-05-01 01:10:05.944626,,,,"1 Fateh Tower Office No.99 22nd Floor, Borgaida Street",1103,LY,LBY,,2018-04-12 07:36:20.889742
+Damascus,eu-eeas-sanctions.6523,2018-05-01 01:10:07.920879,,,,"Insurance Bldg- Yousef Al-azmeh sqr., P.O. Box: 2337",,SY,SYR,,2018-04-12 07:36:35.861879
+Mashhad,eu-eeas-sanctions.6684,2018-05-01 01:10:08.113011,,,,"2nd km of Khalaj Road End of Seyyedi St, P.O. Box 91735-549, 91735",,IR,IRN,,2018-04-12 07:36:37.731183
+Damascus,eu-eeas-sanctions.6559,2018-05-01 01:10:08.375133,,,,Daa'ra Highway,,SY,SYR,,2018-04-12 07:36:36.911491
+Tehran,eu-eeas-sanctions.6676,2018-05-01 01:10:08.558761,,,,"75 Mehran Afrand St [Unit 5, 2nd Floor],  Sattarkhan St",,,,,2018-04-12 07:36:38.231534
+Damascus,eu-eeas-sanctions.6836,2018-05-01 01:10:08.671741,,,,Barzeh Street,PO Box 4470,,,,2018-04-12 07:36:38.386991
+"Quetta, Baluchistan Province",eu-eeas-sanctions.7066,2018-05-01 01:10:11.069488,,,,"Abdul Manan Chowk, Pashtunabad",,PK,PAK,,2018-04-12 07:36:46.124616
+,eu-eeas-sanctions.7204,2018-05-01 01:10:11.494347,,,,,,ML,MLI,,2018-04-12 07:36:44.590801
+,eu-eeas-sanctions.7219,2018-05-01 01:10:11.669210,,,,,,ML,MLI,,2018-04-12 07:36:48.074796
+,eu-eeas-sanctions.7232,2018-05-01 01:10:12.465638,,,,,,ML,MLI,,2018-04-12 07:36:45.224301
+Homs,eu-eeas-sanctions.7392,2018-05-01 01:10:13.967413,,,,"352 Tripoli Street, General Company for Homs Refinery Building, P.O. Box 352",,SY,SYR,,2018-04-12 07:37:18.837650
+Moscow,eu-eeas-sanctions.7440,2018-05-01 01:10:14.839091,,,,"International Highway, House 31, building 1",141411,RU,RUS,,2018-04-12 07:37:43.966682
+Москва г,eu-eeas-sanctions.7440,2018-05-01 01:10:14.880684,,,,"Международное ш, дом 31, строение 1",141411,RU,RUS,,2018-04-12 07:37:43.983272
+,eu-eeas-sanctions.7486,2018-05-01 01:10:15.473285,,,,,,FR,FRA,,2018-04-12 07:37:43.503324
+,eu-eeas-sanctions.7486,2018-05-01 01:10:15.489877,,,,,,TR,TUR,,2018-04-12 07:37:43.519970
+,eu-eeas-sanctions.7486,2018-05-01 01:10:15.514345,,,,,,SY,SYR,,2018-04-12 07:37:43.583348
+Grenoble,eu-eeas-sanctions.7486,2018-05-01 01:10:15.531006,,,,,,FR,FRA,,2018-04-12 07:37:43.599968
+Pyongyang,eu-eeas-sanctions.7490,2018-05-01 01:10:15.918641,,,,"Donghung Dong, Central District, PO Box 120",,KP,PRK,,2018-04-12 07:37:44.061695
+Pyongyang,eu-eeas-sanctions.7490,2018-05-01 01:10:15.935059,,,,"Dongheung-dong Changgwang Street, Chung-Ku, PO Box 125",,KP,PRK,,2018-04-12 07:37:44.078194
+Damascus,eu-eeas-sanctions.7584,2018-05-01 01:10:16.602603,,,,"Al Karim for Trade and Industry, PO Box 111",5797,SY,SYR,,2018-04-12 07:37:48.221371
+,eu-eeas-sanctions.105307,2018-05-01 01:10:16.619250,,,,,,AE,ARE,,2018-04-12 07:37:48.942617
+Beirut,eu-eeas-sanctions.7594,2018-05-01 01:10:16.777570,,,,"DK Middle-East & Africa Regional Office, Peres Lazaristes Center, No. 3, 5th Floor, Emir Bachir Street, Beirut Central District, Bachoura Sector",,LB,LBN,,2018-04-12 07:37:49.420805
+Boda,eu-eeas-sanctions.106138,2018-05-01 01:10:17.085922,,,,,,CF,CAF,,2018-04-12 07:37:49.542938
+Chaman (Baluchistan Province),eu-eeas-sanctions.105748,2018-05-01 01:10:17.844846,,,,,,PK,PAK,,2018-04-12 07:37:49.605552
+Minsk,eu-eeas-sanctions.3412,2018-05-01 01:10:00.781341,,,,"Белорусская ассоциация ветеранов спецподразделений войск МВД ""Честь"", Минск Маяковского, 111",220028,BY,BLR,,2018-04-12 07:35:57.241834
+Pyongyang,eu-eeas-sanctions.5613,2018-05-01 01:10:03.029804,,,,"Rakwon-dong, Pothonggang District",,KP,PRK,,2018-04-12 07:36:15.046665
+Pyongyang,eu-eeas-sanctions.5501,2018-05-01 01:10:03.334669,,,,,,KP,PRK,,2018-04-12 07:36:12.880609
+Karachi,eu-eeas-sanctions.5793,2018-05-01 01:10:04.310072,,,,,,PK,PAK,,2018-04-12 07:36:16.889012
+Pyongyang,eu-eeas-sanctions.5812,2018-05-01 01:10:04.476843,,,,,,KP,PRK,,2018-04-12 07:36:17.063728
+North Kivu Province (North Kivu Province),eu-eeas-sanctions.5806,2018-05-01 01:10:04.802220,,,,,,CD,COD,,2018-04-12 07:36:25.410700
+,eu-eeas-sanctions.7095,2018-05-01 01:10:10.693510,,,,,,,,,2018-04-12 07:36:42.807439
+Damascus,eu-eeas-sanctions.7058,2018-05-01 01:10:11.306723,,,,Merjeh Square,,SY,SYR,,2018-04-12 07:36:46.133003
+Pyongyang,eu-eeas-sanctions.7212,2018-05-01 01:10:12.344875,,,,,,KP,PRK,,2018-04-12 07:36:47.988515
+"Wesh, Spin Boldak District, Kandahar Province",eu-eeas-sanctions.7178,2018-05-01 01:10:12.378159,,,,,,AF,AFG,,2018-04-12 07:36:45.822242
+"Safaar Bazaar, Garmser District, Helmand Province",eu-eeas-sanctions.7178,2018-05-01 01:10:12.440642,,,,,,AF,AFG,,2018-04-12 07:36:45.893198
+Sultanate of Oman,eu-eeas-sanctions.7199,2018-05-01 01:10:12.448908,,,,,,OM,OMN,,2018-04-12 07:36:45.582493
+"Kandahar City, Kandahar Province",eu-eeas-sanctions.7178,2018-05-01 01:10:12.465655,,,,"Room number 33, 5th Floor Sarafi Market",,AF,AFG,,2018-04-12 07:36:45.917762
+Tehran,eu-eeas-sanctions.7226,2018-05-01 01:10:12.536554,,,,,,IR,IRN,,2018-04-12 07:36:46.579715
+,eu-eeas-sanctions.7354,2018-05-01 01:10:13.358793,,,,,,ML,MLI,,2018-04-12 07:37:21.545316
+,eu-eeas-sanctions.7371,2018-05-01 01:10:13.742427,,,,,,NG,NGA,,2018-04-12 07:37:35.911575
+,eu-eeas-sanctions.7353,2018-05-01 01:10:13.942200,,,,,,DZ,DZA,,2018-04-12 07:37:50.788155
+,eu-eeas-sanctions.7353,2018-05-01 01:10:13.958850,,,,,,ML,MLI,,2018-04-12 07:37:50.901780
+,eu-eeas-sanctions.7353,2018-05-01 01:10:14.021616,,,,,,NE,NER,,2018-04-12 07:37:50.963111
+Beirut,eu-eeas-sanctions.7389,2018-05-01 01:10:14.672279,,,,"Dunant Street, Snoubra Sector",,LB,LBN,,2018-04-12 07:37:18.695871
+,eu-eeas-sanctions.7416,2018-05-01 01:10:14.767799,,,,"346465 Russia, Rostov Region, October District, St Zaplavskaya, Str Shosseynaya 1",,RU,RUS,,2018-04-12 07:37:27.100596
+,eu-eeas-sanctions.7416,2018-05-01 01:10:14.784391,,,,"Voroshilovskiy Prospekt 12/85-87/13, Rostov- on-Don",,,,,2018-04-12 07:37:27.112597
+Sevastopol,eu-eeas-sanctions.7423,2018-05-01 01:10:14.838997,,,,Nakhimov Square 5,299011,,,,2018-04-12 07:37:23.112039
+,eu-eeas-sanctions.7423,2018-05-01 01:10:14.880518,,,,"пл. Нахимова, 5, г. Севастополь",299011,,,,2018-04-12 07:37:23.125086
+Yalta,eu-eeas-sanctions.7426,2018-05-01 01:10:14.959672,,,,Resort ‘Nizhnyaya Oreanda’,08655,UA,UKR,,2018-04-12 07:37:26.233415
+,eu-eeas-sanctions.7426,2018-05-01 01:10:14.976336,,,,"г.Ялта, пгт. Ореанда, Санаторий ‘Нижняя Ореанда",08655,UA,UKR,,2018-04-12 07:37:26.249988
+Damascus,eu-eeas-sanctions.7546,2018-05-01 01:10:16.215112,,,,Baghdad Street,PO Box 8254,SY,SYR,,2018-04-12 07:37:48.084668
+,eu-eeas-sanctions.106554,2018-05-01 01:10:17.678233,,,,,,SY,SYR,,2018-04-12 07:37:51.084643
+,eu-eeas-sanctions.106584,2018-05-01 01:10:17.827835,,,,,,IQ,IRQ,,2018-04-12 07:37:51.504554
+Tehran,eu-eeas-sanctions.5286,2018-05-01 01:10:02.725678,,,,Corner of Imam Ali Highway and Babaei Highway,,IR,IRN,,2018-04-12 07:36:17.664005
+Amman,eu-eeas-sanctions.5529,2018-05-01 01:10:03.309500,,,,,,JO,JOR,,2018-04-12 07:36:13.168920
+Khan Dari,eu-eeas-sanctions.5529,2018-05-01 01:10:03.326182,,,,,,IQ,IRQ,,2018-04-12 07:36:13.238903
+"Asas Village, Abu Ghurayb",eu-eeas-sanctions.5529,2018-05-01 01:10:03.388264,,,,,,IQ,IRQ,,2018-04-12 07:36:13.257435
+,eu-eeas-sanctions.5529,2018-05-01 01:10:03.451231,,,,,,EG,EGY,,2018-04-12 07:36:13.277548
+Esfahan,eu-eeas-sanctions.5650,2018-05-01 01:10:03.676536,,,,"P.O. Box 83145-311, Kilometer 28, Esfahan-Tehran Freeway, Shahin Shahr",,IR,IRN,,2018-04-12 07:36:15.696734
+Tehran,eu-eeas-sanctions.5727,2018-05-01 01:10:03.726449,,,,"PO Box 19295-4731, Pasdaran Avenue",,IR,IRN,,2018-04-12 07:36:20.522561
+Tehran,eu-eeas-sanctions.5675,2018-05-01 01:10:03.734682,,,,Damavand Tehran Highway,,IR,IRN,,2018-04-12 07:36:15.960480
+Tehran,eu-eeas-sanctions.5727,2018-05-01 01:10:03.788715,,,,"PO Box 19575-131, 34 Apadana Avenue",,IR,IRN,,2018-04-12 07:36:20.547475
+Tehran,eu-eeas-sanctions.5727,2018-05-01 01:10:03.851829,,,,"Shahid Langary Street, Nobonyad Square Ave, Pasdaran",,IR,IRN,,2018-04-12 07:36:20.602669
+Esfahan,eu-eeas-sanctions.5725,2018-05-01 01:10:03.909885,,,,"P.O. Box 83145-311, 28 km Esfahan – Tehran Freeway, Shahin Shahr",,IR,IRN,,2018-04-12 07:36:17.030705
+Mashad,eu-eeas-sanctions.5646,2018-05-01 01:10:03.971913,,,,P.O. Box 91735-549,,IR,IRN,,2018-04-12 07:36:15.492856
+Tehran,eu-eeas-sanctions.5725,2018-05-01 01:10:03.971935,,,,"P.O. Box 14155-5568, No. 27 Ahahamat Aave., Vallie Asr Square",15946,IR,IRN,,2018-04-12 07:36:17.055728
+Mashad,eu-eeas-sanctions.5646,2018-05-01 01:10:04.035082,,,,"Khalage Rd. (Amin Industrial Estate), Seyedi District",,IR,IRN,,2018-04-12 07:36:15.530383
+Esfahan,eu-eeas-sanctions.5725,2018-05-01 01:10:04.035366,,,,P.O. Box 81465-935,,IR,IRN,,2018-04-12 07:36:17.080691
+Mashad,eu-eeas-sanctions.5646,2018-05-01 01:10:04.051682,,,,"Khalaj Rd. (Kaveh Complex), Seyedi St.",,IR,IRN,,2018-04-12 07:36:15.547064
+Isfahan,eu-eeas-sanctions.5725,2018-05-01 01:10:04.051647,,,,Shahih Shar Industrial Zone,,IR,IRN,,2018-04-12 07:36:17.135439
+Tehran,eu-eeas-sanctions.5725,2018-05-01 01:10:04.068334,,,,"P.O. Box 8140, No. 107 Sepahbod Gharany Ave.",,IR,IRN,,2018-04-12 07:36:17.152097
+(South Kivu),eu-eeas-sanctions.5808,2018-05-01 01:10:05.081194,,,,,,CD,COD,,2018-04-12 07:36:17.897134
+Tehran,eu-eeas-sanctions.6450,2018-05-01 01:10:06.440213,,,,"3 Shafagh St. [Sadra Building],  Poonak Khavari Blvd., Shahrak Ghods, P.O. Box 14669- 56491",,IR,IRN,,2018-04-12 07:36:24.856250
+Damascus,eu-eeas-sanctions.6840,2018-05-01 01:10:08.225041,,,,Kaboon Street,,SY,SYR,,2018-04-12 07:36:38.437006
+Damascus,eu-eeas-sanctions.6840,2018-05-01 01:10:08.241820,,,,P.O.Box 5966,,SY,SYR,,2018-04-12 07:36:38.548562
+Tartous,eu-eeas-sanctions.7391,2018-05-01 01:10:14.672251,,,,"26 Latkia Main Road, Banias Refinery Building",P.O. Box 26,SY,SYR,,2018-04-12 07:37:18.767193
+Damascus,eu-eeas-sanctions.7515,2018-05-01 01:10:16.331581,,,,,5797,SY,SYR,,2018-04-12 07:37:45.861778
+,eu-eeas-sanctions.7547,2018-05-01 01:10:16.785844,,,,,,SY,SYR,,2018-04-12 07:37:55.288405
+"Central District, Pyongyang",eu-eeas-sanctions.108510,2018-05-01 01:10:18.634176,,,,,,KP,PRK,,2018-04-12 07:37:55.299372
+Tehran,eu-eeas-sanctions.5684,2018-05-01 01:10:03.876689,,,,"Pasdaran Avenue, Next to Telecommunication Industry",16588,IR,IRN,,2018-04-12 07:36:15.426957
+,eu-eeas-sanctions.5684,2018-05-01 01:10:03.893306,,,,Postal Box 89195/878,Yazd,IR,IRN,,2018-04-12 07:36:15.488806
+Tehran,eu-eeas-sanctions.5662,2018-05-01 01:10:03.893335,,,,P.O. Box 16535-76,16548,IR,IRN,,2018-04-12 07:36:22.506382
+,eu-eeas-sanctions.5684,2018-05-01 01:10:03.972015,,,,Km 5 of Taft Road,Yazd,IR,IRN,,2018-04-12 07:36:15.521962
+Hammam-Sousse,eu-eeas-sanctions.6078,2018-05-01 01:10:04.631109,,,,17 avenue de la République,,TN,TUN,,2018-04-12 07:36:19.360821
+Tunis,eu-eeas-sanctions.6054,2018-05-01 01:10:04.768620,,,,Presidential Palace,,TN,TUN,,2018-04-12 07:36:26.305924
+,eu-eeas-sanctions.6114,2018-05-01 01:10:06.056856,,,,,,LY,LBY,,2018-04-12 07:36:27.247659
+Tehran,eu-eeas-sanctions.6387,2018-05-01 01:10:06.256717,,,,"15 Eighth Street, Pakistan Avenue, Shahid Beheshti Avenue",,IR,IRN,,2018-04-12 07:36:20.602702
+Gammarth Supérieur,eu-eeas-sanctions.6070,2018-05-01 01:10:06.398967,,,,4 Rue de la Mouette,,TN,TUN,,2018-04-12 07:36:18.997647
+Tehran,eu-eeas-sanctions.6334,2018-05-01 01:10:06.494989,,,,"Daneshju Blvd., Yaman St., Chamran Blvd.",,IR,IRN,,2018-04-12 07:36:19.743900
+Tehran,eu-eeas-sanctions.6334,2018-05-01 01:10:06.565523,,,,P.O. Box 19839-63113,,IR,IRN,,2018-04-12 07:36:19.760630
+Shiraz,eu-eeas-sanctions.6449,2018-05-01 01:10:06.632117,,,,"Mirzaie Shirazi, P.O. Box 71365-1589",,IR,IRN,,2018-04-12 07:36:26.212125
+,eu-eeas-sanctions.6612,2018-05-01 01:10:08.550582,,,,,,IQ,IRQ,,2018-04-12 07:36:35.853232
+,eu-eeas-sanctions.6612,2018-05-01 01:10:08.566987,,,,,,SY,SYR,,2018-04-12 07:36:35.872659
+Tehran,eu-eeas-sanctions.6669,2018-05-01 01:10:09.322091,,,,,,IR,IRN,,2018-04-12 07:36:40.837131
+Damascus,eu-eeas-sanctions.6895,2018-05-01 01:10:09.450769,,,,"Maysaloun Street, Dar Al Muhanisen Building, 7th Floor",,SY,SYR,,2018-04-12 07:36:43.887838
+Damascus,eu-eeas-sanctions.6895,2018-05-01 01:10:09.467374,,,,P.O. Box 7572,,SY,SYR,,2018-04-12 07:36:43.946190
+Dummar Province,eu-eeas-sanctions.6963,2018-05-01 01:10:10.968632,,,,"Building 32 Expansion Square, Island 19",2849 (P.O. BOX),SY,SYR,,2018-04-12 07:36:39.948464
+Dummar Province,eu-eeas-sanctions.6963,2018-05-01 01:10:11.036258,,,,"Building 32 Expansion Square, Island 19",3378 (P.O. BOX),SY,SYR,,2018-04-12 07:36:39.973425
+"Chaman, Baluchistan Province",eu-eeas-sanctions.7237,2018-05-01 01:10:12.595000,,,,,,PK,PAK,,2018-04-12 07:36:46.730330
+Crimea,eu-eeas-sanctions.7348,2018-05-01 01:10:13.758626,,,,2 Geologicheskaya,98107,UA,UKR,,2018-04-12 07:37:46.637501
+Barzeh,eu-eeas-sanctions.7395,2018-05-01 01:10:14.117324,,,,P.O. Box 31983,,SY,SYR,,2018-04-12 07:37:37.669876
+North Kivu Province,eu-eeas-sanctions.7539,2018-05-01 01:10:16.068988,,,,,,CD,COD,,2018-04-12 07:37:48.084051
+"Dahyan, Sa'dah Governorate",eu-eeas-sanctions.7540,2018-05-01 01:10:16.485723,,,,,,YE,YEM,,2018-04-12 07:37:46.467167
+Damascus,eu-eeas-sanctions.7583,2018-05-01 01:10:16.973569,,,,"CERS, Centre d'Etude et de Recherche Scientifique; a.k.a. SSRC, Scientific Studies and Research Center; Centre de Recherche de Kaboun Barzeh Street, PO Box 4470",,SY,SYR,,2018-04-12 07:37:54.227140
+Damascus,eu-eeas-sanctions.7589,2018-05-01 01:10:17.262290,,,,PO Box 11037,,SY,SYR,,2018-04-12 07:37:49.159946
+Ariana,eu-eeas-sanctions.7601,2018-05-01 01:10:17.262637,,,,18 Mediterranean Street,,TN,TUN,,2018-04-12 07:37:48.559403
+,eu-eeas-sanctions.7601,2018-05-01 01:10:17.503061,,,,,,LY,LBY,,2018-04-12 07:37:48.620822
+Pyongyang,eu-eeas-sanctions.5810,2018-05-01 01:10:04.485256,,,,"c/o Reconnaissance General Bureau Headquarters, Hyongjesan-Guyok",,KP,PRK,,2018-04-12 07:36:25.720001
+Pyongyang,eu-eeas-sanctions.5810,2018-05-01 01:10:04.551995,,,,Nungrado,,KP,PRK,,2018-04-12 07:36:25.778299
+Pyongyang Mangyongdae District,eu-eeas-sanctions.5810,2018-05-01 01:10:04.568674,,,,Chilgol-1 dong,,KP,PRK,,2018-04-12 07:36:25.794886
+Pyongyang Rakrang District,eu-eeas-sanctions.5810,2018-05-01 01:10:04.639454,,,,Rakrang No. 1,,KP,PRK,,2018-04-12 07:36:25.856068
+Sousse,eu-eeas-sanctions.6065,2018-05-01 01:10:04.735644,,,,rue Abu Dhar El Ghafari  (Khezama est),,TN,TUN,,2018-04-12 07:36:18.911156
+Tunis,eu-eeas-sanctions.6090,2018-05-01 01:10:04.793992,,,,rue du Jardin - Sidi Bousaid,,TN,TUN,,2018-04-12 07:36:20.339536
+"Sarana Zadran Village, Paktia Province",eu-eeas-sanctions.5925,2018-05-01 01:10:04.810581,,,,,,PK,PAK,,2018-04-12 07:36:18.472789
+"Dergey Manday Village, near Miram Shah, North Waziristan Agency (NWA), Federally Administered Tribal Areas (FATA)",eu-eeas-sanctions.5925,2018-05-01 01:10:04.877288,,,,Near Dergey Manday Madrasa,,PK,PAK,,2018-04-12 07:36:18.439489
+l'Ariana,eu-eeas-sanctions.6057,2018-05-01 01:10:04.927147,,,,"8 El Menzah - apt. 8C Block b, Résidence les Jardins",,TN,TUN,,2018-04-12 07:36:18.105673
+Hammam- Sousse,eu-eeas-sanctions.6049,2018-05-01 01:10:05.139199,,,,Chouket El Arressa,,TN,TUN,,2018-04-12 07:36:19.006028
+Monastir,eu-eeas-sanctions.6074,2018-05-01 01:10:05.306178,,,,255 cité El Bassatine,,TN,TUN,,2018-04-12 07:36:27.097543
+,eu-eeas-sanctions.7601,2018-05-01 01:10:17.519280,,,,,,IQ,IRQ,,2018-04-12 07:37:48.637425
+,eu-eeas-sanctions.7601,2018-05-01 01:10:17.535965,,,,,,SY,SYR,,2018-04-12 07:37:48.654068
+,eu-eeas-sanctions.112286,2018-05-01 01:10:19.792645,,,,,,KP,PRK,,2018-04-12 07:37:57.656101
+Gammarth Supérieur,eu-eeas-sanctions.6073,2018-05-01 01:10:04.543813,,,,4 Rue Ennawras,,TN,TUN,,2018-04-12 07:36:17.802119
+Tunis,eu-eeas-sanctions.6089,2018-05-01 01:10:05.314428,,,,4 Rue Mohamed Makhlouf - El Manar.2,,TN,TUN,,2018-04-12 07:36:27.222676
+Teheran,eu-eeas-sanctions.6514,2018-05-01 01:10:07.824680,,,,,,IR,IRN,,2018-04-12 07:36:36.823526
+Tehran,eu-eeas-sanctions.6667,2018-05-01 01:10:08.425123,,,,59 Azadi Ali North Sohrevardi Avenue [Suite 1],1576935561,IR,IRN,,2018-04-12 07:36:37.506654
+Damascus,eu-eeas-sanctions.6837,2018-05-01 01:10:09.050452,,,,9 Maysat Square Al Rasafi Street Bldg.,,SY,SYR,,2018-04-12 07:36:37.931926
+Damascus,eu-eeas-sanctions.6837,2018-05-01 01:10:09.138158,,,,PO Box 7155,,SY,SYR,,2018-04-12 07:36:37.987369
+Istanbul,eu-eeas-sanctions.6686,2018-05-01 01:10:09.651449,,,,79/2 Tuzla,34940,TR,TUR,,2018-04-12 07:36:48.174805
+Tehran,eu-eeas-sanctions.6892,2018-05-01 01:10:09.805451,,,,"Postal address: Haftom Tir Square, South Mofte Avenue, Tour Line No; 3/1 P.O. Box 1584864813",,IR,IRN,,2018-04-12 07:36:38.932201
+Damascus,eu-eeas-sanctions.6912,2018-05-01 01:10:10.014012,,,,Sabah Bahrat Square,,SY,SYR,,2018-04-12 07:36:39.173237
+Damascus,eu-eeas-sanctions.6912,2018-05-01 01:10:10.030570,,,,Altjreda al Maghrebeh square,P.O. Box: 2254,SY,SYR,,2018-04-12 07:36:39.189973
+Gao,eu-eeas-sanctions.7220,2018-05-01 01:10:11.911656,,,,,,ML,MLI,,2018-04-12 07:36:45.162640
+,eu-eeas-sanctions.7200,2018-05-01 01:10:11.936085,,,,,,RW,RWA,,2018-04-12 07:36:44.312754
+,eu-eeas-sanctions.7419,2018-05-01 01:10:14.238689,,,,,,UA,UKR,,2018-04-12 07:37:29.345812
+Simferopol Crimea,eu-eeas-sanctions.7417,2018-05-01 01:10:14.767841,,,,"str. Kiev, 4 (area bus station ‘Central’).",,,,,2018-04-12 07:37:27.987534
+Azovskoye,eu-eeas-sanctions.7427,2018-05-01 01:10:14.984630,,,,"40 Zeleznodorozhnaya str., Jankoysky district",296178,,,,2018-04-12 07:37:26.478571
+пгт. Азовское,eu-eeas-sanctions.7427,2018-05-01 01:10:15.047619,,,,"Джанкойский район, ул. Железнодорожная, 40",296178,,,,2018-04-12 07:37:26.491623
+,eu-eeas-sanctions.7483,2018-05-01 01:10:15.222584,,,,"327 Street, Area 3, Building 41, Al-Uqaylah",,KW,KWT,,2018-04-12 07:37:46.829273
+Nangarhar Province,eu-eeas-sanctions.7491,2018-05-01 01:10:15.410016,,,,"Kamkai Village, Achin District",,AF,AFG,,2018-04-12 07:37:49.021149
+"Batan village, Achin District, Nangarhar Province",eu-eeas-sanctions.7491,2018-05-01 01:10:15.472974,,,,,,AF,AFG,,2018-04-12 07:37:49.038038
+"Surkhel village, Achin district, Nangarhar Province",eu-eeas-sanctions.7491,2018-05-01 01:10:15.489453,,,,,,AF,AFG,,2018-04-12 07:37:49.054478
+Simferopol,eu-eeas-sanctions.7441,2018-05-01 01:10:15.639509,,,,"Naberezhnaja str named after 60th anniversary of USSR, 34",295000,,,,2018-04-12 07:37:44.642455
+,eu-eeas-sanctions.7441,2018-05-01 01:10:15.656147,,,,"Симферополь, ул. Набережная имени 60–летия СССР, д. 34",295000,,,,2018-04-12 07:37:44.709205
+,eu-eeas-sanctions.7496,2018-05-01 01:10:16.102110,,,,,,SO,SOM,,2018-04-12 07:37:46.996118
+"Tullus, southern Darfur",eu-eeas-sanctions.106144,2018-05-01 01:10:17.569289,,,,,,SD,SDN,,2018-04-12 07:37:56.060716
+Birao,eu-eeas-sanctions.106144,2018-05-01 01:10:17.586000,,,,,,CF,CAF,,2018-04-12 07:37:56.077556
+Bria,eu-eeas-sanctions.106144,2018-05-01 01:10:17.653333,,,,,,CF,CAF,,2018-04-12 07:37:56.144205
+Homs,eu-eeas-sanctions.106544,2018-05-01 01:10:17.727891,,,,,,SY,SYR,,2018-04-12 07:37:50.684904
+,eu-eeas-sanctions.106568,2018-05-01 01:10:18.937337,,,,,,ID,IDN,,2018-04-12 07:37:51.610063
+Tunis,eu-eeas-sanctions.6081,2018-05-01 01:10:05.377554,,,,housing estate Erriadh.2-Gammarth,,TN,TUN,,2018-04-12 07:36:19.111101
+,eu-eeas-sanctions.6097,2018-05-01 01:10:05.498009,,,,,,LY,LBY,,2018-04-12 07:36:18.438932
+"Miralzei Village, Chaman, Baluchistan Province",eu-eeas-sanctions.6613,2018-05-01 01:10:08.416706,,,,Boghra Road,,PK,PAK,,2018-04-12 07:36:37.231541
+"Kalay Rangin, Spin Boldak District, Kandahar Province",eu-eeas-sanctions.6613,2018-05-01 01:10:08.433391,,,,,,AF,AFG,,2018-04-12 07:36:37.248112
+Tehran,eu-eeas-sanctions.6681,2018-05-01 01:10:08.617009,,,,44 180th Street West,16539-75751,,,,2018-04-12 07:36:40.956877
+Damascus,eu-eeas-sanctions.6841,2018-05-01 01:10:09.050883,,,,"P.O.Box 5966,Abou Bakr Al Seddeq Str.",,SY,SYR,,2018-04-12 07:36:42.195465
+Damascus,eu-eeas-sanctions.6841,2018-05-01 01:10:09.138602,,,,PO BOX 2849 Al Moutanabi Street,,SY,SYR,,2018-04-12 07:36:42.212122
+Damascus,eu-eeas-sanctions.6841,2018-05-01 01:10:09.155236,,,,PO BOX 21120 Baramkeh,,SY,SYR,,2018-04-12 07:36:42.228777
+North and South Kivu,eu-eeas-sanctions.7202,2018-05-01 01:10:11.485953,,,,,,CD,COD,,2018-04-12 07:36:46.207939
+Quetta,eu-eeas-sanctions.7231,2018-05-01 01:10:12.465610,,,,,,PK,PAK,,2018-04-12 07:36:45.817991
+Tehran,eu-eeas-sanctions.7224,2018-05-01 01:10:12.741847,,,,,,IR,IRN,,2018-04-12 07:36:44.782707
+,eu-eeas-sanctions.7246,2018-05-01 01:10:13.342320,,,,,,SY,SYR,,2018-04-12 07:37:48.067776
+"Mosul, Souq al-Nabi Yunis",eu-eeas-sanctions.7246,2018-05-01 01:10:13.358941,,,,,,IQ,IRQ,,2018-04-12 07:37:48.084427
+,eu-eeas-sanctions.7421,2018-05-01 01:10:14.430640,,,,,,UA,UKR,,2018-04-12 07:37:30.525455
+Damascus,eu-eeas-sanctions.7591,2018-05-01 01:10:17.015341,,,,"31 Baghdad Street, Hamsho Building",,SY,SYR,,2018-04-12 07:37:49.329853
+Ariana,eu-eeas-sanctions.7602,2018-05-01 01:10:17.127792,,,,18 Mediterranean Street,,TN,TUN,,2018-04-12 07:37:54.602288
+,eu-eeas-sanctions.7602,2018-05-01 01:10:17.262572,,,,,,LY,LBY,,2018-04-12 07:37:54.618978
+,eu-eeas-sanctions.7602,2018-05-01 01:10:17.503314,,,,,,IQ,IRQ,,2018-04-12 07:37:54.635934
+,eu-eeas-sanctions.7602,2018-05-01 01:10:17.528009,,,,,,SY,SYR,,2018-04-12 07:37:54.707255
+Al-Laqtah,eu-eeas-sanctions.106385,2018-05-01 01:10:17.669636,,,,,,QA,QAT,,2018-04-12 07:37:55.897609
+Bangui,eu-eeas-sanctions.107480,2018-05-01 01:10:18.086453,,,,,,CF,CAF,,2018-04-12 07:37:53.103234
+"Pashtunabad, Quetta (Baluchistan Province)",eu-eeas-sanctions.107009,2018-05-01 01:10:18.186249,,,,,,PK,PAK,,2018-04-12 07:37:52.360539
+"Pyongyang,",eu-eeas-sanctions.110321,2018-05-01 01:10:19.650547,,,,,,KP,PRK,,2018-04-12 07:37:57.836369
+Pyongyang,eu-eeas-sanctions.112309,2018-05-01 01:10:20.109445,,,,,,KP,PRK,,2018-04-12 07:37:57.789110
+Pyongyang,eu-eeas-sanctions.112377,2018-05-01 01:10:20.109418,,,,,,KP,PRK,,2018-04-12 07:38:09.165495
+Lalpura (Nangarhar Province),eu-eeas-sanctions.113025,2018-05-01 01:10:20.246043,,,,,,AF,AFG,,2018-04-12 07:37:59.328471
+Mohmand Agency,eu-eeas-sanctions.113025,2018-05-01 01:10:20.262716,,,,,,PK,PAK,,2018-04-12 07:37:59.390600
+,eu-eeas-sanctions.112303,2018-05-01 01:10:20.296052,,,,,,KP,PRK,,2018-04-12 07:37:57.702600
+Pyongyang,eu-eeas-sanctions.114597,2018-05-01 01:10:20.718264,,,,"Segori-dong, Pothonggang District",,KP,PRK,,2018-04-12 07:38:00.182715
+,eu-eeas-sanctions.114931,2018-05-01 01:10:21.002059,,,,,,KP,PRK,,2018-04-12 07:37:59.557190
+Kerch Crimea,eu-eeas-sanctions.114281,2018-05-01 01:10:21.343856,,,,28 Kirova Street,298312,,,,2018-04-12 07:37:58.773562
+(Крым),eu-eeas-sanctions.114281,2018-05-01 01:10:21.410965,,,,"гор. Керчь, ул. Кирова, дом 28",298312,,,,2018-04-12 07:37:58.798258
+"Sarana Zadran Village, Paktia Province,",eu-eeas-sanctions.5925,2018-05-01 01:10:04.927511,,,,,,AF,AFG,,2018-04-12 07:36:18.639661
+,eu-eeas-sanctions.6520,2018-05-01 01:10:07.103882,,,,"Sehanya Daraa Highway, PO Box 9525",,SY,SYR,,2018-04-12 07:36:36.648048
+Esfahan,eu-eeas-sanctions.6668,2018-05-01 01:10:08.842554,,,,"599 Ata Al Malek Blvd [Stage 3], Emam Khomeini Street",,,,,2018-04-12 07:36:37.697897
+Kermanshah,eu-eeas-sanctions.6618,2018-05-01 01:10:09.409342,,,,,,IR,IRN,,2018-04-12 07:36:37.497914
+"Mehran Military Base, Ilam Province",eu-eeas-sanctions.6618,2018-05-01 01:10:09.425816,,,,,,IR,IRN,,2018-04-12 07:36:37.514574
+"Quetta, Baluchistan Province",eu-eeas-sanctions.7068,2018-05-01 01:10:11.077168,,,,"Branch Office 1, Shop number 1584 Furqan (variant Fahr Khan) Center, Chalhor Mal Road",,PK,PAK,,2018-04-12 07:36:41.332073
+"Quetta, Baluchistan Province",eu-eeas-sanctions.7068,2018-05-01 01:10:11.093859,,,,"Branch Office 1, Flat number 4 Furqan Center, Jamaluddin Afghani Road",,PK,PAK,,2018-04-12 07:36:41.348635
+"Quetta, Baluchistan Province",eu-eeas-sanctions.7068,2018-05-01 01:10:11.110457,,,,"Branch Office 1, Office number 4, 2nd Floor Muslim Plaza Building, Doctor Banu Road",,PK,PAK,,2018-04-12 07:36:41.365397
+"Quetta, Baluchistan Province",eu-eeas-sanctions.7068,2018-05-01 01:10:11.173113,,,,Branch Office 1 Cholmon Road,,PK,PAK,,2018-04-12 07:36:41.382024
+"Quetta, Baluchistan Province",eu-eeas-sanctions.7068,2018-05-01 01:10:11.189732,,,,"Branch Office 1, Shop number 1, 1st Floor Kadari Place, Abdul Samad Khan Street (next to Fatima Jena Road)",,PK,PAK,,2018-04-12 07:36:41.457149
+"Garmser District, Helmand Province",eu-eeas-sanctions.7068,2018-05-01 01:10:11.206483,,,,Branch Office 2 Safar Bazaar,,AF,AFG,,2018-04-12 07:36:41.473707
+"Safar, Helmand Province",eu-eeas-sanctions.7068,2018-05-01 01:10:11.223030,,,,Branch Office 2 Main Bazaar,,AF,AFG,,2018-04-12 07:36:41.823882
+"Lashkar Gah, Helmand Province",eu-eeas-sanctions.7068,2018-05-01 01:10:11.239771,,,,Branch Office 3 Haji Ghulam Nabi Market,,AF,AFG,,2018-04-12 07:36:41.937381
+"Lashkar Gah, Helmand Province",eu-eeas-sanctions.7068,2018-05-01 01:10:11.306625,,,,Branch Office 3 Money Exchange Market,,AF,AFG,,2018-04-12 07:36:41.954011
+Helmand Province,eu-eeas-sanctions.7068,2018-05-01 01:10:11.323303,,,,Branch Office 3 Lashkar Gah Bazaar,,AF,AFG,,2018-04-12 07:36:41.970703
+"Garmser District, Helmand Province",eu-eeas-sanctions.7068,2018-05-01 01:10:11.339898,,,,Branch Office 4 Hazar Joft,,AF,AFG,,2018-04-12 07:36:42.073894
+"Marjah District, Helmand Province",eu-eeas-sanctions.7068,2018-05-01 01:10:11.356555,,,,Branch Office 5 Ismat Bazaar,,AF,AFG,,2018-04-12 07:36:42.170834
+"Zaranj, Nimruz Province",eu-eeas-sanctions.7068,2018-05-01 01:10:11.373253,,,,Branch Office 6,,AF,AFG,,2018-04-12 07:36:42.187358
+"Lakri City, Helmand Province",eu-eeas-sanctions.7068,2018-05-01 01:10:11.477405,,,,Branch Office 8,,AF,AFG,,2018-04-12 07:36:42.237344
+HautUolo,eu-eeas-sanctions.108111,2018-05-01 01:10:19.334056,,,,,,CD,COD,,2018-04-12 07:37:54.560977
+Mbomou,eu-eeas-sanctions.108111,2018-05-01 01:10:19.350479,,,,,,CF,CAF,,2018-04-12 07:37:54.585561
+Haut-Mbomou,eu-eeas-sanctions.108111,2018-05-01 01:10:19.367113,,,,,,CF,CAF,,2018-04-12 07:37:54.602216
+Basse-Kotto,eu-eeas-sanctions.108111,2018-05-01 01:10:19.429197,,,,,,CF,CAF,,2018-04-12 07:37:54.627240
+Haute-Kotto,eu-eeas-sanctions.108111,2018-05-01 01:10:19.445868,,,,,,CF,CAF,,2018-04-12 07:37:54.695276
+Vakaga,eu-eeas-sanctions.108111,2018-05-01 01:10:19.509261,,,,,,CF,CAF,,2018-04-12 07:37:54.718853
+Istanbul,eu-eeas-sanctions.6677,2018-05-01 01:10:08.600173,,,,"79/2 Istasyon MH, Sehitler cad, Guldeniz Sit, Tuzla",34930,,,,2018-04-12 07:36:47.979970
+"Hyongjesan-Guyok, Pyongyang",eu-eeas-sanctions.6857,2018-05-01 01:10:09.217509,,,,,,KP,PRK,,2018-04-12 07:36:38.081317
+Gaza Strip,eu-eeas-sanctions.108458,2018-05-01 01:10:19.429216,,,,,,PS,PSE,,2018-04-12 07:37:53.679469
+Pyongyang,eu-eeas-sanctions.110325,2018-05-01 01:10:19.825767,,,,,,KP,PRK,,2018-04-12 07:37:56.636242
+Tripoli,eu-eeas-sanctions.6121,2018-05-01 01:10:05.881638,,,,"Jamahiriya Street, LAP Building, PO Box 91330",,LY,LBY,,2018-04-12 07:36:27.344806
+Damascus,eu-eeas-sanctions.6897,2018-05-01 01:10:09.346697,,,,"Maysaloun Street, Dar Al Muhanisen Building, 6th Floor",,SY,SYR,,2018-04-12 07:36:39.115871
+"Tongan-dong, Pyongyang",eu-eeas-sanctions.6862,2018-05-01 01:10:09.467777,,,,,,KP,PRK,,2018-04-12 07:36:38.731884
+Tehran,eu-eeas-sanctions.6880,2018-05-01 01:10:09.609351,,,,"80 Tidewater Building, Vozara Street, Next to Saie Park",,IR,IRN,,2018-04-12 07:36:38.973338
+Damascus,eu-eeas-sanctions.6907,2018-05-01 01:10:09.626091,,,,"653 Daraa Highway, Building No. 653, 1st Floor,",,SY,SYR,,2018-04-12 07:36:38.623206
+Damascus,eu-eeas-sanctions.6907,2018-05-01 01:10:09.642644,,,,P.O. Box 81,,SY,SYR,,2018-04-12 07:36:38.731784
+"Miram Shah, North Waziristan, Federally Administered Tribal Areas",eu-eeas-sanctions.7064,2018-05-01 01:10:10.927255,,,,,,PK,PAK,,2018-04-12 07:36:42.074045
+,eu-eeas-sanctions.7413,2018-05-01 01:10:14.317679,,,,,,,,,2018-04-12 07:37:25.204280
+Beirut,eu-eeas-sanctions.7397,2018-05-01 01:10:14.672270,,,,"Shaheen Building, 2nd floor, Sami el Solh; sector of hydrocarbons",,,,,2018-04-12 07:37:37.866543
+Berlin,eu-eeas-sanctions.7581,2018-05-01 01:10:16.956805,,,,210 Karl-Marx-Str.,12055,DE,DEU,,2018-04-12 07:37:48.171089
+,eu-eeas-sanctions.106532,2018-05-01 01:10:17.586252,,,,,,GB,GBR,,2018-04-12 07:37:51.013410
+,eu-eeas-sanctions.106532,2018-05-01 01:10:17.653004,,,,,,SY,SYR,,2018-04-12 07:37:51.077058
+(Jonglei State),eu-eeas-sanctions.105792,2018-05-01 01:10:18.045161,,,,,,SD,SDN,,2018-04-12 07:37:49.845845
+"Kelurahan Bhakti Jaya, Setu Sub-district, Pamulang District, Tangerang Selatan (Banten Province)",eu-eeas-sanctions.108447,2018-05-01 01:10:19.042746,,,,"Jalan Baru LUK, No.1, RT 05/07,",,ID,IDN,,2018-04-12 07:37:56.002347
+,eu-eeas-sanctions.112320,2018-05-01 01:10:19.968027,,,,,,KP,PRK,,2018-04-12 07:37:58.978237
+,eu-eeas-sanctions.112291,2018-05-01 01:10:20.246982,,,,,,KP,PRK,,2018-04-12 07:37:58.120571
+Pyongyang,eu-eeas-sanctions.113760,2018-05-01 01:10:20.371705,,,,,,KP,PRK,,2018-04-12 07:38:05.195171
+Mosul,eu-eeas-sanctions.113355,2018-05-01 01:10:20.513636,,,,,,IQ,IRQ,,2018-04-12 07:37:58.511458
+Dalian,eu-eeas-sanctions.112951,2018-05-01 01:10:20.513696,,,,,,CN,CHN,,2018-04-12 07:37:57.969183
+"Pyongyang FTB Building, Jungsong-dong, Central District",eu-eeas-sanctions.113740,2018-05-01 01:10:20.513776,,,,,,KP,PRK,,2018-04-12 07:38:05.115402
+"Road Town, Tortola,",eu-eeas-sanctions.112951,2018-05-01 01:10:20.529940,,,,"Akara Building, 24 de Castro Street, Wickhams Cay I, Road Town, Tortola,",,VG,VGB,,2018-04-12 07:37:57.985972
+Moscow,eu-eeas-sanctions.113801,2018-05-01 01:10:20.676585,,,,"Avtozavodskaya st., 14",115280,,,,2018-04-12 07:38:04.981952
+Pyongyang,eu-eeas-sanctions.114605,2018-05-01 01:10:20.860384,,,,"Room 818, Pothonggang Hotel, Ansan-Dong, Pyongchon district",,KP,PRK,,2018-04-12 07:38:05.529004
+Sharjah,eu-eeas-sanctions.6441,2018-05-01 01:10:06.381928,,,,PO Box 8032,,AE,ARE,,2018-04-12 07:36:22.144666
+Tehran,eu-eeas-sanctions.6337,2018-05-01 01:10:06.590417,,,,204 Taleghani Ave,,IR,IRN,,2018-04-12 07:36:19.877348
+Damascus,eu-eeas-sanctions.7155,2018-05-01 01:10:11.635962,,,,"Rukn Addin Saladin Street, Building 5
+PO Box: 7006,",,SY,SYR,,2018-04-12 07:36:44.137672
+Gao,eu-eeas-sanctions.7218,2018-05-01 01:10:12.344870,,,,,,ML,MLI,,2018-04-12 07:36:45.099111
+Tabankort,eu-eeas-sanctions.7218,2018-05-01 01:10:12.361740,,,,,,ML,MLI,,2018-04-12 07:36:45.154529
+In Khalil,eu-eeas-sanctions.7218,2018-05-01 01:10:12.378150,,,,,,ML,MLI,,2018-04-12 07:36:45.215946
+Al Moustarat,eu-eeas-sanctions.7218,2018-05-01 01:10:12.440642,,,,,,ML,MLI,,2018-04-12 07:36:45.232531
+,eu-eeas-sanctions.7370,2018-05-01 01:10:14.309398,,,,,,NG,NGA,,2018-04-12 07:37:35.611564
+,eu-eeas-sanctions.7415,2018-05-01 01:10:14.430610,,,,,,,,,2018-04-12 07:37:26.242333
+Moscow,eu-eeas-sanctions.7439,2018-05-01 01:10:14.768147,,,,41 ul.Vereiskaya,121471,RU,RUS,,2018-04-12 07:37:40.836360
+"Bimbo, Ombella-Mpoko province",eu-eeas-sanctions.106123,2018-05-01 01:10:17.111168,,,,,,CF,CAF,,2018-04-12 07:37:50.004333
+"Mbaiki, Lobaye Province",eu-eeas-sanctions.106123,2018-05-01 01:10:17.262653,,,,,,CF,CAF,,2018-04-12 07:37:50.021003
+,eu-eeas-sanctions.106773,2018-05-01 01:10:17.982408,,,,,,SY,SYR,,2018-04-12 07:37:51.721615
+Ust-Dzheguta (Republic of Karachayevo-Cherkessia),eu-eeas-sanctions.106773,2018-05-01 01:10:18.052891,,,,"Moscovskiy Microrayon 6, App. 96",,RU,RUS,,2018-04-12 07:37:51.801573
+,eu-eeas-sanctions.106536,2018-05-01 01:10:18.128186,,,,,,GB,GBR,,2018-04-12 07:37:50.204314
+,eu-eeas-sanctions.106536,2018-05-01 01:10:18.186566,,,,,,SY,SYR,,2018-04-12 07:37:50.268143
+Moscow,eu-eeas-sanctions.113791,2018-05-01 01:10:20.588571,,,,"Novyi Arbat str., 15, building 2",119019,,,,2018-04-12 07:38:00.245535
+Moscow,eu-eeas-sanctions.113796,2018-05-01 01:10:21.138665,,,,"Novyi Arbat str., 15, building 2",119019,,,,2018-04-12 07:38:05.299114
+Damascus,eu-eeas-sanctions.115970,2018-05-01 01:10:21.715442,,,,"Barzeh Street
+4470",,,,,2018-04-12 07:38:06.597872
+Pyongyang,eu-eeas-sanctions.7236,2018-05-01 01:10:12.578261,,,,,,KP,PRK,,2018-04-12 07:36:45.565912
+Birao,eu-eeas-sanctions.7356,2018-05-01 01:10:14.142380,,,,,,CF,CAF,,2018-04-12 07:37:51.488271
+Damascus,eu-eeas-sanctions.7394,2018-05-01 01:10:15.264104,,,,"Al Thawraa Street, P.O. Box 2330",,SY,SYR,,2018-04-12 07:37:37.608163
+Damascus,eu-eeas-sanctions.7394,2018-05-01 01:10:15.335086,,,,"Al-Hameh, Damascus Countryside, P.O. Box 2230",,SY,SYR,,2018-04-12 07:37:37.619819
+Yalta Crimea,eu-eeas-sanctions.7428,2018-05-01 01:10:15.514319,,,,"Massandra, str. Vinodela Egorova 9",298650,,,,2018-04-12 07:37:27.270287
+,eu-eeas-sanctions.7428,2018-05-01 01:10:15.531129,,,,"Крым, г.Ялта, пгт. Массандра, ул. Винодела Егорова, д. 9",298650,,,,2018-04-12 07:37:27.286856
+"Quetta City, Baluchistan Province",eu-eeas-sanctions.7492,2018-05-01 01:10:15.848556,,,,Chalo Bawari area,,PK,PAK,,2018-04-12 07:37:45.367064
+Damascus,eu-eeas-sanctions.7587,2018-05-01 01:10:16.932084,,,,"31 Baghdad Street, Hamsho Building",,SY,SYR,,2018-04-12 07:37:48.445582
+"Antwerp,",eu-eeas-sanctions.106153,2018-05-01 01:10:16.965581,,,,,,BE,BEL,,2018-04-12 07:37:49.837635
+"BP 333, Bangui",eu-eeas-sanctions.106153,2018-05-01 01:10:16.982237,,,,333,,CF,CAF,,2018-04-12 07:37:49.901228
+,eu-eeas-sanctions.106542,2018-05-01 01:10:17.957597,,,,,,SY,SYR,,2018-04-12 07:37:51.288472
+,eu-eeas-sanctions.107687,2018-05-01 01:10:18.249508,,,,,,TR,TUR,,2018-04-12 07:37:52.271574
+"Ansan-dong, Pyongyang",eu-eeas-sanctions.107842,2018-05-01 01:10:18.553715,,,,"Botonggang Hotel, Pongchon, Pyongyang",,KP,PRK,,2018-04-12 07:37:56.185461
+Pyongyang (Pyongchon District),eu-eeas-sanctions.107842,2018-05-01 01:10:18.570344,,,,"Suite 401, Potonggang Hotel, Ansan-Dong",,KP,PRK,,2018-04-12 07:37:56.202043
+Pyongyang,eu-eeas-sanctions.114583,2018-05-01 01:10:20.660131,,,,,,KP,PRK,,2018-04-12 07:37:58.839998
+"Mangyungdae-gu, Pyongyang",eu-eeas-sanctions.114113,2018-05-01 01:10:20.693687,,,,,,KP,PRK,,2018-04-12 07:38:05.140371
+"Man gyongdae- kuyok, Pyongyang",eu-eeas-sanctions.114113,2018-05-01 01:10:20.710278,,,,,,KP,PRK,,2018-04-12 07:38:05.203358
+,eu-eeas-sanctions.114578,2018-05-01 01:10:20.718132,,,,,,KP,PRK,,2018-04-12 07:37:58.995009
+"Hamhung, South Hamgyong Province",eu-eeas-sanctions.114113,2018-05-01 01:10:20.727013,,,,,,KP,PRK,,2018-04-12 07:38:05.265350
+Al-Qaim Al-Anbar Province,eu-eeas-sanctions.115714,2018-05-01 01:10:21.277246,,,,,,IQ,IRQ,,2018-04-12 07:38:06.723153
+Damascus,eu-eeas-sanctions.115977,2018-05-01 01:10:21.327212,,,,"Barzeh Street
+4470",,,,,2018-04-12 07:38:00.003499
+Beirut,eu-eeas-sanctions.7594,2018-05-01 01:10:16.794233,,,,"Azarieh Street – Solidere – Downtown, Azarieh Building – Block 03, 5th Floor, PO Box 11-503",,LB,LBN,,2018-04-12 07:37:49.437548
+,eu-eeas-sanctions.106534,2018-05-01 01:10:17.577783,,,,,,GB,GBR,,2018-04-12 07:37:50.337909
+,eu-eeas-sanctions.106534,2018-05-01 01:10:17.644572,,,,,,SY,SYR,,2018-04-12 07:37:50.354326
+(Lattakia Governorate),eu-eeas-sanctions.105954,2018-05-01 01:10:17.794558,,,,,,SY,SYR,,2018-04-12 07:37:50.213331
+,eu-eeas-sanctions.106750,2018-05-01 01:10:17.836578,,,,,,IQ,IRQ,,2018-04-12 07:37:51.610061
+,eu-eeas-sanctions.106750,2018-05-01 01:10:17.908051,,,,,,SY,SYR,,2018-04-12 07:37:51.679575
+,eu-eeas-sanctions.106550,2018-05-01 01:10:17.957244,,,,,,SY,SYR,,2018-04-12 07:37:51.713447
+,eu-eeas-sanctions.107695,2018-05-01 01:10:18.195069,,,,,,EG,EGY,,2018-04-12 07:37:54.052234
+,eu-eeas-sanctions.107679,2018-05-01 01:10:18.570068,,,,,,LY,LBY,,2018-04-12 07:37:52.810546
+Damascus,eu-eeas-sanctions.115960,2018-05-01 01:10:21.310497,,,,"Barzeh Street
+4470",,,,,2018-04-12 07:38:00.298660
+"Pyongyang (Tonghun-dong, Chung-gu)",eu-eeas-sanctions.107840,2018-05-01 01:10:18.625142,,,,"817, Haeum",,KP,PRK,,2018-04-12 07:37:55.580749
+"Pyongyang (Donghung-dong, Central District)",eu-eeas-sanctions.107840,2018-05-01 01:10:18.641319,,,,"817 Haeun,",,KP,PRK,,2018-04-12 07:37:55.605888
+Baghdad,eu-eeas-sanctions.230,2018-05-01 01:05:34.425896,,,,Rashid Street,,IQ,IRQ,,2018-04-12 07:35:51.549474
+Mosul,eu-eeas-sanctions.230,2018-05-01 01:05:34.876313,,,,,,IQ,IRQ,,2018-04-12 07:35:51.616053
+,eu-eeas-sanctions.461,2018-05-01 01:05:37.929943,,,,,,LY,LBY,,2018-04-12 07:35:40.971997
+Peshawar,eu-eeas-sanctions.327,2018-05-01 01:05:38.130330,,,,"office locations: Headquarters — G. T. Road (probably Grand Trunk Road), near Pushtoon Garhi Pabbi",,PK,PAK,,2018-04-12 07:35:39.056728
+Peshawar,eu-eeas-sanctions.485,2018-05-01 01:05:38.219264,,,,"Jordan house No 125, Street 54, Phase II Hayatabad.",,PK,PAK,,2018-04-12 07:35:40.280008
+Jalabad,eu-eeas-sanctions.327,2018-05-01 01:05:38.227877,,,,"Cheprahar Hadda, Mia Omar Sabaqah School",,AF,AFG,,2018-04-12 07:35:39.098270
+,eu-eeas-sanctions.485,2018-05-01 01:05:38.235820,,,,,,SA,SAU,,2018-04-12 07:35:40.321524
+,eu-eeas-sanctions.485,2018-05-01 01:05:38.252677,,,,,,KW,KWT,,2018-04-12 07:35:40.390954
+,eu-eeas-sanctions.485,2018-05-01 01:05:38.269202,,,,,,AE,ARE,,2018-04-12 07:35:40.455086
+,eu-eeas-sanctions.485,2018-05-01 01:05:38.286204,,,,,,AF,AFG,,2018-04-12 07:35:40.480048
+Al-Hudaydah,eu-eeas-sanctions.528,2018-05-01 01:08:04.855506,,,,"Jamal Street, Al-Dahima alley",,YE,YEM,,2018-04-12 07:35:41.432350
+,eu-eeas-sanctions.626,2018-05-01 01:09:45.420461,,,,,,QA,QAT,,2018-04-12 07:35:45.108734
+,eu-eeas-sanctions.703,2018-05-01 01:09:45.695893,,,,,,AF,AFG,,2018-04-12 07:35:46.348230
+Kabul,eu-eeas-sanctions.709,2018-05-01 01:09:45.813073,,,,Khairkhana Section Number 3,,AF,AFG,,2018-04-12 07:35:45.715083
+Kabul,eu-eeas-sanctions.832,2018-05-01 01:09:50.122906,,,,Street 13 Wazir Akbar Khan,,AF,AFG,,2018-04-12 07:35:47.398417
+,eu-eeas-sanctions.832,2018-05-01 01:09:50.155987,,,,,,PK,PAK,,2018-04-12 07:35:47.414889
+,eu-eeas-sanctions.969,2018-05-01 01:09:51.381530,,,,,,MA,MAR,,2018-04-12 07:35:52.474445
+Milan,eu-eeas-sanctions.1087,2018-05-01 01:09:55.813828,,,,"Via Cilea, 40 (domicile)",,IT,ITA,,2018-04-12 07:35:51.918686
+,eu-eeas-sanctions.1098,2018-05-01 01:09:56.272335,,,,,,DZ,DZA,,2018-04-12 07:35:53.851084
+Dar es Salaam,eu-eeas-sanctions.1106,2018-05-01 01:09:56.920512,,,,PO box 3616,,TZ,TZA,,2018-04-12 07:35:53.018004
+Tanga,eu-eeas-sanctions.1106,2018-05-01 01:09:56.937262,,,,,,TZ,TZA,,2018-04-12 07:35:53.034555
+Singida,eu-eeas-sanctions.1106,2018-05-01 01:09:56.953941,,,,,,TZ,TZA,,2018-04-12 07:35:53.090878
+Cinisello Balsamo (MI),eu-eeas-sanctions.1127,2018-05-01 01:09:57.115474,,,,"Via Fulvio Testi, 184",,IT,ITA,,2018-04-12 07:35:52.809852
+,eu-eeas-sanctions.1008,2018-05-01 01:09:57.821393,,,,,,IQ,IRQ,,2018-04-12 07:35:50.698770
+Karachi,eu-eeas-sanctions.1079,2018-05-01 01:09:59.005343,,,,"White House, Near Saudi Mosque, Clifton",,PK,PAK,,2018-04-12 07:35:51.301035
+Karachi,eu-eeas-sanctions.1079,2018-05-01 01:09:59.021777,,,,"House No 37 – 30th Street – defence, Housing Authority",,PK,PAK,,2018-04-12 07:35:51.367590
+Palatial bungalow in the hilly area of Noorabad in Karachi,eu-eeas-sanctions.1079,2018-05-01 01:09:59.038329,,,,,,PK,PAK,,2018-04-12 07:35:51.392535
+Baghdad,eu-eeas-sanctions.233,2018-05-01 01:05:35.084305,,,,Haifa Street,PO Box 7177,IQ,IRQ,,2018-04-12 07:35:39.246078
+Baghdad,eu-eeas-sanctions.233,2018-05-01 01:05:35.107622,,,,Al Masarif Street,,IQ,IRQ,,2018-04-12 07:35:39.331889
+,eu-eeas-sanctions.519,2018-05-01 01:07:43.170732,,,,,,US,USA,,2018-04-12 07:35:41.783098
+Kabul,eu-eeas-sanctions.640,2018-05-01 01:09:45.604114,,,,"Street 13, Wazir Akbar Khan",,AF,AFG,,2018-04-12 07:35:46.523549
+,eu-eeas-sanctions.698,2018-05-01 01:09:47.347079,,,,,,QA,QAT,,2018-04-12 07:35:45.415087
+,eu-eeas-sanctions.836,2018-05-01 01:09:50.955921,,,,,,JO,JOR,,2018-04-12 07:35:47.581601
+,eu-eeas-sanctions.1080,2018-05-01 01:09:51.564838,,,,,,DZ,DZA,,2018-04-12 07:35:51.684661
+Cremona,eu-eeas-sanctions.1095,2018-05-01 01:09:53.440317,,,,"Via Plebiscito, 3",,IT,ITA,,2018-04-12 07:35:50.934267
+Baghdad,eu-eeas-sanctions.1993,2018-05-01 01:09:55.663530,,,,"Near Andulus Square, off Nidal Street, P.O. Box 3270",,IQ,IRQ,,2018-04-12 07:35:53.416454
+,eu-eeas-sanctions.944,2018-05-01 01:09:55.935956,,,,,,DZ,DZA,,2018-04-12 07:35:49.531873
+Oak Lawn - Illinois,eu-eeas-sanctions.983,2018-05-01 01:09:56.239188,,,,"8820 Mobile Avenue, 1A",60453,US,USA,,2018-04-12 07:35:49.548634
+"Worth, Illinois",eu-eeas-sanctions.983,2018-05-01 01:09:56.255780,,,,PO box 548,60482,US,USA,,2018-04-12 07:35:49.617287
+"Palos Hills, Illinois",eu-eeas-sanctions.983,2018-05-01 01:09:56.272333,,,,"S. Roberts Road, Suite 1W",60465,US,USA,,2018-04-12 07:35:49.673914
+"Newark, New Jersey",eu-eeas-sanctions.983,2018-05-01 01:09:56.336197,,,,"20-24 Branford Place, Suite 705",07102,US,USA,,2018-04-12 07:35:49.698604
+Sulaymaniya,eu-eeas-sanctions.1089,2018-05-01 01:09:56.344629,,,,,,IQ,IRQ,,2018-04-12 07:35:50.815531
+Khartoum,eu-eeas-sanctions.983,2018-05-01 01:09:56.352780,,,,PO box 1937,,US,USA,,2018-04-12 07:35:49.715298
+Gaza Strip,eu-eeas-sanctions.983,2018-05-01 01:09:56.369468,,,,,,PS,PSE,,2018-04-12 07:35:49.731934
+,eu-eeas-sanctions.983,2018-05-01 01:09:56.439336,,,,,,YE,YEM,,2018-04-12 07:35:49.792242
+,eu-eeas-sanctions.983,2018-05-01 01:09:56.455927,,,,,,BD,BGD,,2018-04-12 07:35:49.857112
+,eu-eeas-sanctions.970,2018-05-01 01:09:56.778334,,,,,,TN,TUN,,2018-04-12 07:35:49.490351
+,eu-eeas-sanctions.1101,2018-05-01 01:09:56.787067,,,,,,DZ,DZA,,2018-04-12 07:35:53.530961
+Dubai,eu-eeas-sanctions.1987,2018-05-01 01:09:56.820194,,,,"Ibrahim Saeed Lootah Building, Al Ramool Street, P.O. Box 10631",,AE,ARE,,2018-04-12 07:35:52.127118
+Dubai,eu-eeas-sanctions.1987,2018-05-01 01:09:56.878582,,,,"Rashidiya, 638",,AE,ARE,,2018-04-12 07:35:52.193558
+Dubai,eu-eeas-sanctions.1987,2018-05-01 01:09:56.895203,,,,"Lootah Building, Airport Road, near Aviation Club, Rashidya",,AE,ARE,,2018-04-12 07:35:52.209972
+Baghdad,eu-eeas-sanctions.1987,2018-05-01 01:09:56.911773,,,,Villa in the Harasiyah area,,IQ,IRQ,,2018-04-12 07:35:52.274711
+Kut,eu-eeas-sanctions.2014,2018-05-01 01:09:57.106956,,,,Ahrar,,IQ,IRQ,,2018-04-12 07:35:54.677322
+Baghdad,eu-eeas-sanctions.1996,2018-05-01 01:09:57.298594,,,,"Khulafa Street, Khulafa Square",,IQ,IRQ,,2018-04-12 07:35:52.467233
+Baghdad,eu-eeas-sanctions.1983,2018-05-01 01:09:57.821371,,,,"Sadoon St, Al-Ani Building, first floor",,IQ,IRQ,,2018-04-12 07:35:54.583529
+office locations: Pakistan,eu-eeas-sanctions.480,2018-05-01 01:05:36.594181,,,,,,PK,PAK,,2018-04-12 07:35:39.904644
+office locations Afghanistan,eu-eeas-sanctions.480,2018-05-01 01:05:36.719370,,,,,,AF,AFG,,2018-04-12 07:35:39.921056
+Baghdad/Bagdad,eu-eeas-sanctions.234,2018-05-01 01:05:36.967599,,,,Rashid Street,,IQ,IRQ,,2018-04-12 07:35:38.564630
+,eu-eeas-sanctions.234,2018-05-01 01:05:37.052897,,,,offices,,JO,JOR,,2018-04-12 07:35:38.823493
+,eu-eeas-sanctions.234,2018-05-01 01:05:37.117661,,,,offices,,GB,GBR,,2018-04-12 07:35:38.839792
+,eu-eeas-sanctions.234,2018-05-01 01:05:37.134537,,,,offices,,AE,ARE,,2018-04-12 07:35:38.856450
+,eu-eeas-sanctions.234,2018-05-01 01:05:37.151077,,,,offices,,YE,YEM,,2018-04-12 07:35:38.873144
+,eu-eeas-sanctions.234,2018-05-01 01:05:37.168100,,,,offices,,SD,SDN,,2018-04-12 07:35:38.889828
+,eu-eeas-sanctions.234,2018-05-01 01:05:37.229246,,,,offices,,EG,EGY,,2018-04-12 07:35:38.906496
+,eu-eeas-sanctions.234,2018-05-01 01:05:37.246021,,,,offices,,IQ,IRQ,,2018-04-12 07:35:38.923234
+,eu-eeas-sanctions.382,2018-05-01 01:05:37.343370,,,,Ein el-Hilweh camp,,LB,LBN,,2018-04-12 07:35:38.964922
+Sana’a,eu-eeas-sanctions.533,2018-05-01 01:08:05.082231,,,,Shari Tunis,,YE,YEM,,2018-04-12 07:35:40.454574
+Kabul,eu-eeas-sanctions.651,2018-05-01 01:09:44.777834,,,,"Kushal Khan Mena, District Number 5",,AF,AFG,,2018-04-12 07:35:44.056905
+Tunis,eu-eeas-sanctions.927,2018-05-01 01:09:52.150421,,,,"23 50th Street, Zehrouni",,TN,TUN,,2018-04-12 07:35:47.806637
+,eu-eeas-sanctions.842,2018-05-01 01:09:53.842063,,,,,,QA,QAT,,2018-04-12 07:35:51.226201
+Lahore,eu-eeas-sanctions.471,2018-05-01 01:05:38.889251,,,,"Room 9A, Second Floor, Wahdat Road, Education Town",,PK,PAK,,2018-04-12 07:35:43.408191
+Lahore,eu-eeas-sanctions.471,2018-05-01 01:05:38.986573,,,,Wares Colony,,PK,PAK,,2018-04-12 07:35:43.481253
+TRIPOLI,eu-eeas-sanctions.537,2018-05-01 01:08:04.416334,,,,,,LY,LBY,,2018-04-12 07:35:42.453829
+,eu-eeas-sanctions.650,2018-05-01 01:09:45.629125,,,,,,QA,QAT,,2018-04-12 07:35:46.164945
+,eu-eeas-sanctions.931,2018-05-01 01:09:54.025340,,,,,,,,,2018-04-12 07:35:49.334080
+Milan,eu-eeas-sanctions.1083,2018-05-01 01:09:56.344609,,,,"Corso Lodi, 59",,IT,ITA,,2018-04-12 07:35:50.115790
+Selangor,eu-eeas-sanctions.1068,2018-05-01 01:09:56.544753,,,,Taman Bukit Ampang,,MY,MYS,,2018-04-12 07:35:50.273691
+,eu-eeas-sanctions.1068,2018-05-01 01:09:56.561413,,,,,,MY,MYS,,2018-04-12 07:35:50.290220
+Lahore,eu-eeas-sanctions.330,2018-05-01 01:05:35.618197,,,,Jamia Masjid Sulaiman Park Begum Pura,,PK,PAK,,2018-04-12 07:35:39.663123
+Karachi,eu-eeas-sanctions.330,2018-05-01 01:05:35.634754,,,,"Kitab Ghar, Darul Ifta Wal Irshad, Nazimbad No 4",,PK,PAK,,2018-04-12 07:35:39.746400
+Karachi,eu-eeas-sanctions.330,2018-05-01 01:05:35.643042,,,,"302b-40 Good Earth Court, Opposite Pia Planitarium, Block 13a, Gushan-I Iqbal",,PK,PAK,,2018-04-12 07:35:39.763125
+Karachi,eu-eeas-sanctions.330,2018-05-01 01:05:35.659838,,,,"Clifton Center, Block 5, 6th floor, Clifton, 617",,PK,PAK,,2018-04-12 07:35:39.779864
+Karachi,eu-eeas-sanctions.330,2018-05-01 01:05:35.676610,,,,"605 Landmark Plaza, 11 Chundrigar Road, Opposite Jang Building",,PK,PAK,,2018-04-12 07:35:39.830000
+Karachi,eu-eeas-sanctions.330,2018-05-01 01:05:35.693090,,,,"Kitas Ghar, Nazimabad 4, Dahgel-Iftah",,PK,PAK,,2018-04-12 07:35:39.896528
+Lahore,eu-eeas-sanctions.330,2018-05-01 01:05:35.793510,,,,"Jamia Maajid, Sulalman Park, Melgium Pura",,PK,PAK,,2018-04-12 07:35:39.913067
+Mansehra,eu-eeas-sanctions.330,2018-05-01 01:05:35.810141,,,,"Office Dha’rbi-M’unin, Opposite Khyber Bank, Abbottabad Road",,PK,PAK,,2018-04-12 07:35:39.931500
+Peshawar,eu-eeas-sanctions.330,2018-05-01 01:05:35.874927,,,,"Office Dha’rbi-M’unin ZR Brothers, Katcherry Road, Chowk Yadgaar",,PK,PAK,,2018-04-12 07:35:39.954771
+Rawalpindi,eu-eeas-sanctions.330,2018-05-01 01:05:35.891433,,,,"Office Dha’rbi-M’unin, Rm No. 3, Moti Plaza, Near Liaquat Bagh, Muree Road",,PK,PAK,,2018-04-12 07:35:40.024301
+Swat,eu-eeas-sanctions.330,2018-05-01 01:05:35.976591,,,,"Office Dha’rbi-M’unin, Top Floor, Dr. Dawa Khan Dental Clinic Surgeon, Main Baxae,Mingora",,PK,PAK,,2018-04-12 07:35:40.154966
+,eu-eeas-sanctions.459,2018-05-01 01:05:36.168943,,,,,,PK,PAK,,2018-04-12 07:35:39.340858
+,eu-eeas-sanctions.550,2018-05-01 01:08:19.234422,,,,,,SO,SOM,,2018-04-12 07:35:42.815314
+Travnik,eu-eeas-sanctions.924,2018-05-01 01:09:56.263990,,,,"Poturmahala, 64",,BA,BIH,,2018-04-12 07:35:49.620650
+Kandahar City,eu-eeas-sanctions.460,2018-05-01 01:05:34.884329,,,,,,AF,AFG,,2018-04-12 07:35:39.621038
+,eu-eeas-sanctions.604,2018-05-01 01:09:44.403259,,,,,,JO,JOR,,2018-04-12 07:35:45.223084
+Spinadesco (CR),eu-eeas-sanctions.929,2018-05-01 01:09:52.889964,,,,"Via Milano, 38",,IT,ITA,,2018-04-12 07:35:48.323428
+Baghdad,eu-eeas-sanctions.2002,2018-05-01 01:09:55.997219,,,,"P.O. Box 1058, Al-Masbah, Building 4/356",,IQ,IRQ,,2018-04-12 07:35:54.493816
+Milano,eu-eeas-sanctions.1083,2018-05-01 01:09:56.361217,,,,59 Corso Lodi,,IT,ITA,,2018-04-12 07:35:50.132399
+Baghdad,eu-eeas-sanctions.2073,2018-05-01 01:09:56.656266,,,,"Khullani Street, P.O. Box 248",,IQ,IRQ,,2018-04-12 07:35:55.119130
+Baghdad,eu-eeas-sanctions.2073,2018-05-01 01:09:56.673188,,,,"Aman Building, Khullani Square",,IQ,IRQ,,2018-04-12 07:35:55.143917
+,eu-eeas-sanctions.1924,2018-05-01 01:09:56.756905,,,,,,IQ,IRQ,,2018-04-12 07:35:53.818786
+Babylon,eu-eeas-sanctions.2102,2018-05-01 01:09:56.786886,,,,Mussayib Establishment,,IQ,IRQ,,2018-04-12 07:35:58.142477
+Sana'a,eu-eeas-sanctions.1102,2018-05-01 01:09:56.828353,,,,P.O. Box 8096,,YE,YEM,,2018-04-12 07:35:51.151313
+,eu-eeas-sanctions.1926,2018-05-01 01:09:57.012071,,,,,,IQ,IRQ,,2018-04-12 07:35:52.009988
+Iskandariya-Babylon,eu-eeas-sanctions.2121,2018-05-01 01:09:57.106965,,,,P.O. Box 138,,IQ,IRQ,,2018-04-12 07:35:53.441626
+Baghdad,eu-eeas-sanctions.2020,2018-05-01 01:09:57.307068,,,,"P.O. Box 329, Bab Al Mouadham-Midan",,IQ,IRQ,,2018-04-12 07:35:52.701601
+Baghdad,eu-eeas-sanctions.2020,2018-05-01 01:09:57.323711,,,,"P.O. Box 2261, Allque, Irkheta, Karada Al-Shakira",,IQ,IRQ,,2018-04-12 07:35:52.766878
+Baghdad,eu-eeas-sanctions.2142,2018-05-01 01:09:57.682500,,,,"Karantina, near Sarafiya Bridge",,IQ,IRQ,,2018-04-12 07:35:58.367697
+Baghdad,eu-eeas-sanctions.2163,2018-05-01 01:09:58.004469,,,,"P.O. Box 2379, Muaskar Al Rashid Road",,IQ,IRQ,,2018-04-12 07:35:55.544957
+Baghdad,eu-eeas-sanctions.2182,2018-05-01 01:09:58.115883,,,,"Saadoun St., P.O. Box 3164",,IQ,IRQ,,2018-04-12 07:35:54.207915
+Baghdad,eu-eeas-sanctions.2161,2018-05-01 01:09:58.116128,,,,"P.O. Box 5824, Jumhuriya Street",,IQ,IRQ,,2018-04-12 07:35:54.983324
+Maysan,eu-eeas-sanctions.2053,2018-05-01 01:09:58.282981,,,,"P.O. Box 9, Amara",,IQ,IRQ,,2018-04-12 07:35:57.383915
+Maysan,eu-eeas-sanctions.2053,2018-05-01 01:09:58.349614,,,,P.O. Box 3028,,IQ,IRQ,,2018-04-12 07:35:57.400613
+,eu-eeas-sanctions.2100,2018-05-01 01:09:58.479835,,,,Dujail - Salah Eldin,,IQ,IRQ,,2018-04-12 07:35:53.722857
+Dujail - Salah Eldin,eu-eeas-sanctions.2100,2018-05-01 01:09:58.599775,,,,,,IQ,IRQ,,2018-04-12 07:35:53.817006
+Baghdad,eu-eeas-sanctions.2123,2018-05-01 01:09:58.712920,,,,"Jumhiriya St., Khullani Square, P.O. Box 5424",,IQ,IRQ,,2018-04-12 07:35:53.627080
+Baghdad,eu-eeas-sanctions.2140,2018-05-01 01:09:58.838628,,,,"Amiriya, Abu Gharib, P.O. Box 6161",,IQ,IRQ,,2018-04-12 07:35:53.824374
+Amsterdam,eu-eeas-sanctions.2220,2018-05-01 01:09:58.838287,,,,"Jan Hanzenstraat, 114",1053 SV,NL,NLD,,2018-04-12 07:35:54.693404
+Nisan,eu-eeas-sanctions.2140,2018-05-01 01:09:58.871822,,,,"P.O. Box 6061, Aamrlya 7",,IQ,IRQ,,2018-04-12 07:35:53.841099
+Baghdad,eu-eeas-sanctions.2140,2018-05-01 01:09:58.933230,,,,"P.O. Box 609, Al-Sadoon St",,IQ,IRQ,,2018-04-12 07:35:53.857811
+Al-Najaf,eu-eeas-sanctions.2164,2018-05-01 01:09:59.200221,,,,Manadhira,,IQ,IRQ,,2018-04-12 07:35:55.536082
+Geneva,eu-eeas-sanctions.1896,2018-05-01 01:09:59.355407,,,,,,CH,CHE,,2018-04-12 07:35:53.107832
+Genève,eu-eeas-sanctions.1896,2018-05-01 01:09:59.371826,,,,,,CH,CHE,,2018-04-12 07:35:53.124527
+Genf,eu-eeas-sanctions.1896,2018-05-01 01:09:59.388827,,,,,,CH,CHE,,2018-04-12 07:35:53.141282
+Ginevra,eu-eeas-sanctions.1896,2018-05-01 01:09:59.405351,,,,,,CH,CHE,,2018-04-12 07:35:53.157918
+,eu-eeas-sanctions.1923,2018-05-01 01:09:59.692107,,,,,,IQ,IRQ,,2018-04-12 07:35:53.722846
+Al Hassaka Al Azizeh,eu-eeas-sanctions.1984,2018-05-01 01:09:59.847691,,,,P.O. Box 46,,IQ,IRQ,,2018-04-12 07:35:54.493863
+,eu-eeas-sanctions.481,2018-05-01 01:05:37.167843,,,,,,DZ,DZA,,2018-04-12 07:35:52.834810
+,eu-eeas-sanctions.481,2018-05-01 01:05:37.237493,,,,,,ML,MLI,,2018-04-12 07:35:52.851394
+,eu-eeas-sanctions.450,2018-05-01 01:05:37.246003,,,,,,PK,PAK,,2018-04-12 07:35:39.437631
+,eu-eeas-sanctions.481,2018-05-01 01:05:37.301749,,,,,,MR,MRT,,2018-04-12 07:35:52.916127
+,eu-eeas-sanctions.481,2018-05-01 01:05:37.326737,,,,,,MA,MAR,,2018-04-12 07:35:52.932850
+,eu-eeas-sanctions.481,2018-05-01 01:05:37.351817,,,,,,NE,NER,,2018-04-12 07:35:52.949411
+,eu-eeas-sanctions.481,2018-05-01 01:05:37.421181,,,,,,TN,TUN,,2018-04-12 07:35:53.009922
+,eu-eeas-sanctions.326,2018-05-01 01:05:37.902415,,,,,,PH,PHL,,2018-04-12 07:35:40.180149
+Cremona,eu-eeas-sanctions.1085,2018-05-01 01:09:52.639529,,,,"Via Bertesi, 27",,IT,ITA,,2018-04-12 07:35:52.018092
+Cremona,eu-eeas-sanctions.1085,2018-05-01 01:09:52.764380,,,,"Via Plebiscito, 3",,IT,ITA,,2018-04-12 07:35:52.084445
+,eu-eeas-sanctions.937,2018-05-01 01:09:54.058643,,,,,,TN,TUN,,2018-04-12 07:35:48.740383
+,eu-eeas-sanctions.1925,2018-05-01 01:09:54.441698,,,,,,IQ,IRQ,,2018-04-12 07:35:51.834871
+Baghdad,eu-eeas-sanctions.1997,2018-05-01 01:09:55.919991,,,,"The White Palace, Al Nidhal Street, P.O. Box 5157",,IQ,IRQ,,2018-04-12 07:35:54.991213
+Qadisiya,eu-eeas-sanctions.2010,2018-05-01 01:09:56.136031,,,,"P.O. Box 79, Diwaniya",,IQ,IRQ,,2018-04-12 07:35:54.668916
+Diwaniyah,eu-eeas-sanctions.2010,2018-05-01 01:09:56.152888,,,,P.O. Box 15,,IQ,IRQ,,2018-04-12 07:35:54.693793
+Baghdad,eu-eeas-sanctions.2023,2018-05-01 01:09:56.328125,,,,"P.O. Box 21035, General Ramadi Street, entrance of Agaruf Street",,IQ,IRQ,,2018-04-12 07:35:55.877765
+Baghdad,eu-eeas-sanctions.1989,2018-05-01 01:09:57.123359,,,,"P.O. Box 22055, Al-Shaikh Omar Street",,IQ,IRQ,,2018-04-12 07:35:54.693199
+Baghdad,eu-eeas-sanctions.2006,2018-05-01 01:09:57.228828,,,,P.O. Box 17041,,IQ,IRQ,,2018-04-12 07:35:52.074077
+Baghdad,eu-eeas-sanctions.2006,2018-05-01 01:09:57.298720,,,,"P.O. Box 17014, Al-Hurriya",,IQ,IRQ,,2018-04-12 07:35:52.090674
+Baghdad,eu-eeas-sanctions.2019,2018-05-01 01:09:57.403950,,,,"P.O. Box 170, entrance to Hurriyah City",,IQ,IRQ,,2018-04-12 07:35:52.651853
+Baghdad,eu-eeas-sanctions.2019,2018-05-01 01:09:57.420433,,,,"P.O. Box 17011, entrance of Huriah City",,IQ,IRQ,,2018-04-12 07:35:52.668257
+Baghdad,eu-eeas-sanctions.2114,2018-05-01 01:09:58.254970,,,,P.O. Box 5784,,IQ,IRQ,,2018-04-12 07:35:53.017911
+Baghdad,eu-eeas-sanctions.2125,2018-05-01 01:09:58.282640,,,,"Off Jumhuriya St/Building 166, Nafoora Square, P.O. Box 5796",,IQ,IRQ,,2018-04-12 07:35:53.241058
+Basrah,eu-eeas-sanctions.2125,2018-05-01 01:09:58.349442,,,,P.O. Box 230,,IQ,IRQ,,2018-04-12 07:35:53.257639
+Baghdad,eu-eeas-sanctions.2125,2018-05-01 01:09:58.366062,,,,"P.O. Box 14171 Jumhuriya St., Maidan Building No. 9",,IQ,IRQ,,2018-04-12 07:35:53.326487
+Baghdad,eu-eeas-sanctions.2047,2018-05-01 01:09:58.416511,,,,"Al Nawab Street, Khadhumiya, P.O. Box 9106",,IQ,IRQ,,2018-04-12 07:35:53.526681
+Kirkuk,eu-eeas-sanctions.2089,2018-05-01 01:09:58.838652,,,,"P.O. Box 265, Majzarah",,IQ,IRQ,,2018-04-12 07:35:53.816737
+Baghdad,eu-eeas-sanctions.2001,2018-05-01 01:09:59.898514,,,,P.O. Box 552,,IQ,IRQ,,2018-04-12 07:35:54.410119
+Baghdad,eu-eeas-sanctions.2028,2018-05-01 01:09:59.913988,,,,"P.O. Box 1033, Al-Tahreer Square, South Gate",,IQ,IRQ,,2018-04-12 07:35:53.034484
+,eu-eeas-sanctions.507,2018-05-01 01:05:35.199515,,,,,,,,,2018-04-12 07:35:40.296150
+Tangerang,eu-eeas-sanctions.1004,2018-05-01 01:09:53.791856,,,,"Jalan Nakula, Komplek Witana Harja III Blok C 106-107",,ID,IDN,,2018-04-12 07:35:50.698612
+Hay Anas Safi,eu-eeas-sanctions.939,2018-05-01 01:09:55.335349,,,,7 7th Street,,MA,MAR,,2018-04-12 07:35:49.617316
+Baghdad,eu-eeas-sanctions.1998,2018-05-01 01:09:55.903037,,,,"P.O. Box 5271, Khulafa Street, Khuilani Square",,IQ,IRQ,,2018-04-12 07:35:52.676117
+,eu-eeas-sanctions.1071,2018-05-01 01:09:56.110936,,,,,,PH,PHL,,2018-04-12 07:35:51.574065
+Sulaimaniya,eu-eeas-sanctions.2092,2018-05-01 01:09:56.786886,,,,"P.O. Box 1, Sarchina",,IQ,IRQ,,2018-04-12 07:35:52.916006
+Baghdad,eu-eeas-sanctions.1980,2018-05-01 01:09:56.920170,,,,"Baghdad International Airport, General Street",,IQ,IRQ,,2018-04-12 07:35:51.909444
+"Manzil Tmim, Nabeul",eu-eeas-sanctions.1097,2018-05-01 01:09:57.036900,,,,9 Libya Street,,TN,TUN,,2018-04-12 07:35:52.957686
+Fallouja,eu-eeas-sanctions.2024,2018-05-01 01:09:57.212088,,,,P.O. Box 21,,IQ,IRQ,,2018-04-12 07:35:55.927763
+Baghdad,eu-eeas-sanctions.2126,2018-05-01 01:09:57.228875,,,,"Ministry of Industry Building, Al Nidal St., P.O. Box 5614",,IQ,IRQ,,2018-04-12 07:35:53.216111
+Baghdad,eu-eeas-sanctions.2126,2018-05-01 01:09:57.298632,,,,"P.O. Box 3093, Tayaran Square",,IQ,IRQ,,2018-04-12 07:35:53.232720
+Baghdad,eu-eeas-sanctions.2128,2018-05-01 01:09:57.428826,,,,"P.O. Box 3296, near Aqaba Bin Nafa Square",,IQ,IRQ,,2018-04-12 07:35:53.833216
+Baghdad,eu-eeas-sanctions.2037,2018-05-01 01:09:57.482228,,,,"Baghdad International Fair, Al Mansour, P.O. Box 6188",,IQ,IRQ,,2018-04-12 07:35:52.908108
+Mosul,eu-eeas-sanctions.2059,2018-05-01 01:09:57.482231,,,,"P.O. Box 54, Al Ishraq-Ninawa",,IQ,IRQ,,2018-04-12 07:35:57.600689
+Basrah,eu-eeas-sanctions.2128,2018-05-01 01:09:57.490538,,,,P.O. Box 260,,IQ,IRQ,,2018-04-12 07:35:53.849982
+Baghdad,eu-eeas-sanctions.2043,2018-05-01 01:09:57.523891,,,,"P.O. Box 2339, Alwiyah, Za'Faraniya, Industrial Area",,IQ,IRQ,,2018-04-12 07:35:55.008602
+Baghdad,eu-eeas-sanctions.2069,2018-05-01 01:09:57.523830,,,,"P.O. Box 3210 Baghdad, Za'faraniya",,IQ,IRQ,,2018-04-12 07:35:53.599861
+Baghdad,eu-eeas-sanctions.2115,2018-05-01 01:09:57.907482,,,,"P.O. Box 22072, Al-Nahtha, near Sharki Baghdad Station",,IQ,IRQ,,2018-04-12 07:35:53.926934
+Baghdad,eu-eeas-sanctions.2158,2018-05-01 01:09:57.996081,,,,"P.O. Box 3095, Al Wahda District, Khalid Bin Al Waleed St.",,IQ,IRQ,,2018-04-12 07:35:54.196017
+Baghdad,eu-eeas-sanctions.2158,2018-05-01 01:09:58.012719,,,,"P.O. Box 3095, Andalus Square",,IQ,IRQ,,2018-04-12 07:35:54.216751
+Kut,eu-eeas-sanctions.2050,2018-05-01 01:09:58.099489,,,,"P.O. Box 5613, South Gate",,IQ,IRQ,,2018-04-12 07:35:55.126946
+Baghdad,eu-eeas-sanctions.2083,2018-05-01 01:09:58.610223,,,,Saddoun St.,,IQ,IRQ,,2018-04-12 07:35:53.635151
+Baghdad,eu-eeas-sanctions.2176,2018-05-01 01:09:58.621254,,,,"P.O. Box 9129, Taji/Kadimiya",,IQ,IRQ,,2018-04-12 07:35:54.110054
+Baghdad,eu-eeas-sanctions.2083,2018-05-01 01:09:58.629505,,,,"P.O. Box 5982, Al-Masbah",,IQ,IRQ,,2018-04-12 07:35:53.701972
+Baghdad,eu-eeas-sanctions.2146,2018-05-01 01:09:58.774772,,,,"Daura, P.O. Box 12014",,IQ,IRQ,,2018-04-12 07:35:54.191523
+Baghdad,eu-eeas-sanctions.2135,2018-05-01 01:09:59.055282,,,,"Khullani Square, Khulafa St",,IQ,IRQ,,2018-04-12 07:35:54.008639
+Najaf,eu-eeas-sanctions.2164,2018-05-01 01:09:59.183273,,,,"Abu Sukhair, P.O. Box 20",,IQ,IRQ,,2018-04-12 07:35:55.519425
+Quetta,eu-eeas-sanctions.505,2018-05-01 01:05:38.411173,,,,,,PK,PAK,,2018-04-12 07:35:39.795968
+"Kabul City, Kabul Province",eu-eeas-sanctions.505,2018-05-01 01:05:38.427789,,,,"Puli Charkhi Area, District Number 9",,AF,AFG,,2018-04-12 07:35:39.839655
+"Iltifat village, Shakardara District, Iltifat village (Kabul Province)",eu-eeas-sanctions.505,2018-05-01 01:05:38.444409,,,,,,AF,AFG,,2018-04-12 07:35:39.905908
+Baghdad,eu-eeas-sanctions.1992,2018-05-01 01:09:55.654848,,,,"P.O. Box 2009, Uqba Bin Nafia Square",,IQ,IRQ,,2018-04-12 07:35:54.301670
+"Jette, Brussels",eu-eeas-sanctions.943,2018-05-01 01:09:55.989056,,,,107/1 rue Léon Théodore,1090,BE,BEL,,2018-04-12 07:35:48.833699
+"Jette, Brussel",eu-eeas-sanctions.943,2018-05-01 01:09:56.005911,,,,107/1 Léon Theodorestraat,1090,BE,BEL,,2018-04-12 07:35:48.890066
+"Jette, Bruxelles",eu-eeas-sanctions.943,2018-05-01 01:09:56.022483,,,,107/1 rue Léon Théodore,1090,BE,BEL,,2018-04-12 07:35:48.906765
+Milan,eu-eeas-sanctions.1088,2018-05-01 01:09:56.344479,,,,"Corso XXII Marzo, 39",,IT,ITA,,2018-04-12 07:35:51.918699
+Milano,eu-eeas-sanctions.1088,2018-05-01 01:09:56.361105,,,,39 Corso XXII Marzo,,IT,ITA,,2018-04-12 07:35:51.944397
+Nassiriyah,eu-eeas-sanctions.2066,2018-05-01 01:09:56.439549,,,,P.O. Box 31,,IQ,IRQ,,2018-04-12 07:35:53.344525
+Arbil,eu-eeas-sanctions.2075,2018-05-01 01:09:56.673188,,,,P.O. Box 6,,IQ,IRQ,,2018-04-12 07:35:52.792996
+Baghdad,eu-eeas-sanctions.2034,2018-05-01 01:09:57.420624,,,,"Broadcasting & TV Building, Salihiya, Karkh",,IQ,IRQ,,2018-04-12 07:35:53.141098
+Baghdad,eu-eeas-sanctions.2041,2018-05-01 01:09:57.523969,,,,"28 Nissan Complex, Al Salihiya",,IQ,IRQ,,2018-04-12 07:35:54.983291
+Aamiriya,eu-eeas-sanctions.2018,2018-05-01 01:09:57.612509,,,,"P.O. Box 6061, Aamiriya, 7 Nisan",,IQ,IRQ,,2018-04-12 07:35:53.527136
+,eu-eeas-sanctions.2056,2018-05-01 01:09:57.821135,,,,,,CH,CHE,,2018-04-12 07:35:52.507360
+Diala,eu-eeas-sanctions.2009,2018-05-01 01:09:58.029660,,,,"P.O. Box 21, Baquba",,IQ,IRQ,,2018-04-12 07:35:52.907773
+Nasiriyah,eu-eeas-sanctions.2118,2018-05-01 01:09:58.349779,,,,P.O. Box 38,,IQ,IRQ,,2018-04-12 07:35:57.775547
+Mosul,eu-eeas-sanctions.2062,2018-05-01 01:09:58.416549,,,,P.O. Box 13,,IQ,IRQ,,2018-04-12 07:35:55.049922
+Baghdad,eu-eeas-sanctions.2097,2018-05-01 01:09:58.599952,,,,Sinak,,IQ,IRQ,,2018-04-12 07:35:55.233533
+Baghdad,eu-eeas-sanctions.2071,2018-05-01 01:09:58.705187,,,,"P.O. Box 12014, Al-Daura, Bayaa",,IQ,IRQ,,2018-04-12 07:35:52.684455
+Baghdad,eu-eeas-sanctions.2137,2018-05-01 01:09:58.799587,,,,"Northgate, Karanteena, P.O. Box 148",,IQ,IRQ,,2018-04-12 07:35:54.041415
+Baghdad,eu-eeas-sanctions.2108,2018-05-01 01:10:00.205841,,,,"Al Nidal Street (Baghdad), P.O. Box 5642-5760",,IQ,IRQ,,2018-04-12 07:35:55.294163
+Tunis,eu-eeas-sanctions.932,2018-05-01 01:09:54.649891,,,,"Ibn Al-Haythman Street, Manubah",,TN,TUN,,2018-04-12 07:35:49.673928
+Baghdad,eu-eeas-sanctions.2016,2018-05-01 01:09:56.336615,,,,"P.O. Box 21015, Battawin",,IQ,IRQ,,2018-04-12 07:35:53.018002
+Amman,eu-eeas-sanctions.1886,2018-05-01 01:09:56.528158,,,,,,JO,JOR,,2018-04-12 07:35:51.217642
+,eu-eeas-sanctions.925,2018-05-01 01:09:56.552955,,,,,,SO,SOM,,2018-04-12 07:35:48.540640
+,eu-eeas-sanctions.1020,2018-05-01 01:09:56.911722,,,,,,TN,TUN,,2018-04-12 07:35:53.026468
+Geneva,eu-eeas-sanctions.1920,2018-05-01 01:09:56.953501,,,,,,CH,CHE,,2018-04-12 07:35:51.574699
+Nairobi,eu-eeas-sanctions.1105,2018-05-01 01:09:56.961838,,,,,,KE,KEN,,2018-04-12 07:35:51.084201
+Genève,eu-eeas-sanctions.1920,2018-05-01 01:09:57.012080,,,,,,CH,CHE,,2018-04-12 07:35:51.600759
+Garissa,eu-eeas-sanctions.1105,2018-05-01 01:09:57.020270,,,,,,KE,KEN,,2018-04-12 07:35:51.100818
+Genf,eu-eeas-sanctions.1920,2018-05-01 01:09:57.028633,,,,,,CH,CHE,,2018-04-12 07:35:51.685339
+Dadaab,eu-eeas-sanctions.1105,2018-05-01 01:09:57.036887,,,,,,KE,KEN,,2018-04-12 07:35:51.117518
+Ginevra,eu-eeas-sanctions.1920,2018-05-01 01:09:57.045347,,,,,,CH,CHE,,2018-04-12 07:35:51.701421
+Baghdad,eu-eeas-sanctions.2007,2018-05-01 01:09:57.045244,,,,"P.O. Box 788, Al-Karradah Al-Sharkiya, Arasat Al-Hindiya no. 81, Building No 137/327",,IQ,IRQ,,2018-04-12 07:35:52.509428
+Mosul,eu-eeas-sanctions.2094,2018-05-01 01:09:57.932419,,,,Ninewa Governorate,,IQ,IRQ,,2018-04-12 07:35:52.940862
+Baghdad,eu-eeas-sanctions.1990,2018-05-01 01:09:57.941184,,,,P.O. Box 29041,,IQ,IRQ,,2018-04-12 07:35:52.766221
+Baghdad,eu-eeas-sanctions.2116,2018-05-01 01:09:58.254716,,,,"Street no. 52, Alwiya, P.O. Box 5738",,IQ,IRQ,,2018-04-12 07:35:55.485973
+Baghdad,eu-eeas-sanctions.2048,2018-05-01 01:09:58.254599,,,,"Karrada Al Sharkiya, Nadhimiya, P.O. Box 10026",,IQ,IRQ,,2018-04-12 07:35:57.217324
+Baghdad,eu-eeas-sanctions.2116,2018-05-01 01:09:58.282657,,,,"P.O. Box 1011, Basil Square",,IQ,IRQ,,2018-04-12 07:35:55.502771
+Baghdad,eu-eeas-sanctions.2048,2018-05-01 01:09:58.282721,,,,"P.O. Box 10026, Jumhuriya Street, Khallani Square",,IQ,IRQ,,2018-04-12 07:35:57.242271
+Baghdad,eu-eeas-sanctions.2116,2018-05-01 01:09:58.349339,,,,"P.O. Box 1011, Al Wathba Square",,IQ,IRQ,,2018-04-12 07:35:55.519436
+Baghdad,eu-eeas-sanctions.2049,2018-05-01 01:09:58.357541,,,,"P.O. Box 17, Al Masbah",,IQ,IRQ,,2018-04-12 07:35:55.127372
+Baghdad,eu-eeas-sanctions.2106,2018-05-01 01:09:58.408010,,,,"P.O. Box 26028, Waziriya, opp Al Bakr University",,IQ,IRQ,,2018-04-12 07:35:54.216552
+Baghdad,eu-eeas-sanctions.2106,2018-05-01 01:09:58.479842,,,,"P.O. Box 96101, Abu Nuvas St",,IQ,IRQ,,2018-04-12 07:35:54.293459
+Baghdad,eu-eeas-sanctions.2070,2018-05-01 01:09:58.600011,,,,"P.O. Box 3267, Saadoun Nafoora Square",,IQ,IRQ,,2018-04-12 07:35:56.666772
+Baghdad,eu-eeas-sanctions.2106,2018-05-01 01:09:58.600001,,,,"P.O. Box 26061, Al Wazeria",,IQ,IRQ,,2018-04-12 07:35:54.318384
+Wasst Muhafadha,eu-eeas-sanctions.2106,2018-05-01 01:09:58.621524,,,,Swaira-Hafria,,IQ,IRQ,,2018-04-12 07:35:54.383182
+Baghdad,eu-eeas-sanctions.2106,2018-05-01 01:09:58.637970,,,,"P.O. Box 1045, Waziriyah",,IQ,IRQ,,2018-04-12 07:35:54.401814
+,eu-eeas-sanctions.1086,2018-05-01 01:09:58.933228,,,,,,SO,SOM,,2018-04-12 07:35:50.290937
+Sulaimaniyah,eu-eeas-sanctions.2081,2018-05-01 01:10:00.076033,,,,P.O. Box 1,,IQ,IRQ,,2018-04-12 07:35:52.826210
+Baghdad,eu-eeas-sanctions.2132,2018-05-01 01:10:00.301444,,,,"P.O. Box 2301, Alwiya, Camp Sarah Khatoon",,IQ,IRQ,,2018-04-12 07:35:53.816659
+,eu-eeas-sanctions.926,2018-05-01 01:09:50.981717,,,,,,US,USA,,2018-04-12 07:35:49.417445
+,eu-eeas-sanctions.1077,2018-05-01 01:09:52.539610,,,,,,DZ,DZA,,2018-04-12 07:35:50.959374
+Milano,eu-eeas-sanctions.941,2018-05-01 01:09:53.207097,,,,"Via Masina, 7",,IT,ITA,,2018-04-12 07:35:49.217044
+Nuoro,eu-eeas-sanctions.1023,2018-05-01 01:09:53.833293,,,,,,IT,ITA,,2018-04-12 07:35:51.084256
+Ninevah,eu-eeas-sanctions.1991,2018-05-01 01:09:56.886989,,,,"P.O. Box 293, Ninevah",,IQ,IRQ,,2018-04-12 07:35:53.326871
+Baghdad,eu-eeas-sanctions.2107,2018-05-01 01:09:56.928743,,,,"P.O. Box 1118, Waziria",,IQ,IRQ,,2018-04-12 07:35:53.935138
+Baghdad,eu-eeas-sanctions.2107,2018-05-01 01:09:56.945198,,,,"P.O. Box 9145, Al-Kadhmiyah, Al-Taji",,IQ,IRQ,,2018-04-12 07:35:53.999867
+Baghdad,eu-eeas-sanctions.2107,2018-05-01 01:09:56.961920,,,,"4/356 Al Masbah Building, P.O. Box 1098",,IQ,IRQ,,2018-04-12 07:35:54.016425
+Basrah,eu-eeas-sanctions.1999,2018-05-01 01:09:57.123528,,,,"P.O. Box 274, Ashar",,IQ,IRQ,,2018-04-12 07:35:52.025968
+Baghdad,eu-eeas-sanctions.2017,2018-05-01 01:09:57.228880,,,,"Al Nidhal Street, near Saddoun Park, P.O. Box 109",,IQ,IRQ,,2018-04-12 07:35:52.209426
+Milla,eu-eeas-sanctions.2017,2018-05-01 01:09:57.306946,,,,,,IQ,IRQ,,2018-04-12 07:35:52.274176
+Basrah,eu-eeas-sanctions.2017,2018-05-01 01:09:57.323721,,,,,,IQ,IRQ,,2018-04-12 07:35:52.299080
+Kerbala,eu-eeas-sanctions.2017,2018-05-01 01:09:57.340270,,,,,,IQ,IRQ,,2018-04-12 07:35:52.315798
+Diwaniya,eu-eeas-sanctions.2017,2018-05-01 01:09:57.404079,,,,,,IQ,IRQ,,2018-04-12 07:35:52.376041
+Najaf,eu-eeas-sanctions.2017,2018-05-01 01:09:57.420540,,,,,,IQ,IRQ,,2018-04-12 07:35:52.392631
+Mosul,eu-eeas-sanctions.2017,2018-05-01 01:09:57.482244,,,,,,IQ,IRQ,,2018-04-12 07:35:52.449045
+Arbil,eu-eeas-sanctions.2017,2018-05-01 01:09:57.498788,,,,,,IQ,IRQ,,2018-04-12 07:35:52.465772
+,eu-eeas-sanctions.2061,2018-05-01 01:09:57.507197,,,,,,PA,PAN,,2018-04-12 07:35:57.695665
+Kirkuk,eu-eeas-sanctions.2017,2018-05-01 01:09:57.515551,,,,,,IQ,IRQ,,2018-04-12 07:35:52.482410
+Nasiriya,eu-eeas-sanctions.2017,2018-05-01 01:09:57.612671,,,,,,IQ,IRQ,,2018-04-12 07:35:52.499090
+Samawa,eu-eeas-sanctions.2017,2018-05-01 01:09:57.740738,,,,,,IQ,IRQ,,2018-04-12 07:35:52.515854
+Mukdadiya,eu-eeas-sanctions.2082,2018-05-01 01:09:57.749036,,,,6 Mukdadiya,,IQ,IRQ,,2018-04-12 07:35:56.816763
+Baquba,eu-eeas-sanctions.2017,2018-05-01 01:09:57.812803,,,,,,IQ,IRQ,,2018-04-12 07:35:52.574247
+Amara,eu-eeas-sanctions.2017,2018-05-01 01:09:57.829242,,,,,,IQ,IRQ,,2018-04-12 07:35:52.642859
+Sulaimaniya,eu-eeas-sanctions.2017,2018-05-01 01:09:57.845891,,,,,,IQ,IRQ,,2018-04-12 07:35:52.659485
+Dohuk,eu-eeas-sanctions.2017,2018-05-01 01:09:57.907573,,,,,,IQ,IRQ,,2018-04-12 07:35:52.676282
+Basrah,eu-eeas-sanctions.2147,2018-05-01 01:09:57.924184,,,,"Khor Al Zubair, P.O. Box 933",,IQ,IRQ,,2018-04-12 07:35:53.599534
+Basrah,eu-eeas-sanctions.2153,2018-05-01 01:09:57.940715,,,,"P.O. Box 248, Hartha District",,IQ,IRQ,,2018-04-12 07:35:53.701771
+Kut,eu-eeas-sanctions.2166,2018-05-01 01:09:58.275146,,,,"P.O. Box Aioroba, K 29 Oroba",,IQ,IRQ,,2018-04-12 07:35:54.008031
+Le Paquier-Montbarry,eu-eeas-sanctions.2052,2018-05-01 01:09:58.282810,,,,Chemin du Carmel,1661,CH,CHE,,2018-04-12 07:35:53.020926
+Nassiriyah,eu-eeas-sanctions.2127,2018-05-01 01:09:58.479867,,,,P.O. Box 44,,IQ,IRQ,,2018-04-12 07:35:54.558400
+Baghdad,eu-eeas-sanctions.2137,2018-05-01 01:09:58.846428,,,,"Al-Muadham, near Engineering College, P.O. Box 14186",,IQ,IRQ,,2018-04-12 07:35:54.110339
+Iskandariya,eu-eeas-sanctions.2150,2018-05-01 01:09:58.846892,,,,P.O. Box 5763,,IQ,IRQ,,2018-04-12 07:35:54.008456
+Iskandariyah-Babylon Governate,eu-eeas-sanctions.2150,2018-05-01 01:09:58.871887,,,,P.O. Box 367,,IQ,IRQ,,2018-04-12 07:35:54.024991
+Baghdad,eu-eeas-sanctions.2185,2018-05-01 01:09:59.071788,,,,"P.O. Box 526, Baghdad/Alwyiyah Kadhmiyah/Taji",,IQ,IRQ,,2018-04-12 07:35:54.191322
+"Bridgeview, Illinois",eu-eeas-sanctions.980,2018-05-01 01:09:55.635290,,,,"9935 South 76th Avenue, Unit 1",60455,US,USA,,2018-04-12 07:35:52.651816
+"Bridgeview, Illinois",eu-eeas-sanctions.980,2018-05-01 01:09:55.664244,,,,,PO Box 1406 - 60455,US,USA,,2018-04-12 07:35:52.676530
+Baghdad,eu-eeas-sanctions.2012,2018-05-01 01:09:56.119447,,,,"Karh - Otaefia, near Steel Bridge",,IQ,IRQ,,2018-04-12 07:35:55.335871
+Parma,eu-eeas-sanctions.1092,2018-05-01 01:09:56.327902,,,,"Via della Martinella, 132",,IT,ITA,,2018-04-12 07:35:53.227252
+Ruggell,eu-eeas-sanctions.1994,2018-05-01 01:09:57.020379,,,,,,LI,LIE,,2018-04-12 07:35:51.909466
+Geneva,eu-eeas-sanctions.1894,2018-05-01 01:09:57.123391,,,,,,CH,CHE,,2018-04-12 07:35:52.932789
+Genève,eu-eeas-sanctions.1894,2018-05-01 01:09:57.140117,,,,,,CH,CHE,,2018-04-12 07:35:52.949460
+Genf,eu-eeas-sanctions.1894,2018-05-01 01:09:57.212016,,,,,,CH,CHE,,2018-04-12 07:35:53.009964
+Ginevra,eu-eeas-sanctions.1894,2018-05-01 01:09:57.228709,,,,,,CH,CHE,,2018-04-12 07:35:53.026576
+Idleb,eu-eeas-sanctions.2029,2018-05-01 01:09:57.403971,,,,P.O. Box 9,,IQ,IRQ,,2018-04-12 07:35:52.709975
+Al Anbar,eu-eeas-sanctions.2136,2018-05-01 01:09:57.490525,,,,Ramadi,,IQ,IRQ,,2018-04-12 07:35:53.526486
+Baghdad,eu-eeas-sanctions.2044,2018-05-01 01:09:57.749036,,,,P.O. Box 548,,IQ,IRQ,,2018-04-12 07:35:52.440840
+Baghdad,eu-eeas-sanctions.2152,2018-05-01 01:09:57.899420,,,,"P.O. Box 5954, East Gate, Sadoon St.",,IQ,IRQ,,2018-04-12 07:35:55.486418
+Mosul,eu-eeas-sanctions.2063,2018-05-01 01:09:57.907566,,,,P.O. Box 18,,IQ,IRQ,,2018-04-12 07:35:53.020910
+Baghdad,eu-eeas-sanctions.2152,2018-05-01 01:09:57.915622,,,,"P.O. Box 5954, South Gate, Al-Kaim, Anbar",,IQ,IRQ,,2018-04-12 07:35:55.503176
+Baghdad,eu-eeas-sanctions.2085,2018-05-01 01:09:57.924236,,,,"P.O. Box 14186, Baghdad-Bab-Al-Mu'adham, near Engineering College",,IQ,IRQ,,2018-04-12 07:35:53.222464
+Baghdad,eu-eeas-sanctions.2160,2018-05-01 01:09:58.124218,,,,"Al Zawria Building, Al Hindiya, P.O. Box 5856",,IQ,IRQ,,2018-04-12 07:35:54.918702
+Baghdad,eu-eeas-sanctions.2160,2018-05-01 01:09:58.254599,,,,"P.O. Box 5817, Al-Nidhal St.",,IQ,IRQ,,2018-04-12 07:35:54.983291
+Baghdad,eu-eeas-sanctions.2169,2018-05-01 01:09:58.365935,,,,"Al Masbah Area, Aqaba Ibn Nafaa Square",,IQ,IRQ,,2018-04-12 07:35:54.318583
+Baghdad,eu-eeas-sanctions.2169,2018-05-01 01:09:58.407736,,,,"P.O. Box 322, Al-Masbah",,IQ,IRQ,,2018-04-12 07:35:54.383388
+Baghdad,eu-eeas-sanctions.2124,2018-05-01 01:09:58.479832,,,,"P.O. Box 2101, Masbeh Square",,IQ,IRQ,,2018-04-12 07:35:53.107564
+Baghdad,eu-eeas-sanctions.2179,2018-05-01 01:09:58.479809,,,,"P.O. Box 1113, Khalid Ibn Al-Waleed St.",,IQ,IRQ,,2018-04-12 07:35:54.558610
+Baghdad,eu-eeas-sanctions.2110,2018-05-01 01:09:58.713434,,,,"Zafaraniya Area, near Post Office",,IQ,IRQ,,2018-04-12 07:35:56.874939
+Baghdad,eu-eeas-sanctions.2131,2018-05-01 01:09:58.766715,,,,"P.O. Box 5689, Sara Khatoon Camp",,IQ,IRQ,,2018-04-12 07:35:53.432798
+Baghdad,eu-eeas-sanctions.2110,2018-05-01 01:09:58.774921,,,,"P.O. Box 3073, Karadde Charkieya/Erkhaita",,IQ,IRQ,,2018-04-12 07:35:56.891766
+Baghdad,eu-eeas-sanctions.2131,2018-05-01 01:09:58.783185,,,,"P.O. Box 2108, Al-Za'afaraniya",,IQ,IRQ,,2018-04-12 07:35:53.449458
+Baghdad,eu-eeas-sanctions.2157,2018-05-01 01:09:59.030163,,,,Khullani St,,IQ,IRQ,,2018-04-12 07:35:54.693527
+Mosul,eu-eeas-sanctions.2064,2018-05-01 01:10:00.034158,,,,"P.O. Box 42, Gizlany Street",,IQ,IRQ,,2018-04-12 07:35:55.168403
+Baghdad,eu-eeas-sanctions.2103,2018-05-01 01:10:00.181040,,,,"P.O. Box 190, Al-Waziriyah, Safi El-Din, Al-Hilli St.",,IQ,IRQ,,2018-04-12 07:35:53.026341
+Hamburg,eu-eeas-sanctions.965,2018-05-01 01:09:54.441136,,,,"Bunatwiete, 23",D-21073,DE,DEU,,2018-04-12 07:35:51.574355
+,eu-eeas-sanctions.923,2018-05-01 01:09:55.154722,,,,,,US,USA,,2018-04-12 07:35:52.466118
+,eu-eeas-sanctions.1016,2018-05-01 01:09:55.919133,,,,,,IT,ITA,,2018-04-12 07:35:50.857211
+Dhaka,eu-eeas-sanctions.2004,2018-05-01 01:09:56.953467,,,,"House 1, Road 1, S-6, Uttara",,BD,BGD,,2018-04-12 07:35:55.293530
+Jakarta Timur,eu-eeas-sanctions.1103,2018-05-01 01:09:57.045601,,,,"Jalan Laut Sulawesi Blok DII/4, Kavling Angkatan Laut Duren Sawit",13440,ID,IDN,,2018-04-12 07:35:52.915872
+Nassiriyah,eu-eeas-sanctions.2022,2018-05-01 01:09:57.237188,,,,P.O. Box 113,,IQ,IRQ,,2018-04-12 07:35:55.727831
+Baghdad,eu-eeas-sanctions.2143,2018-05-01 01:09:57.749073,,,,"Karrada Al Sharkiya, Hurriya Square, P.O. Box 3079",,IQ,IRQ,,2018-04-12 07:35:54.126898
+Baghdad,eu-eeas-sanctions.2113,2018-05-01 01:09:57.837597,,,,"P.O. Box 19036, Al Nahda Area",,IQ,IRQ,,2018-04-12 07:35:55.361395
+Baghdad,eu-eeas-sanctions.2156,2018-05-01 01:09:58.004428,,,,"P.O. Box 2330, Aiwiya, Unknown Soldier",,IQ,IRQ,,2018-04-12 07:35:54.211421
+Baghdad,eu-eeas-sanctions.2046,2018-05-01 01:09:58.012610,,,,"P.O. Box 5642, Al Masbah, Hay Babile Area, 29 Street 16 Building no. 5",,IQ,IRQ,,2018-04-12 07:35:56.491622
+Baghdad,eu-eeas-sanctions.2173,2018-05-01 01:09:58.099333,,,,P.O. Box 602-5720,,IQ,IRQ,,2018-04-12 07:35:54.007998
+Pré Saint Gervais,eu-eeas-sanctions.1084,2018-05-01 01:09:58.166479,,,,41-45 Rue Estienne d’Orves,,FR,FRA,,2018-04-12 07:35:52.117622
+Babylon,eu-eeas-sanctions.2088,2018-05-01 01:09:58.766686,,,,"P.O. Box 11230, Hindiya",,IQ,IRQ,,2018-04-12 07:35:53.222464
+,eu-eeas-sanctions.2325,2018-05-01 01:09:58.838287,,,,,,,,,2018-04-12 07:35:54.975427
+Sidi Mesoud,eu-eeas-sanctions.2325,2018-05-01 01:09:58.863409,,,,Salam Marnaq Ben Arous district,,TN,TUN,,2018-04-12 07:35:54.991975
+Samara,eu-eeas-sanctions.2133,2018-05-01 01:09:58.871875,,,,P.O. Box 271,,IQ,IRQ,,2018-04-12 07:35:53.927235
+Baghdad,eu-eeas-sanctions.2175,2018-05-01 01:09:58.941372,,,,"Khalid Al Bin Al Waleed St., P.O. Box 414",,IQ,IRQ,,2018-04-12 07:35:55.143521
+Kut (Wasit Province),eu-eeas-sanctions.2140,2018-05-01 01:09:59.005370,,,,P.O. Box 27,,IQ,IRQ,,2018-04-12 07:35:53.926598
+Basrah,eu-eeas-sanctions.2165,2018-05-01 01:09:59.013453,,,,"P.O. Box 352, Um Qasr",,IQ,IRQ,,2018-04-12 07:35:55.041527
+Baghdad,eu-eeas-sanctions.2183,2018-05-01 01:09:59.021738,,,,"Arasat Al Hindya St., Salman Daoud Al Haydar Building, P.O. Box 602",,IQ,IRQ,,2018-04-12 07:35:55.302227
+Baghdad,eu-eeas-sanctions.2171,2018-05-01 01:09:59.063287,,,,"P.O. Box 26, Rashid Street",,IQ,IRQ,,2018-04-12 07:35:55.661805
+Geneva,eu-eeas-sanctions.1898,2018-05-01 01:09:59.692096,,,,,,CH,CHE,,2018-04-12 07:35:51.384138
+Genève,eu-eeas-sanctions.1898,2018-05-01 01:09:59.708582,,,,,,CH,CHE,,2018-04-12 07:35:51.400761
+Genf,eu-eeas-sanctions.1898,2018-05-01 01:09:59.725544,,,,,,CH,CHE,,2018-04-12 07:35:51.417534
+Ginevra,eu-eeas-sanctions.1898,2018-05-01 01:09:59.742171,,,,,,CH,CHE,,2018-04-12 07:35:51.434247
+Baghdad,eu-eeas-sanctions.2168,2018-05-01 01:10:00.301444,,,,Eastern Karrda,,IQ,IRQ,,2018-04-12 07:35:57.783695
+Baghdad,eu-eeas-sanctions.2173,2018-05-01 01:09:58.115923,,,,"Al-Karradah Al Sharkiya, P.O. Box 5720",,IQ,IRQ,,2018-04-12 07:35:54.024638
+Baghdad,eu-eeas-sanctions.2221,2018-05-01 01:09:58.612878,,,,,,IQ,IRQ,,2018-04-12 07:35:55.686581
+,eu-eeas-sanctions.2221,2018-05-01 01:09:58.629617,,,,,,AE,ARE,,2018-04-12 07:35:55.711507
+Pyongyang,eu-eeas-sanctions.5493,2018-05-01 01:10:02.900854,,,,Pot’onggang District,,KP,PRK,,2018-04-12 07:36:11.213487
+Pyongyang,eu-eeas-sanctions.5493,2018-05-01 01:10:02.917527,,,,"Rakwon-dong, Pothonggang District",,KP,PRK,,2018-04-12 07:36:11.238195
+Tehran,eu-eeas-sanctions.5714,2018-05-01 01:10:04.043484,,,,Pasadaran Av.,,IR,IRN,,2018-04-12 07:36:20.214705
+,eu-eeas-sanctions.5795,2018-05-01 01:10:04.544051,,,,,,PK,PAK,,2018-04-12 07:36:17.826775
+Tunis - El Manar 2,eu-eeas-sanctions.6047,2018-05-01 01:10:04.935718,,,,23 rue Ali Zlitni,,TN,TUN,,2018-04-12 07:36:26.097749
+Tunis,eu-eeas-sanctions.6079,2018-05-01 01:10:04.952193,,,,41 Rue Garibaldi,,TN,TUN,,2018-04-12 07:36:19.564209
+Tehran,eu-eeas-sanctions.5760,2018-05-01 01:10:05.019301,,,,,,IR,IRN,,2018-04-12 07:36:17.193538
+Hammam-Sousse,eu-eeas-sanctions.6063,2018-05-01 01:10:05.106097,,,,17 avenue de la République,,TN,TUN,,2018-04-12 07:36:18.560857
+Rubavu (Mudende),eu-eeas-sanctions.5809,2018-05-01 01:10:05.656907,,,,,,RW,RWA,,2018-04-12 07:36:16.768743
+,eu-eeas-sanctions.6177,2018-05-01 01:10:05.656564,,,,,,YE,YEM,,2018-04-12 07:36:28.086526
+"Road Town, Tortola",eu-eeas-sanctions.6260,2018-05-01 01:10:05.673258,,,,"Woodbourne Hall
+3162",,VG,VGB,,2018-04-12 07:36:20.214751
+"Miralzei Village, Chaman, Baluchistan Province",eu-eeas-sanctions.6614,2018-05-01 01:10:09.130211,,,,Boghra Road,,PK,PAK,,2018-04-12 07:36:35.861484
+"Kalay Rangin, Spin Boldak District, Kandahar Province",eu-eeas-sanctions.6614,2018-05-01 01:10:09.155384,,,,,,AF,AFG,,2018-04-12 07:36:35.880883
+,eu-eeas-sanctions.6861,2018-05-01 01:10:09.475678,,,,,,KP,PRK,,2018-04-12 07:36:38.764954
+Misan,eu-eeas-sanctions.2170,2018-05-01 01:09:58.365929,,,,P.O. Box 16,,IQ,IRQ,,2018-04-12 07:35:54.387731
+Baghdad,eu-eeas-sanctions.2154,2018-05-01 01:09:58.479834,,,,"P.O. Box 5890, Alwiya, near Unknown Soldier, Saadoun Street",,IQ,IRQ,,2018-04-12 07:35:54.118833
+,eu-eeas-sanctions.2189,2018-05-01 01:09:58.704861,,,,,,AF,AFG,,2018-04-12 07:35:54.608501
+"Manzal Tmim, Nabul",eu-eeas-sanctions.2323,2018-05-01 01:09:59.200223,,,,4 Al-Habib Thamir Street,,TN,TUN,,2018-04-12 07:35:54.758520
+Az Zabadani,eu-eeas-sanctions.3085,2018-05-01 01:10:00.906738,,,,"Al-Shahid Street, Al-Mahata Neighbourhood",,SY,SYR,,2018-04-12 07:35:56.308744
+Nassiriyah,eu-eeas-sanctions.2188,2018-05-01 01:09:58.341063,,,,P.O. Box 108,,IQ,IRQ,,2018-04-12 07:35:54.589417
+Amman,eu-eeas-sanctions.2226,2018-05-01 01:09:59.150279,,,,"Al-Razi Medical Complex, Jabal Al-Hussein",,JO,JOR,,2018-04-12 07:35:55.661597
+,eu-eeas-sanctions.6106,2018-05-01 01:10:05.498123,,,,,,LY,LBY,,2018-04-12 07:36:25.131112
+Arbil,eu-eeas-sanctions.2187,2018-05-01 01:09:58.766505,,,,P.O. Box 101,,IQ,IRQ,,2018-04-12 07:35:55.327203
+Amman,eu-eeas-sanctions.2225,2018-05-01 01:09:58.838256,,,,P.O. Box 910606,11191,JO,JOR,,2018-04-12 07:35:55.878362
+Kinshasa,eu-eeas-sanctions.3181,2018-05-01 01:10:00.050775,,,,,,CD,COD,,2018-04-12 07:35:58.017028
+Kutum,eu-eeas-sanctions.3361,2018-05-01 01:10:00.350850,,,,,,SD,SDN,,2018-04-12 07:35:58.620419
+Kabkabiya,eu-eeas-sanctions.3361,2018-05-01 01:10:00.367551,,,,,,SD,SDN,,2018-04-12 07:35:58.645310
+Tehran,eu-eeas-sanctions.3846,2018-05-01 01:10:02.309167,,,,"Pasdaran Av., PO Box 19585/777",,IR,IRN,,2018-04-12 07:36:01.554402
+,eu-eeas-sanctions.5619,2018-05-01 01:10:03.605314,,,,,,SY,SYR,,2018-04-12 07:36:15.555048
+Amman,eu-eeas-sanctions.2193,2018-05-01 01:09:59.166756,,,,,,JO,JOR,,2018-04-12 07:35:55.494301
+Moroni,eu-eeas-sanctions.2442,2018-05-01 01:09:59.199895,,,,B/P: 1652,,KM,COM,,2018-04-12 07:35:56.316676
+Gisenyi,eu-eeas-sanctions.3186,2018-05-01 01:09:59.405406,,,,,,RW,RWA,,2018-04-12 07:35:56.700374
+,eu-eeas-sanctions.3224,2018-05-01 01:10:00.651392,,,,,,IQ,IRQ,,2018-04-12 07:35:57.267527
+Arbil — Qushtuba,eu-eeas-sanctions.3224,2018-05-01 01:10:00.668097,,,,"house no. SH 11, alley 5380",,IQ,IRQ,,2018-04-12 07:35:57.376095
+Tehran,eu-eeas-sanctions.3841,2018-05-01 01:10:02.428485,,,,"Pasdaran Av., PO Box 19585/777",,IR,IRN,,2018-04-12 07:35:59.070217
+,eu-eeas-sanctions.7174,2018-05-01 01:10:12.265378,,,,,,ML,MLI,,2018-04-12 07:36:44.687822
+Haditha,eu-eeas-sanctions.2181,2018-05-01 01:09:58.612797,,,,Haklanya,,IQ,IRQ,,2018-04-12 07:35:54.118338
+Baghdad,eu-eeas-sanctions.2162,2018-05-01 01:09:59.055263,,,,"P.O. Box 14007, Waziriya",,IQ,IRQ,,2018-04-12 07:35:54.302216
+Tine,eu-eeas-sanctions.3363,2018-05-01 01:10:00.459622,,,,,,SD,SDN,,2018-04-12 07:35:57.967732
+,eu-eeas-sanctions.5684,2018-05-01 01:10:03.909963,,,,P.O. Box 89195-678,Yazd,,,,2018-04-12 07:36:15.505269
+Cremona,eu-eeas-sanctions.3060,2018-05-01 01:09:59.363549,,,,Number 5/B viale Cambonino,,IT,ITA,,2018-04-12 07:35:56.310447
+"Kuwait City, Al-Riqqa area",eu-eeas-sanctions.2700,2018-05-01 01:09:59.363722,,,,"Block Four, Street 13, House No 179",,KW,KWT,,2018-04-12 07:35:55.928276
+Bludan,eu-eeas-sanctions.3082,2018-05-01 01:09:59.430179,,,,,,SY,SYR,,2018-04-12 07:35:55.894500
+Baghdad,eu-eeas-sanctions.3082,2018-05-01 01:09:59.500352,,,,"Mutanabi Area, Al Monsur",,IQ,IRQ,,2018-04-12 07:35:55.911171
+"Al Monsur, Baghdad",eu-eeas-sanctions.3082,2018-05-01 01:09:59.516879,,,,Mutanabi Area,,IQ,IRQ,,2018-04-12 07:35:55.927905
+,eu-eeas-sanctions.3188,2018-05-01 01:10:00.059132,,,,,,DE,DEU,,2018-04-12 07:35:56.483171
+"Az Zabadani, Damascus",eu-eeas-sanctions.3084,2018-05-01 01:09:59.725588,,,,Fuad Dawod Farm,,SY,SYR,,2018-04-12 07:35:56.325331
+(Sulu region),eu-eeas-sanctions.3229,2018-05-01 01:09:59.733934,,,,,,PH,PHL,,2018-04-12 07:35:57.695379
+Damascus,eu-eeas-sanctions.3084,2018-05-01 01:09:59.741994,,,,"Fuad Dawod Farm, Az Zabadani",,SY,SYR,,2018-04-12 07:35:56.443402
+Beirut,eu-eeas-sanctions.3084,2018-05-01 01:09:59.758716,,,,,,LB,LBN,,2018-04-12 07:35:56.459087
+East London,eu-eeas-sanctions.3700,2018-05-01 01:10:00.026160,,,,,,GB,GBR,,2018-04-12 07:35:59.053935
+"Goma, North Kivu",eu-eeas-sanctions.3196,2018-05-01 01:10:00.172703,,,,,,CD,COD,,2018-04-12 07:35:56.492289
+,eu-eeas-sanctions.3190,2018-05-01 01:10:00.350872,,,,,,CD,COD,,2018-04-12 07:35:56.516708
+"Concepcion, Zaragosa, Nueva Ecija",eu-eeas-sanctions.5260,2018-05-01 01:10:01.975023,,,,,,PH,PHL,,2018-04-12 07:36:11.438079
+,eu-eeas-sanctions.5294,2018-05-01 01:10:02.125479,,,,,,DZ,DZA,,2018-04-12 07:36:09.629456
+Karachi,eu-eeas-sanctions.5498,2018-05-01 01:10:02.684059,,,,"House Number 136, KDA Scheme No.1, Tipu Sulatan Road",,PK,PAK,,2018-04-12 07:36:12.486201
+Pyongyang,eu-eeas-sanctions.5502,2018-05-01 01:10:02.725675,,,,,,KP,PRK,,2018-04-12 07:36:12.735240
+Pyongyang Mangyongdae District,eu-eeas-sanctions.5502,2018-05-01 01:10:02.742295,,,,Sengujadong 11-2/(or Kwangbok-dong),,KP,PRK,,2018-04-12 07:36:12.755062
+"Rutshuru Territory, North Kivu",eu-eeas-sanctions.5421,2018-05-01 01:10:03.134727,,,,,,CD,COD,,2018-04-12 07:36:12.537675
+Tehran,eu-eeas-sanctions.5683,2018-05-01 01:10:03.901497,,,,Damavand Tehran Highway,,IR,IRN,,2018-04-12 07:36:16.315374
+Tehran,eu-eeas-sanctions.5674,2018-05-01 01:10:03.972035,,,,Damavand Tehran Highway,,IR,IRN,,2018-04-12 07:36:17.185506
+"Saradr-e Jangal, Tehran",eu-eeas-sanctions.5726,2018-05-01 01:10:04.268382,,,,156 Golestan Street,,IR,IRN,,2018-04-12 07:36:15.760393
+Tunis - El Manar 2,eu-eeas-sanctions.6055,2018-05-01 01:10:05.081144,,,,4 avenue Tahar SFAR,,TN,TUN,,2018-04-12 07:36:17.705639
+Tunis,eu-eeas-sanctions.6087,2018-05-01 01:10:05.097849,,,,12 Rue Taieb Mhiri-Le Kram,,TN,TUN,,2018-04-12 07:36:19.327750
+Monastir,eu-eeas-sanctions.6071,2018-05-01 01:10:05.569680,,,,83 Cap Marina,,TN,TUN,,2018-04-12 07:36:18.447474
+,eu-eeas-sanctions.6240,2018-05-01 01:10:06.128291,,,,,,LY,LBY,,2018-04-12 07:36:20.131067
+Tehran,eu-eeas-sanctions.6408,2018-05-01 01:10:06.319744,,,,"3 Second Street [Flat 2], Asad Abadi Avenue",14316,IR,IRN,,2018-04-12 07:36:24.680921
+Tehran,eu-eeas-sanctions.6376,2018-05-01 01:10:06.495045,,,,"35 Kooshesh Street, Unit 12",,IR,IRN,,2018-04-12 07:36:20.027394
+Damascus,eu-eeas-sanctions.6560,2018-05-01 01:10:08.408506,,,,Adra Free Zone Area,,SY,SYR,,2018-04-12 07:36:41.365851
+,eu-eeas-sanctions.7514,2018-05-01 01:10:16.001827,,,,PO Box 8177 Sharjah Airport International Free Zone United Arab Emirates,,AE,ARE,,2018-04-12 07:37:45.758665
+Damascus,eu-eeas-sanctions.7582,2018-05-01 01:10:17.569458,,,,PO Box 11037,,SY,SYR,,2018-04-12 07:37:49.292603
+,eu-eeas-sanctions.106732,2018-05-01 01:10:17.827804,,,,,,SY,SYR,,2018-04-12 07:37:51.021268
+,eu-eeas-sanctions.106732,2018-05-01 01:10:17.844429,,,,,,TR,TUR,,2018-04-12 07:37:51.084636
+,eu-eeas-sanctions.107697,2018-05-01 01:10:18.875056,,,,,,SY,SYR,,2018-04-12 07:37:52.768345
+Bangui,eu-eeas-sanctions.112075,2018-05-01 01:10:20.084581,,,,KM5,,CF,CAF,,2018-04-12 07:37:57.194136
+Pyongyang,eu-eeas-sanctions.112374,2018-05-01 01:10:20.109180,,,,,,KP,PRK,,2018-04-12 07:37:57.869191
+Nana-Grebizi Nana-Grebizi,eu-eeas-sanctions.112075,2018-05-01 01:10:20.109445,,,,,,CF,CAF,,2018-04-12 07:37:57.210703
+,eu-eeas-sanctions.112368,2018-05-01 01:10:20.438241,,,,,,KP,PRK,,2018-04-12 07:37:57.800082
+Raqqa,eu-eeas-sanctions.113343,2018-05-01 01:10:20.726472,,,,,,SY,SYR,,2018-04-12 07:37:58.815045
+Aleppo,eu-eeas-sanctions.113343,2018-05-01 01:10:20.798196,,,,,,SY,SYR,,2018-04-12 07:37:58.831685
+Paderno Ponchielli (Cremona),eu-eeas-sanctions.3062,2018-05-01 01:09:59.396829,,,,Number 4 via Europa,,IT,ITA,,2018-04-12 07:35:56.053271
+Az Zabadani,eu-eeas-sanctions.3083,2018-05-01 01:09:59.872268,,,,"Al-Shahid Street, Al-Mahata Neighbourhood",,SY,SYR,,2018-04-12 07:35:55.853559
+"Az Zabadani, Damascus",eu-eeas-sanctions.3083,2018-05-01 01:09:59.889147,,,,Fuad Dawod Farm,,SY,SYR,,2018-04-12 07:35:55.870106
+Damascus,eu-eeas-sanctions.3083,2018-05-01 01:09:59.905515,,,,"Fuad Dawod Farm, Az Zabadani",,SY,SYR,,2018-04-12 07:35:55.886672
+,eu-eeas-sanctions.3083,2018-05-01 01:09:59.922162,,,,,,IQ,IRQ,,2018-04-12 07:35:55.903386
+The Hague,eu-eeas-sanctions.3195,2018-05-01 01:10:00.384335,,,,,,NL,NLD,,2018-04-12 07:35:56.833646
+Novo Sarajevo,eu-eeas-sanctions.2197,2018-05-01 01:10:00.626395,,,,"Avde Smajlovic Street, 6",,BA,BIH,,2018-04-12 07:35:54.927058
+Visoko,eu-eeas-sanctions.2197,2018-05-01 01:10:00.643249,,,,"Tabhanska Street, 26",,BA,BIH,,2018-04-12 07:35:54.983500
+Visoko,eu-eeas-sanctions.2197,2018-05-01 01:10:00.659730,,,,"Velika Cilna Ulica, 3",,BA,BIH,,2018-04-12 07:35:55.000043
+London,eu-eeas-sanctions.3420,2018-05-01 01:10:01.958458,,,,53/64 Chancery Lane,WC2A 1QU,GB,GBR,,2018-04-12 07:35:56.642047
+Kuwait,eu-eeas-sanctions.4142,2018-05-01 01:10:01.992107,,,,Al-Salibekhat area,,KW,KWT,,2018-04-12 07:36:09.084510
+"Barangay Mangayao, Tagkawayan, Quezon",eu-eeas-sanctions.5240,2018-05-01 01:10:02.325343,,,,,,PH,PHL,,2018-04-12 07:36:11.521956
+"Barangay Tigib, Ayungon, Negros Oriental",eu-eeas-sanctions.5240,2018-05-01 01:10:02.341992,,,,,,PH,PHL,,2018-04-12 07:36:11.538618
+Sarajevo,eu-eeas-sanctions.2196,2018-05-01 01:09:59.166473,,,,"Put Mladih Muslimana, 30a (former name ul. Palva Lukaca / Palva Lukaca Street)",71 000,BA,BIH,,2018-04-12 07:35:59.417654
+Zenica,eu-eeas-sanctions.2196,2018-05-01 01:09:59.183215,,,,"ul. Strossmajerova, 72",,BA,BIH,,2018-04-12 07:35:59.434422
+Sarajevo,eu-eeas-sanctions.2196,2018-05-01 01:09:59.199895,,,,"Muhameda Hadzijahica, 42",,BA,BIH,,2018-04-12 07:35:59.504171
+Sarajevo,eu-eeas-sanctions.2196,2018-05-01 01:09:59.258615,,,,42 Muhameda Hadžijahića,,BA,BIH,,2018-04-12 07:35:59.567953
+Zenica,eu-eeas-sanctions.2196,2018-05-01 01:09:59.274879,,,,70 and 53 Strosmajerova Street,,BA,BIH,,2018-04-12 07:35:59.584543
+Zavidovici,eu-eeas-sanctions.2196,2018-05-01 01:09:59.338523,,,,Zlatnih Ljiljana Street,,BA,BIH,,2018-04-12 07:35:59.601194
+"El Waha, Omdurman",eu-eeas-sanctions.3360,2018-05-01 01:10:00.230794,,,,,,SD,SDN,,2018-04-12 07:35:57.626039
+London,eu-eeas-sanctions.3146,2018-05-01 01:10:00.367586,,,,,,GB,GBR,,2018-04-12 07:35:58.033762
+"Punta, Santa Ana, Manila",eu-eeas-sanctions.5266,2018-05-01 01:10:01.743022,,,,3111 Ma. Bautista,,PH,PHL,,2018-04-12 07:36:09.479503
+Goma,eu-eeas-sanctions.3746,2018-05-01 01:10:02.358773,,,,Avenue President Mobutu,,CD,COD,,2018-04-12 07:35:57.567592
+Goma,eu-eeas-sanctions.3746,2018-05-01 01:10:02.428209,,,,PO Box 315,,CD,COD,,2018-04-12 07:35:57.592470
+Gisenyi,eu-eeas-sanctions.3746,2018-05-01 01:10:02.492237,,,,,,RW,RWA,,2018-04-12 07:35:57.609116
+Kish Island,eu-eeas-sanctions.5496,2018-05-01 01:10:03.326243,,,,Sanaee St.,,IR,IRN,,2018-04-12 07:36:12.872176
+,eu-eeas-sanctions.3184,2018-05-01 01:09:59.380157,,,,,,CD,COD,,2018-04-12 07:35:56.195233
+Hauzenberg,eu-eeas-sanctions.3223,2018-05-01 01:09:59.750574,,,,,94051,DE,DEU,,2018-04-12 07:35:57.225284
+"Kamwokya, Kampala",eu-eeas-sanctions.3742,2018-05-01 01:10:00.651438,,,,"Plot 22, Kanjokya Street",,UG,UGA,,2018-04-12 07:35:57.642060
+Kampala,eu-eeas-sanctions.3742,2018-05-01 01:10:00.668126,,,,PO Box 22709,,UG,UGA,,2018-04-12 07:35:57.775658
+Milan,eu-eeas-sanctions.3561,2018-05-01 01:10:00.747917,,,,33 via Uccelli di Nemi,,IT,ITA,,2018-04-12 07:35:58.567331
+Milan,eu-eeas-sanctions.3561,2018-05-01 01:10:00.764637,,,,50 via F. De Lemene,,IT,ITA,,2018-04-12 07:35:58.628663
+Tripoli,eu-eeas-sanctions.3962,2018-05-01 01:10:01.048754,,,,Ghout El Shamal,,LY,LBY,,2018-04-12 07:35:59.062043
+,eu-eeas-sanctions.5262,2018-05-01 01:10:02.517455,,,,,,PH,PHL,,2018-04-12 07:36:11.638231
+Pyongyang,eu-eeas-sanctions.5482,2018-05-01 01:10:03.496549,,,,"Haeudong, Pyongchen District",,KP,PRK,,2018-04-12 07:36:09.996453
+Islamabad (Tehsil and District),eu-eeas-sanctions.5418,2018-05-01 01:10:03.538142,,,,"Barahkoh, P.O. DO",,PK,PAK,,2018-04-12 07:36:11.705211
+"Rinala Khurd, Tehsil Rinala Khurd, District Okara",eu-eeas-sanctions.5418,2018-05-01 01:10:03.613304,,,,Chak No. 18/IL,,PK,PAK,,2018-04-12 07:36:11.721860
+Tehran,eu-eeas-sanctions.5729,2018-05-01 01:10:04.085117,,,,107 Sepahbod Gharani Avenue,,IR,IRN,,2018-04-12 07:36:17.364200
+Tehran,eu-eeas-sanctions.5729,2018-05-01 01:10:04.101611,,,,Ave. Sepahbod Gharani P.O. Box 15815/1775,,IR,IRN,,2018-04-12 07:36:17.427452
+,eu-eeas-sanctions.5523,2018-05-01 01:10:05.314824,,,,,,SA,SAU,,2018-04-12 07:36:12.621942
+,eu-eeas-sanctions.5523,2018-05-01 01:10:05.377925,,,,,,YE,YEM,,2018-04-12 07:36:12.646796
+,eu-eeas-sanctions.7355,2018-05-01 01:10:13.350483,,,,,,UG,UGA,,2018-04-12 07:37:21.553689

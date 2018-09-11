@@ -1,0 +1,593 @@
+entity_id,description,__last_seen,number,country_name,country_code,issued_at,type,__first_seen
+eu-eeas-sanctions.651,,2018-05-01 01:09:44.794643,SE 012820 (passport-National passport)  (valid from 2000-11-04),AFG,AF,,passport,2018-04-12 07:35:44.075430
+eu-eeas-sanctions.651,,2018-05-01 01:09:44.811324,SE 012820 (passport-National passport) (passport (issued on 4.11.2000 )),AFG,AF,,passport,2018-04-12 07:35:44.100613
+eu-eeas-sanctions.602,,2018-05-01 01:09:45.220540,"545167 (id-National identification card) (afghan national identification card (tazkira), issued in 1974)",AFG,AF,,passport,2018-04-12 07:35:44.733328
+eu-eeas-sanctions.669,,2018-05-01 01:09:46.371878,"D 00857 (passport-National passport) (passport issued on 1997-11-20
+passport (issued on 1997-11-20 )
+passport issued on 1997-11-20)",AFG,AF,,passport,2018-04-12 07:35:44.056944
+eu-eeas-sanctions.669,,2018-05-01 01:09:46.479277,"300786 (id-National identification card) ((afghan national identification card (tazkira))
+(afghan national identification card (tazkira)))",AFG,AF,,passport,2018-04-12 07:35:44.166519
+eu-eeas-sanctions.669,,2018-05-01 01:09:46.887024,D 00857 (passport-National passport)  (valid from 1997-11-20)((issued on 20.11.1997).),AFG,AF,,passport,2018-04-12 07:35:44.183426
+eu-eeas-sanctions.669,,2018-05-01 01:09:46.963663,300786 (id-National identification card) ((Afghan national identification card (tazkira)).),AFG,AF,,passport,2018-04-12 07:35:44.247907
+eu-eeas-sanctions.1077,,2018-05-01 01:09:52.639532,20645897 (drivinglicence-Driving licence) [known to be false],DNK,DK,,passport,2018-04-12 07:35:50.984200
+eu-eeas-sanctions.1102,,2018-05-01 01:09:56.886843,A005487 (passport-National passport) ,YEM,YE,,passport,2018-04-12 07:35:51.218260
+eu-eeas-sanctions.6045,,2018-05-01 01:10:04.402290,00683530 (id-National identification card) ,TUN,TN,,passport,2018-04-12 07:36:24.689293
+eu-eeas-sanctions.6061,,2018-05-01 01:10:04.428439,05417770 (id-National identification card) ,TUN,TN,,passport,2018-04-12 07:36:26.736496
+eu-eeas-sanctions.6077,,2018-05-01 01:10:05.264495,05417907 (id-National identification card) ,TUN,TN,,passport,2018-04-12 07:36:20.248022
+eu-eeas-sanctions.5815,,2018-05-01 01:10:05.690284,KDBKKPPY (swiftbic-SWIFT BIC) ,,,,passport,2018-04-12 07:36:25.803240
+eu-eeas-sanctions.6315,,2018-05-01 01:10:06.048447,86449 (passport-National passport) ,,,,passport,2018-04-12 07:36:25.881652
+eu-eeas-sanctions.6315,,2018-05-01 01:10:06.065167,842 781 (passport-National passport) ,,,,passport,2018-04-12 07:36:25.898107
+eu-eeas-sanctions.6616,,2018-05-01 01:10:07.641425,D9004878 (passport-National passport) ,,,,passport,2018-04-12 07:36:42.357387
+eu-eeas-sanctions.7178,,2018-05-01 01:10:12.528348,"57388 (id-National identification card) ((afghan national identification card - tazkira- issued in lashkar gah district, helmand province, afghanistan)",AFG,AF,,passport,2018-04-12 07:36:45.941829
+eu-eeas-sanctions.7178,,2018-05-01 01:10:12.545144,"665 (other-Other identification number) ((residential card number, Ayno Maina, Kandahar Province, Afghanistan))",AFG,AF,,passport,2018-04-12 07:36:45.959607
+eu-eeas-sanctions.7447,,2018-05-01 01:10:14.889186,001714467 (passport-National passport) ,KWT,KW,,passport,2018-04-12 07:37:45.137405
+eu-eeas-sanctions.7447,,2018-05-01 01:10:14.951327,101505554 (passport-National passport) ,KWT,KW,,passport,2018-04-12 07:37:45.175861
+eu-eeas-sanctions.7543,,2018-05-01 01:10:16.469001,002954347 (passport-National passport) ((passport)),,,,passport,2018-04-12 07:37:46.342170
+eu-eeas-sanctions.107806,,2018-05-01 01:10:18.186571,563120356 (passport-National passport) ,,,,passport,2018-04-12 07:37:53.519557
+eu-eeas-sanctions.107806,,2018-05-01 01:10:18.249508,472320665 (passport-National passport)  (valid to 2017-09-26),,,,passport,2018-04-12 07:37:53.638026
+eu-eeas-sanctions.108203,,2018-05-01 01:10:18.841734,592667 (passport-National passport)  (on 2007-05-03),QAT,QA,,passport,2018-04-12 07:37:56.060711
+eu-eeas-sanctions.7550,,2018-05-01 01:10:16.643939,"K475336 (passport-National passport) [known to be expired](jordanian passport, issued on 31.8.2009, expired on 30.8.2014)",JOR,JO,,passport,2018-04-12 07:37:48.212865
+eu-eeas-sanctions.7550,,2018-05-01 01:10:16.660897,28940000602 (id-National identification card) ((qatar national id)),QAT,QA,,passport,2018-04-12 07:37:48.229516
+eu-eeas-sanctions.108356,,2018-05-01 01:10:18.674790,D001001 (passport-National passport)  (on 2015-01-22),LBY,LY,,passport,2018-04-12 07:37:57.090092
+eu-eeas-sanctions.709,,2018-05-01 01:09:45.912198,55130 (id-National identification card) (Afghan national identification card (tazkira)),AFG,AF,,passport,2018-04-12 07:35:45.731627
+eu-eeas-sanctions.709,,2018-05-01 01:09:45.979879,D 000933 (passport-National passport)  (valid from 1998-09-13)(Afghan passport issued in Kabul on 13 Sep. 1998),AFG,AF,,passport,2018-04-12 07:35:45.790175
+eu-eeas-sanctions.727,,2018-05-01 01:09:48.697553,"SE 011252 (passport-National passport) ((passport)
+passport no:
+(passport))",AFG,AF,,passport,2018-04-12 07:35:47.056651
+eu-eeas-sanctions.727,,2018-05-01 01:09:48.755298,SE 011252 (passport-National passport) ,AFG,AF,,passport,2018-04-12 07:35:47.073311
+eu-eeas-sanctions.779,,2018-05-01 01:09:53.808204,D 000763 (passport-National passport)  (valid from 1997-01-09),AFG,AF,,passport,2018-04-12 07:35:46.975599
+eu-eeas-sanctions.779,,2018-05-01 01:09:53.824917,"D 000763 (passport-National passport) (passport (issued on 9.1.1997 )
+passport (issued on 9.1.1997 ))",AFG,AF,,passport,2018-04-12 07:35:47.032246
+eu-eeas-sanctions.1079,,2018-05-01 01:09:59.355377,G866537 (passport-National passport)  (on 1991-08-12 in Rawalpindi)(misuse),PAK,PK,,passport,2018-04-12 07:35:51.759385
+eu-eeas-sanctions.1079,,2018-05-01 01:09:59.371815,C-267185 (passport-National passport)  (in Karachi)(issued July 1996),PAK,PK,,passport,2018-04-12 07:35:51.834579
+eu-eeas-sanctions.1079,,2018-05-01 01:09:59.388844,H-123259 (passport-National passport)  (in Rawalpindi)(issued in rawalpindi july 2001),,,,passport,2018-04-12 07:35:51.891497
+eu-eeas-sanctions.1079,,2018-05-01 01:09:59.405317,G-869537 (passport-National passport) ((issued in rawalpindi)),,,,passport,2018-04-12 07:35:51.918683
+eu-eeas-sanctions.1079,,2018-05-01 01:09:59.421849,KC-285901 (passport-National passport) ,,,,passport,2018-04-12 07:35:51.944127
+eu-eeas-sanctions.6085,,2018-05-01 01:10:04.752410,00589758 (id-National identification card) ,TUN,TN,,passport,2018-04-12 07:36:18.727306
+eu-eeas-sanctions.6053,,2018-05-01 01:10:04.944097,00299177 (id-National identification card) ,TUN,TN,,passport,2018-04-12 07:36:19.444264
+eu-eeas-sanctions.6069,,2018-05-01 01:10:05.297775,04192479 (id-National identification card) ,TUN,TN,,passport,2018-04-12 07:36:24.997798
+eu-eeas-sanctions.6093,,2018-05-01 01:10:05.473064,B/002210 (passport-National passport) ,,,,passport,2018-04-12 07:36:18.264250
+eu-eeas-sanctions.6260,,2018-05-01 01:10:05.689822,1510484 (regnumber-Registration Number) ,VGB,VG,,passport,2018-04-12 07:36:20.247918
+eu-eeas-sanctions.6614,,2018-05-01 01:10:09.217557,"FA0157612 (passport-National passport)  (valid from 2009-07-23 to 2014-07-22)(pakistani passport issued on 23 jul. 2009, expires on 22 jul. 2014, officially cancelled as of 2013, issued under name allah muhammad)",PAK,PK,,passport,2018-04-12 07:36:35.905900
+eu-eeas-sanctions.6614,,2018-05-01 01:10:09.230007,"54201-247561-5 (id-National identification card) (54201-247561-5, (pakistani national id, officially cancelled as of 2013 ))",PAK,PK,,passport,2018-04-12 07:36:35.923964
+eu-eeas-sanctions.6944,,2018-05-01 01:10:09.864067,3573010405480001 (id-National identification card) ((identity card under name mochammad achwan)),IDN,ID,,passport,2018-04-12 07:36:39.715079
+eu-eeas-sanctions.7548,,2018-05-01 01:10:16.685552,01016646 (passport-National passport) ((qatar passport)),QAT,QA,,passport,2018-04-12 07:37:46.820410
+eu-eeas-sanctions.106457,,2018-05-01 01:10:17.811266,OP0053090 (passport-National passport) ,BDI,BI,,passport,2018-04-12 07:37:50.693613
+eu-eeas-sanctions.107820,,2018-05-01 01:10:18.499569,563210184 (passport-National passport)  (valid to 2018-06-18),,,,passport,2018-04-12 07:37:55.185772
+eu-eeas-sanctions.107820,,2018-05-01 01:10:18.561675,381110042 (passport-National passport)  (valid to 2016-01-25),,,,passport,2018-04-12 07:37:55.299368
+eu-eeas-sanctions.840,,2018-05-01 01:09:50.339429,"D 000769 (passport-National passport) (passport issued on 1997-02-02
+passport issued on 1997-02-02
+passport (issued on 2.2.1997 ))",AFG,AF,,passport,2018-04-12 07:35:49.098399
+eu-eeas-sanctions.840,,2018-05-01 01:09:50.381014,D 000769 (passport-National passport)  (valid from 1997-02-02),AFG,AF,,passport,2018-04-12 07:35:49.114969
+eu-eeas-sanctions.1095,,2018-05-01 01:09:53.499876,L851940 (passport-National passport) ,TUN,TN,,passport,2018-04-12 07:35:50.950732
+eu-eeas-sanctions.968,,2018-05-01 01:09:55.512841,K-348486 (passport-National passport) ((moroccan passport)),MAR,MA,,passport,2018-04-12 07:35:48.765644
+eu-eeas-sanctions.851,,2018-05-01 01:09:56.127717,D 001206 (passport-National passport)  (on 2000-07-17 valid from 2000-07-17),AFG,AF,,passport,2018-04-12 07:35:48.833718
+eu-eeas-sanctions.851,,2018-05-01 01:09:56.144272,"D 001206 (passport-National passport) (passport (issued on 17.7.2000 )
+passport (issued on 17.7.2000 ))",AFG,AF,,passport,2018-04-12 07:35:48.893117
+eu-eeas-sanctions.1084,,2018-05-01 01:09:58.274390,M174950 (passport-National passport) ,TUN,TN,,passport,2018-04-12 07:35:52.134258
+eu-eeas-sanctions.6051,,2018-05-01 01:10:04.893966,05539378 (id-National identification card) ,TUN,TN,,passport,2018-04-12 07:36:23.073082
+eu-eeas-sanctions.6067,,2018-05-01 01:10:05.256414,00166569 (id-National identification card) ,TUN,TN,,passport,2018-04-12 07:36:18.830787
+eu-eeas-sanctions.6083,,2018-05-01 01:10:05.473103,05418095 (id-National identification card) ,TUN,TN,,passport,2018-04-12 07:36:19.852528
+eu-eeas-sanctions.6059,,2018-05-01 01:10:06.215524,00403106 (id-National identification card) ,TUN,TN,,passport,2018-04-12 07:36:17.363732
+eu-eeas-sanctions.6620,,2018-05-01 01:10:09.025636,"008827 (passport-National passport)  (diplomatic)(Passport No: 008827 (Iran Diplomatic), issued 1999.)",IRN,IR,,passport,2018-04-12 07:36:36.403010
+eu-eeas-sanctions.6942,,2018-05-01 01:10:10.126935,R512768 (passport-National passport) ((passport)),AFG,AF,,passport,2018-04-12 07:36:39.332135
+eu-eeas-sanctions.7205,,2018-05-01 01:10:11.629704,"381420754 (passport-National passport)  (on 2011-12-07 valid to 2016-12-07)(passport issued on 7.12.2011, expiring on 7.12.2016)",,,,passport,2018-04-12 07:36:44.687783
+eu-eeas-sanctions.7478,,2018-05-01 01:10:15.935215,"05054425 (id-National identification card)  (on 2011-05-03)(National identification no: Tunisia National Identification Card 05054425, issued on 3.5.2011 (issued in Hammam Lif).)",TUN,TN,,passport,2018-04-12 07:37:46.476159
+eu-eeas-sanctions.7478,,2018-05-01 01:10:15.951833,"G557170 (passport-National passport)  (on 1989-11-16)(Passport no: Tunisia number G557170, issued on 16 Nov. 1989.)",TUN,TN,,passport,2018-04-12 07:37:46.542773
+eu-eeas-sanctions.7485,,2018-05-01 01:10:15.968579,"0205561020089 (id-National identification card)  (on 2002-05-30)(French identity card number, issued on 30.5.2002 under name Emilie Edwige Konig.)",FRA,FR,,passport,2018-04-12 07:37:46.468259
+eu-eeas-sanctions.7485,,2018-05-01 01:10:16.001852,"050456101445 (id-National identification card)  (issued by sous-prefecture of police of Lorient, France on 2005-05-19)",FRA,FR,,passport,2018-04-12 07:37:46.534478
+eu-eeas-sanctions.7485,,2018-05-01 01:10:16.068897,"05AT521433 (passport-National passport)  (issued by sous- prefecture of police of Lorient, France on 2005-11-30)",FRA,FR,,passport,2018-04-12 07:37:46.551063
+eu-eeas-sanctions.7547,,2018-05-01 01:10:16.836114,K048787 (passport-National passport) ((jordanian passport)),JOR,JO,,passport,2018-04-12 07:37:55.313264
+eu-eeas-sanctions.7547,,2018-05-01 01:10:16.852402,486298 (passport-National passport) ((jordanian passport)),JOR,JO,,passport,2018-04-12 07:37:55.329890
+eu-eeas-sanctions.7547,,2018-05-01 01:10:16.869201,28440000526 (id-National identification card) ((qatar national id)),QAT,QA,,passport,2018-04-12 07:37:55.346615
+eu-eeas-sanctions.929,,2018-05-01 01:09:52.923342,04756904 (id-National identification card) (national id issued on 1984-09-14),TUN,TN,,passport,2018-04-12 07:35:48.450477
+eu-eeas-sanctions.1065,,2018-05-01 01:09:56.013986,665334 (passport-National passport) ((pakistani passport issued in kuwait)),PAK,PK,,passport,2018-04-12 07:35:51.599913
+eu-eeas-sanctions.1065,,2018-05-01 01:09:56.110996,"917739 (passport-National passport) [known to be expired](pakistani passport issued in pakistan on 1991-09-08, expired on 1996-08-07)",PAK,PK,,passport,2018-04-12 07:35:51.626071
+eu-eeas-sanctions.1094,,2018-05-01 01:09:56.344638,M788331 (passport-National passport) ,TUN,TN,,passport,2018-04-12 07:35:53.020651
+eu-eeas-sanctions.6047,,2018-05-01 01:10:04.952578,04622472 (id-National identification card) ,TUN,TN,,passport,2018-04-12 07:36:26.114286
+eu-eeas-sanctions.6079,,2018-05-01 01:10:05.019055,05189459 (id-National identification card) ,TUN,TN,,passport,2018-04-12 07:36:19.619276
+eu-eeas-sanctions.6063,,2018-05-01 01:10:05.122774,05590835 (id-National identification card) ,TUN,TN,,passport,2018-04-12 07:36:18.630883
+eu-eeas-sanctions.6262,,2018-05-01 01:10:06.920589,1534407 (regnumber-Registration Number) ,VGB,VG,,passport,2018-04-12 07:36:19.368982
+eu-eeas-sanctions.6552,,2018-05-01 01:10:07.374239,A 1180173 (passport-National passport) (expiry 20.8.2017),KEN,KE,,passport,2018-04-12 07:36:38.411636
+eu-eeas-sanctions.6552,,2018-05-01 01:10:07.391087,23446085 (id-National identification card) ((id card)),KEN,KE,,passport,2018-04-12 07:36:38.428182
+eu-eeas-sanctions.6694,,2018-05-01 01:10:08.841988,9003213 (passport-National passport) ,IRN,IR,,passport,2018-04-12 07:36:36.886683
+eu-eeas-sanctions.6694,,2018-05-01 01:10:08.858675,6620505 (passport-National passport) ,IRN,IR,,passport,2018-04-12 07:36:36.911394
+eu-eeas-sanctions.6948,,2018-05-01 01:10:10.247457,29553654234 (id-National identification card) ((national identification)),,,,passport,2018-04-12 07:36:44.240941
+eu-eeas-sanctions.7043,,2018-05-01 01:10:10.255897,AAIN29392 (passport-National passport)  (on 2011-09-29 valid to 2016-09-29),GNB,GW,,passport,2018-04-12 07:36:45.107849
+eu-eeas-sanctions.6909,,2018-05-01 01:10:10.326869,"5209445304 (id-National identification card) [known to be expired](national identity card issued in stadt bonn, germany on 5.9.2005, expired on 4.9.2010)",DEU,DE,,passport,2018-04-12 07:36:39.307297
+eu-eeas-sanctions.7033,,2018-05-01 01:10:10.801874,AAID00437 (passport-National passport)  (on 2010-02-18 valid to 2013-02-18 diplomatic),GNB,GW,,passport,2018-04-12 07:36:41.190173
+eu-eeas-sanctions.7207,,2018-05-01 01:10:11.603114,645120196 (passport-National passport) ((passport no. )),,,,passport,2018-04-12 07:36:45.024169
+eu-eeas-sanctions.7220,,2018-05-01 01:10:11.927983,"A1447120 (passport-National passport) [known to be expired](malian passport, expired on 19.10.2011)",MLI,ML,,passport,2018-04-12 07:36:45.224158
+eu-eeas-sanctions.7581,,2018-05-01 01:10:16.974585,"2550439611 (id-National identification card) (german national identification number, issued in district friedrichshain- kreuzberg of berlin, germany, issued on 22.4.2010, expires on 21.4.2020)",DEU,DE,,passport,2018-04-12 07:37:48.187354
+eu-eeas-sanctions.7602,,2018-05-01 01:10:17.544432,Z050399 (passport-National passport)  (on 2003-12-09 valid from 2003-12-09 to 2008-12-08)[known to be expired],TUN,TN,,passport,2018-04-12 07:37:54.780354
+eu-eeas-sanctions.7602,,2018-05-01 01:10:17.561451,04711809 (id-National identification card)  (on 2003-11-13),TUN,TN,,passport,2018-04-12 07:37:54.952369
+eu-eeas-sanctions.932,,2018-05-01 01:09:54.862546,00319547 (id-National identification card) ,TUN,TN,,passport,2018-04-12 07:35:49.723696
+eu-eeas-sanctions.6046,,2018-05-01 01:10:04.794008,05000799 (id-National identification card) ((national identity card)),TUN,TN,,passport,2018-04-12 07:36:24.881287
+eu-eeas-sanctions.6044,,2018-05-01 01:10:05.018916,00354671 (id-National identification card) ,TUN,TN,,passport,2018-04-12 07:36:17.338782
+eu-eeas-sanctions.6076,,2018-05-01 01:10:05.202648,02804872 (id-National identification card) ,TUN,TN,,passport,2018-04-12 07:36:20.019665
+eu-eeas-sanctions.6092,,2018-05-01 01:10:05.281150,428720 (passport-National passport) ,LBY,LY,,passport,2018-04-12 07:36:19.547979
+eu-eeas-sanctions.6092,,2018-05-01 01:10:05.300642,215215 (passport-National passport) (name on doc. 'Aisha Muhammed Abdul Salam'),LBY,LY,,passport,2018-04-12 07:36:19.564688
+eu-eeas-sanctions.6086,,2018-05-01 01:10:05.569402,04766495 (id-National identification card) ,TUN,TN,,passport,2018-04-12 07:36:20.069379
+eu-eeas-sanctions.6086,,2018-05-01 01:10:05.631567,11CK51319 (passport-National passport)  (valid to 2021-08-01)(Holder of French Passport No 11CK51319 expiring on 1.8.2021.),FRA,FR,,passport,2018-04-12 07:36:20.131161
+eu-eeas-sanctions.6060,,2018-05-01 01:10:06.215500,08434380 (id-National identification card) ,TUN,TN,,passport,2018-04-12 07:36:18.377351
+eu-eeas-sanctions.6459,,2018-05-01 01:10:06.912040,N002848852 (passport-National passport) ,,,,passport,2018-04-12 07:36:24.889467
+eu-eeas-sanctions.6617,,2018-05-01 01:10:08.033369,C2002515 (passport-National passport) ,IRN,IR,,passport,2018-04-12 07:36:37.698041
+eu-eeas-sanctions.6617,,2018-05-01 01:10:08.050018,477845448 (passport-National passport) ,USA,US,,passport,2018-04-12 07:36:37.722961
+eu-eeas-sanctions.6617,,2018-05-01 01:10:08.121267,07442833 (drivinglicence-Driving licence)  (valid to 2016-03-15)(National ID No),USA,US,,passport,2018-04-12 07:36:37.739630
+eu-eeas-sanctions.6945,,2018-05-01 01:10:09.864027,1127083101740003 (id-National identification card) ((identity card under name abdul rosyid ridho ba’asyir)),IDN,ID,,passport,2018-04-12 07:36:40.190061
+eu-eeas-sanctions.7030,,2018-05-01 01:10:10.005865,DA0002186 (passport-National passport)  (on 2007-03-30 valid to 2013-08-26 diplomatic),GNB,GW,,passport,2018-04-12 07:36:40.548915
+eu-eeas-sanctions.7066,,2018-05-01 01:10:11.085583,"BP4199631 (passport-National passport)  (valid to 2014-06-25)(pakistan passport, expires on 25 june 2014, officially cancelled as of 2013 .)",PAK,PK,,passport,2018-04-12 07:36:46.141282
+eu-eeas-sanctions.7066,,2018-05-01 01:10:11.102200,"5440005229635 (id-National identification card) (national identification number, officially cancelled as of 2013)",PAK,PK,,passport,2018-04-12 07:36:46.207955
+eu-eeas-sanctions.7219,,2018-05-01 01:10:11.731877,"A1037434 (passport-National passport) (malian passport issued on 10.8.2001, expires on 31.12.2014)",MLI,ML,,passport,2018-04-12 07:36:48.141652
+eu-eeas-sanctions.7477,,2018-05-01 01:10:15.843465,F800691 (passport-National passport) ((saudi arabian passport)),SAU,SA,,passport,2018-04-12 07:37:44.925289
+eu-eeas-sanctions.7475,,2018-05-01 01:10:15.960224,"C389664 (passport-National passport) [known to be expired](saudi arabian passport, issued on 15.9.2000, expired on 15.9.2005)",SAU,SA,,passport,2018-04-12 07:37:43.336521
+eu-eeas-sanctions.105420,,2018-05-01 01:10:16.777754,PS472220097 (passport-National passport) ,,,,passport,2018-04-12 07:37:49.354196
+eu-eeas-sanctions.1023,,2018-05-01 01:09:53.850040,"K989895 (passport-National passport) [known to be expired](passport issued on 1995-07-26 in genoa, italy, expired on 2000-07-25)",TUN,TN,,passport,2018-04-12 07:35:51.109200
+eu-eeas-sanctions.1127,,2018-05-01 01:09:57.204156,L183017 (passport-National passport) ,TUN,TN,,passport,2018-04-12 07:35:52.843223
+eu-eeas-sanctions.6050,,2018-05-01 01:10:04.743695,04524472 (id-National identification card) ,TUN,TN,,passport,2018-04-12 07:36:18.193815
+eu-eeas-sanctions.6066,,2018-05-01 01:10:04.810431,05150331 (id-National identification card) ,TUN,TN,,passport,2018-04-12 07:36:19.752631
+eu-eeas-sanctions.6090,,2018-05-01 01:10:04.810614,00400688 (id-National identification card) ,TUN,TN,,passport,2018-04-12 07:36:20.394309
+eu-eeas-sanctions.6074,,2018-05-01 01:10:05.324669,02810614 (id-National identification card) ,TUN,TN,,passport,2018-04-12 07:36:27.114339
+eu-eeas-sanctions.6177,,2018-05-01 01:10:05.673245,"F654645 (passport-National passport) [known to be expired](passport issued on 30.4.2005, expired on 7.3.2010, issue date in hijri calendar 24/06/1426, expiry date in hijri calendar 21/03/1431)",SAU,SA,,passport,2018-04-12 07:36:28.097554
+eu-eeas-sanctions.6177,,2018-05-01 01:10:05.690038,1028745097 (id-National identification card) ((national civil identification number)),SAU,SA,,passport,2018-04-12 07:36:28.111504
+eu-eeas-sanctions.6058,,2018-05-01 01:10:06.007048,00104253 (id-National identification card) ,TUN,TN,,passport,2018-04-12 07:36:18.463931
+eu-eeas-sanctions.6114,,2018-05-01 01:10:06.119975,"B0515260 (passport-National passport)  (on 2012-01-10 in Bamako valid to 2017-01-10)(passport number, date of issue: 10 jan 2012, place of issue: bamako, mali, date of expiration: 10 jan 2017
+
+Abdoullah Ould Ahmed (Passport number: B0515260))",MLI,ML,,passport,2018-04-12 07:36:27.314333
+eu-eeas-sanctions.6114,,2018-05-01 01:10:06.190505,"073/ SPICRE (other-Other identification number)  (on 2011-12-06 in Essouck)((mali id number, date of issue: 6 dec 2011, place of issue: essouck, mali).)",MLI,ML,,passport,2018-04-12 07:36:27.330944
+eu-eeas-sanctions.7048,,2018-05-01 01:10:10.393502,"SA0002264 (passport-National passport)  (on 2006-07-24 valid to 2009-07-23)[known to be expired](passport, issued 2006-07-24; expired 2009-07-23)",GNB,GW,,passport,2018-04-12 07:36:45.257804
+eu-eeas-sanctions.7065,,2018-05-01 01:10:10.485120,"AM5421691 (passport-National passport)  (valid to 2013-08-11)(pakistan passport, expires on 11 aug. 2013)",PAK,PK,,passport,2018-04-12 07:36:42.321187
+eu-eeas-sanctions.7065,,2018-05-01 01:10:10.501838,5420250161699 (id-National identification card) ((national identification number)),PAK,PK,,passport,2018-04-12 07:36:42.340479
+eu-eeas-sanctions.6953,,2018-05-01 01:10:10.893632,707512830 (passport-National passport)  (valid to 2020-09-22)(expires 2020-09-22),,,,passport,2018-04-12 07:36:40.215662
+eu-eeas-sanctions.7208,,2018-05-01 01:10:11.952830,PS381420397 (passport-National passport) ((passport no. )),,,,passport,2018-04-12 07:36:46.483362
+eu-eeas-sanctions.7549,,2018-05-01 01:10:17.015331,"09 AL14455 (passport-National passport) (georgian passport, expires on 26.6.2019)",GEO,GE,,passport,2018-04-12 07:37:52.676924
+eu-eeas-sanctions.7549,,2018-05-01 01:10:17.086096,08001007864 (id-National identification card) ((georgian national id)),GEO,GE,,passport,2018-04-12 07:37:52.738311
+eu-eeas-sanctions.106463,,2018-05-01 01:10:17.957588,DP0000885 (passport-National passport) ,BDI,BI,,passport,2018-04-12 07:37:50.101270
+eu-eeas-sanctions.108659,,2018-05-01 01:10:19.117862,PS- 563410163 (passport-National passport) ,,,,passport,2018-04-12 07:37:56.665333
+eu-eeas-sanctions.108659,,2018-05-01 01:10:19.133681,381320634 (passport-National passport) ,,,,passport,2018-04-12 07:37:56.686615
+eu-eeas-sanctions.1068,,2018-05-01 01:09:56.656295,A 10472263 (passport-National passport) ,,,,passport,2018-04-12 07:35:50.307024
+eu-eeas-sanctions.1068,,2018-05-01 01:09:56.672796,640120-01-5529 (id-National identification card) ,,,,passport,2018-04-12 07:35:50.323574
+eu-eeas-sanctions.6072,,2018-05-01 01:10:04.910562,04180053 (id-National identification card) ,TUN,TN,,passport,2018-04-12 07:36:27.089384
+eu-eeas-sanctions.6088,,2018-05-01 01:10:05.640016,05409131 (id-National identification card) ,TUN,TN,,passport,2018-04-12 07:36:18.072226
+eu-eeas-sanctions.6088,,2018-05-01 01:10:05.656528,x599070 (passport-National passport)  (valid to 2021-11-21)(Holder of Tunisian Passport No x599070 issued in November 2016 expiring on 21.11.2021.),TUN,TN,,passport,2018-04-12 07:36:18.088925
+eu-eeas-sanctions.6258,,2018-05-01 01:10:05.752922,01794877 (regnumber-Registration Number) ,GBR,GB,,passport,2018-04-12 07:36:21.569606
+eu-eeas-sanctions.6048,,2018-05-01 01:10:05.856895,00297112 (id-National identification card) ,TUN,TN,,passport,2018-04-12 07:36:26.122672
+eu-eeas-sanctions.6048,,2018-05-01 01:10:05.873586,111277501841 (id-National identification card) ((identity card)),FRA,FR,,passport,2018-04-12 07:36:26.139460
+eu-eeas-sanctions.6910,,2018-05-01 01:10:09.780660,"TR- M842033 (passport-National passport) [known to be expired](passport issued on 2 may 2002 in mainz, germany by the turkish consulate general, expired on 24 jul. 2007)",TUR,TR,,passport,2018-04-12 07:36:48.863196
+eu-eeas-sanctions.7034,,2018-05-01 01:10:10.214283,SA 0000417 (passport-National passport)  (on 2003-10-29 valid to 2013-03-10),GNB,GW,,passport,2018-04-12 07:36:45.074468
+eu-eeas-sanctions.7044,,2018-05-01 01:10:10.327746,DA0002166 (passport-National passport)  (diplomatic)[known to be expired](diplomatic passport issued 2007-02-19 and expired 2013-04-15),GNB,GW,,passport,2018-04-12 07:36:40.870494
+eu-eeas-sanctions.7231,,2018-05-01 01:10:12.528629,"NC5140251 (passport-National passport)  (valid from 2009-10-23 to 2014-10-22)(pakistani passport issued on 23 october 2009 expires on 22 october 2014, officially cancelled as of 2013)",PAK,PK,,passport,2018-04-12 07:36:45.883392
+eu-eeas-sanctions.7231,,2018-05-01 01:10:12.545194,"54401-2288025-9 (id-National identification card) (national identity card number, officially cancelled as of 2013)",PAK,PK,,passport,2018-04-12 07:36:45.908082
+eu-eeas-sanctions.105411,,2018-05-01 01:10:16.940695,745132109 (passport-National passport)  (valid to 2020-02-12),,,,passport,2018-04-12 07:37:55.297003
+eu-eeas-sanctions.105416,,2018-05-01 01:10:17.262272,PO472132950 (passport-National passport) ,,,,passport,2018-04-12 07:37:49.470835
+eu-eeas-sanctions.105748,,2018-05-01 01:10:17.916196,5420124679187 (id-National identification card) ,PAK,PK,,passport,2018-04-12 07:37:49.630591
+eu-eeas-sanctions.105748,,2018-05-01 01:10:17.932680,AA3829182 (passport-National passport) ,PAK,PK,,passport,2018-04-12 07:37:49.655722
+eu-eeas-sanctions.107810,,2018-05-01 01:10:18.291117,836110034 (passport-National passport)  (valid to 2020-01-01 diplomatic),,,,passport,2018-04-12 07:37:52.296492
+eu-eeas-sanctions.106654,,2018-05-01 01:10:19.017791,8304661431 (id-National identification card) (National identification No.: 8304661431 (Russian national passport number)),RUS,RU,,passport,2018-04-12 07:37:51.888593
+eu-eeas-sanctions.106654,,2018-05-01 01:10:19.041839,622641887 (passport-National passport) (622641887 Russian foreign travel passport number),RUS,RU,,passport,2018-04-12 07:37:51.905296
+eu-eeas-sanctions.108447,,2018-05-01 01:10:19.058302,09.5004.180268.0074 (id-National identification card) ,IDN,ID,,passport,2018-04-12 07:37:56.018637
+eu-eeas-sanctions.109887,,2018-05-01 01:10:19.683993,060- 10276707 (other-Other identification number) (National number: 060- 10276707),SYR,SY,,passport,2018-04-12 07:37:56.510602
+eu-eeas-sanctions.1083,,2018-05-01 01:09:56.431022,M307968 (passport-National passport) ,TUN,TN,,passport,2018-04-12 07:35:50.149214
+eu-eeas-sanctions.6080,,2018-05-01 01:10:05.264751,02800443 (id-National identification card) ((identity card)),TUN,TN,,passport,2018-04-12 07:36:17.818726
+eu-eeas-sanctions.6056,,2018-05-01 01:10:05.322708,00777029 (id-National identification card) ,TUN,TN,,passport,2018-04-12 07:36:17.930678
+eu-eeas-sanctions.6064,,2018-05-01 01:10:05.456610,00178522 (id-National identification card) ((national identity card)),TUN,TN,,passport,2018-04-12 07:36:17.602066
+eu-eeas-sanctions.6096,,2018-05-01 01:10:05.577643,B/001897 (passport-National passport) ,LBY,LY,,passport,2018-04-12 07:36:19.939795
+eu-eeas-sanctions.6112,,2018-05-01 01:10:05.936474,014797 (passport-National passport) ((passport number)),,,,passport,2018-04-12 07:36:20.531617
+eu-eeas-sanctions.6112,,2018-05-01 01:10:05.998602,524521 (passport-National passport) ((passport number)),,,,passport,2018-04-12 07:36:20.594677
+eu-eeas-sanctions.6133,,2018-05-01 01:10:06.311874,B/014965 (passport-National passport) [known to be expired](Expired end 2013),,,,passport,2018-04-12 07:36:27.519909
+eu-eeas-sanctions.6506,,2018-05-01 01:10:07.478918,0000092405 (passport-National passport) ,,,,passport,2018-04-12 07:36:36.131874
+eu-eeas-sanctions.6553,,2018-05-01 01:10:08.366976,403062567 (passport-National passport) ((passport)),USA,US,,passport,2018-04-12 07:36:36.806102
+eu-eeas-sanctions.6553,,2018-05-01 01:10:08.383508,423-31-3021 (ssn-Social Security Number) ((social security number)),USA,US,,passport,2018-04-12 07:36:36.886640
+eu-eeas-sanctions.6949,,2018-05-01 01:10:10.038883,"CV9157521 (passport-National passport) (passport issued on 8.9.2008, expires on 7.9.2013)",PAK,PK,,passport,2018-04-12 07:36:40.765451
+eu-eeas-sanctions.6949,,2018-05-01 01:10:10.055542,44103-5251752-5 (id-National identification card) ((national identification no.),,,,passport,2018-04-12 07:36:40.837578
+eu-eeas-sanctions.7042,,2018-05-01 01:10:10.230895,AAIS00820 (passport-National passport) [known to be expired](passport issued on 2010-11-24; expired on 2012-04-27),GNB,GW,,passport,2018-04-12 07:36:40.845650
+eu-eeas-sanctions.7153,,2018-05-01 01:10:11.460882,06090034007 (id-National identification card) ,,,,passport,2018-04-12 07:36:43.813261
+eu-eeas-sanctions.7356,,2018-05-01 01:10:14.213603,D00001184 (passport-National passport) ,,,,passport,2018-04-12 07:37:51.504796
+eu-eeas-sanctions.7334,,2018-05-01 01:10:14.430610,4506460961 (passport-National passport) ,,,,passport,2018-04-12 07:37:44.070367
+eu-eeas-sanctions.7598,,2018-05-01 01:10:17.527867,A2823222 (passport-National passport)  (on 2012-05-28 valid from 2012-05-28 to 2017-05-28),IDN,ID,,passport,2018-04-12 07:37:48.620825
+eu-eeas-sanctions.106530,,2018-05-01 01:10:17.553016,720134834 (passport-National passport)  (on 2012-06-27 valid to 2022-06-27),GBR,GB,,passport,2018-04-12 07:37:50.187527
+eu-eeas-sanctions.7601,,2018-05-01 01:10:17.552712,W342058 (passport-National passport)  (on 2011-03-14 valid from 2011-03-14 to 2016-03-13),TUN,TN,,passport,2018-04-12 07:37:48.670731
+eu-eeas-sanctions.7601,,2018-05-01 01:10:17.569458,08705184 (id-National identification card)  (on 2015-02-24),TUN,TN,,passport,2018-04-12 07:37:48.742515
+eu-eeas-sanctions.105631,,2018-05-01 01:10:17.836337,R00005943 (passport-National passport) (SOUTH SUDAN),SDN,SD,,passport,2018-04-12 07:37:55.718728
+eu-eeas-sanctions.106383,,2018-05-01 01:10:18.095198,281082701081 (id-National identification card) ,KWT,KW,,passport,2018-04-12 07:37:58.102973
+eu-eeas-sanctions.107832,,2018-05-01 01:10:18.494177,563410081 (passport-National passport) ,,,,passport,2018-04-12 07:37:52.535039
+eu-eeas-sanctions.108458,,2018-05-01 01:10:19.445894,0363464 (passport-National passport)  (issued by Palestinian Authority),PSE,PS,,passport,2018-04-12 07:37:53.696208
+eu-eeas-sanctions.2323,,2018-05-01 01:09:59.258680,K693812 (passport-National passport) ,TUN,TN,,passport,2018-04-12 07:35:54.919099
+eu-eeas-sanctions.2323,,2018-05-01 01:09:59.274954,01846592 (id-National identification card) ,,,,passport,2018-04-12 07:35:54.975427
+eu-eeas-sanctions.5417,,2018-05-01 01:10:02.517090,4-6032-0048-1 (id-National identification card) ((national identification no)),SAU,SA,,passport,2018-04-12 07:36:12.330118
+eu-eeas-sanctions.6070,,2018-05-01 01:10:06.415673,00235016 (id-National identification card) ,TUN,TN,,passport,2018-04-12 07:36:19.014132
+eu-eeas-sanctions.6955,,2018-05-01 01:10:09.888705,0000000914 (passport-National passport) ,SYR,SY,,passport,2018-04-12 07:36:40.532579
+eu-eeas-sanctions.7050,,2018-05-01 01:10:10.468337,"AAISO40158 (passport-National passport)  (on 2012-10-12 valid to 2015-10-02)(passport issued on 2012-10-02 in guinea bissau, expiring on 2015-10-02)",GNB,GW,,passport,2018-04-12 07:36:41.449368
+eu-eeas-sanctions.7029,,2018-05-01 01:10:10.768928,Unknown national ID (other-Other identification number) (unknown national id),GNB,GW,,passport,2018-04-12 07:36:44.687936
+eu-eeas-sanctions.7029,,2018-05-01 01:10:10.785482,AAID00435 (passport-National passport)  (on 2010-02-18 valid to 2013-02-18 diplomatic)(diplomatic passport; date of issue: 2010-02-18; place of issue: guinea- bissau; date of expiry: 2013-02-18),GNB,GW,,passport,2018-04-12 07:36:44.782805
+eu-eeas-sanctions.7067,,2018-05-01 01:10:11.740237,044 (tradelic-Trade license) (Afghan Money Service Provider License Number),AFG,AF,,passport,2018-04-12 07:36:46.083274
+eu-eeas-sanctions.7177,,2018-05-01 01:10:11.756866,1-78-09-44621-80 (id-National identification card) ,,,,passport,2018-04-12 07:36:43.854326
+eu-eeas-sanctions.7067,,2018-05-01 01:10:11.756869,3187777 (fiscalcode-National Fiscal Code) (Pakistan National Tax Number),PAK,PK,,passport,2018-04-12 07:36:46.108330
+eu-eeas-sanctions.7067,,2018-05-01 01:10:11.773558,0980338 (fiscalcode-National Fiscal Code) (Pakistan National Tax Number),PAK,PK,,passport,2018-04-12 07:36:46.133633
+eu-eeas-sanctions.7067,,2018-05-01 01:10:11.790219,1774308 (fiscalcode-National Fiscal Code) ,PAK,PK,,passport,2018-04-12 07:36:46.200451
+eu-eeas-sanctions.7355,,2018-05-01 01:10:13.367391,M4800002143743 (id-National identification card) (Personal number on passport),,,,passport,2018-04-12 07:37:21.570289
+eu-eeas-sanctions.7355,,2018-05-01 01:10:13.383766,"D00002264 (passport-National passport) (name on doc. 'Samuel Peter Mudde') (on 2013-06-11 valid to 2017-06-11 diplomatic)(Passport no: D00002264, issued on 11 June 2013 (issued by the Minister of Foreign Affairs, in Juba, South Sudan. Expires on 11 June 2017. Diplomatic passport issued under name Samuel Peter Mudde))",SSD,SS,,passport,2018-04-12 07:37:21.591746
+eu-eeas-sanctions.7483,,2018-05-01 01:10:15.239246,0216155930 (passport-National passport) ((passport no. )),,,,passport,2018-04-12 07:37:46.845890
+eu-eeas-sanctions.7542,,2018-05-01 01:10:16.485606,00016161 (passport-National passport) ((passport number)),YEM,YE,,passport,2018-04-12 07:37:48.403909
+eu-eeas-sanctions.7542,,2018-05-01 01:10:16.502512,01010744444 (id-National identification card) ((national identification no)),YEM,YE,,passport,2018-04-12 07:37:48.420641
+eu-eeas-sanctions.3062,,2018-05-01 01:09:59.413515,D-379312 (passport-National passport) ((moroccan passport)),MAR,MA,,passport,2018-04-12 07:35:56.069911
+eu-eeas-sanctions.3062,,2018-05-01 01:09:59.430211,DE-473900 (id-National identification card) ((moroccan identity card)),MAR,MA,,passport,2018-04-12 07:35:56.086512
+eu-eeas-sanctions.3083,,2018-05-01 01:10:00.017194,"284173 (other-Other identification number) ((expires 21.8.2005; name: muhammad da’ud salman; date of birth: 1977; place of birth: baghdad, iraq))",IRQ,IQ,,passport,2018-04-12 07:35:55.919967
+eu-eeas-sanctions.3227,,2018-05-01 01:10:00.188995,"T04338017 (other-Other identification number) [known to be expired](temporary suspension of deportation issued by alien’s office of the city of mainz, expired on 8.5.2013)",,,,passport,2018-04-12 07:35:58.000650
+eu-eeas-sanctions.3792,,2018-05-01 01:10:00.376332,G4506013 (passport-National passport) ,IRN,IR,,passport,2018-04-12 07:35:58.746858
+eu-eeas-sanctions.3806,,2018-05-01 01:10:01.958418,008827 (passport-National passport) ,IRN,IR,,passport,2018-04-12 07:35:58.342199
+eu-eeas-sanctions.5352,,2018-05-01 01:10:02.000233,1005552350 (passport-National passport) ,DEU,DE,,passport,2018-04-12 07:36:11.430015
+eu-eeas-sanctions.5352,,2018-05-01 01:10:02.061363,"1007850441 (id-National identification card) [known to be expired](identity card issued on 2001-03-27 by municipality of kiel, germany, expired on 2011-03-26)",DEU,DE,,passport,2018-04-12 07:36:11.446621
+eu-eeas-sanctions.5522,,2018-05-01 01:10:03.538175,R0001318 (other-Other identification number) ,,,,passport,2018-04-12 07:36:14.788224
+eu-eeas-sanctions.6017,,2018-05-01 01:10:04.885472,"OR801168 (passport-National passport) (afghan passport under the name of said jan ‘abd al- salam issued on 28.2.2006, expires on 27.2.2011)",AFG,AF,,passport,2018-04-12 07:36:17.355532
+eu-eeas-sanctions.6017,,2018-05-01 01:10:04.902253,"4117921 (passport-National passport) (pakistani passport under the name of dilawar khan zain khan issued on 9.9.2008, expires on 9.9.2013)",AFG,AF,,passport,2018-04-12 07:36:17.372260
+eu-eeas-sanctions.6017,,2018-05-01 01:10:04.918883,281020505755 (id-National identification card) ((kuwaiti civil identification number under the name said jan ‘abd al- salam)),KWT,KW,,passport,2018-04-12 07:36:17.427219
+eu-eeas-sanctions.6091,,2018-05-01 01:10:04.918941,00589759 (id-National identification card) ,TUN,TN,,passport,2018-04-12 07:36:20.539451
+eu-eeas-sanctions.6075,,2018-05-01 01:10:05.194127,05411511 (id-National identification card) ,TUN,TN,,passport,2018-04-12 07:36:19.197580
+eu-eeas-sanctions.7049,,2018-05-01 01:10:10.126673,"AAIS00048 (passport-National passport) [known to be expired](passport issued 2009-03-24, expired 2012-03-24)",GNB,GW,,passport,2018-04-12 07:36:41.356868
+eu-eeas-sanctions.7051,,2018-05-01 01:10:10.401567,DA0001565 (passport-National passport)  (diplomatic)[known to be expired](diplomatic passport issued 2005-12-01; expired 2008-11-30),GNB,GW,,passport,2018-04-12 07:36:40.390244
+eu-eeas-sanctions.7474,,2018-05-01 01:10:15.514322,"E126785 (passport-National passport) [known to be expired](saudi arabian passport, issued on 27.5.2002, expired on 3.4.2007 .)",SAU,SA,,passport,2018-04-12 07:37:46.170608
+eu-eeas-sanctions.106387,,2018-05-01 01:10:17.811278,284013101406 (id-National identification card) ,KWT,KW,,passport,2018-04-12 07:37:52.480002
+eu-eeas-sanctions.2700,,2018-05-01 01:09:59.380408,106261543 (passport-National passport) ,KWT,KW,,passport,2018-04-12 07:35:56.045149
+eu-eeas-sanctions.2700,,2018-05-01 01:09:59.397099,"1420529 (passport-National passport) [known to be expired](passport issued in kuwait, expired on 2006-03-31)",KWT,KW,,passport,2018-04-12 07:35:56.070033
+eu-eeas-sanctions.3960,,2018-05-01 01:10:02.550454,1990/345751 (other-Other identification number) ,LBY,LY,,passport,2018-04-12 07:35:58.670325
+eu-eeas-sanctions.3960,,2018-05-01 01:10:02.620045,345751 (other-Other identification number) ,LBY,LY,,passport,2018-04-12 07:35:58.746790
+eu-eeas-sanctions.3960,,2018-05-01 01:10:02.684079,220334 (id-National identification card) (national identification no:),,,,passport,2018-04-12 07:35:58.820516
+eu-eeas-sanctions.6082,,2018-05-01 01:10:05.448374,02951793 (id-National identification card) ,TUN,TN,,passport,2018-04-12 07:36:18.002025
+eu-eeas-sanctions.6310,,2018-05-01 01:10:06.127944,454224 (passport-National passport) ,,,,passport,2018-04-12 07:36:25.473808
+eu-eeas-sanctions.6304,,2018-05-01 01:10:06.382223,983 (passport-National passport)  (diplomatic),,,,passport,2018-04-12 07:36:19.435645
+eu-eeas-sanctions.6455,,2018-05-01 01:10:06.423663,002954347 (passport-National passport) ,,,,passport,2018-04-12 07:36:25.577810
+eu-eeas-sanctions.6518,,2018-05-01 01:10:08.183573,0000092405 (passport-National passport) ,SYR,SY,,passport,2018-04-12 07:36:36.273310
+eu-eeas-sanctions.7047,,2018-05-01 01:10:10.351831,"DA0001564 (passport-National passport)  (on 2005-11-30 valid to 2011-05-15 diplomatic)[known to be expired](diplomatic passport, issued 2005-11-30; expired 2011-05-15)",GNB,GW,,passport,2018-04-12 07:36:41.307605
+eu-eeas-sanctions.7065,,2018-05-01 01:10:10.668715,585629 (id-National identification card) ((national identification number)),AFG,AF,,passport,2018-04-12 07:36:42.365445
+eu-eeas-sanctions.7486,,2018-05-01 01:10:15.547644,"12CP63882.3FRA (passport-National passport)  (on 2012-07-31 valid from 2022-07-30)(Passport No: France number 12CP63882.3FRA, issued on 31.7.2012 (valid until 30.7.2022).)",FRA,FR,,passport,2018-04-12 07:37:43.616675
+eu-eeas-sanctions.7486,,2018-05-01 01:10:15.614479,"070275Q007873 (id-National identification card)  (on 2007-02-16 valid to 2017-02-15)(National identification No: France national identity card 070275Q007873, issued on 16.2.2007 (valid until 15.2.2017).)",FRA,FR,,passport,2018-04-12 07:37:43.678298
+eu-eeas-sanctions.106387,,2018-05-01 01:10:17.828141,155454275 (passport-National passport) ,KWT,KW,,passport,2018-04-12 07:37:52.543674
+eu-eeas-sanctions.106773,,2018-05-01 01:10:18.069470,9103314932 (passport-National passport)  (issued by Department of the Federal Migration Service of the Russian Federation for the Republic Karachayevo-Cherkessia on 2003-08-15)(Issued by the Department of the Federal Migration Service of the Russian Federation for the Republic Karachayevo-Cherkessia),RUS,RU,,passport,2018-04-12 07:37:51.862976
+eu-eeas-sanctions.106773,,2018-05-01 01:10:18.086196,620169661 (passport-National passport) (Russian foreign travel passport number),RUS,RU,,passport,2018-04-12 07:37:51.879555
+eu-eeas-sanctions.106536,,2018-05-01 01:10:18.249494,519408086 (passport-National passport)  (on 2013-09-23 valid to 2023-09-23),GBR,GB,,passport,2018-04-12 07:37:50.284605
+eu-eeas-sanctions.107840,,2018-05-01 01:10:18.658230,5342883 (imo-IMO (vessel identification)) ,,,,passport,2018-04-12 07:37:55.622457
+eu-eeas-sanctions.3080,,2018-05-01 01:09:59.166551,"284158 (other-Other identification number) ((expires 21.8.2005; name: ali thafir abdallah; date of birth: 1970; place of birth: baghdad, iraq))",IRQ,IQ,,passport,2018-04-12 07:35:55.417133
+eu-eeas-sanctions.3700,,2018-05-01 01:10:00.042790,094629366 (passport-National passport) ,GBR,GB,,passport,2018-04-12 07:35:59.070315
+eu-eeas-sanctions.3793,,2018-05-01 01:10:00.764804,A0030940 (passport-National passport) ,IRN,IR,,passport,2018-04-12 07:35:57.775860
+eu-eeas-sanctions.6097,,2018-05-01 01:10:05.514734,B014995 (passport-National passport) ,LBY,LY,,passport,2018-04-12 07:36:18.455534
+eu-eeas-sanctions.6400,,2018-05-01 01:10:06.248688,D1903 (passport-National passport)  (diplomatic),,,,passport,2018-04-12 07:36:20.122607
+eu-eeas-sanctions.6494,,2018-05-01 01:10:07.157497,S335026 (passport-National passport) ((false indonesian passport)),IDN,ID,,passport,2018-04-12 07:36:33.905982
+eu-eeas-sanctions.6494,,2018-05-01 01:10:07.173977,3219222002.2181558 (id-National identification card) ((indonesian national identity card)),IDN,ID,,passport,2018-04-12 07:36:33.919816
+eu-eeas-sanctions.6494,,2018-05-01 01:10:07.190713,2181558 (id-National identification card) ((indonesian identification number)),IDN,ID,,passport,2018-04-12 07:36:33.931054
+eu-eeas-sanctions.7052,,2018-05-01 01:10:10.556045,SA0000883 (passport-National passport) (passport issued 2004-04-14; expiring 2013-04-15),GNB,GW,,passport,2018-04-12 07:36:45.266071
+eu-eeas-sanctions.7168,,2018-05-01 01:10:11.952919,"BN 4196361 (passport-National passport) (pakistani passport issued on 28.10.2008, expiring 27.10.2013)",PAK,PK,,passport,2018-04-12 07:36:44.496742
+eu-eeas-sanctions.7168,,2018-05-01 01:10:11.969626,33202-7126636-9 (id-National identification card) ((pakistani national identity card)),PAK,PK,,passport,2018-04-12 07:36:44.566470
+eu-eeas-sanctions.7479,,2018-05-01 01:10:15.681239,"00868774 (passport-National passport) [known to be expired](qatari passport, expired on 27.4.2014)",QAT,QA,,passport,2018-04-12 07:37:43.511641
+eu-eeas-sanctions.7479,,2018-05-01 01:10:15.697947,"25463401784 (id-National identification card) (qatari national id, expires on 6.12.2019)",QAT,QA,,passport,2018-04-12 07:37:43.528240
+eu-eeas-sanctions.106534,,2018-05-01 01:10:17.660999,205939411 (passport-National passport)  (on 2004-07-21 valid to 2015-04-21),GBR,GB,,passport,2018-04-12 07:37:50.370970
+eu-eeas-sanctions.106385,,2018-05-01 01:10:17.686306,27363400684 (id-National identification card) ,QAT,QA,,passport,2018-04-12 07:37:55.914357
+eu-eeas-sanctions.106385,,2018-05-01 01:10:17.702982,00490327 (passport-National passport) ,QAT,QA,,passport,2018-04-12 07:37:55.930815
+eu-eeas-sanctions.106546,,2018-05-01 01:10:17.916175,2054275397 (regnumber-Registration Number)  (on 1998-07-22)(Saudi Arabian alien registration number),SAU,SA,,passport,2018-04-12 07:37:50.771383
+eu-eeas-sanctions.106750,,2018-05-01 01:10:17.924576,"9600133195 (passport-National passport) (Russian national passport number issued in Vedensiky District, Republic of Chechnya, Russian Federation by Department of Internal Affairs)",RUS,RU,,passport,2018-04-12 07:37:51.696134
+eu-eeas-sanctions.106546,,2018-05-01 01:10:17.932647,01055336 (passport-National passport) ,YEM,YE,,passport,2018-04-12 07:37:50.798461
+eu-eeas-sanctions.107683,,2018-05-01 01:10:18.078190,3490054 (passport-National passport) ,BIH,BA,,passport,2018-04-12 07:37:53.730313
+eu-eeas-sanctions.107683,,2018-05-01 01:10:18.095071,349054 (passport-National passport) ,BIH,BA,,passport,2018-04-12 07:37:53.747033
+eu-eeas-sanctions.107816,,2018-05-01 01:10:18.178490,472330208 (passport-National passport)  (valid to 2017-07-04),,,,passport,2018-04-12 07:37:55.185775
+eu-eeas-sanctions.3081,,2018-05-01 01:09:59.430129,"2863795 S (other-Other identification number) ((expires 23.8.2005; name: umar ahmad ali al- alusi; date of birth: 1970; place of birth: baghdad, iraq))",IRQ,IQ,,passport,2018-04-12 07:35:55.702854
+eu-eeas-sanctions.3191,,2018-05-01 01:09:59.930585,OB 0243318 (passport-National passport) ,COD,CD,,passport,2018-04-12 07:35:57.808737
+eu-eeas-sanctions.3641,,2018-05-01 01:10:00.518210,Ration Card Number 0075258 (other-Other identification number) ,,,,passport,2018-04-12 07:35:57.192506
+eu-eeas-sanctions.6125,,2018-05-01 01:10:05.864942,9603464086 (passport-National passport) (russian passport number issued on 1.6.2003),RUS,RU,,passport,2018-04-12 07:36:19.005814
+eu-eeas-sanctions.6308,,2018-05-01 01:10:06.598899,D000001300 (passport-National passport)  (diplomatic),,,,passport,2018-04-12 07:36:22.048183
+eu-eeas-sanctions.6463,,2018-05-01 01:10:07.224304,1089516791 (id-National identification card) ((saudi arabian national identity card)),SAU,SA,,passport,2018-04-12 07:36:21.222840
+eu-eeas-sanctions.6908,,2018-05-01 01:10:09.771819,"5208323009 (passport-National passport) (passport issued in stadt bonn, germany on 2.2.2007, expires on 1.2.2012)",DEU,DE,,passport,2018-04-12 07:36:39.823525
+eu-eeas-sanctions.6908,,2018-05-01 01:10:09.788527,"5209530116 (id-National identification card) [known to be expired](national identity card issued in stadt bonn, germany on 21.6.2006, expired on 20.6.2011)",DEU,DE,,passport,2018-04-12 07:36:39.940424
+eu-eeas-sanctions.7250,,2018-05-01 01:10:12.845233,"6487 (passport-National passport) ((passport issued 30.1.1984, under name muhammad jamal abdu)",EGY,EG,,passport,2018-04-12 07:37:20.558394
+eu-eeas-sanctions.7250,,2018-05-01 01:10:12.861876,388181 (other-Other identification number) ((under name muhammad jamal abd- al rahim al- kashif)),YEM,YE,,passport,2018-04-12 07:37:20.570288
+eu-eeas-sanctions.7596,,2018-05-01 01:10:17.077886,W344982 (passport-National passport) (Indonesian passport issued under name Angga Dimas Peshada.),IDN,ID,,passport,2018-04-12 07:37:48.403970
+eu-eeas-sanctions.105618,,2018-05-01 01:10:17.586252,R00012098 (passport-National passport) (SOUTH SUDAN),SDN,SD,,passport,2018-04-12 07:37:49.535105
+eu-eeas-sanctions.106144,,2018-05-01 01:10:17.669259,D00000898 (other-Other identification number)  (valid from 2013-04-11 to 2018-04-10)(CAR diplomatic passport),,,,passport,2018-04-12 07:37:56.160788
+eu-eeas-sanctions.107679,,2018-05-01 01:10:18.633376,C00146605 (passport-National passport) ,GBR,GB,,passport,2018-04-12 07:37:52.961524
+eu-eeas-sanctions.107679,,2018-05-01 01:10:18.649800,223611 (passport-National passport) ,LBY,LY,,passport,2018-04-12 07:37:53.281618
+eu-eeas-sanctions.108418,,2018-05-01 01:10:19.245758,840901356 (id-National identification card) ,,,,passport,2018-04-12 07:37:55.055407
+eu-eeas-sanctions.108418,,2018-05-01 01:10:19.262285,1272611 (passport-National passport)  (on 2003-04-01 valid from 2003-04-01)(Previous passport),BHR,BH,,passport,2018-04-12 07:37:55.072151
+eu-eeas-sanctions.108418,,2018-05-01 01:10:19.325807,2231616 (passport-National passport)  (on 2013-01-02 valid from 2013-01-02 to 2023-01-02),BHR,BH,,passport,2018-04-12 07:37:55.144202
+eu-eeas-sanctions.3362,,2018-05-01 01:10:01.802729,103-0037-6235 (other-Other identification number) (National identification No: 103-0037-6235 (as mentioned in the passport)),,,,passport,2018-04-12 07:35:58.837329
+eu-eeas-sanctions.3362,,2018-05-01 01:10:01.820347,"P00182993 (passport-National passport)  (on 2010-07-19 valid to 2015-07-18)[known to be expired](Passport No: P00182993, issued on 19 Jul. 2010 (Expired on 18 Jul. 2015))",,,,passport,2018-04-12 07:35:58.854080
+eu-eeas-sanctions.5499,,2018-05-01 01:10:03.521844,35404-1577309-9 (id-National identification card) ((pakistani national identification number)),PAK,PK,,passport,2018-04-12 07:36:12.414922
+eu-eeas-sanctions.6612,,2018-05-01 01:10:08.583484,Ration card number 0134852 (other-Other identification number) ,,,,passport,2018-04-12 07:36:35.889301
+eu-eeas-sanctions.7199,,2018-05-01 01:10:12.465667,03825239 (passport-National passport) (name on doc. 'Safia Farkash Mohammed Al-Hadad') (on 2014-05-04 valid to 2024-05-03),OMN,OM,,passport,2018-04-12 07:36:45.662898
+eu-eeas-sanctions.7199,,2018-05-01 01:10:12.528391,98606491 (id-National identification card) ,OMN,OM,,passport,2018-04-12 07:36:45.758011
+eu-eeas-sanctions.106732,,2018-05-01 01:10:17.915745,8200203535 (passport-National passport) (Russian national passport number),RUS,RU,,passport,2018-04-12 07:37:51.101467
+eu-eeas-sanctions.106548,,2018-05-01 01:10:17.916056,E704088 (passport-National passport)  (on 2003-08-26 valid to 2008-07-02),SAU,SA,,passport,2018-04-12 07:37:51.021283
+eu-eeas-sanctions.106732,,2018-05-01 01:10:17.932285,515458008 (passport-National passport)  (valid to 2017-05-30)(Russian foreign travel passport number),RUS,RU,,passport,2018-04-12 07:37:51.143274
+eu-eeas-sanctions.106389,,2018-05-01 01:10:18.483610,00966737 (passport-National passport) ,,,,passport,2018-04-12 07:37:58.253130
+eu-eeas-sanctions.107814,,2018-05-01 01:10:19.091847,4721202031 (passport-National passport)  (valid to 2017-02-21),,,,passport,2018-04-12 07:37:56.602610
+eu-eeas-sanctions.107814,,2018-05-01 01:10:19.108581,836110035 (passport-National passport)  (valid to 2020-01-01 diplomatic),,,,passport,2018-04-12 07:37:56.619295
+eu-eeas-sanctions.3363,,2018-05-01 01:10:00.476191,192-3238459-9 (id-National identification card) ((national identification number)),,,,passport,2018-04-12 07:35:57.984373
+eu-eeas-sanctions.3363,,2018-05-01 01:10:00.492906,302581 (other-Other identification number) ((certificate of nationality acquired through birth 302581)),,,,passport,2018-04-12 07:35:58.001029
+eu-eeas-sanctions.5553,,2018-05-01 01:10:03.029532,7190 (passport-National passport) ((passport number)),,,,passport,2018-04-12 07:36:10.538263
+eu-eeas-sanctions.7442,,2018-05-01 01:10:15.555824,F50859 (passport-National passport) ((passport number)),,,,passport,2018-04-12 07:37:41.258009
+eu-eeas-sanctions.7442,,2018-05-01 01:10:15.622577,1027508157 (id-National identification card) ((saudi arabian national identification number)),,,,passport,2018-04-12 07:37:41.344749
+eu-eeas-sanctions.7597,,2018-05-01 01:10:17.644803,A2062513 (passport-National passport) (Indonesian passport number.),IDN,ID,,passport,2018-04-12 07:37:55.580813
+eu-eeas-sanctions.106554,,2018-05-01 01:10:17.694734,516088643 (passport-National passport)  (on 2014-01-07 valid to 2024-01-07),,,,passport,2018-04-12 07:37:51.101511
+eu-eeas-sanctions.106451,,2018-05-01 01:10:17.836161,DP0000761 (passport-National passport) ,BDI,BI,,passport,2018-04-12 07:37:49.995884
+eu-eeas-sanctions.107691,,2018-05-01 01:10:17.957831,"55252 (id-National identification card) (issued in Derna, Libya)",LBY,LY,,passport,2018-04-12 07:37:52.738050
+eu-eeas-sanctions.107691,,2018-05-01 01:10:17.974462,542858 (passport-National passport) ,LBY,LY,,passport,2018-04-12 07:37:52.760062
+eu-eeas-sanctions.106542,,2018-05-01 01:10:17.974380,101127200129 (id-National identification card)  (issued by Sous-Préfecture of Bernay valid to 2020-11-04),FRA,FR,,passport,2018-04-12 07:37:51.305122
+eu-eeas-sanctions.107163,,2018-05-01 01:10:18.186281,O00065772 (passport-National passport)  (valid to 2019-12-30)(Central African Republic number (letter O followed by 3 zeros).),CAF,CF,,passport,2018-04-12 07:37:53.680060
+eu-eeas-sanctions.107687,,2018-05-01 01:10:18.266104,CD595054 (id-National identification card) ,MAR,MA,,passport,2018-04-12 07:37:52.296422
+eu-eeas-sanctions.107687,,2018-05-01 01:10:18.282771,UZ6430184 (passport-National passport) ,MAR,MA,,passport,2018-04-12 07:37:52.360111
+eu-eeas-sanctions.107828,,2018-05-01 01:10:18.299789,563120630 (passport-National passport)  (valid to 2018-03-20),,,,passport,2018-04-12 07:37:54.435718
+eu-eeas-sanctions.107842,,2018-05-01 01:10:18.633463,DCBK KPPY (swiftbic-SWIFT BIC) ,,,,passport,2018-04-12 07:37:56.218800
+eu-eeas-sanctions.108437,,2018-05-01 01:10:18.875109,G579315 (passport-National passport) ,SAU,SA,,passport,2018-04-12 07:37:54.485546
+eu-eeas-sanctions.108437,,2018-05-01 01:10:18.937179,K142736 (passport-National passport)  (on 2011-07-14 in Al-Khafji valid from 2011-07-14),SAU,SA,,passport,2018-04-12 07:37:54.552221
+eu-eeas-sanctions.108913,,2018-05-01 01:10:19.017050,A005465 (passport-National passport)  (on 2015-04-12 valid to 2017-04-11),LBY,LY,,passport,2018-04-12 07:37:58.228441
+eu-eeas-sanctions.3361,,2018-05-01 01:10:00.467586,"D009889 (passport-National passport)  (on 2011-02-17 valid to 2013-02-17 diplomatic)[known to be expired](b) Diplomatic Passport D009889, issued on 17 Feb. 2011 (Expired on 17 Feb. 2013))",,,,passport,2018-04-12 07:35:58.812193
+eu-eeas-sanctions.3795,,2018-05-01 01:10:01.198409,A0003039 (passport-National passport) ,IRN,IR,,passport,2018-04-12 07:35:57.642122
+eu-eeas-sanctions.3795,,2018-05-01 01:10:01.215158,0035-11785 (other-Other identification number) (National Identification number Iran),IRN,IR,,passport,2018-04-12 07:35:57.775670
+eu-eeas-sanctions.5416,,2018-05-01 01:10:02.300609,"AT0712501 (passport-National passport) [known to be expired](passport issued on 12.3.2008, expired 11.3.2013)",PAK,PK,,passport,2018-04-12 07:36:11.896584
+eu-eeas-sanctions.5416,,2018-05-01 01:10:02.317174,A-374184 (passport-National passport) ((passport)),PAK,PK,,passport,2018-04-12 07:36:11.913155
+eu-eeas-sanctions.5416,,2018-05-01 01:10:02.333709,6110125312507 (id-National identification card) ((national identification no. )),PAK,PK,,passport,2018-04-12 07:36:11.929907
+eu-eeas-sanctions.5416,,2018-05-01 01:10:02.350374,24492025390 (id-National identification card) ((national identification no. )),PAK,PK,,passport,2018-04-12 07:36:11.946562
+eu-eeas-sanctions.105307,,2018-05-01 01:10:16.635967,06070777 (passport-National passport) (name on doc. 'Ahmed Ali Abdullah Al-Ahmar') (on 2014-12-03),YEM,YE,,passport,2018-04-12 07:37:49.004185
+eu-eeas-sanctions.105307,,2018-05-01 01:10:16.652630,02117777 (passport-National passport) (name on doc. 'Ahmed Ali Abdullah Al-Ahmar') (on 2005-11-08),YEM,YE,,passport,2018-04-12 07:37:49.020813
+eu-eeas-sanctions.105307,,2018-05-01 01:10:16.669198,"31/2013/20/003140 (other-Other identification number) (name on doc. 'Ahmed Ali Abdullah Saleh') (issued by Ministry of Foreign Affairs on 2013-07-07 diplomatic)[revoked by issuer](Diplomatic identity card, 
+current status: cancelled)",ARE,AE,,passport,2018-04-12 07:37:49.037634
+eu-eeas-sanctions.105307,,2018-05-01 01:10:16.685956,17979 (passport-National passport) (name on doc. 'Ahmed Ali Abdullah Saleh')(referred to in the diplomatic identity card No: 31/2013/20/003140),YEM,YE,,passport,2018-04-12 07:37:49.054025
+eu-eeas-sanctions.106446,,2018-05-01 01:10:17.077969,DP0001520 (passport-National passport) ,BDI,BI,,passport,2018-04-12 07:37:49.901216
+eu-eeas-sanctions.106457,,2018-05-01 01:10:17.828116,O/00064 (regnumber-Registration Number) ((SNR)),,,,passport,2018-04-12 07:37:50.747325
+eu-eeas-sanctions.106584,,2018-05-01 01:10:17.915772,1200075689 (passport-National passport)  (on 2000-12-15)(Russian national passport number issued on 15 Dec. 2000 by Russian Federation),RUS,RU,,passport,2018-04-12 07:37:51.610099
+eu-eeas-sanctions.106584,,2018-05-01 01:10:17.932414,"514448632 (passport-National passport)  (issued by RUSSIAN CONSULTATE IN EGYPT on 2010-09-08)(Russian foreign travel passport number issued on 8.9.2010 in Alexandria, Egypt by Consulate General of the Russian Federation)",RUS,RU,,passport,2018-04-12 07:37:51.679578
+eu-eeas-sanctions.107820,,2018-05-01 01:10:18.625087,199421147 (passport-National passport)  (valid to 2014-12-29),,,,passport,2018-04-12 07:37:55.321964
+eu-eeas-sanctions.4141,,2018-05-01 01:10:02.000084,101423404 (passport-National passport) ,,,,passport,2018-04-12 07:36:11.338078
+eu-eeas-sanctions.4141,,2018-05-01 01:10:02.061185,2541451 (passport-National passport) ,KWT,KW,,passport,2018-04-12 07:36:11.404851
+eu-eeas-sanctions.4141,,2018-05-01 01:10:02.125371,002327881 (passport-National passport) ((passport)),KWT,KW,,passport,2018-04-12 07:36:11.421408
+eu-eeas-sanctions.4141,,2018-05-01 01:10:02.141898,259092401188 (id-National identification card) ((national identification no)),KWT,KW,,passport,2018-04-12 07:36:11.438076
+eu-eeas-sanctions.3790,,2018-05-01 01:10:02.350352,A0009228 (passport-National passport) (A0009228 (Unconfirmed (likely Iran))),,,,passport,2018-04-12 07:35:57.617235
+eu-eeas-sanctions.3790,,2018-05-01 01:10:02.366929,4229533 (passport-National passport) (4229533 (Unconfirmed (likely Iran)).),,,,passport,2018-04-12 07:35:57.633994
+eu-eeas-sanctions.106385,,2018-05-01 01:10:17.719630,00754833 (passport-National passport) ,QAT,QA,,passport,2018-04-12 07:37:56.002155
+eu-eeas-sanctions.106385,,2018-05-01 01:10:17.786671,01020802 (passport-National passport) ,QAT,QA,,passport,2018-04-12 07:37:56.018787
+eu-eeas-sanctions.107480,,2018-05-01 01:10:18.103142,911- 10-77 (other-Other identification number) (Central African Republic armed forces (FACA) Military identification number),CAF,CF,,passport,2018-04-12 07:37:53.433117
+eu-eeas-sanctions.107009,,2018-05-01 01:10:18.249787,5430312277059 (id-National identification card) [revoked by issuer]((fraudulently obtained and since cancelled by the Government of Pakistan).),PAK,PK,,passport,2018-04-12 07:37:52.421960
+eu-eeas-sanctions.107830,,2018-05-01 01:10:18.308122,PO381230469 (passport-National passport)  (valid to 2016-04-06),,,,passport,2018-04-12 07:37:55.372361
+eu-eeas-sanctions.3784,,2018-05-01 01:10:00.948127,I0005159 (passport-National passport) (issued in Iran),IRN,IR,,passport,2018-04-12 07:35:59.200787
+eu-eeas-sanctions.3784,,2018-05-01 01:10:01.015103,10005159 (passport-National passport) (issued in Iran),IRN,IR,,passport,2018-04-12 07:35:59.217363
+eu-eeas-sanctions.5529,,2018-05-01 01:10:03.488116,Ration card number 1729765 (other-Other identification number) ,,,,passport,2018-04-12 07:36:13.297184
+eu-eeas-sanctions.106532,,2018-05-01 01:10:17.677950,210804241 (passport-National passport)  (on 2010-07-27 valid to 2020-07-27),GBR,GB,,passport,2018-04-12 07:37:51.093671
+eu-eeas-sanctions.4142,,2018-05-01 01:10:02.053341,101856740 (passport-National passport) ,KWT,KW,,passport,2018-04-12 07:36:09.101076
+eu-eeas-sanctions.4142,,2018-05-01 01:10:02.117403,002955916 (passport-National passport) ((passport)),KWT,KW,,passport,2018-04-12 07:36:09.121100
+eu-eeas-sanctions.4142,,2018-05-01 01:10:02.133918,26112240061 (id-National identification card) ((national identification no)),KWT,KW,,passport,2018-04-12 07:36:09.134413
+eu-eeas-sanctions.5339,,2018-05-01 01:10:02.620086,00685868 (passport-National passport) ,QAT,QA,,passport,2018-04-12 07:36:10.972797
+eu-eeas-sanctions.5339,,2018-05-01 01:10:02.684073,26563400140 (id-National identification card) ,QAT,QA,,passport,2018-04-12 07:36:11.213476
+eu-eeas-sanctions.5623,,2018-05-01 01:10:02.900916,"00514146 (passport-National passport) ((passport; place of issue: sanaa, yemen))",YEM,YE,,passport,2018-04-12 07:36:16.896851
+eu-eeas-sanctions.5623,,2018-05-01 01:10:02.917429,"1417576 (id-National identification card) (id card; place of issue: al- amana, yemen; date of issue: 7 january 1996)",YEM,YE,,passport,2018-04-12 07:36:16.960187
+eu-eeas-sanctions.107063,,2018-05-01 01:10:18.570125,BPA C700RKL8R4 (passport-National passport)  (on 2010-02-18 valid from 2010-02-18 to 2016-02-17),DEU,DE,,passport,2018-04-12 07:37:52.568268
+eu-eeas-sanctions.4140,,2018-05-01 01:10:00.948394,1739010 (passport-National passport) ,KWT,KW,,passport,2018-04-12 07:36:11.430263
+eu-eeas-sanctions.5419,,2018-05-01 01:10:02.875971,3520025509842-7 (id-National identification card) ,PAK,PK,,passport,2018-04-12 07:36:10.029603
+eu-eeas-sanctions.5263,,2018-05-01 01:10:03.142719,P421967 (passport-National passport) ,PHL,PH,,passport,2018-04-12 07:36:10.471578
+eu-eeas-sanctions.5629,,2018-05-01 01:10:05.448442,00344994 (passport-National passport) (yemeni passport issued on 3 july 1999 in Sanaa),YEM,YE,,passport,2018-04-12 07:36:17.452876
+eu-eeas-sanctions.5629,,2018-05-01 01:10:05.464879,973406 (id-National identification card)  (on 1996-07-03),,,,passport,2018-04-12 07:36:17.519468
+eu-eeas-sanctions.108643,,2018-05-01 01:10:19.000135,745310010 (passport-National passport) ,,,,passport,2018-04-12 07:37:55.322987
+eu-eeas-sanctions.5265,,2018-05-01 01:10:03.693183,AA780554 (passport-National passport) ((Filipino passport).),PHL,PH,,passport,2018-04-12 07:36:11.913448
+eu-eeas-sanctions.5357,,2018-05-01 01:10:02.436475,"TR- P 614166 (passport-National passport) [known to be expired](passport issued by the turkish consulate general in frankfurt/ main on 2006-03-22, expired on 2009-09-15)",TUR,TR,,passport,2018-04-12 07:36:17.827473
+eu-eeas-sanctions.1,,2018-05-01 01:04:14.159271,AD001095 (passport-National passport) ((passport)),,,,passport,2018-04-12 07:35:36.972046
+eu-eeas-sanctions.533,,2018-05-01 01:08:05.102227,00385937 (passport-National passport) ((passport)),YEM,YE,,passport,2018-04-12 07:35:40.471203
+eu-eeas-sanctions.554,,2018-05-01 01:08:57.277154,653225197110100533 (id-National identification card) ,CHN,CN,,passport,2018-04-12 07:35:44.256656
+eu-eeas-sanctions.591,,2018-05-01 01:09:07.978265,4414 (id-National identification card) ((afghan identification card (tazkira))),AFG,AF,,passport,2018-04-12 07:35:43.656870
+eu-eeas-sanctions.601,,2018-05-01 01:09:45.320536,1136 (id-National identification card) ((Afghan national identification card (tazkira)).),AFG,AF,,passport,2018-04-12 07:35:44.623481
+eu-eeas-sanctions.625,,2018-05-01 01:09:45.813087,D 000952 (passport-National passport)  (valid from 1999-01-07),AFG,AF,,passport,2018-04-12 07:35:44.549721
+eu-eeas-sanctions.625,,2018-05-01 01:09:45.921693,D 000952 (passport-National passport) (passport (issued on 7.1.1999 )),AFG,AF,,passport,2018-04-12 07:35:44.566390
+eu-eeas-sanctions.781,,2018-05-01 01:09:54.283751,19657 (id-National identification card) ((afghan identification card (tazkira)),AFG,AF,,passport,2018-04-12 07:35:48.275022
+eu-eeas-sanctions.70,,2018-05-01 01:05:31.414607,AD001159 (other-Other identification number) ,,,,passport,2018-04-12 07:35:38.048570
+eu-eeas-sanctions.70,,2018-05-01 01:05:31.498265,63-646650 Q70 (id-National identification card) ((id)),,,,passport,2018-04-12 07:35:38.091948
+eu-eeas-sanctions.505,,2018-05-01 01:05:38.511181,"D 0001203 (passport-National passport) (passport no:
+passport no:)",AFG,AF,,passport,2018-04-12 07:35:39.929321
+eu-eeas-sanctions.505,,2018-05-01 01:05:38.535798,D 0001203 (passport-National passport) ((afghan passport)),AFG,AF,,passport,2018-04-12 07:35:40.033059
+eu-eeas-sanctions.528,,2018-05-01 01:08:04.922277,541939 (passport-National passport) ,YEM,YE,,passport,2018-04-12 07:35:41.448963
+eu-eeas-sanctions.528,,2018-05-01 01:08:04.955861,216040 (id-National identification card) ((national identity card number)),YEM,YE,,passport,2018-04-12 07:35:41.513238
+eu-eeas-sanctions.644,,2018-05-01 01:09:45.921334,"SE-011697 (passport-National passport)  (valid from 1988-01-25 to 2000-02-23)[known to be expired](afghan passport number issued on 25 jan. 1988 in kabul, expired on 23 feb. 2000)",AFG,AF,,passport,2018-04-12 07:35:45.694949
+eu-eeas-sanctions.661,,2018-05-01 01:09:46.188513,OA462456 (passport-National passport)  (valid from 2012-01-31)(afghan passport issued under the name abdul haq son of m. anwar khan) issued on 31.1.2012 (11-11-1390).),AFG,AF,,passport,2018-04-12 07:35:48.015304
+eu-eeas-sanctions.706,,2018-05-01 01:09:47.205237,D 000974 (passport-National passport) ,AFG,AF,,passport,2018-04-12 07:35:50.392637
+eu-eeas-sanctions.706,,2018-05-01 01:09:47.222350,D 000974 (passport-National passport) (passport no:),AFG,AF,,passport,2018-04-12 07:35:50.409265
+eu-eeas-sanctions.767,,2018-05-01 01:09:54.042035,2132370 (id-National identification card) ((afghan national identification card (tazkira))),AFG,AF,,passport,2018-04-12 07:35:48.915441
+eu-eeas-sanctions.767,,2018-05-01 01:09:54.058748,812673 (id-National identification card) ((afghan national identification card (tazkira))),AFG,AF,,passport,2018-04-12 07:35:48.932065
+eu-eeas-sanctions.928,,2018-05-01 01:09:55.154820,W374031 (id-National identification card) (tunisian national identity number issued on 11.4.2011),TUN,TN,,passport,2018-04-12 07:35:48.275228
+eu-eeas-sanctions.3361,,2018-05-01 01:10:00.384335,"D014433 (passport-National passport)  (on 2013-02-21 valid to 2015-02-21 diplomatic)[known to be expired](a) Diplomatic Passport D014433, 
+issued  on 21 Feb. 2013 (Expired 
+on 21 Feb. 2015);)",,,,passport,2018-04-12 07:35:58.662020
+eu-eeas-sanctions.3361,,2018-05-01 01:10:00.450972,A0680623 (other-Other identification number) ((certificate of nationality number)),,,,passport,2018-04-12 07:35:58.725963
+eu-eeas-sanctions.5263,,2018-05-01 01:10:03.109447,MM611523 (passport-National passport) ,PHL,PH,,passport,2018-04-12 07:36:10.388598
+eu-eeas-sanctions.5263,,2018-05-01 01:10:03.125985,EE947317 (passport-National passport) ,PHL,PH,,passport,2018-04-12 07:36:10.455914
+eu-eeas-sanctions.83,,2018-05-01 01:05:28.266791,34409/129 (other-Other identification number) (july 1997),,,,passport,2018-04-12 07:35:38.431697
+eu-eeas-sanctions.507,,2018-05-01 01:05:35.217924,"27082171 (passport-National passport) ((usa passport (issued 21.6.1992 in amman, jordan))
+(usa passport (issued 21.6.1992 in amman, jordan))
+passport no (usa) (issued 21.6.1992 in amman, jordan))",USA,US,,passport,2018-04-12 07:35:40.313318
+eu-eeas-sanctions.507,,2018-05-01 01:05:35.284850,"M0887925 (other-Other identification number) ((iraq)
+passport no (iraq)
+(iraq))",IRQ,IQ,,passport,2018-04-12 07:35:40.398723
+eu-eeas-sanctions.507,,2018-05-01 01:05:35.301535,"SSN 156-92-9858 (id-National identification card) ((usa national identification no)
+(usa national identification no))",USA,US,,passport,2018-04-12 07:35:40.454823
+eu-eeas-sanctions.537,,2018-05-01 01:08:04.554358,203037 (passport-National passport)  (in TRIPOLI),LBY,LY,,passport,2018-04-12 07:35:42.478250
+eu-eeas-sanctions.537,,2018-05-01 01:08:04.571036,"347834 (passport-National passport)  (valid to 2014-02-21)[known to be expired](issued under name Ibrahim Ali Tantoush, expired on 21 Feb. 2014)",LBY,LY,,passport,2018-04-12 07:35:42.567965
+eu-eeas-sanctions.929,,2018-05-01 01:09:52.906575,K754050 (passport-National passport) ,TUN,TN,,passport,2018-04-12 07:35:48.340170
+eu-eeas-sanctions.93,,2018-05-01 01:05:34.331490,33301/862 (other-Other identification number) (issued: 17 october 1997 expires: 1 october 2005),,,,passport,2018-04-12 07:35:37.647504
+eu-eeas-sanctions.93,,2018-05-01 01:05:34.457872,M0003264580 (other-Other identification number) (?(issued: unknown expires: unknown)),,,,passport,2018-04-12 07:35:37.680953
+eu-eeas-sanctions.93,,2018-05-01 01:05:34.540792,H0100009 (other-Other identification number) (?(issued: may 2001 expires: unknown)),,,,passport,2018-04-12 07:35:37.697606
+eu-eeas-sanctions.542,,2018-05-01 01:08:04.229200,"D 000912 (other-Other identification number) (passport (issued on 30.6.1998 )
+issued on 1998-06-30)",AFG,AF,,passport,2018-04-12 07:35:41.513596
+eu-eeas-sanctions.542,,2018-05-01 01:08:04.245925,D 000912 (passport-National passport)  (valid from 1998-06-30),AFG,AF,,passport,2018-04-12 07:35:41.599517
+eu-eeas-sanctions.552,,2018-05-01 01:08:19.360518,44323 (id-National identification card) ((national identification card (tazkira))),AFG,AF,,passport,2018-04-12 07:35:41.154657
+eu-eeas-sanctions.124,,2018-05-01 01:05:36.719360,0018061/104 (other-Other identification number) (issued 12 september 1993),,,,passport,2018-04-12 07:35:38.081134
+eu-eeas-sanctions.551,,2018-05-01 01:08:18.640115,1084010 (other-Other identification number) ,EGY,EG,,passport,2018-04-12 07:35:41.765765
+eu-eeas-sanctions.551,,2018-05-01 01:08:18.675846,19820215 (other-Other identification number) ,,,,passport,2018-04-12 07:35:41.782304
+eu-eeas-sanctions.596,,2018-05-01 01:09:44.044438,OA 454044 (passport-National passport) ((as Iadena Mohammad)),,,,passport,2018-04-12 07:35:43.791483
+eu-eeas-sanctions.690,,2018-05-01 01:09:46.113299,"00737 (passport-National passport) (passport issued on 1996-10-20
+passport issued on 1996-10-20
+passport (issued on 20.10.1996 ))",AFG,AF,,passport,2018-04-12 07:35:45.232370
+eu-eeas-sanctions.690,,2018-05-01 01:09:46.171803,000737 (passport-National passport)  (valid from 1996-10-20),AFG,AF,,passport,2018-04-12 07:35:45.251457
+eu-eeas-sanctions.927,,2018-05-01 01:09:52.223360,L191609 (passport-National passport) ,TUN,TN,,passport,2018-04-12 07:35:47.823287
+eu-eeas-sanctions.927,,2018-05-01 01:09:52.331077,04643632 (id-National identification card) ,TUN,TN,,passport,2018-04-12 07:35:47.883575
+eu-eeas-sanctions.1079,,2018-05-01 01:09:59.055305,A-333602 (passport-National passport)  (issued by Bombay on 1985-06-04)[revoked by issuer](Passport has been revoked by the Government of India),IND,IN,,passport,2018-04-12 07:35:51.417902
+eu-eeas-sanctions.1079,,2018-05-01 01:09:59.133405,M110522 (passport-National passport)  (issued by Bombay on 1978-11-13),IND,IN,,passport,2018-04-12 07:35:51.442662
+eu-eeas-sanctions.1079,,2018-05-01 01:09:59.150279,R841697 (passport-National passport)  (issued by Bombay on 1981-11-26),IND,IN,,passport,2018-04-12 07:35:51.549201
+eu-eeas-sanctions.1079,,2018-05-01 01:09:59.166628,F823692 (passport-National passport)  (issued by CGI in Jeddah on 1989-09-02 in JEDDAH),IND,IN,,passport,2018-04-12 07:35:51.574097
+eu-eeas-sanctions.1079,,2018-05-01 01:09:59.183272,A501801 (passport-National passport)  (on 1985-07-26 in BOMBAY),IND,IN,,passport,2018-04-12 07:35:51.598946
+eu-eeas-sanctions.1079,,2018-05-01 01:09:59.200221,K560098 (passport-National passport)  (issued by BOMBAY on 1975-07-30 in BOMBAY),IND,IN,,passport,2018-04-12 07:35:51.615445
+eu-eeas-sanctions.1079,,2018-05-01 01:09:59.258726,V57865 (passport-National passport)  (on 1983-10-03 in BOMBAY),IND,IN,,passport,2018-04-12 07:35:51.685206
+eu-eeas-sanctions.1079,,2018-05-01 01:09:59.274926,P537849 (passport-National passport)  (on 1979-07-30 in BOMBAY),,,,passport,2018-04-12 07:35:51.710301
+eu-eeas-sanctions.1079,,2018-05-01 01:09:59.338730,A717288 (passport-National passport)  (on 1985-08-18 in Dubai)(MISUSE),ARE,AE,,passport,2018-04-12 07:35:51.734926
+eu-eeas-sanctions.191,,2018-05-01 01:05:35.609757,488555 (passport-National passport) ,,,,passport,2018-04-12 07:35:38.439525
+eu-eeas-sanctions.561,,2018-05-01 01:08:57.168306,OA296623 (passport-National passport) ((passport)),AFG,AF,,passport,2018-04-12 07:35:53.808510
+eu-eeas-sanctions.1085,,2018-05-01 01:09:52.856527,P229856 (passport-National passport) ,TUN,TN,,passport,2018-04-12 07:35:52.110877
+eu-eeas-sanctions.937,,2018-05-01 01:09:54.075331,M408665 (passport-National passport) ,TUN,TN,,passport,2018-04-12 07:35:48.756805
+eu-eeas-sanctions.2325,,2018-05-01 01:09:58.879809,M788439 (passport-National passport) ,TUN,TN,,passport,2018-04-12 07:35:55.008696
+eu-eeas-sanctions.2325,,2018-05-01 01:09:59.004999,01817002 (id-National identification card) ,,,,passport,2018-04-12 07:35:55.025350
+eu-eeas-sanctions.2192,,2018-05-01 01:09:59.127123,H0044232 (passport-National passport) ,IRQ,IQ,,passport,2018-04-12 07:35:54.318373
+eu-eeas-sanctions.3787,,2018-05-01 01:10:01.090018,A0002987 (passport-National passport) ,IRN,IR,,passport,2018-04-12 07:35:59.226327
+eu-eeas-sanctions.5607,,2018-05-01 01:10:03.513475,554410661 (passport-National passport) ,PRK,KP,,passport,2018-04-12 07:36:11.929772
+eu-eeas-sanctions.6052,,2018-05-01 01:10:04.552007,04682068 (id-National identification card) ,TUN,TN,,passport,2018-04-12 07:36:18.447870
+eu-eeas-sanctions.6068,,2018-05-01 01:10:05.131211,00046988 (id-National identification card) ,TUN,TN,,passport,2018-04-12 07:36:17.672191
+eu-eeas-sanctions.6084,,2018-05-01 01:10:05.656505,00642271 (id-National identification card) ,TUN,TN,,passport,2018-04-12 07:36:23.289775
+eu-eeas-sanctions.6263,,2018-05-01 01:10:05.814972,59058C (regnumber-Registration Number) (Registration number: Isle of Man),GBR,GB,,passport,2018-04-12 07:36:20.322506
+eu-eeas-sanctions.6303,,2018-05-01 01:10:05.856570,4138 (passport-National passport)  (diplomatic),,,,passport,2018-04-12 07:36:21.848225
+eu-eeas-sanctions.6696,,2018-05-01 01:10:09.322120,6620505 (passport-National passport) ((b) 6620505 issued in Iran/unknown.),IRN,IR,,passport,2018-04-12 07:36:38.370423
+eu-eeas-sanctions.6696,,2018-05-01 01:10:09.338457,9003213 (passport-National passport) ((a) 9003213 issued in Iran/unknown),IRN,IR,,passport,2018-04-12 07:36:38.387041
+eu-eeas-sanctions.506,,2018-05-01 01:05:37.421193,Ration Card no. 0094195 (other-Other identification number) (Ration Card no. 0094195),,,,passport,2018-04-12 07:35:39.156641
+eu-eeas-sanctions.604,,2018-05-01 01:09:44.419426,9681029476 (id-National identification card) (National identification No: Jordanian national number 9681029476.),JOR,JO,,passport,2018-04-12 07:35:45.239787
+eu-eeas-sanctions.604,,2018-05-01 01:09:44.519735,548-91-5411 (ssn-Social Security Number) (united states social security number:),USA,US,,passport,2018-04-12 07:35:45.256455
+eu-eeas-sanctions.1004,,2018-05-01 01:09:53.808153,3603251708570001 (id-National identification card) (no: (national identification number)),,,,passport,2018-04-12 07:35:50.758956
+eu-eeas-sanctions.939,,2018-05-01 01:09:55.496644,F46947 (passport-National passport) ((passport)),MAR,MA,,passport,2018-04-12 07:35:49.682027
+eu-eeas-sanctions.939,,2018-05-01 01:09:55.513255,H-135467 (id-National identification card) ((national identity card)),MAR,MA,,passport,2018-04-12 07:35:49.707082
+eu-eeas-sanctions.1097,,2018-05-01 01:09:57.098466,G827238 (passport-National passport)  (valid from 1996-06-01 to 2011-05-31),TUN,TN,,passport,2018-04-12 07:35:53.017999
+eu-eeas-sanctions.1097,,2018-05-01 01:09:57.115005,05093588 (id-National identification card) ,,,,passport,2018-04-12 07:35:53.034478
+eu-eeas-sanctions.3224,,2018-05-01 01:10:00.739767,A 0139243 German travel document (travelcardid-Temporary Travel Document) [revoked by issuer](‘reiseausweis’ . revoked as at sep.2012.),DEU,DE,,passport,2018-04-12 07:35:57.400873
+eu-eeas-sanctions.3789,,2018-05-01 01:10:01.558122,A0002302 (passport-National passport) ,IRN,IR,,passport,2018-04-12 07:35:59.376454
+eu-eeas-sanctions.6065,,2018-05-01 01:10:04.752159,06810509 (id-National identification card) ,TUN,TN,,passport,2018-04-12 07:36:18.927834
+eu-eeas-sanctions.6057,,2018-05-01 01:10:04.943715,05514395 (id-National identification card) ,TUN,TN,,passport,2018-04-12 07:36:18.169050
+eu-eeas-sanctions.6311,,2018-05-01 01:10:06.381948,D0005788 (passport-National passport)  (diplomatic),,,,passport,2018-04-12 07:36:20.385945
+eu-eeas-sanctions.6456,,2018-05-01 01:10:06.815923,N001820740 (passport-National passport) ,,,,passport,2018-04-12 07:36:22.619755
+eu-eeas-sanctions.616,,2018-05-01 01:09:45.403786,"OR 1961825 (other-Other identification number)  (valid from 2003-02-04 to 2006-02-02)[known to be expired](issued under the name Akhter Mohmad, son of noor mohmad, born in 1965 in kandahar) issued on 4.2.2003 by the afghan consulate in quetta, pakistan, expired 2.2.2006)",AFG,AF,,passport,2018-04-12 07:35:43.014199
+eu-eeas-sanctions.616,,2018-05-01 01:09:45.420445,"OR 1961825 (passport-National passport) [known to be expired](issued under the name mullah akhtar, passport issued on 4 feb. 2003 by the afghan consulate in quetta, pakistan, expired 2 feb. 2006
+issued under the name mullah akhtar, passport issued on 4 feb. 2003 by the afghan consulate in quetta, pakistan, expired 2 feb. 2006)",AFG,AF,,passport,2018-04-12 07:35:43.030879
+eu-eeas-sanctions.616,,2018-05-01 01:09:45.437205,TR024417 (passport-National passport)  (valid from 2003-12-20 to 2006-12-29)[known to be expired](passport number issued under the name Haji Gulab Gul),AFG,AF,,passport,2018-04-12 07:35:43.091119
+eu-eeas-sanctions.932,,2018-05-01 01:09:54.776378,K929139 (passport-National passport) ,TUN,TN,,passport,2018-04-12 07:35:49.698767
+eu-eeas-sanctions.943,,2018-05-01 01:09:56.119634,E590976 (passport-National passport) ,TUN,TN,,passport,2018-04-12 07:35:48.923487
+eu-eeas-sanctions.1037,,2018-05-01 01:09:56.135994,XD253038 (travelcardid-Temporary Travel Document) ((indonesian travel document number)),IDN,ID,,passport,2018-04-12 07:35:50.412641
+eu-eeas-sanctions.1088,,2018-05-01 01:09:56.430891,L723315 (passport-National passport) ,TUN,TN,,passport,2018-04-12 07:35:52.018092
+eu-eeas-sanctions.1100,,2018-05-01 01:09:59.150277,849594 (passport-National passport) ,KWT,KW,,passport,2018-04-12 07:35:50.992444
+eu-eeas-sanctions.3360,,2018-05-01 01:10:00.301445,4302 (other-Other identification number) (Ex-serviceman's identification card 4302),,,,passport,2018-04-12 07:35:57.642705
+eu-eeas-sanctions.3805,,2018-05-01 01:10:01.933475,D08531177 (passport-National passport) ,IRN,IR,,passport,2018-04-12 07:35:58.317335
+eu-eeas-sanctions.5604,,2018-05-01 01:10:02.875812,554410660 (passport-National passport) ,PRK,KP,,passport,2018-04-12 07:36:11.496369
+eu-eeas-sanctions.5555,,2018-05-01 01:10:03.134401,13683 (passport-National passport) ((passport number)),,,,passport,2018-04-12 07:36:11.213523
+eu-eeas-sanctions.6055,,2018-05-01 01:10:05.097859,05504161 (id-National identification card) ,TUN,TN,,passport,2018-04-12 07:36:17.722246
+eu-eeas-sanctions.6087,,2018-05-01 01:10:05.114382,00300638 (id-National identification card) ,TUN,TN,,passport,2018-04-12 07:36:19.344436
+eu-eeas-sanctions.6071,,2018-05-01 01:10:05.631773,04186963 (id-National identification card) ,TUN,TN,,passport,2018-04-12 07:36:18.472249
+eu-eeas-sanctions.6136,,2018-05-01 01:10:06.006930,B/014924 (passport-National passport) (expired end 2013),,,,passport,2018-04-12 07:36:21.089935
+eu-eeas-sanctions.6909,,2018-05-01 01:10:10.255674,"5204893014 (passport-National passport) [known to be expired](passport number issued in stadt bonn, germany on 5.10.2000, expired on 5.10.2005)",DEU,DE,,passport,2018-04-12 07:36:39.246059
+eu-eeas-sanctions.965,,2018-05-01 01:09:54.524661,28 642 163 (passport-National passport) ((provisional german passport issued by the city of hamburg)),DEU,DE,,passport,2018-04-12 07:35:51.599390
+eu-eeas-sanctions.965,,2018-05-01 01:09:54.567847,BPA Nr. 1336597587 (id-National identification card) (national identification no),,,,passport,2018-04-12 07:35:51.626705
+eu-eeas-sanctions.965,,2018-05-01 01:09:54.691694,"954242 (passport-National passport) [known to be expired]((expired moroccan passport issued on 28.6.1995 in meknas, morocco))",MAR,MA,,passport,2018-04-12 07:35:51.693929
+eu-eeas-sanctions.923,,2018-05-01 01:09:55.335089,456682 (passport-National passport) ,,,,passport,2018-04-12 07:35:52.482674
+eu-eeas-sanctions.1016,,2018-05-01 01:09:55.936251,G737411 (passport-National passport) ,TUN,TN,,passport,2018-04-12 07:35:50.934472
+eu-eeas-sanctions.967,,2018-05-01 01:09:54.524544,H 236483 (passport-National passport) ,MAR,MA,,passport,2018-04-12 07:35:52.441259
+eu-eeas-sanctions.967,,2018-05-01 01:09:54.567751,E-491591 (id-National identification card) ((national identity card)),MAR,MA,,passport,2018-04-12 07:35:52.466211
+eu-eeas-sanctions.1020,,2018-05-01 01:09:56.928488,"L335915 (passport-National passport) [known to be expired](tunisian passport issued in milan (italy) on 1996-11-08, expired on 2001-11-07)",TUN,TN,,passport,2018-04-12 07:35:53.082979
+eu-eeas-sanctions.5603,,2018-05-01 01:10:04.260523,554410660 (other-Other identification number) ,PRK,KP,,passport,2018-04-12 07:36:12.646715
+eu-eeas-sanctions.6078,,2018-05-01 01:10:04.647554,02914657 (id-National identification card) ,TUN,TN,,passport,2018-04-12 07:36:19.377467
+eu-eeas-sanctions.6054,,2018-05-01 01:10:04.785343,09006300 (id-National identification card) ,TUN,TN,,passport,2018-04-12 07:36:26.322663
+eu-eeas-sanctions.6062,,2018-05-01 01:10:05.072919,05590836 (id-National identification card) ,TUN,TN,,passport,2018-04-12 07:36:27.028143
+eu-eeas-sanctions.966,,2018-05-01 01:09:55.671782,00085243 (other-Other identification number) ,YEM,YE,,passport,2018-04-12 07:35:52.843214
+eu-eeas-sanctions.1096,,2018-05-01 01:09:56.648408,P182583 (passport-National passport) ,TUN,TN,,passport,2018-04-12 07:35:51.151275
+eu-eeas-sanctions.1096,,2018-05-01 01:09:56.664925,05258253 (id-National identification card) ,,,,passport,2018-04-12 07:35:51.218259
+eu-eeas-sanctions.3223,,2018-05-01 01:09:59.767246,A 0144378 German travel document (travelcardid-Temporary Travel Document) [revoked by issuer](‘reiseausweis’ . revoked as at sep.2012.),DEU,DE,,passport,2018-04-12 07:35:57.241980
+eu-eeas-sanctions.3962,,2018-05-01 01:10:01.065400,96/184442 (other-Other identification number) ,LBY,LY,,passport,2018-04-12 07:35:59.078728
+eu-eeas-sanctions.5418,,2018-05-01 01:10:03.676383,61101-9618232-1 (id-National identification card) ((national identification no)),PAK,PK,,passport,2018-04-12 07:36:11.785317
+eu-eeas-sanctions.6073,,2018-05-01 01:10:04.560366,00547946 (id-National identification card) ,TUN,TN,,passport,2018-04-12 07:36:17.818765
+eu-eeas-sanctions.6049,,2018-05-01 01:10:05.202460,05515496 (id-National identification card) ((dual nationality)),TUN,TN,,passport,2018-04-12 07:36:19.022761
+eu-eeas-sanctions.6081,,2018-05-01 01:10:05.448319,05412560 (id-National identification card) ,TUN,TN,,passport,2018-04-12 07:36:19.181301
+eu-eeas-sanctions.6307,,2018-05-01 01:10:06.624072,2246 (passport-National passport)  (diplomatic),,,,passport,2018-04-12 07:36:24.147980
+eu-eeas-sanctions.6948,,2018-05-01 01:10:10.214018,"DG5149481 (passport-National passport) [known to be expired](passport issued on 22.8.2006, expired on 21.8.2011, passport booklet number a2815665)",,,,passport,2018-04-12 07:36:44.207545
+eu-eeas-sanctions.6948,,2018-05-01 01:10:10.230852,35202-4135948-7 (id-National identification card) ((national identification)),,,,passport,2018-04-12 07:36:44.224367
+eu-eeas-sanctions.941,,2018-05-01 01:09:53.223757,M307707 (passport-National passport) ,TUN,TN,,passport,2018-04-12 07:35:49.282028
+eu-eeas-sanctions.968,,2018-05-01 01:09:55.154348,"M 271 351 (passport-National passport) (passport no  issued on 24 october 2000 by the embassy of morocco in berlin, germany)",MAR,MA,,passport,2018-04-12 07:35:48.650927
+eu-eeas-sanctions.968,,2018-05-01 01:09:55.334918,E-189935 (id-National identification card) ((moroccan national identity number)),MAR,MA,,passport,2018-04-12 07:35:48.722559
+eu-eeas-sanctions.968,,2018-05-01 01:09:55.496219,G-0343089 (id-National identification card) ((moroccan national identity card)),MAR,MA,,passport,2018-04-12 07:35:48.749016
+eu-eeas-sanctions.109887,,2018-05-01 01:10:19.700507,010312413 (passport-National passport)  (on 2015-07-14 in Damascus-Centre valid to 2021-07-13)(issue number: 002-15-L093534;),SYR,SY,,passport,2018-04-12 07:37:56.527249
+eu-eeas-sanctions.111143,,2018-05-01 01:10:20.125749,654781 (passport-National passport) ,JOR,JO,,passport,2018-04-12 07:37:58.390600
+eu-eeas-sanctions.111143,,2018-05-01 01:10:20.142381,286062 (passport-National passport) ,JOR,JO,,passport,2018-04-12 07:37:58.407172
+eu-eeas-sanctions.113801,,2018-05-01 01:10:20.693275,7725056162 (regnumber-Registration Number) (Tax Registration Number: 7725056162),,,,passport,2018-04-12 07:38:04.998629
+eu-eeas-sanctions.113801,,2018-05-01 01:10:20.709926,1037739044111 (regnumber-Registration Number)  (on 1994-01-31)(Tax Registration Number: 7725056162),,,,passport,2018-04-12 07:38:05.015337
+eu-eeas-sanctions.114925,,2018-05-01 01:10:20.977125,654133553 (passport-National passport)  (valid to 2019-03-11),,,,passport,2018-04-12 07:38:01.728532
+eu-eeas-sanctions.110286,,2018-05-01 01:10:19.967649,381310014 (passport-National passport) ,,,,passport,2018-04-12 07:38:08.545567
+eu-eeas-sanctions.110491,,2018-05-01 01:10:20.076176,JX446643 (passport-National passport) ,CAN,CA,,passport,2018-04-12 07:37:57.361511
+eu-eeas-sanctions.115154,,2018-05-01 01:10:21.452634,472130058 (passport-National passport) ,,,,passport,2018-04-12 07:38:02.041058
+eu-eeas-sanctions.110302,,2018-05-01 01:10:18.937138,472310082 (passport-National passport) ,,,,passport,2018-04-12 07:38:08.673646
+eu-eeas-sanctions.112314,,2018-05-01 01:10:20.660275,745310111 (passport-National passport) ,,,,passport,2018-04-12 07:38:02.153663
+eu-eeas-sanctions.115714,,2018-05-01 01:10:21.293784,"540763 (nationcert-Nationality certificate)  (on 1984-02-13)(Iraq Certificate of Iraqi Nationality 540763, issued on 13 Feb. 1984)",IRQ,IQ,,passport,2018-04-12 07:38:06.789774
+eu-eeas-sanctions.115714,,2018-05-01 01:10:21.310460,"00405771 (id-National identification card)  (on 2013-05-20)(Iraq national identification card 00405771, issued on 20 May 2013, issued in Iraq)",IRQ,IQ,,passport,2018-04-12 07:38:06.806548
+eu-eeas-sanctions.115714,,2018-05-01 01:10:21.327213,"A4059346 (passport-National passport)  (on 2013-05-29 valid to 2021-05-27)(Iraq number A4059346, issued on 29 May 2013, issued in Baghdad, Iraq (expires on 27 May 2021))",IRQ,IQ,,passport,2018-04-12 07:38:06.823417
+eu-eeas-sanctions.110365,,2018-05-01 01:10:19.058289,OB0260335 (passport-National passport)  (valid from 2011-04-15 to 2016-04-14),,,,passport,2018-04-12 07:37:56.761283
+eu-eeas-sanctions.110264,,2018-05-01 01:10:19.650583,563410091 (passport-National passport) ,PRK,KP,,passport,2018-04-12 07:37:59.278440
+eu-eeas-sanctions.112132,,2018-05-01 01:10:19.825931,DB0001939 (passport-National passport)  (on 2017-05-04 valid to 2022-05-03 diplomatic)(Diplomatic passport number: DB0001939 (issued: 4.5.2017 – expiring: 3.5.2022).),COD,CD,,passport,2018-04-12 07:37:57.569974
+eu-eeas-sanctions.110891,,2018-05-01 01:10:20.222311,04796738 (passport-National passport) ,YEM,YE,,passport,2018-04-12 07:37:58.003231
+eu-eeas-sanctions.114898,,2018-05-01 01:10:20.860286,563335509 (passport-National passport)  (valid to 2018-08-27),,,,passport,2018-04-12 07:38:05.203365
+eu-eeas-sanctions.113334,,2018-05-01 01:10:20.868307,"801121547 (passport-National passport)  (on 2009-06-16 valid to 2019-06-16)(United Kingdom of Great Britain and Northern Ireland number 801121547, issued on 16 Jun. 2009 (issued by UK Passport Office with expiry date of 16 Jun. 2019, cancelled in Dec. 2014))",GBR,GB,,passport,2018-04-12 07:37:58.390832
+eu-eeas-sanctions.113713,,2018-05-01 01:10:21.018240,654110043 (passport-National passport) ,,,,passport,2018-04-12 07:38:03.919186
+eu-eeas-sanctions.115172,,2018-05-01 01:10:21.352136,654310150 (passport-National passport)  (diplomatic)(Diplomatic Passport number: 654310150),,,,passport,2018-04-12 07:38:05.529111
+eu-eeas-sanctions.110281,,2018-05-01 01:10:19.708968,PD472310104 (passport-National passport) ,,,,passport,2018-04-12 07:37:56.511085
+eu-eeas-sanctions.112303,,2018-05-01 01:10:20.362912,563120238 (passport-National passport) ,,,,passport,2018-04-12 07:37:57.719079
+eu-eeas-sanctions.113926,,2018-05-01 01:10:21.301862,19860222007 (id-National identification card) (name on doc. 'expiration date 16 Jun. 2016)') (on 2011-06-16 valid to 2016-06-16)[known to be expired],TTO,TT,,passport,2018-04-12 07:37:58.798257
+eu-eeas-sanctions.113926,,2018-05-01 01:10:21.318603,T1071839 (passport-National passport)  (issued by Immigration Division of Trinidad and Tobago on 2004-11-08 valid to 2014-11-07)[known to be expired],TTO,TT,,passport,2018-04-12 07:37:58.815014
+eu-eeas-sanctions.113926,,2018-05-01 01:10:21.335260,TA959547 (passport-National passport)  (issued by Immigration Division of Trinidad and Tobago on 2013-11-19 valid to 2018-11-18),TTO,TT,,passport,2018-04-12 07:37:58.831766
+eu-eeas-sanctions.113926,,2018-05-01 01:10:21.352036,892124B (drivinglicence-Driving licence)  (on 2007-08-30 valid to 2010-08-30)[known to be expired],TTO,TT,,passport,2018-04-12 07:37:58.848255
+eu-eeas-sanctions.113926,,2018-05-01 01:10:21.418741,B394445 (birthcert-Birth certificate)  (on 2007-01-23),TTO,TT,,passport,2018-04-12 07:37:58.865038
+eu-eeas-sanctions.115752,,2018-05-01 01:10:21.577153,150161100206 (id-National identification card) ,,,,passport,2018-04-12 07:37:59.961582
+eu-eeas-sanctions.115752,,2018-05-01 01:10:21.593919,06AP104665 (passport-National passport) [known to be expired],,,,passport,2018-04-12 07:37:59.978118
+eu-eeas-sanctions.110321,,2018-05-01 01:10:19.667153,KUDBKPPY (swiftbic-SWIFT BIC) ,,,,passport,2018-04-12 07:37:57.852914
+eu-eeas-sanctions.110390,,2018-05-01 01:10:19.928333,DB0006669 (other-Other identification number)  (valid from 2013-11-13 to 2018-11-12 diplomatic),,,,passport,2018-04-12 07:37:56.897796
+eu-eeas-sanctions.112342,,2018-05-01 01:10:20.001112,290410121 (passport-National passport) ,,,,passport,2018-04-12 07:37:57.860988
+eu-eeas-sanctions.112160,,2018-05-01 01:10:20.371748,DB0004470 (passport-National passport)  (on 2012-06-08 valid to 2017-06-07)(Passport number: DB0004470 (issued: 8.6.2012 – expires: 7.6.2017).),COD,CD,,passport,2018-04-12 07:37:57.527496
+eu-eeas-sanctions.111832,,2018-05-01 01:10:20.513713,563310042 (passport-National passport) ,,,,passport,2018-04-12 07:37:57.836377
+eu-eeas-sanctions.113677,,2018-05-01 01:10:20.976706,745420176 (passport-National passport)  (valid to 2020-10-19),,,,passport,2018-04-12 07:38:04.674836
+eu-eeas-sanctions.110269,,2018-05-01 01:10:19.445822,654120219 (passport-National passport) ,,,,passport,2018-04-12 07:37:59.432383
+eu-eeas-sanctions.110269,,2018-05-01 01:10:19.509074,381420565 (passport-National passport) ,,,,passport,2018-04-12 07:37:59.449061
+eu-eeas-sanctions.113717,,2018-05-01 01:10:20.529999,563120235 (passport-National passport) ,,,,passport,2018-04-12 07:38:04.853160
+eu-eeas-sanctions.114587,,2018-05-01 01:10:20.563570,563410191 (passport-National passport) (Passport number: 563410191),,,,passport,2018-04-12 07:37:59.077924
+eu-eeas-sanctions.114913,,2018-05-01 01:10:20.977178,563233049 (passport-National passport)  (valid to 2018-05-09),,,,passport,2018-04-12 07:38:05.324373
+eu-eeas-sanctions.113672,,2018-05-01 01:10:21.026733,65441078 (passport-National passport) ,,,,passport,2018-04-12 07:38:01.190639
+eu-eeas-sanctions.113796,,2018-05-01 01:10:21.155361,7704863782e (regnumber-Registration Number) (Tax Registration Number: 7704863782e),,,,passport,2018-04-12 07:38:05.315367
+eu-eeas-sanctions.113796,,2018-05-01 01:10:21.172227,1147746527279 (regnumber-Registration Number)  (on 2014-05-08)(Registration date: 8.5.2014 State Registration Number: 1147746527279 Tax Registration Number: 7704863782e),,,,passport,2018-04-12 07:38:05.378690
+eu-eeas-sanctions.115730,,2018-05-01 01:10:21.293774,"202 (other-Other identification number)  (on 2000-05-17)(Established in 2000 under License number 202, issued on 17 May 2000, and since withdrawn.)",,,,passport,2018-04-12 07:37:59.870241
+eu-eeas-sanctions.110325,,2018-05-01 01:10:19.842660,ILSIKPPY (swiftbic-SWIFT BIC) ,,,,passport,2018-04-12 07:37:56.652833
+eu-eeas-sanctions.110425,,2018-05-01 01:10:19.925638,"8208 No. 555627 (passport-National passport) (Russian passport number 8208 No. 555627,issued by Leninskiy Office, Directorate of the Federal Migration Service of the Russian Federation for the Republic of Dagestan)",,,,passport,2018-04-12 07:37:57.185930
+eu-eeas-sanctions.112075,,2018-05-01 01:10:20.125986,"D00000897 (passport-National passport)  (on 2013-04-05 valid to 2018-04-04 diplomatic)(CAR diplomatic passport no. D00000897, issued on 5 April 2013 (valid until 4 April 2018))",CAF,CF,,passport,2018-04-12 07:37:57.281298
+eu-eeas-sanctions.114860,,2018-05-01 01:10:20.868751,472420180 (passport-National passport) ,,,,passport,2018-04-12 07:37:59.094654
+eu-eeas-sanctions.110350,,2018-05-01 01:10:19.792280,1-64-86-22311-29 (other-Other identification number) (military ID number),,,,passport,2018-04-12 07:37:56.794268
+eu-eeas-sanctions.112358,,2018-05-01 01:10:20.076312,654310175 (passport-National passport) ,,,,passport,2018-04-12 07:37:57.935944
+eu-eeas-sanctions.113326,,2018-05-01 01:10:20.910873,094477324 (passport-National passport)  (on 2005-03-05)(United Kingdom of Great Britain and Northern Ireland number 094477324),GBR,GB,,passport,2018-04-12 07:37:58.244497
+eu-eeas-sanctions.115167,,2018-05-01 01:10:21.018543,836220035 (other-Other identification number) (Service passport number: 836220035),,,,passport,2018-04-12 07:37:59.398564
+eu-eeas-sanctions.115167,,2018-05-01 01:10:21.035250,290220142 (passport-National passport) ,,,,passport,2018-04-12 07:37:59.415195
+eu-eeas-sanctions.110500,,2018-05-01 01:10:19.934571,M2719127 (passport-National passport) ,AUS,AU,,passport,2018-04-12 07:37:57.511482
+eu-eeas-sanctions.112597,,2018-05-01 01:10:20.126168,"5802098444 (id-National identification card)  (on 2010-04-15 valid to 2016-04-14)(Germany national identity card number 5802098444, issued in Bonn, Germany (on 15 Apr. 2010, expired on 14 Apr. 2016))",DEU,DE,,passport,2018-04-12 07:37:58.978335
+eu-eeas-sanctions.113697,,2018-05-01 01:10:20.388399,654320502 (passport-National passport)  (valid to 2019-09-16),,,,passport,2018-04-12 07:37:59.962067
+eu-eeas-sanctions.113282,,2018-05-01 01:10:20.446321,1-72-96-80384-52 (other-Other identification number) (Military ID number: 1-72-96-80384-52),,,,passport,2018-04-12 07:37:59.557220
+eu-eeas-sanctions.114872,,2018-05-01 01:10:21.180265,381120660 (passport-National passport)  (valid to 2016-03-25),,,,passport,2018-04-12 07:37:59.128005
+eu-eeas-sanctions.115186,,2018-05-01 01:10:21.326993,290221242 (passport-National passport)  (diplomatic)(Diplomatic passport number: 290221242),,,,passport,2018-04-12 07:37:59.556891
+eu-eeas-sanctions.110370,,2018-05-01 01:10:19.262095,011518403 (other-Other identification number)  (valid from 2016-07-02)(Schengen visa),,,,passport,2018-04-12 07:37:57.153122
+eu-eeas-sanctions.110370,,2018-05-01 01:10:19.325607,OB0637580 (passport-National passport)  (valid from 2014-05-20 to 2019-05-19),,,,passport,2018-04-12 07:37:57.169751
+eu-eeas-sanctions.113086,,2018-05-01 01:10:20.843961,1-64-87-77512-30 (other-Other identification number) (military ID number: 1-64-87-77512-30.),,,,passport,2018-04-12 07:37:58.227854
+eu-eeas-sanctions.114848,,2018-05-01 01:10:21.180966,836210029 (passport-National passport) ,,,,passport,2018-04-12 07:37:59.440588
+eu-eeas-sanctions.115145,,2018-05-01 01:10:21.268740,563410155 (passport-National passport) ,,,,passport,2018-04-12 07:37:59.423631
+eu-eeas-sanctions.111822,,2018-05-01 01:10:20.405112,PD836410105 (passport-National passport)  (valid to 2021-11-27),,,,passport,2018-04-12 07:38:01.990907
+eu-eeas-sanctions.113791,,2018-05-01 01:10:20.660123,7705713236 (regnumber-Registration Number) (Tax Registration Number: 7705713236),,,,passport,2018-04-12 07:38:00.307566
+eu-eeas-sanctions.113791,,2018-05-01 01:10:20.676740,1067746244026 (regnumber-Registration Number)  (on 1992-07-27)(Registration date: 27.7.1992 State Registration Number: 1067746244026),,,,passport,2018-04-12 07:38:00.333467
+eu-eeas-sanctions.115141,,2018-05-01 01:10:20.710103,563410192 (passport-National passport) ,,,,passport,2018-04-12 07:37:59.302929
+eu-eeas-sanctions.114830,,2018-05-01 01:10:20.734995,"836420186 (passport-National passport)  (on 2016-10-28 valid to 2021-10-28)(Passport No. 836420186 issued 28 October
+2016 expires 28 October 2021;)",,,,passport,2018-04-12 07:37:59.145122
+eu-eeas-sanctions.112107,,2018-05-01 01:10:20.086795,DP 0000003 (passport-National passport)  (valid from 2015-12-21 to 2020-12-20 diplomatic)(Diplomatic passport number: DP 0000003 (valid: 21.12.2015 – expiry: 20.12.2020). Schengen visa expired on 5.1.2017.),COD,CD,,passport,2018-04-12 07:37:57.010890
+eu-eeas-sanctions.113692,,2018-05-01 01:10:20.505295,563120368 (passport-National passport)  (on 2013-03-22 valid to 2018-03-22),,,,passport,2018-04-12 07:37:58.302749
+eu-eeas-sanctions.115182,,2018-05-01 01:10:21.585871,381210143 (passport-National passport)  (valid to 2016-06-03)(Passport number: 381210143 (expiration date: 3.6.2016)),,,,passport,2018-04-12 07:37:59.531950
+eu-eeas-sanctions.112118,,2018-05-01 01:10:19.817271,OP 0024910 (passport-National passport)  (valid from 2016-03-21 to 2021-03-20)(DRC passport number: OP 0024910 (valid: 21.3.2016 – expiry: 20.3.2021).),COD,CD,,passport,2018-04-12 07:37:58.790431
+eu-eeas-sanctions.113291,,2018-05-01 01:10:20.513273,1-69-09-51400-64 (other-Other identification number) (Military ID number: 1-69-09-51400-64),,,,passport,2018-04-12 07:37:58.840363
+eu-eeas-sanctions.113703,,2018-05-01 01:10:20.735099,472234895 (passport-National passport) ,,,,passport,2018-04-12 07:37:58.790547
+eu-eeas-sanctions.115699,,2018-05-01 01:10:21.764379,"300397 (nationcert-Nationality certificate)  (on 2013-06-25)(Iraq Certificate of Iraqi Nationality 300397, issued on 25 Jun. 2013)",IRQ,IQ,,passport,2018-04-12 07:38:00.131946
+eu-eeas-sanctions.115699,,2018-05-01 01:10:21.831311,"00813602 (id-National identification card)  (on 2011-09-18)(Iraq national identification card 00813602, issued on 18 Sep. 2011)",IRQ,IQ,,passport,2018-04-12 07:38:00.148568
+eu-eeas-sanctions.115699,,2018-05-01 01:10:21.877854,"A6489694 (passport-National passport)  (on 2013-09-02 valid to 2021-08-31)(Passport no: Iraq number A6489694, issued on 2 Sep. 2013 (expires on 31 Aug. 2021)",IRQ,IQ,,passport,2018-04-12 07:38:00.165169
+eu-eeas-sanctions.112270,,2018-05-01 01:10:19.992371,736410010 (passport-National passport) (Passport No 736410010.),,,,passport,2018-04-12 07:37:59.086859
+eu-eeas-sanctions.114878,,2018-05-01 01:10:21.302162,472120208 (passport-National passport)  (valid to 2017-02-22),,,,passport,2018-04-12 07:37:59.278121

@@ -1,0 +1,1055 @@
+city,entity_id,__last_seen,text,region,note,street,postal_code,country_code,country_name,street_2,__first_seen
+,ua-sdfm-blacklist.635,2018-04-26 08:30:21.068911,"- P.O. Box 5642, Al Masbah, Hay Babile Area, 29 Street 16 Building no. 5, Baghdad,
+Iraq",,,,,,,,2018-04-12 07:32:41.002326
+,ua-sdfm-blacklist.158,2018-04-26 08:30:12.914358,"House Number 136, KDA Scheme No. 1, Tipu Sultan Road, Karachi, Pakistan",,,,,,,,2018-04-12 07:32:20.533530
+,ua-sdfm-blacklist.913,2018-04-26 08:30:23.850201,"Pasdaran Ave., Tehran, Iran",,,,,,,,2018-04-12 07:33:02.412774
+,ua-sdfm-blacklist.945,2018-04-26 08:30:24.259022,"P.O. Box 16535-76, Tehran, 16548, Iran",,,,,,,,2018-04-12 07:33:03.712990
+,ua-sdfm-blacklist.988,2018-04-26 08:30:24.695031,Democratic Republic of the Congo (in prison),,,,,,,,2018-04-12 07:33:04.554810
+,ua-sdfm-blacklist.127,2018-04-26 08:30:24.975557,"Sitio Dueg, Barangay Maasin, San Clemente, Tarlac Province, Philippines",,,,,,,,2018-04-12 07:32:16.889982
+,ua-sdfm-blacklist.127,2018-04-26 08:30:24.992340,"Number 50, Purdue Street, Cubao, Quezon City, Philippines",,,,,,,,2018-04-12 07:32:16.906592
+,ua-sdfm-blacklist.1100,2018-04-26 08:30:25.843190,"Near Dergey Manday Madrasa in Dergey Manday Village, near Miram Shah, North Waziristan Agency (NWA), Federally Administered Tribal Areas (FATA), Pakistan.",,,,,,,,2018-04-12 07:33:28.618492
+,ua-sdfm-blacklist.356,2018-04-26 08:30:16.575404,"Corso Lodi 59, Milan, Italy",,,,,,,,2018-04-12 07:32:32.448739
+,ua-sdfm-blacklist.399,2018-04-26 08:30:16.958899,"Via Latisana n. 6, Milan, Italy",,,,,,,,2018-04-12 07:32:33.632304
+,ua-sdfm-blacklist.399,2018-04-26 08:30:16.975476,"Tunisian passport number M408665, issued on 4 Oct. 2000, expired 3 Oct. 2005",,,,,,,,2018-04-12 07:32:33.659731
+,ua-sdfm-blacklist.386,2018-04-26 08:30:17.376145,"41-45, Rue Estienne d’Orves, Pre Saint Gervais, France",,,,,,,,2018-04-12 07:32:33.323886
+,ua-sdfm-blacklist.413,2018-04-26 08:30:18.117757,Algeria,,,,,,,,2018-04-12 07:32:34.619568
+,ua-sdfm-blacklist.419,2018-04-26 08:30:18.309552,"Via Cilea 40, Milan, Italy (Domicile)",,,,,,,,2018-04-12 07:32:35.196232
+,ua-sdfm-blacklist.582,2018-04-26 08:30:19.868817,"P.O. Box 22055, Al-Shaikh Omar Street, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:44.046528
+,ua-sdfm-blacklist.590,2018-04-26 08:30:19.918688,"P.O. Box 5271, Khulafa Street, Khuilani Square, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:44.339026
+,ua-sdfm-blacklist.482,2018-04-26 08:30:20.110092,"Sulu region, Philippines (reported location)",,,,,,,,2018-04-12 07:32:35.681712
+,ua-sdfm-blacklist.584,2018-04-26 08:30:20.693459,"P.O. Box 293, Ninevah, Ninevah, Iraq",,,,,,,,2018-04-12 07:32:44.219269
+,ua-sdfm-blacklist.569,2018-04-26 08:30:20.798915,,,,,,,,,2018-04-12 07:32:43.827578
+,ua-sdfm-blacklist.610,2018-04-26 08:30:21.101952,"P.O. Box 6061, Aamiriya, 7 Nisan, Aamiriya, Iraq",,,,,,,,2018-04-12 07:32:44.569690
+,ua-sdfm-blacklist.722,2018-04-26 08:30:21.649350,"P.O. Box 26, Rashid Street, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:46.495506
+,ua-sdfm-blacklist.749,2018-04-26 08:30:22.035806,"P.O. Box 2387, Alwiyah, Saadoon St., Karrada Al Basra, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:49.069547
+,ua-sdfm-blacklist.749,2018-04-26 08:30:22.052500,"Al-Masbah, near Al Fatih Square, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:49.272748
+,ua-sdfm-blacklist.717,2018-04-26 08:30:22.110991,"Abu Sukhair, P.O. Box 20, Najaf, Iraq",,,,,,,,2018-04-12 07:32:46.028803
+,ua-sdfm-blacklist.717,2018-04-26 08:30:22.127671,"Manadhira, Al-Najaf, Iraq",,,,,,,,2018-04-12 07:32:46.095541
+,ua-sdfm-blacklist.761,2018-04-26 08:30:22.127422,"Saadoun St., P.O. Box 3164, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:49.470915
+,ua-sdfm-blacklist.756,2018-04-26 08:30:22.177739,"Al Ljtimai Building, Jumhuriya St. (Al Khullani Square), P.O. Box 5948,
+Baghdad, Iraq",,,,,,,,2018-04-12 07:32:49.379309
+,ua-sdfm-blacklist.756,2018-04-26 08:30:22.194385,"235/306 Husam Aldin St., near Al-Fateh Square, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:49.395997
+,ua-sdfm-blacklist.774,2018-04-26 08:30:22.227475,"- Hai Babil, Lane 11, District 929, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:50.079846
+,ua-sdfm-blacklist.774,2018-04-26 08:30:22.244145,"Hai Al-Wahda, Lane 15, Area 902, Office 10, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:50.146386
+,ua-sdfm-blacklist.774,2018-04-26 08:30:22.260733,"P.O. Box 2337, Alwiyah, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:50.171251
+,ua-sdfm-blacklist.771,2018-04-26 08:30:22.344319,"Chemin du Carmel, 1661 Le Paquier-Montbarry Switzerland",,,,,,,,2018-04-12 07:32:50.005665
+,ua-sdfm-blacklist.837,2018-04-26 08:30:23.241425,,,,,,,,,2018-04-12 07:32:58.704777
+,ua-sdfm-blacklist.913,2018-04-26 08:30:23.833433,"Sepah Islam Road, Karaj Special Road Km 10, Iran",,,,,,,,2018-04-12 07:33:02.387869
+,ua-sdfm-blacklist.130,2018-04-26 08:30:11.900703,Qatar,,,,,,,,2018-04-12 07:32:17.014478
+,ua-sdfm-blacklist.169,2018-04-26 08:30:14.708051,"Zabadani, Syrian Arab Republic",,,,,,,,2018-04-12 07:32:18.782632
+,ua-sdfm-blacklist.303,2018-04-26 08:30:16.175282,"Khairkhana Section Number 3, Kabul, Afghanistan",,,,,,,,2018-04-12 07:32:31.098031
+,ua-sdfm-blacklist.365,2018-04-26 08:30:16.488704,"Via Bertesi Number 27, Cremona, Italy",,,,,,,,2018-04-12 07:32:32.481778
+,ua-sdfm-blacklist.365,2018-04-26 08:30:16.550530,"Via Plebiscito Number 3, Cremona, Italy",,,,,,,,2018-04-12 07:32:32.548426
+,ua-sdfm-blacklist.548,2018-04-26 08:30:19.357119,Pakistan,,,,,,,,2018-04-12 07:32:39.835425
+,ua-sdfm-blacklist.553,2018-04-26 08:30:19.859060,Libyan Arab Jamahiriya,,,,,,,,2018-04-12 07:32:40.385387
+,ua-sdfm-blacklist.521,2018-04-26 08:30:19.935028,"Jalan Laut Sulawesi Blok DII/4, Kavling Angkatan Laut Duren Sawit, Jakarta Timur 13440 Indonesia (at time of listing); Tel.: 021-86611265 and 021-86611266; Fax.: 021-8620174",,,,,,,,2018-04-12 07:32:37.876773
+,ua-sdfm-blacklist.550,2018-04-26 08:30:20.109827,"Kandahar City, Afghanistan",,,,,,,,2018-04-12 07:32:40.043786
+,ua-sdfm-blacklist.612,2018-04-26 08:30:20.310628,"P.O. Box 329, Bab Al Mouadham-Midan, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:45.938072
+,ua-sdfm-blacklist.612,2018-04-26 08:30:20.327216,"P.O. Box 2261, Allque, Irkheta, Karada Al-Shakira, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:46.004124
+,ua-sdfm-blacklist.591,2018-04-26 08:30:20.726764,"P.O. Box 274, Ashar, Basrah, Iraq",,,,,,,,2018-04-12 07:32:44.705026
+,ua-sdfm-blacklist.606,2018-04-26 08:30:20.893441,"P.O. Box 564, Al-Khalis, Diala Muhafadha, Al-Khalis, Iraq",,,,,,,,2018-04-12 07:32:45.029828
+,ua-sdfm-blacklist.656,2018-04-26 08:30:21.051196,"P.O. Box 3267, Saadoun Nafoora Square, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:46.320050
+,ua-sdfm-blacklist.662,2018-04-26 08:30:21.093955,"P.O. Box 13, Mosul, Iraq",,,,,,,,2018-04-12 07:32:46.743686
+,ua-sdfm-blacklist.687,2018-04-26 08:30:21.516197,"Street no. 52, Alwiya, P.O. Box 5738, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:47.853715
+,ua-sdfm-blacklist.687,2018-04-26 08:30:21.532872,"P.O. Box 1011, Basil Square, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:47.955763
+,ua-sdfm-blacklist.687,2018-04-26 08:30:21.549365,"P.O. Box 1011, Al Wathba Square, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:48.001140
+,ua-sdfm-blacklist.611,2018-04-26 08:30:21.665968,"P.O. Box 170, entrance to Hurriyah City, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:45.610900
+,ua-sdfm-blacklist.611,2018-04-26 08:30:21.682609,"P.O. Box 17011, entrance of Huriah City, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:45.637049
+,ua-sdfm-blacklist.758,2018-04-26 08:30:22.085636,"P.O. Box 602-5720, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:51.020697
+,ua-sdfm-blacklist.758,2018-04-26 08:30:22.102404,"Al-Karradah Al Sharkiya, P.O. Box 5720, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:51.079435
+,ua-sdfm-blacklist.868,2018-04-26 08:30:23.628539,"Geneva, Switzerland",,,,,,,,2018-04-12 07:33:00.905622
+,ua-sdfm-blacklist.987,2018-04-26 08:30:24.503813,Democratic Republic of the Congo (in prison),,,,,,,,2018-04-12 07:33:03.589368
+,ua-sdfm-blacklist.997,2018-04-26 08:30:24.600716,Democratic Republic of the Congo,,,,,,,,2018-04-12 07:33:05.279534
+,ua-sdfm-blacklist.1179,2018-04-26 08:30:28.630657,"Branch Office 7: i) Suite number 8, 4th Floor, Sarafi Market, District number 1, Kandahar City, Kandahar Province, Afghanistan ii) Shop number 25, 5th Floor, Sarafi Market, Kandahar City, Kandahar District, Kandahar Province, Afghanistan",,,,,,,,2018-04-12 07:33:34.868351
+,ua-sdfm-blacklist.79,2018-04-26 08:30:11.088115,Active in Southern Somalia as of Nov. 2012,,,,,,,,2018-04-12 07:32:17.056747
+,ua-sdfm-blacklist.79,2018-04-26 08:30:11.104888,Also reported to be in Eritrea as of Nov. 2007,,,,,,,,2018-04-12 07:32:17.073407
+,ua-sdfm-blacklist.147,2018-04-26 08:30:12.376573,"lltisstrasse 58, 24143 Kiel, Germany (previous address)",,,,,,,,2018-04-12 07:32:18.724951
+,ua-sdfm-blacklist.136,2018-04-26 08:30:12.497196,"Branch Address: Hasiba Brankovica No. 2A, Sarajevo, Bosnia and Herzegovina",,,,,,,,2018-04-12 07:32:18.216351
+,ua-sdfm-blacklist.136,2018-04-26 08:30:12.555972,"Bihacka St. 14, Sarajevo, Bosnia and Herzegovina",,,,,,,,2018-04-12 07:32:18.230013
+,ua-sdfm-blacklist.136,2018-04-26 08:30:12.572656,"Travnick, Potur mahala St. 64, Bosnia and Herzegovina",,,,,,,,2018-04-12 07:32:18.246730
+,ua-sdfm-blacklist.174,2018-04-26 08:30:13.331072,Pakistan,,,,,,,,2018-04-12 07:32:24.122754
+,ua-sdfm-blacklist.172,2018-04-26 08:30:13.349231,Yemen,,,,,,,,2018-04-12 07:32:23.492380
+,ua-sdfm-blacklist.184,2018-04-26 08:30:13.707323,Qatar,,,,,,,,2018-04-12 07:32:24.425832
+,ua-sdfm-blacklist.345,2018-04-26 08:30:16.609230,"Nangarhar Province, Afghanistan",,,,,,,,2018-04-12 07:32:36.016141
+,ua-sdfm-blacklist.466,2018-04-26 08:30:19.518361,Algeria,,,,,,,,2018-04-12 07:32:38.535855
+,ua-sdfm-blacklist.522,2018-04-26 08:30:19.525474,"House #279, Nazimuddin Road, F-10/1, Islamabad, Pakistan (at time of listing)",,,,,,,,2018-04-12 07:32:44.970358
+,ua-sdfm-blacklist.604,2018-04-26 08:30:20.110360,"P.O. Box 2, Hilla, Iraq",,,,,,,,2018-04-12 07:32:48.329180
+,ua-sdfm-blacklist.570,2018-04-26 08:30:20.275779,,,,,,,,,2018-04-12 07:32:45.388143
+,ua-sdfm-blacklist.601,2018-04-26 08:30:20.534123,"P.O. Box 79, Diwaniya, Qadisiya, Iraq",,,,,,,,2018-04-12 07:32:48.196131
+,ua-sdfm-blacklist.601,2018-04-26 08:30:20.605836,"P.O. Box 15, Diwaniyah, Iraq",,,,,,,,2018-04-12 07:32:48.269645
+,ua-sdfm-blacklist.637,2018-04-26 08:30:20.867792,"Karrada Al Sharkiya, Nadhimiya, P.O. Box 10026, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:49.395979
+,ua-sdfm-blacklist.637,2018-04-26 08:30:20.884433,"P.O. Box 10026, Jumhuriya Street, Khallani Square, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:49.412666
+,ua-sdfm-blacklist.600,2018-04-26 08:30:21.052389,"P.O. Box 21, Baquba, Diala, Iraq",,,,,,,,2018-04-12 07:32:47.787901
+,ua-sdfm-blacklist.657,2018-04-26 08:30:21.093944,"P.O. Box 12014, Al-Daura, Bayaa, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:49.555401
+,ua-sdfm-blacklist.593,2018-04-26 08:30:21.365861,"P.O. Box 552, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:47.205161
+,ua-sdfm-blacklist.745,2018-04-26 08:30:22.068242,"Amiriya, Abu Gharib, P.O. Box 6161, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:50.280126
+,ua-sdfm-blacklist.745,2018-04-26 08:30:22.085012,"P.O. Box 6061, Aamrlya 7, Nisan, Iraq",,,,,,,,2018-04-12 07:32:50.297270
+,ua-sdfm-blacklist.745,2018-04-26 08:30:22.101607,"P.O. Box 609, Al-Sadoon St., Baghdad, Iraq",,,,,,,,2018-04-12 07:32:50.312861
+,ua-sdfm-blacklist.745,2018-04-26 08:30:22.118291,"P.O. Box 27, Wasit Province, Kut, Iraq",,,,,,,,2018-04-12 07:32:50.330142
+,ua-sdfm-blacklist.766,2018-04-26 08:30:22.201356,"P.O. Box 101, Arbil, Iraq",,,,,,,,2018-04-12 07:32:51.339925
+,ua-sdfm-blacklist.156,2018-04-26 08:30:25.801197,Philippines (remains incarcerated as of May 2017),,,,,,,,2018-04-12 07:32:19.016603
+,ua-sdfm-blacklist.1355,2018-04-26 08:30:33.775666,Algeria,,,,,,,,2018-04-12 07:33:49.220595
+,ua-sdfm-blacklist.146,2018-04-26 08:30:12.740391,In prison in Germany (since Sep. 2007).,,,,,,,,2018-04-12 07:32:17.189698
+,ua-sdfm-blacklist.849,2018-04-26 08:30:23.619822,"- Damascus, Syria;
+- Al-Shahid Street, Al-Mahata Neighborhood, Az Zabadani, Syria;
+- Yemen",,,,,,,,2018-04-12 07:32:58.804258
+,ua-sdfm-blacklist.859,2018-04-26 08:30:23.808402,"Amman, Jordan",,,,,,,,2018-04-12 07:32:59.536954
+,ua-sdfm-blacklist.911,2018-04-26 08:30:23.833402,"P.O. Box 91735-549, Mashad, Iran",,,,,,,,2018-04-12 07:33:01.362227
+,ua-sdfm-blacklist.911,2018-04-26 08:30:23.850182,"Amin Industrial Estate, Khalage Rd., Seyedi District, Mashad, Iran",,,,,,,,2018-04-12 07:33:01.378694
+,ua-sdfm-blacklist.867,2018-04-26 08:30:23.911652,Iraq,,,,,,,,2018-04-12 07:32:59.980697
+,ua-sdfm-blacklist.925,2018-04-26 08:30:24.208896,"P.O. Box 83145-311, Kilometer 28, Esfahan-Tehran Freeway, Shahin Shahr, Esfahan, Iran",,,,,,,,2018-04-12 07:33:02.137285
+,ua-sdfm-blacklist.146,2018-04-26 08:30:12.757009,"Sudliche Ringstrasse 133, 63225 Langen, Germany (previous address)",,,,,,,,2018-04-12 07:32:17.206431
+,ua-sdfm-blacklist.205,2018-04-26 08:30:14.290599,"Via Monte Grappa 15, Arluno (Milan), Italy",,,,,,,,2018-04-12 07:32:20.608121
+,ua-sdfm-blacklist.205,2018-04-26 08:30:14.323271,"Via Cefalonia 11, Milan, Italy (Domicile, last known address)",,,,,,,,2018-04-12 07:32:20.624712
+,ua-sdfm-blacklist.297,2018-04-26 08:30:15.408656,Qatar,,,,,,,,2018-04-12 07:32:28.005722
+,ua-sdfm-blacklist.351,2018-04-26 08:30:16.391953,"50th Street, Number 23, Zehrouni, Tunis, Tunisia",,,,,,,,2018-04-12 07:32:30.106324
+,ua-sdfm-blacklist.358,2018-04-26 08:30:16.734073,"Via Plebiscito 3, Cermona, Italy",,,,,,,,2018-04-12 07:32:31.115776
+,ua-sdfm-blacklist.441,2018-04-26 08:30:18.483673,United States of America,,,,,,,,2018-04-12 07:32:33.179138
+,ua-sdfm-blacklist.568,2018-04-26 08:30:20.415484,,,,,,,,,2018-04-12 07:32:41.485531
+,ua-sdfm-blacklist.519,2018-04-26 08:30:20.518508,"Irfan Tomini Street, #58, Tirana, Albania (at time of listing)",,,,,,,,2018-04-12 07:32:35.974115
+,ua-sdfm-blacklist.706,2018-04-26 08:30:21.507304,"Daura, P.O. Box 12014, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:44.335499
+,ua-sdfm-blacklist.711,2018-04-26 08:30:21.514870,"P.O. Box 5890, Alwiya, near Unknown Soldier, Saadoun Street, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:44.485583
+,ua-sdfm-blacklist.709,2018-04-26 08:30:21.540598,"- P.O. Box 5954, East Gate, Sadoon St., Baghdad, Iraq",,,,,,,,2018-04-12 07:32:44.427232
+,ua-sdfm-blacklist.709,2018-04-26 08:30:21.557350,"P.O. Box 5954, South Gate, Al-Kaim, Anbar, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:44.442535
+,ua-sdfm-blacklist.738,2018-04-26 08:30:21.790834,"Jumhiriya St., Khullani Square, P.O. Box 5424, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:47.944123
+,ua-sdfm-blacklist.741,2018-04-26 08:30:21.835634,"Ministry of Industry Building, Al Nidal St., P.O. Box 5614, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:48.412418
+,ua-sdfm-blacklist.736,2018-04-26 08:30:21.836101,"Zafaraniya Area, near Post Office, Baghdad, Iraq; P.O. Box 3073, Karadde
+Charkieya/Erkhaita, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:47.460861
+,ua-sdfm-blacklist.741,2018-04-26 08:30:21.852206,"P.O. Box 3093, Tayaran Square, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:48.437440
+,ua-sdfm-blacklist.730,2018-04-26 08:30:21.874009,"P.O. Box 7041, Uqba Bin Nafia Square, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:46.511756
+,ua-sdfm-blacklist.740,2018-04-26 08:30:22.044697,"Off Jumhuriya St/Building 166, Nafoora Square, P.O. Box 5796, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:48.028787
+,ua-sdfm-blacklist.740,2018-04-26 08:30:22.061277,"P.O. Box 230, Basrah, Iraq",,,,,,,,2018-04-12 07:32:48.095555
+,ua-sdfm-blacklist.740,2018-04-26 08:30:22.077677,"P.O. Box 14171 Jumhuriya St., Maidan Building no. 9, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:48.112162
+,ua-sdfm-blacklist.762,2018-04-26 08:30:22.244712,"Arasat Al Hindya St., Salman Daoud Al Haydar Building, P.O. Box 602,
+Baghdad, Iraq",,,,,,,,2018-04-12 07:32:49.712349
+,ua-sdfm-blacklist.763,2018-04-26 08:30:22.261153,"P.O. Box 5, Sulaimaniyah, Iraq",,,,,,,,2018-04-12 07:32:50.304019
+,ua-sdfm-blacklist.863,2018-04-26 08:30:23.436532,Iraq,,,,,,,,2018-04-12 07:32:59.686795
+,ua-sdfm-blacklist.168,2018-04-26 08:30:12.706642,"Zabadani, Syrian Arab Republic",,,,,,,,2018-04-12 07:32:17.198424
+,ua-sdfm-blacklist.175,2018-04-26 08:30:12.827386,Pakistan,,,,,,,,2018-04-12 07:32:17.654756
+,ua-sdfm-blacklist.192,2018-04-26 08:30:13.106893,"Reported to be active in Southern Somalia, lower Juba near Kismayo, mainly in Jilibe and Burgabo as of Nov.2012",,,,,,,,2018-04-12 07:32:18.749805
+,ua-sdfm-blacklist.348,2018-04-26 08:30:16.567276,May be on the Pakistani-Afghan border,,,,,,,,2018-04-12 07:32:29.776296
+,ua-sdfm-blacklist.363,2018-04-26 08:30:16.672076,United States of America,,,,,,,,2018-04-12 07:32:30.406729
+,ua-sdfm-blacklist.390,2018-04-26 08:30:16.791095,Indonesia (in prison),,,,,,,,2018-04-12 07:32:31.707104
+,ua-sdfm-blacklist.369,2018-04-26 08:30:16.855552,na,,,,,,,,2018-04-12 07:32:31.123448
+,ua-sdfm-blacklist.426,2018-04-26 08:30:17.166318,Tunisia,,,,,,,,2018-04-12 07:32:32.923918
+,ua-sdfm-blacklist.405,2018-04-26 08:30:17.926144,"Via Milano n. 38, Spinadesco (CR), Italy",,,,,,,,2018-04-12 07:32:32.198609
+,ua-sdfm-blacklist.406,2018-04-26 08:30:18.317816,"Corso XXII Marzo Number 39, Milan, Italy",,,,,,,,2018-04-12 07:32:32.540504
+,ua-sdfm-blacklist.463,2018-04-26 08:30:18.859676,"Refugee shelter Alte Ziegelei, 55128 Mainz, Germany",,,,,,,,2018-04-12 07:32:35.207665
+,ua-sdfm-blacklist.450,2018-04-26 08:30:18.859797,"Karachi, Pakistan ( White House, Near Saudi Mosque, Clifton)",,,,,,,,2018-04-12 07:32:34.460137
+,ua-sdfm-blacklist.450,2018-04-26 08:30:18.876422,"House Nu 37 - 30th Street - defence, Housing Authority, Karachi, Pakistan",,,,,,,,2018-04-12 07:32:34.476847
+,ua-sdfm-blacklist.450,2018-04-26 08:30:18.893303,Palatial bungalow in the hilly area of Noorabad in Karachi,,,,,,,,2018-04-12 07:32:34.493502
+,ua-sdfm-blacklist.483,2018-04-26 08:30:19.301585,Tunisia,,,,,,,,2018-04-12 07:32:35.827065
+,ua-sdfm-blacklist.583,2018-04-26 08:30:20.660503,"P.O. Box 29041, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:37.591387
+,ua-sdfm-blacklist.631,2018-04-26 08:30:20.709343,"28 Nissan Complex, Al Salihiya, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:39.774958
+,ua-sdfm-blacklist.605,2018-04-26 08:30:20.860453,"Ahrar, Kut, Iraq",,,,,,,,2018-04-12 07:32:38.877416
+,ua-sdfm-blacklist.620,2018-04-26 08:30:21.118788,"P.O. Box 9, Idleb, Iraq",,,,,,,,2018-04-12 07:32:39.452536
+,ua-sdfm-blacklist.589,2018-04-26 08:30:21.277241,"The White Palace, Al Nidhal Street, P.O. Box 5157, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:37.877339
+,ua-sdfm-blacklist.599,2018-04-26 08:30:21.532507,"P.O. Box 421, Basrah Khor Al-Zubair, Basrah, Iraq",,,,,,,,2018-04-12 07:32:38.601307
+,ua-sdfm-blacklist.607,2018-04-26 08:30:21.574153,"P.O. Box 21035, General Ramadi Street, entrance of Agaruf Street, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:38.974819
+,ua-sdfm-blacklist.619,2018-04-26 08:30:21.827620,"P.O. Box 1033, Al-Tahreer Square, South Gate, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:39.358348
+,ua-sdfm-blacklist.116,2018-04-26 08:30:11.908244,"50, Purdue Street, Cubao, Quezon City, Philippines",,,,,,,,2018-04-12 07:32:17.206513
+,ua-sdfm-blacklist.198,2018-04-26 08:30:13.915827,"Jan Hanzenstraat 114, 1053SV, Amsterdam, The Netherlands (at time of listing)",,,,,,,,2018-04-12 07:32:18.654767
+,ua-sdfm-blacklist.207,2018-04-26 08:30:14.883166,"50th Street, Number 23, Zehrouni, Tunis, Tunisia",,,,,,,,2018-04-12 07:32:20.341248
+,ua-sdfm-blacklist.523,2018-04-26 08:30:19.226848,"B/P: 1652 Moroni, Union of the Comoros (at time of listing)",,,,,,,,2018-04-12 07:32:35.399211
+,ua-sdfm-blacklist.518,2018-04-26 08:30:19.417523,"Afghanistan, (at time of listing)",,,,,,,,2018-04-12 07:32:35.232390
+,ua-sdfm-blacklist.567,2018-04-26 08:30:19.668617,,,,,,,,,2018-04-12 07:32:38.616050
+,ua-sdfm-blacklist.506,2018-04-26 08:30:19.868470,Philippines,,,,,,,,2018-04-12 07:32:34.810051
+,ua-sdfm-blacklist.507,2018-04-26 08:30:19.893339,"Headquarters – G.T. Road (probably Grand Trunk Road), near Pushtoon Garhi Pabbi, Peshawar, Pakistan",,,,,,,,2018-04-12 07:32:34.984913
+,ua-sdfm-blacklist.507,2018-04-26 08:30:19.909806,"Cheprahar Hadda, Mia Omar Sabaqah School, Jalabad, Afghanistan",,,,,,,,2018-04-12 07:32:35.049004
+,ua-sdfm-blacklist.598,2018-04-26 08:30:20.060627,"P.O. Box 788, Al-Karradah Al-Sharkiya, Arasat Al-Hindiya no. 81,
+Building no. 137/327, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:39.252032
+,ua-sdfm-blacklist.586,2018-04-26 08:30:20.317297,"Near Andulus Square, off Nidal Street, P.O. Box 3270, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:38.868699
+,ua-sdfm-blacklist.597,2018-04-26 08:30:21.424125,"P.O. Box 17041, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:39.060455
+,ua-sdfm-blacklist.597,2018-04-26 08:30:21.440781,"P.O. Box 17014, Al-Hurriya, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:39.077160
+,ua-sdfm-blacklist.180,2018-04-26 08:30:13.810001,"Amman, Jordan",,,,,,,,2018-04-12 07:32:18.255053
+,ua-sdfm-blacklist.180,2018-04-26 08:30:13.872931,"Khan Dari, Iraq (previous)",,,,,,,,2018-04-12 07:32:18.271732
+,ua-sdfm-blacklist.180,2018-04-26 08:30:13.889797,"Asas Village, Abu Ghurayb, Iraq (previous)",,,,,,,,2018-04-12 07:32:18.282932
+,ua-sdfm-blacklist.180,2018-04-26 08:30:13.906358,Egypt (previous),,,,,,,,2018-04-12 07:32:18.299659
+,ua-sdfm-blacklist.346,2018-04-26 08:30:16.208708,Iraq,,,,,,,,2018-04-12 07:32:29.540081
+,ua-sdfm-blacklist.359,2018-04-26 08:30:16.975931,"Block Four, Street 13, House #179 Kuwait City, Al-Riqqa area, Kuwait",,,,,,,,2018-04-12 07:32:29.956676
+,ua-sdfm-blacklist.359,2018-04-26 08:30:16.992621,Kuwaiti 106261543,,,,,,,,2018-04-12 07:32:30.017738
+,ua-sdfm-blacklist.414,2018-04-26 08:30:17.646256,France,,,,,,,,2018-04-12 07:32:32.940559
+,ua-sdfm-blacklist.618,2018-04-26 08:30:20.535418,"P.O. Box 9114, Khadhumiya, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:39.277318
+,ua-sdfm-blacklist.621,2018-04-26 08:30:20.669018,"Museum Square, Karkh, P.O. Box 14077, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:39.575046
+,ua-sdfm-blacklist.595,2018-04-26 08:30:20.798915,"P.O. Box 986, Alwiya, Al Sadoon Park Area, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:38.504529
+,ua-sdfm-blacklist.645,2018-04-26 08:30:20.851095,"P.O. Box 9, Amara, Maysan, Iraq",,,,,,,,2018-04-12 07:32:43.710934
+,ua-sdfm-blacklist.645,2018-04-26 08:30:20.867792,"P.O. Box 3028, Maysan, Iraq",,,,,,,,2018-04-12 07:32:43.725963
+,ua-sdfm-blacklist.579,2018-04-26 08:30:20.902029,"P.O. Box 46, Al Hassaka Al Azizeh, Iraq",,,,,,,,2018-04-12 07:32:37.407994
+,ua-sdfm-blacklist.648,2018-04-26 08:30:20.910599,"P.O. Box 13, Mosul, Iraq",,,,,,,,2018-04-12 07:32:43.910978
+,ua-sdfm-blacklist.649,2018-04-26 08:30:21.052439,"P.O. Box 18, Mosul, Iraq",,,,,,,,2018-04-12 07:32:45.927539
+,ua-sdfm-blacklist.658,2018-04-26 08:30:21.118788,"Al Jamhuria Street, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:46.128750
+,ua-sdfm-blacklist.633,2018-04-26 08:30:21.243915,"P.O. Box 2339, Alwiyah, Za'Faraniya, Industrial Area, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:39.877426
+,ua-sdfm-blacklist.669,2018-04-26 08:30:21.251017,"P.O. Box 11230, Hindiya, Babylon, Iraq",,,,,,,,2018-04-12 07:32:46.320533
+,ua-sdfm-blacklist.675,2018-04-26 08:30:21.277082,"Dujail - Salah Eldin, Iraq",,,,,,,,2018-04-12 07:32:46.370468
+,ua-sdfm-blacklist.679,2018-04-26 08:30:21.302623,"Mansour City, P.O. Box 6138, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:46.487183
+,ua-sdfm-blacklist.639,2018-04-26 08:30:21.382328,"P.O. Box 25, Kut, Iraq; Kut Opp, Al-Zahra Town, Iraq",,,,,,,,2018-04-12 07:32:40.435839
+,ua-sdfm-blacklist.639,2018-04-26 08:30:21.399172,"P.O. Box 5613, South Gate, Kut, Iraq",,,,,,,,2018-04-12 07:32:40.501062
+,ua-sdfm-blacklist.613,2018-04-26 08:30:21.724258,"P.O. Box 240, Hay Al-Wihda, Al-Wathik Square, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:39.060784
+,ua-sdfm-blacklist.731,2018-04-26 08:30:21.836101,"P.O. Box 265, Majzarah, Kirkuk, Iraq",,,,,,,,2018-04-12 07:32:46.787222
+,ua-sdfm-blacklist.636,2018-04-26 08:30:21.954034,"Al Nawab Street, Khadhumiya, P.O. Box 9106, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:40.152459
+,ua-sdfm-blacklist.975,2018-04-26 08:30:24.599531,"Southeast Tehran, Iran",,,,,,,,2018-04-12 07:33:03.529507
+,ua-sdfm-blacklist.982,2018-04-26 08:30:24.695021,"Damavand Tehran Highway, Tehran, Iran",,,,,,,,2018-04-12 07:33:03.579539
+,ua-sdfm-blacklist.173,2018-04-26 08:30:26.296963,"Karachi, Pakistan",,,,,,,,2018-04-12 07:32:17.381809
+,ua-sdfm-blacklist.264,2018-04-26 08:30:14.474688,"Iltifat village, Shakardara District, Kabul Province, Afghanistan",,,,,,,,2018-04-12 07:32:23.883430
+,ua-sdfm-blacklist.264,2018-04-26 08:30:14.491144,"Puli Charkhi Area, District Number 9, Kabul City, Kabul Province",,,,,,,,2018-04-12 07:32:23.947203
+,ua-sdfm-blacklist.340,2018-04-26 08:30:16.367518,"Jalan Nakula, Komplek Witana Harja III Blok C 106-107, Tangerang, Indonesia",,,,,,,,2018-04-12 07:32:29.208899
+,ua-sdfm-blacklist.370,2018-04-26 08:30:16.783956,"4 Al-Habib ThamirStreet, Manzal Tmim, Nabul,Tunisia (home address)",,,,,,,,2018-04-12 07:32:30.123057
+,ua-sdfm-blacklist.425,2018-04-26 08:30:17.325819,"Via Dubini n. 3, Gallarate (VA), Italy",,,,,,,,2018-04-12 07:32:32.960454
+,ua-sdfm-blacklist.394,2018-04-26 08:30:17.376148,"Street 13, Wazir Akbar Khan, Kabul, Afghanistan",,,,,,,,2018-04-12 07:32:32.431730
+,ua-sdfm-blacklist.392,2018-04-26 08:30:17.392358,"Formerly resident at: Bunatwiete 23, 21073 Hamburg/ , Germany",,,,,,,,2018-04-12 07:32:31.856470
+,ua-sdfm-blacklist.433,2018-04-26 08:30:18.501309,"Basilan, the Philippines (previous location until 2016)",,,,,,,,2018-04-12 07:32:33.482304
+,ua-sdfm-blacklist.455,2018-04-26 08:30:18.501460,"Number 4, Via Europa, 4 - Paderno Ponchielli, Cremona, Italy",,,,,,,,2018-04-12 07:32:33.840986
+,ua-sdfm-blacklist.433,2018-04-26 08:30:18.517943,"Lanao del Sur, the Philippines (location since 2016)",,,,,,,,2018-04-12 07:32:33.516073
+,ua-sdfm-blacklist.478,2018-04-26 08:30:18.691872,Algeria,,,,,,,,2018-04-12 07:32:34.452043
+,ua-sdfm-blacklist.566,2018-04-26 08:30:19.660275,"Jordan House No. 125, Street 54, Phase II Hayatabad, Peshawar, Pakistan (at time of listing)",,,,,,,,2018-04-12 07:32:40.418681
+,ua-sdfm-blacklist.566,2018-04-26 08:30:19.676954,Saudi Arabia (at time of listing) c) Kuwait (at time of listing),,,,,,,,2018-04-12 07:32:40.435419
+,ua-sdfm-blacklist.566,2018-04-26 08:30:19.693504,United Arab Emirates (at time of listing) e) Afghanistan (at time of listing),,,,,,,,2018-04-12 07:32:40.500621
+,ua-sdfm-blacklist.121,2018-04-26 08:30:24.608853,Kuwait (residence as at Mar. 2009),,,,,,,,2018-04-12 07:32:18.449215
+,ua-sdfm-blacklist.161,2018-04-26 08:30:13.332293,"House No. 116E, Mohalla Johar, Lahore, Tehsil, Lahore City, Lahore District, Pakistan, (location as at May 2008)",,,,,,,,2018-04-12 07:32:18.596270
+,ua-sdfm-blacklist.407,2018-04-26 08:30:17.934264,Somalia,,,,,,,,2018-04-12 07:32:34.468055
+,ua-sdfm-blacklist.733,2018-04-26 08:30:21.781553,"Sinak, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:49.294312
+,ua-sdfm-blacklist.744,2018-04-26 08:30:22.185989,"Northgate, Karanteena, P.O. Box 148, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:50.554566
+,ua-sdfm-blacklist.744,2018-04-26 08:30:22.202609,"Al-Muadham, near Engineering College, P.O. Box 14186, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:50.621367
+,ua-sdfm-blacklist.737,2018-04-26 08:30:22.235969,"Museum Square, Karkh, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:49.621322
+,ua-sdfm-blacklist.737,2018-04-26 08:30:22.252581,"Mosul, left side, near Al Hurya Bridge, P.O. Box 368, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:49.688441
+,ua-sdfm-blacklist.767,2018-04-26 08:30:22.251484,"P.O. Box 108, Nassiriyah, Iraq",,,,,,,,2018-04-12 07:32:51.537408
+,ua-sdfm-blacklist.737,2018-04-26 08:30:22.269269,"Karkh, Karadat Mariam, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:49.713228
+,ua-sdfm-blacklist.737,2018-04-26 08:30:22.285969,"Maysan, Iraq",,,,,,,,2018-04-12 07:32:49.737389
+,ua-sdfm-blacklist.836,2018-04-26 08:30:22.944630,,,,,,,,,2018-04-12 07:32:58.411621
+,ua-sdfm-blacklist.842,2018-04-26 08:30:22.969533,,,,,,,,,2018-04-12 07:33:00.445336
+,ua-sdfm-blacklist.160,2018-04-26 08:30:14.741285,"Ganj District, Peshawar, Pakistan",,,,,,,,2018-04-12 07:32:20.897156
+,ua-sdfm-blacklist.324,2018-04-26 08:30:16.408629,Afghan passport number 000737 issued on 20 Oct. 1996,,,,,,,,2018-04-12 07:32:30.100649
+,ua-sdfm-blacklist.525,2018-04-26 08:30:19.226837,"P.O. Box 3616, Dar es Salaam, Tanzania (at time of listing)",,,,,,,,2018-04-12 07:32:39.166530
+,ua-sdfm-blacklist.525,2018-04-26 08:30:19.243607,Tanga (at time of listing) c) Singida (at time of listing),,,,,,,,2018-04-12 07:32:39.183135
+,ua-sdfm-blacklist.565,2018-04-26 08:30:20.276758,"Street 13, Wazir Akbar Khan, Kabul, Afghanistan",,,,,,,,2018-04-12 07:32:42.759391
+,ua-sdfm-blacklist.565,2018-04-26 08:30:20.293705,Pakistan,,,,,,,,2018-04-12 07:32:42.775928
+,ua-sdfm-blacklist.564,2018-04-26 08:30:20.676823,Tunisia,,,,,,,,2018-04-12 07:32:42.552785
+,ua-sdfm-blacklist.719,2018-04-26 08:30:21.557388,"P.O. Box 1113, Khalid Ibn Al-Waleed St., Baghdad, Iraq",,,,,,,,2018-04-12 07:32:46.320646
+,ua-sdfm-blacklist.728,2018-04-26 08:30:21.722934,"6 Mukdadiya, Mukdadiya, Iraq",,,,,,,,2018-04-12 07:32:47.419591
+,ua-sdfm-blacklist.735,2018-04-26 08:30:21.953027,"P.O. Box 26028, Waziriya, opp Al Bakr University, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:47.795971
+,ua-sdfm-blacklist.735,2018-04-26 08:30:22.026610,"P.O. Box 96101, Abu Nuvas St., Baghdad, Iraq",,,,,,,,2018-04-12 07:32:47.812743
+,ua-sdfm-blacklist.735,2018-04-26 08:30:22.043320,"P.O. Box 26061, Al Wazeria, Baghdad, Iraq; Swaira-Hafria, Wasst
+Muhafadha",,,,,,,,2018-04-12 07:32:47.837698
+,ua-sdfm-blacklist.742,2018-04-26 08:30:22.061278,"P.O. Box 3296, near Aqaba Bin Nafa Square, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:48.287697
+,ua-sdfm-blacklist.735,2018-04-26 08:30:22.059928,"P.O. Box 1045, Waziriyah, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:47.944673
+,ua-sdfm-blacklist.742,2018-04-26 08:30:22.077676,"P.O. Box 260, Basrah, Iraq",,,,,,,,2018-04-12 07:32:48.304206
+,ua-sdfm-blacklist.765,2018-04-26 08:30:22.177380,"Iskandariya-Babil, Iraq",,,,,,,,2018-04-12 07:32:49.713899
+,ua-sdfm-blacklist.847,2018-04-26 08:30:23.241561,"Al-Shahid Street, Al-Mahata Neighborhood, Az Zabadani, Syria; - Fuad Dawod Farm, Az Zabadani, Damascus, Syria; - Iraq",,,,,,,,2018-04-12 07:32:59.214124
+,ua-sdfm-blacklist.866,2018-04-26 08:30:23.542102,Iraq,,,,,,,,2018-04-12 07:32:59.997517
+,ua-sdfm-blacklist.960,2018-04-26 08:30:24.258671,"P.O. Box 16785-195, Tehran, Iran",,,,,,,,2018-04-12 07:33:03.871392
+,ua-sdfm-blacklist.167,2018-04-26 08:30:13.122692,Jordan (since July 2013),,,,,,,,2018-04-12 07:32:28.467631
+,ua-sdfm-blacklist.112,2018-04-26 08:30:13.290375,"Avde Smajlovic 6, Sarajevo, Bosnia and Herzegovina",,,,,,,,2018-04-12 07:32:27.925806
+,ua-sdfm-blacklist.112,2018-04-26 08:30:13.306983,"26 Tabhanska Street, Visoko, Bosnia and Herzegovina",,,,,,,,2018-04-12 07:32:27.989715
+,ua-sdfm-blacklist.112,2018-04-26 08:30:13.323838,"No.3 Velika Cilna Ulica, Visoko, Bosnia and Herzegovina",,,,,,,,2018-04-12 07:32:28.006250
+,ua-sdfm-blacklist.112,2018-04-26 08:30:13.340478,"No. 26 Tahbanksa Ulica, Sarajevo, Bosnia and Herzegovina",,,,,,,,2018-04-12 07:32:28.023001
+,ua-sdfm-blacklist.379,2018-04-26 08:30:17.575771,"London, United Kingdom",,,,,,,,2018-04-12 07:32:37.374941
+,ua-sdfm-blacklist.271,2018-04-26 08:30:27.497567,Qatar,,,,,,,,2018-04-12 07:32:24.013974
+,ua-sdfm-blacklist.216,2018-04-26 08:30:13.924220,Afghan passport number D 000974,,,,,,,,2018-04-12 07:32:28.842179
+,ua-sdfm-blacklist.337,2018-04-26 08:30:15.991915,"Believed to be in Pakistan, or Afghanistan",,,,,,,,2018-04-12 07:32:31.123083
+,ua-sdfm-blacklist.376,2018-04-26 08:30:16.424501,"Salam Marnaq Ben Arous district, Sidi Mesoud, Tunisia",,,,,,,,2018-04-12 07:32:33.567979
+,ua-sdfm-blacklist.416,2018-04-26 08:30:18.126063,Indonesia,,,,,,,,2018-04-12 07:32:33.918070
+,ua-sdfm-blacklist.529,2018-04-26 08:30:20.060120,"Ein el-Hilweh camp, Lebanon",,,,,,,,2018-04-12 07:32:37.116032
+,ua-sdfm-blacklist.603,2018-04-26 08:30:20.101999,"Karh - Otaefia, near Steel Bridge, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:39.452276
+,ua-sdfm-blacklist.615,2018-04-26 08:30:20.468989,"P.O. Box 21, Fallouja, Iraq",,,,,,,,2018-04-12 07:32:39.843771
+,ua-sdfm-blacklist.559,2018-04-26 08:30:20.476920,Pakistan,,,,,,,,2018-04-12 07:32:38.407853
+,ua-sdfm-blacklist.559,2018-04-26 08:30:20.493689,Afghanistan,,,,,,,,2018-04-12 07:32:38.424330
+,ua-sdfm-blacklist.555,2018-04-26 08:30:20.493706,Morocco,,,,,,,,2018-04-12 07:32:38.049519
+,ua-sdfm-blacklist.634,2018-04-26 08:30:20.860849,"P.O. Box 5670, Sadoon Street, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:40.643932
+,ua-sdfm-blacklist.625,2018-04-26 08:30:21.235556,"Broadcasting & TV Building, Salihiya, Karkh, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:40.235416
+,ua-sdfm-blacklist.628,2018-04-26 08:30:21.827600,"Baghdad International Fair, Al Mansour, P.O. Box 6188, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:40.510592
+,ua-sdfm-blacklist.750,2018-04-26 08:30:21.954122,"Karkh, Nisoor Square, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:49.695708
+,ua-sdfm-blacklist.1176,2018-04-26 08:30:28.089912,"Kachray Road, Pashtunabad, Quetta, Baluchistan Province, Pakistan",,,,,,,,2018-04-12 07:33:34.409651
+,ua-sdfm-blacklist.1176,2018-04-26 08:30:28.161102,"Nasrullah Khan Chowk, Pashtunabad Area, Baluchistan Province, Pakistan",,,,,,,,2018-04-12 07:33:34.476152
+,ua-sdfm-blacklist.1176,2018-04-26 08:30:28.177739,"Chaman, Baluchistan Province, Pakistan",,,,,,,,2018-04-12 07:33:34.551287
+,ua-sdfm-blacklist.1176,2018-04-26 08:30:28.248426,"Abdul Satar Food Shop, Ayno Mina 0093, Kandahar Province, Afghanistan",,,,,,,,2018-04-12 07:33:34.568038
+,ua-sdfm-blacklist.1181,2018-04-26 08:30:28.615157,"Majengo area, Mombasa, Kenya",,,,,,,,2018-04-12 07:33:35.043058
+,ua-sdfm-blacklist.1208,2018-04-26 08:30:29.032496,"Central District, Pyongyang, DPRK",,,,,,,,2018-04-12 07:33:37.343138
+,ua-sdfm-blacklist.1208,2018-04-26 08:30:29.049146,"Mangungdae-gu, Pyongyang, DPRK",,,,,,,,2018-04-12 07:33:37.359873
+,ua-sdfm-blacklist.1208,2018-04-26 08:30:29.113137,"Mangyongdae District, Pyongyang, DPRK",,,,,,,,2018-04-12 07:33:37.376674
+,ua-sdfm-blacklist.1214,2018-04-26 08:30:29.190564,"Quetta, Pakistan",,,,,,,,2018-04-12 07:33:38.084896
+,ua-sdfm-blacklist.1207,2018-04-26 08:30:29.574125,"Pyongyang, DPRK",,,,,,,,2018-04-12 07:33:37.144232
+,ua-sdfm-blacklist.1204,2018-04-26 08:30:29.582135,"Pyongyang, DPRK",,,,,,,,2018-04-12 07:33:37.051537
+,ua-sdfm-blacklist.1224,2018-04-26 08:30:29.623119,Active in Syria as at Jun. 2013,,,,,,,,2018-04-12 07:33:38.685036
+,ua-sdfm-blacklist.1212,2018-04-26 08:30:29.790493,"Gao, Mali",,,,,,,,2018-04-12 07:33:37.576555
+,ua-sdfm-blacklist.1194,2018-04-26 08:30:30.430039,"Mehrabad International Airport, Next to Terminal No. 6, Tehran, Iran",,,,,,,,2018-04-12 07:33:36.843265
+,ua-sdfm-blacklist.1305,2018-04-26 08:30:32.817010,"BP 333, Bangui, Central African Republic (Tel. +32 3 2310521, Fax. +32 3 2331839, email: kardiam.bvba@skynet.be; website: www.groupeabdoulkarim.com)",,,,,,,,2018-04-12 07:33:48.603762
+,ua-sdfm-blacklist.1305,2018-04-26 08:30:32.881233,"Antwerp, Belgium",,,,,,,,2018-04-12 07:33:48.620458
+,ua-sdfm-blacklist.1333,2018-04-26 08:30:33.167198,"Pashtunabad, Quetta, Baluchistan Province, Pakistan",,,,,,,,2018-04-12 07:33:50.262515
+,ua-sdfm-blacklist.1342,2018-04-26 08:30:33.358587,,,,,,,,,2018-04-12 07:33:50.521123
+,ua-sdfm-blacklist.1354,2018-04-26 08:30:33.550704,Syrian Arab Republic (as at Sep. 2015),,,,,,,,2018-04-12 07:33:50.737731
+,ua-sdfm-blacklist.1378,2018-04-26 08:30:34.175521,,,,,,,,,2018-04-12 07:33:50.895975
+,ua-sdfm-blacklist.1393,2018-04-26 08:30:34.517729,,,,,,,,,2018-04-12 07:33:51.162948
+,ua-sdfm-blacklist.1394,2018-04-26 08:30:34.814329,,,,,,,,,2018-04-12 07:33:51.371163
+,ua-sdfm-blacklist.1475,2018-04-26 08:30:35.398866,,,,,,,,,2018-04-12 07:33:51.963019
+,ua-sdfm-blacklist.1179,2018-04-26 08:30:28.455450,"Branch Office 1: i) Shop number 1584, Furqan (variant Fahr Khan) Center, Chalhor Mal Road,Quetta, Baluchistan Province, Pakistan ii) Flat number 4, Furqan Center, Jamaluddin Afghani Road, Quetta, Baluchistan Province, Pakistan iii) Office number 4, 2nd Floor , Muslim Plaza Building, Doctor Banu Road, Quetta, Baluchistan Province, Pakistan iv) Cholmon Road, Quetta, Baluchistan Province, Pakistan v) Munsafi Road, Quetta, Baluchistan Province, Pakistan vi) Shop number 1, 1st Floor, Kadari Place, Abdul Samad Khan Street (next to Fatima Jena Road), Quetta, Baluchistan Province, Pakistan",,,,,,,,2018-04-12 07:33:34.710041
+,ua-sdfm-blacklist.1179,2018-04-26 08:30:28.471837,"Branch Office 2: i) Safar Bazaar, Garmser District, Helmand Province, Afghanistan ii) Main Bazaar, Safar, Helmand Province, Afghanistan",,,,,,,,2018-04-12 07:33:34.726674
+,ua-sdfm-blacklist.1179,2018-04-26 08:30:28.536278,"Branch Office 3: i) Haji Ghulam Nabi Market, Lashkar Gah, Helmand Province, Afghanistan ii) Money Exchange Market, Lashkar Gah, Helmand Province, Afghanistan iii) Lashkar Gah Bazaar, Helmand Province, Afghanistan",,,,,,,,2018-04-12 07:33:34.793276
+,ua-sdfm-blacklist.1179,2018-04-26 08:30:28.552894,"Branch Office 4: Hazar Joft, Garmser District, Helmand Province, Afghanistan e) Branch Office 5: Ismat Bazaar, Marjah District, Helmand Province, Afghanistan",,,,,,,,2018-04-12 07:33:34.835109
+,ua-sdfm-blacklist.1179,2018-04-26 08:30:28.614026,"Branch Office 6: Zaranj, Nimruz Province, Afghanistan",,,,,,,,2018-04-12 07:33:34.851717
+,ua-sdfm-blacklist.1196,2018-04-26 08:30:29.390799,Rwanda (as of early 2016),,,,,,,,2018-04-12 07:33:35.493438
+,ua-sdfm-blacklist.1182,2018-04-26 08:30:30.616154,"Mir Ali, North Waziristan Agency, Federal Administered Tribal Areas, Pakistan",,,,,,,,2018-04-12 07:33:35.168303
+,ua-sdfm-blacklist.1144,2018-04-26 08:30:27.385439,"Boghra Road, Miralzei Village, Chaman, Baluchistan Province, Pakistan",,,,,,,,2018-04-12 07:33:34.959852
+,ua-sdfm-blacklist.1144,2018-04-26 08:30:27.401915,"Kalay Rangin, Spin Boldak District, Kandahar Province, Afghanistan",,,,,,,,2018-04-12 07:33:35.001647
+,ua-sdfm-blacklist.1247,2018-04-26 08:30:29.939860,A Haqqani Madrassa in the Afghanistan/Pakistan Border Area,,,,,,,,2018-04-12 07:33:40.535379
+,ua-sdfm-blacklist.1243,2018-04-26 08:30:30.729969,Nigeria,,,,,,,,2018-04-12 07:33:40.360514
+,ua-sdfm-blacklist.1270,2018-04-26 08:30:30.955067,Syria (located in since 2013),,,,,,,,2018-04-12 07:33:42.418875
+,ua-sdfm-blacklist.1304,2018-04-26 08:30:31.825302,"Bria, Central African Republic (Tel. +236 75507560)",,,,,,,,2018-04-12 07:33:43.735789
+,ua-sdfm-blacklist.1304,2018-04-26 08:30:31.841687,"Birao, Central African Republic",,,,,,,,2018-04-12 07:33:43.794031
+,ua-sdfm-blacklist.1304,2018-04-26 08:30:31.906156,"Tullus, Southern Darfur, Sudan (previous location)",,,,,,,,2018-04-12 07:33:43.810685
+,ua-sdfm-blacklist.1337,2018-04-26 08:30:32.983753,,,,,,,,,2018-04-12 07:33:45.327380
+,ua-sdfm-blacklist.1340,2018-04-26 08:30:32.992372,,,,,,,,,2018-04-12 07:33:45.552410
+,ua-sdfm-blacklist.1356,2018-04-26 08:30:33.559194,Syrian Arab Republic,,,,,,,,2018-04-12 07:33:46.019232
+,ua-sdfm-blacklist.1371,2018-04-26 08:30:33.865115,"Al Mukalla, Hadramawt province, Yemen",,,,,,,,2018-04-12 07:33:46.111017
+,ua-sdfm-blacklist.1391,2018-04-26 08:30:34.334114,,,,,,,,,2018-04-12 07:33:46.470231
+,ua-sdfm-blacklist.1385,2018-04-26 08:30:34.423616,,,,,,,,,2018-04-12 07:33:46.269353
+,ua-sdfm-blacklist.1408,2018-04-26 08:30:34.542755,,,,,,,,,2018-04-12 07:33:46.845407
+,ua-sdfm-blacklist.1457,2018-04-26 08:30:35.440354,"Haeun-2-dong, Pyongchon District, Pyongyang, Democratic People's Republic of Korea",,,,,,,,2018-04-12 07:33:47.578845
+,ua-sdfm-blacklist.1464,2018-04-26 08:30:35.490371,"Saemul 1-Dong Pyongchon District, Pyongyang, Democratic People's Republic of Korea",,,,,,,,2018-04-12 07:33:47.745499
+,ua-sdfm-blacklist.1485,2018-04-26 08:30:35.657069,Democratic People's Republic of Korea,,,,,,,,2018-04-12 07:33:48.145444
+,ua-sdfm-blacklist.1505,2018-04-26 08:30:36.015750,"Pasir Putih Prison, Nusa
+Kambangan Island, Indonesia",,,,,,,,2018-04-12 07:33:48.609119
+,ua-sdfm-blacklist.1522,2018-04-26 08:30:36.318168,"Pyongyang, DPRK",,,,,,,,2018-04-12 07:33:49.354271
+,ua-sdfm-blacklist.1530,2018-04-26 08:30:36.524031,Democratic People's Republic of Korea,,,,,,,,2018-04-12 07:33:49.537508
+,ua-sdfm-blacklist.1553,2018-04-26 08:30:36.585025,"Mombasa, Kenya",,,,,,,,2018-04-12 07:33:52.054732
+,ua-sdfm-blacklist.1561,2018-04-26 08:30:36.682766,"Trust Company Complex, Ajeltake Road, Ajeltake Island, Majuro MH, 96960, Marshall Islands",,,,,,,,2018-04-12 07:33:53.505834
+,ua-sdfm-blacklist.1551,2018-04-26 08:30:36.776699,"Al-Qaim, Al Anbar Province, Iraq",,,,,,,,2018-04-12 07:33:51.946248
+,ua-sdfm-blacklist.1541,2018-04-26 08:30:36.775629,Democratic People's Republic of Korea,,,,,,,,2018-04-12 07:33:50.546051
+,ua-sdfm-blacklist.1558,2018-04-26 08:30:36.801591,"Jongbaek 1-dong, Rakrang-guyok, Pyongyang, Democratic People's Republic of Korea",,,,,,,,2018-04-12 07:33:53.246729
+,ua-sdfm-blacklist.1564,2018-04-26 08:30:36.917152,"Chilgol 2-dong, Mangyongdae-guyok, Pyongyang, Democratic People's Republic of Korea",,,,,,,,2018-04-12 07:33:53.729968
+,ua-sdfm-blacklist.1173,2018-04-26 08:30:28.081724,"c/o Reconnaissance General Bureau Headquarters, Hyongjesan-Guyok, Pyongyang, Democratic People's Republic of Korea",,,,,,,,2018-04-12 07:33:35.318372
+,ua-sdfm-blacklist.1173,2018-04-26 08:30:28.152906,"Nungrado, Pyongyang, Democratic People's Republic of Korea",,,,,,,,2018-04-12 07:33:35.335091
+,ua-sdfm-blacklist.1173,2018-04-26 08:30:28.169416,"Rakrang No. 1 Rakrang District Pyongyang Korea, Chilgol-1 dong, Mangyongdae District, Pyongyang, Democratic People's Republic of Korea",,,,,,,,2018-04-12 07:33:35.410000
+,ua-sdfm-blacklist.1192,2018-04-26 08:30:28.920009,"Rubavu / Mudende, Rwanda",,,,,,,,2018-04-12 07:33:35.576852
+,ua-sdfm-blacklist.1549,2018-04-26 08:30:36.859893,"17 Tamoz, Mosul, Iraq (previous address)",,,,,,,,2018-04-12 07:33:52.271885
+,ua-sdfm-blacklist.1231,2018-04-26 08:30:29.599038,"Reportedly located in Waziristan, Federally Administered Tribal Areas, Pakistan",,,,,,,,2018-04-12 07:33:38.218647
+,ua-sdfm-blacklist.1290,2018-04-26 08:30:31.433086,"Chaman, Baluchistan Province, Pakistan",,,,,,,,2018-04-12 07:33:41.644112
+,ua-sdfm-blacklist.1237,2018-04-26 08:30:31.449813,Syrian Arab Republic (Operates in),,,,,,,,2018-04-12 07:33:38.544947
+,ua-sdfm-blacklist.1237,2018-04-26 08:30:31.466287,Iraq (Support network in),,,,,,,,2018-04-12 07:33:38.560420
+,ua-sdfm-blacklist.1293,2018-04-26 08:30:31.745922,"18 Mediterranean Street, Ariana, Tunisia",,,,,,,,2018-04-12 07:33:41.969328
+,ua-sdfm-blacklist.1293,2018-04-26 08:30:31.807351,Syrian Arab Republic (located in as at Mar. 2015),,,,,,,,2018-04-12 07:33:42.131556
+,ua-sdfm-blacklist.1293,2018-04-26 08:30:31.823949,Iraq (possible alternative location as at Mar. 2015),,,,,,,,2018-04-12 07:33:42.220781
+,ua-sdfm-blacklist.1293,2018-04-26 08:30:31.840652,Libya (previously located in),,,,,,,,2018-04-12 07:33:42.295418
+,ua-sdfm-blacklist.1301,2018-04-26 08:30:32.200207,"Jabal Turkuman area, Lattakia Governorate, Syrian Arab Republic Listed",,,,,,,,2018-04-12 07:33:43.360978
+,ua-sdfm-blacklist.1324,2018-04-26 08:30:32.582639,Syrian Arab Republic (as at Sep. 2015),,,,,,,,2018-04-12 07:33:44.944414
+,ua-sdfm-blacklist.1327,2018-04-26 08:30:32.600402,Turkey (possible location),,,,,,,,2018-04-12 07:33:45.327658
+,ua-sdfm-blacklist.1327,2018-04-26 08:30:32.616823,Syrian Arab Republic (previous confirmed location since Sep. 2012),,,,,,,,2018-04-12 07:33:45.394357
+,ua-sdfm-blacklist.1323,2018-04-26 08:30:32.689577,Syrian Arab Republic (as at Jan. 2014),,,,,,,,2018-04-12 07:33:44.486046
+,ua-sdfm-blacklist.1323,2018-04-26 08:30:32.706040,United Kingdom (previous address until Jan. 2014),,,,,,,,2018-04-12 07:33:44.552730
+,ua-sdfm-blacklist.1360,2018-04-26 08:30:33.455235,Libya (Believedstatus/location: incustodyinLibya),,,,,,,,2018-04-12 07:33:45.569407
+,ua-sdfm-blacklist.1372,2018-04-26 08:30:33.664695,Syrian Arab Republic (as at Sep. 2015),,,,,,,,2018-04-12 07:33:46.695486
+,ua-sdfm-blacklist.1388,2018-04-26 08:30:34.615245,"Kafia Kingi, (a territory on the border of Sudan and South Sudan whose final status has yet to be determined)",,,,,,,,2018-04-12 07:33:47.279016
+,ua-sdfm-blacklist.1388,2018-04-26 08:30:34.631949,Central African Republic,,,,,,,,2018-04-12 07:33:47.295579
+,ua-sdfm-blacklist.1409,2018-04-26 08:30:34.901048,,,,,,,,,2018-04-12 07:33:48.804207
+,ua-sdfm-blacklist.1450,2018-04-26 08:30:35.472714,"Hamhung, South Hamgyong Province, Democratic People's Republic of Korea",,,,,,,,2018-04-12 07:33:49.979673
+,ua-sdfm-blacklist.1450,2018-04-26 08:30:35.489550,"Man gyongdae-kuyok, Pyongyang, Democratic People's Republic of Korea",,,,,,,,2018-04-12 07:33:49.996195
+,ua-sdfm-blacklist.1450,2018-04-26 08:30:35.558699,"Mangyungdae-gu, Pyongyang, Democratic People's Republic of Korea",,,,,,,,2018-04-12 07:33:50.054134
+,ua-sdfm-blacklist.1462,2018-04-26 08:30:35.567035,"Kangdong, Democratic People's Republic of Korea",,,,,,,,2018-04-12 07:33:50.204658
+,ua-sdfm-blacklist.1145,2018-04-26 08:30:27.367910,"Boghra Road, Miralzei Village, Chaman, Baluchistan Province, Pakistan",,,,,,,,2018-04-12 07:33:35.351409
+,ua-sdfm-blacklist.1145,2018-04-26 08:30:27.384419,"Kalay Rangin, Spin Boldak District, Kandahar province, Afghanistan",,,,,,,,2018-04-12 07:33:35.418179
+,ua-sdfm-blacklist.1162,2018-04-26 08:30:27.846888,"Jalan Ir. H. Juanda 8/10, RT/RW 002/001, Jodipan, Blimbing, Malang, Indonesia",,,,,,,,2018-04-12 07:33:36.301589
+,ua-sdfm-blacklist.1158,2018-04-26 08:30:27.968934,"Karl-Barth-Stra?e 14, Bonn, 53129, Germany, (previous)",,,,,,,,2018-04-12 07:33:35.693253
+,ua-sdfm-blacklist.1193,2018-04-26 08:30:28.815295,Uganda (as of early 2016),,,,,,,,2018-04-12 07:33:36.868305
+,ua-sdfm-blacklist.1195,2018-04-26 08:30:28.823652,"Haftom Tir Square, South Mofte Avenue, Tour Line No 3/1, Tehran, Iran",,,,,,,,2018-04-12 07:33:37.018435
+,ua-sdfm-blacklist.1195,2018-04-26 08:30:28.840215,"P.O. Box 1584864813, Tehran, Iran",,,,,,,,2018-04-12 07:33:37.034865
+,ua-sdfm-blacklist.1227,2018-04-26 08:30:29.496756,,,,,,,,,2018-04-12 07:33:39.560263
+,ua-sdfm-blacklist.1233,2018-04-26 08:30:29.614707,"Chalo Bawari area, Quetta City, Baluchistan Province, Pakistan",,,,,,,,2018-04-12 07:33:39.893583
+,ua-sdfm-blacklist.1234,2018-04-26 08:30:29.887066,Uganda,,,,,,,,2018-04-12 07:33:40.168617
+,ua-sdfm-blacklist.1246,2018-04-26 08:30:29.941195,"Donghung Dong, Central District, PO Box 120, Pyongyang, DPRK; Dongheung-dong Changgwang Street, Chung-Ku, PO Box 125, Pyongyang, DPRK",,,,,,,,2018-04-12 07:33:40.443899
+,ua-sdfm-blacklist.1287,2018-04-26 08:30:31.355524,Syria/Turkey border area as at Jan. 2015,,,,,,,,2018-04-12 07:33:42.710599
+,ua-sdfm-blacklist.1287,2018-04-26 08:30:31.424858,"Karl-Marx-Str. 210, 12055 Berlin, Germany (primary address).",,,,,,,,2018-04-12 07:33:42.727185
+,ua-sdfm-blacklist.1225,2018-04-26 08:30:31.441284,,,,,,,,,2018-04-12 07:33:39.251899
+,ua-sdfm-blacklist.1292,2018-04-26 08:30:31.537804,Afghanistan/Pakistan border region,,,,,,,,2018-04-12 07:33:43.343886
+,ua-sdfm-blacklist.1351,2018-04-26 08:30:33.542295,Libya,,,,,,,,2018-04-12 07:33:45.744138
+,ua-sdfm-blacklist.1358,2018-04-26 08:30:33.967455,"Vakaga, Central African Republic",,,,,,,,2018-04-12 07:33:46.019181
+,ua-sdfm-blacklist.1358,2018-04-26 08:30:33.984160,"Haute-Kotto, Central African Republic",,,,,,,,2018-04-12 07:33:46.035962
+,ua-sdfm-blacklist.1358,2018-04-26 08:30:34.048373,"Basse-Kotto, Central African Republic",,,,,,,,2018-04-12 07:33:46.102681
+,ua-sdfm-blacklist.1358,2018-04-26 08:30:34.065002,"Haut-Mbomou, Central African Republic",,,,,,,,2018-04-12 07:33:46.127606
+,ua-sdfm-blacklist.1358,2018-04-26 08:30:34.081717,"Mbomou, Central African Republic",,,,,,,,2018-04-12 07:33:46.144270
+,ua-sdfm-blacklist.1358,2018-04-26 08:30:34.150823,"Haut-Uolo, Democratic Republic of the Congo",,,,,,,,2018-04-12 07:33:46.161067
+,ua-sdfm-blacklist.1358,2018-04-26 08:30:34.167508,"Bas-Uolo, Democratic Republic of the Congo",,,,,,,,2018-04-12 07:33:46.177677
+,ua-sdfm-blacklist.1358,2018-04-26 08:30:34.184068,"Reported address: Kafia Kingi (a territory on the border of Sudan and South Sudan whose final status has yet to be determined). As of January 2015, 500 Lord`s Resistance Army elements were reportedly expelled from the Sudan",,,,,,,,2018-04-12 07:33:46.244513
+,ua-sdfm-blacklist.1387,2018-04-26 08:30:34.926076,"Kafia Kingi, (a territory on the border of Sudan and South Sudan whose final status has yet to be determined).",,,,,,,,2018-04-12 07:33:46.703675
+,ua-sdfm-blacklist.1406,2018-04-26 08:30:35.056059,,,,,,,,,2018-04-12 07:33:46.845384
+,ua-sdfm-blacklist.1177,2018-04-26 08:30:28.264629,"Abdul Manan Chowk, Pashtunabad, Quetta, Baluchistan Province, Pakistan",,,,,,,,2018-04-12 07:33:35.493434
+,ua-sdfm-blacklist.1523,2018-04-26 08:30:36.498267,"LP# 41 Ballisier Road, Smith Field Lands, Wallerfield, County of St. George East, Trinidad and Tobago (alternative location as at Sep. 2011)",,,,,,,,2018-04-12 07:33:51.865375
+,ua-sdfm-blacklist.1211,2018-04-26 08:30:29.113137,"Gao, Mali",,,,,,,,2018-04-12 07:33:37.243695
+,ua-sdfm-blacklist.1211,2018-04-26 08:30:29.129796,"Tabankort, Mali",,,,,,,,2018-04-12 07:33:37.260358
+,ua-sdfm-blacklist.1211,2018-04-26 08:30:29.190668,"In Khalil, Mali",,,,,,,,2018-04-12 07:33:37.276989
+,ua-sdfm-blacklist.1211,2018-04-26 08:30:29.207376,"Al Moustarat, Mali",,,,,,,,2018-04-12 07:33:37.293743
+,ua-sdfm-blacklist.1249,2018-04-26 08:30:29.688061,Afghanistan/Pakistan Border Area,,,,,,,,2018-04-12 07:33:39.577205
+,ua-sdfm-blacklist.1257,2018-04-26 08:30:30.324275,"Kamkai Village, Achin District, Nangarhar Province, Afghanistan",,,,,,,,2018-04-12 07:33:39.852316
+,ua-sdfm-blacklist.1257,2018-04-26 08:30:30.340859,"Surkhel village, Achin District, Nangarhar Province, Afghanistan",,,,,,,,2018-04-12 07:33:39.885596
+,ua-sdfm-blacklist.1257,2018-04-26 08:30:30.357530,"Batan village, Achin District, Nangarhar Province, Afghanistan",,,,,,,,2018-04-12 07:33:39.902263
+,ua-sdfm-blacklist.1268,2018-04-26 08:30:31.049668,"Area 3, Street 327, Building 41, Al-Uqaylah, Kuwait",,,,,,,,2018-04-12 07:33:41.002859
+,ua-sdfm-blacklist.1294,2018-04-26 08:30:31.649512,"18 Mediterranean Street, Ariana, Tunisia",,,,,,,,2018-04-12 07:33:42.444129
+,ua-sdfm-blacklist.1294,2018-04-26 08:30:31.666302,Syrian Arab Republic (located in as at Mar. 2015),,,,,,,,2018-04-12 07:33:42.460778
+,ua-sdfm-blacklist.1289,2018-04-26 08:30:31.730842,"Shosse Aeroporta, 5 Ap. 7 Makhachkala, Republic of Dagestan, Russian Federation",,,,,,,,2018-04-12 07:33:41.378314
+,ua-sdfm-blacklist.1294,2018-04-26 08:30:31.730646,Iraq (possible alternative location as at Mar. 2015),,,,,,,,2018-04-12 07:33:42.477370
+,ua-sdfm-blacklist.1294,2018-04-26 08:30:31.747010,Libya (previously located in),,,,,,,,2018-04-12 07:33:42.619237
+,ua-sdfm-blacklist.1306,2018-04-26 08:30:32.121424,Libya,,,,,,,,2018-04-12 07:33:43.660819
+,ua-sdfm-blacklist.1326,2018-04-26 08:30:32.497730,Syrian Arab Republic (as at Feb. 2014),,,,,,,,2018-04-12 07:33:45.136144
+,ua-sdfm-blacklist.1326,2018-04-26 08:30:32.514226,United Kingdom (previous address),,,,,,,,2018-04-12 07:33:45.152685
+,ua-sdfm-blacklist.1338,2018-04-26 08:30:32.697752,,,,,,,,,2018-04-12 07:33:45.552731
+,ua-sdfm-blacklist.1365,2018-04-26 08:30:33.975821,"Jalan Baru LUK, No.1, RT 05/07, Kelurahan Bhakti Jaya, Setu Sub-district, Pamulang District, Tangerang Selatan, Banten Province, Indonesia",,,,,,,,2018-04-12 07:33:46.161171
+,ua-sdfm-blacklist.1403,2018-04-26 08:30:34.790299,,,,,,,,,2018-04-12 07:33:48.779101
+,ua-sdfm-blacklist.1456,2018-04-26 08:30:35.257050,"Pyongyang, Democratic People's Republic of Korea",,,,,,,,2018-04-12 07:33:50.188065
+,ua-sdfm-blacklist.1445,2018-04-26 08:30:35.340455,"Pyongyang, Democratic People's Republic of Korea",,,,,,,,2018-04-12 07:33:49.871360
+,ua-sdfm-blacklist.1452,2018-04-26 08:30:35.357140,"Rakwon-dong, Pothonggang District, Pyongyang, Democratic People's Republic of Korea",,,,,,,,2018-04-12 07:33:49.929371
+,ua-sdfm-blacklist.1468,2018-04-26 08:30:35.365575,,,,,,,,,2018-04-12 07:33:50.254625
+,ua-sdfm-blacklist.1523,2018-04-26 08:30:36.400534,Syrian Arab Republic (as at May 2014),,,,,,,,2018-04-12 07:33:51.763291
+,ua-sdfm-blacklist.1523,2018-04-26 08:30:36.417233,"Reyhanli, Hatay, Turkey (previous location from Nov. 2013 to May 2014)",,,,,,,,2018-04-12 07:33:51.780004
+,ua-sdfm-blacklist.1523,2018-04-26 08:30:36.433945,"349 Dass Branch Trace, Dass Trace, Enterprise Chaguanas, Trinidad and Tobago (from birth until 27 Nov. 2013)",,,,,,,,2018-04-12 07:33:51.846164
+,ua-sdfm-blacklist.1213,2018-04-26 08:30:28.945912,Mali,,,,,,,,2018-04-12 07:33:35.860361
+,ua-sdfm-blacklist.1197,2018-04-26 08:30:28.944859,"Rubavu / Mudende, Rwanda",,,,,,,,2018-04-12 07:33:35.568572
+,ua-sdfm-blacklist.1205,2018-04-26 08:30:29.057049,"Box 32, BEL Building, Jonseung-Dung, Moranbong District, Pyongyang, DPRK",,,,,,,,2018-04-12 07:33:35.751790
+,ua-sdfm-blacklist.1245,2018-04-26 08:30:29.582323,"1 Fateh Tower Office, No 99 22nd Floor, Borgaida Street, Tripoli, Libya, 1103",,,,,,,,2018-04-12 07:33:36.618707
+,ua-sdfm-blacklist.1258,2018-04-26 08:30:30.841204,Somalia,,,,,,,,2018-04-12 07:33:38.694250
+,ua-sdfm-blacklist.1281,2018-04-26 08:30:31.163586,"Operates in Derna and Jebel Akhdar, Libya",,,,,,,,2018-04-12 07:33:39.794009
+,ua-sdfm-blacklist.1281,2018-04-26 08:30:31.224851,Support network in Tunisia,,,,,,,,2018-04-12 07:33:39.860692
+,ua-sdfm-blacklist.1273,2018-04-26 08:30:31.241306,Tunisia,,,,,,,,2018-04-12 07:33:39.568859
+,ua-sdfm-blacklist.1329,2018-04-26 08:30:32.722826,Syrian Arab Republic (located in as at Aug. 2015),,,,,,,,2018-04-12 07:33:45.961193
+,ua-sdfm-blacklist.1329,2018-04-26 08:30:32.783982,Iraq (possible alternative location as at Aug. 2015),,,,,,,,2018-04-12 07:33:45.977734
+,ua-sdfm-blacklist.1346,2018-04-26 08:30:32.881033,Syrian Arab Republic (location as at Sep. 2015),,,,,,,,2018-04-12 07:33:46.537208
+,ua-sdfm-blacklist.1331,2018-04-26 08:30:33.000180,Syrian Arab Republic (located in as at Aug. 2015),,,,,,,,2018-04-12 07:33:46.294721
+,ua-sdfm-blacklist.1331,2018-04-26 08:30:33.064450,Iraq (possible alternative location as at Aug. 2015),,,,,,,,2018-04-12 07:33:46.311404
+,ua-sdfm-blacklist.1350,2018-04-26 08:30:33.648269,Syrian Arab Republic,,,,,,,,2018-04-12 07:33:47.287488
+,ua-sdfm-blacklist.1399,2018-04-26 08:30:34.525784,,,,,,,,,2018-04-12 07:33:47.712404
+,ua-sdfm-blacklist.1410,2018-04-26 08:30:34.934448,,,,,,,,,2018-04-12 07:33:47.879029
+,ua-sdfm-blacklist.1441,2018-04-26 08:30:35.123721,"Pyongyang, Democratic People's Republic of Korea",,,,,,,,2018-04-12 07:33:48.054100
+,ua-sdfm-blacklist.1470,2018-04-26 08:30:35.323570,,,,,,,,,2018-04-12 07:33:48.170719
+,ua-sdfm-blacklist.1472,2018-04-26 08:30:35.657269,Syrian Arab Republic (Coastal area of. Location as of April 2016),,,,,,,,2018-04-12 07:33:48.579185
+,ua-sdfm-blacklist.1502,2018-04-26 08:30:36.015557,"Aleppo, Syrian Arab
+Republic",,,,,,,,2018-04-12 07:33:48.929157
+,ua-sdfm-blacklist.1502,2018-04-26 08:30:36.032163,"Raqqa, Syrian Arab Republic",,,,,,,,2018-04-12 07:33:48.945862
+,ua-sdfm-blacklist.1525,2018-04-26 08:30:36.434654,"Pyongyang, Democratic People's Republic of Korea",,,,,,,,2018-04-12 07:33:49.404350
+,ua-sdfm-blacklist.1554,2018-04-26 08:30:36.601670,"Afghanistan/Pakistan border area (previous location); Khan Shaykhun, Syrian Arab Republic (53 km south of Idlib, location as at Mar. 2018); Idlib, Aleppo and Khama, Syrian Arab Republic (operation zone)",,,,,,,,2018-04-12 07:33:51.104857
+,ua-sdfm-blacklist.1537,2018-04-26 08:30:36.674206,Democratic People's Republic of Korea,,,,,,,,2018-04-12 07:33:50.238004
+,ua-sdfm-blacklist.1191,2018-04-26 08:30:28.623783,Mali,,,,,,,,2018-04-12 07:33:36.110543
+,ua-sdfm-blacklist.1191,2018-04-26 08:30:28.640341,Algeria,,,,,,,,2018-04-12 07:33:36.177045
+,ua-sdfm-blacklist.1221,2018-04-26 08:30:29.230963,"Chaman, Baluchistan Province, Pakistan",,,,,,,,2018-04-12 07:33:36.844866
+,ua-sdfm-blacklist.1170,2018-04-26 08:30:28.080214,South Libya,,,,,,,,2018-04-12 07:33:35.843271
+,ua-sdfm-blacklist.1175,2018-04-26 08:30:28.177583,"Miram Shah, North Waziristan, Federally Administered Tribal Areas, Pakistan",,,,,,,,2018-04-12 07:33:36.193263
+,ua-sdfm-blacklist.1188,2018-04-26 08:30:28.945690,"Branch Office 1: Room number 33, 5th Floor, Sarafi Market, Kandahar city, Kandahar Province, Afghanistan.",,,,,,,,2018-04-12 07:33:36.518233
+,ua-sdfm-blacklist.1188,2018-04-26 08:30:29.015445,"Branch Office 2: Shop number 4, Azizi Bank, Haji Muhammad Isa Market, Wesh, Spin Boldak, Kandahar Province, Afghanistan.",,,,,,,,2018-04-12 07:33:36.534842
+,ua-sdfm-blacklist.1188,2018-04-26 08:30:29.033005,"Branch Office 3: Safaar Bazaar, Garmser District, Helmand Province, Afghanistan.",,,,,,,,2018-04-12 07:33:36.601362
+,ua-sdfm-blacklist.1188,2018-04-26 08:30:29.048679,"Branch Office 4: Lashkar Gah, Helmand Province, Afghanistan.",,,,,,,,2018-04-12 07:33:36.618300
+,ua-sdfm-blacklist.1188,2018-04-26 08:30:29.112847,"Branch Office 5: Gereshk District, Helmand Province, Afghanistan.",,,,,,,,2018-04-12 07:33:36.634906
+,ua-sdfm-blacklist.1188,2018-04-26 08:30:29.129252,"Branch Office 6: Zaranj District, Nimroz Province, Afghanistan.",,,,,,,,2018-04-12 07:33:36.651402
+,ua-sdfm-blacklist.1188,2018-04-26 08:30:29.190560,"Branch Office 7: i) Dr Barno Road, Quetta, Pakistan ii) Haji Mohammed Plaza, Tol Aram Road, near Jamaluddin Afghani Road, Quetta, Pakistan iii) Kandahari Bazaar, Quetta, Pakistan.",,,,,,,,2018-04-12 07:33:36.743538
+,ua-sdfm-blacklist.1188,2018-04-26 08:30:29.215403,"Branch Office 8: Chaman, Baluchistan Province, Pakistan.",,,,,,,,2018-04-12 07:33:36.834767
+,ua-sdfm-blacklist.1188,2018-04-26 08:30:29.232105,"Branch Office 9: Chaghi Bazaar, Chaghi, Baluchistan Province, Pakistan.",,,,,,,,2018-04-12 07:33:36.851432
+,ua-sdfm-blacklist.1188,2018-04-26 08:30:29.295923,"Branch Office 10: Zahedan, Zabol Province, Iran.",,,,,,,,2018-04-12 07:33:36.868328
+,ua-sdfm-blacklist.1226,2018-04-26 08:30:29.513284,,,,,,,,,2018-04-12 07:33:39.143467
+,ua-sdfm-blacklist.1169,2018-04-26 08:30:30.324298,Tunisia (Believed status/location: jail in Tunisia.),,,,,,,,2018-04-12 07:33:35.701539
+,ua-sdfm-blacklist.1187,2018-04-26 08:30:28.623783,"Wesh, Spin Boldak District, Kandahar Province, Afghanistan.",,,,,,,,2018-04-12 07:33:35.877069
+,ua-sdfm-blacklist.1187,2018-04-26 08:30:28.640342,"Safaar Bazaar, Garmser District, Helmand Province, Afghanistan.",,,,,,,,2018-04-12 07:33:35.893797
+,ua-sdfm-blacklist.1187,2018-04-26 08:30:28.656790,"Room number 33, 5th Floor Sarafi Market, Kandahar City, Kandahar Province, Afghanistan.",,,,,,,,2018-04-12 07:33:35.910449
+,ua-sdfm-blacklist.1241,2018-04-26 08:30:29.423998,Mali,,,,,,,,2018-04-12 07:33:37.535889
+,ua-sdfm-blacklist.1303,2018-04-26 08:30:31.722292,"Boda, Central African Republic (Tel. +236 72198628)",,,,,,,,2018-04-12 07:33:42.235997
+,ua-sdfm-blacklist.1315,2018-04-26 08:30:32.296428,Indonesia,,,,,,,,2018-04-12 07:33:43.544602
+,ua-sdfm-blacklist.1319,2018-04-26 08:30:32.321349,Syrian Arab Republic (as at Sep. 2015),,,,,,,,2018-04-12 07:33:43.644565
+,ua-sdfm-blacklist.1334,2018-04-26 08:30:32.983525,"Bangui, Central African Republic",,,,,,,,2018-04-12 07:33:45.302903
+,ua-sdfm-blacklist.1353,2018-04-26 08:30:33.473257,Egypt,,,,,,,,2018-04-12 07:33:45.536566
+,ua-sdfm-blacklist.1366,2018-04-26 08:30:33.799640,"Gaza Strip, Palestinian Territories",,,,,,,,2018-04-12 07:33:46.261459
+,ua-sdfm-blacklist.1364,2018-04-26 08:30:33.865275,Syrian Arab Republic,,,,,,,,2018-04-12 07:33:45.844815
+,ua-sdfm-blacklist.1370,2018-04-26 08:30:34.048397,Syrian Arab Republic (as at Sep. 2015),,,,,,,,2018-04-12 07:33:46.729094
+,ua-sdfm-blacklist.1395,2018-04-26 08:30:34.350890,,,,,,,,,2018-04-12 07:33:47.129220
+,ua-sdfm-blacklist.1412,2018-04-26 08:30:34.717644,,,,,,,,,2018-04-12 07:33:47.479206
+,ua-sdfm-blacklist.1411,2018-04-26 08:30:35.057002,,,,,,,,,2018-04-12 07:33:47.295974
+,ua-sdfm-blacklist.1453,2018-04-26 08:30:35.193131,"Central District, Pyongyang, Democratic People's Republic of Korea",,,,,,,,2018-04-12 07:33:49.588000
+,ua-sdfm-blacklist.1461,2018-04-26 08:30:35.448832,"Hyongjesan-Guyok, Pyongyang, Democratic People's Republic of Korea",,,,,,,,2018-04-12 07:33:49.929855
+,ua-sdfm-blacklist.1461,2018-04-26 08:30:35.465516,"Nungrado, Pyongyang, Democratic People's Republic of Korea",,,,,,,,2018-04-12 07:33:49.988166
+,ua-sdfm-blacklist.1494,2018-04-26 08:30:36.022909,"Pyongyang, Democratic People`s Republic of Korea",,,,,,,,2018-04-12 07:33:50.188344
+,ua-sdfm-blacklist.1520,2018-04-26 08:30:36.499311,"Central District, Pyongyang, DPRK",,,,,,,,2018-04-12 07:33:50.730130
+,ua-sdfm-blacklist.1569,2018-04-26 08:30:36.776700,"Kumsong 3-dong, Mangyongdae-guyok, Pyongyang, Democratic People's Republic of Korea",,,,,,,,2018-04-12 07:33:58.747850
+,ua-sdfm-blacklist.1560,2018-04-26 08:30:36.826614,"Room 2105, Trend Centre, 29-31 Chueng Lee Street, Chai Wan, Hong Kong, China",,,,,,,,2018-04-12 07:33:52.247094
+,ua-sdfm-blacklist.1573,2018-04-26 08:30:37.006759,"Room 601, 433, Chifeng Lu, Hongkou Qu, Shanghai, 200083, China",,,,,,,,2018-04-12 07:33:59.539739
+,ua-sdfm-blacklist.1168,2018-04-26 08:30:27.752571,"Karachi, Pakistan",,,,,,,,2018-04-12 07:33:37.076491
+,ua-sdfm-blacklist.1198,2018-04-26 08:30:28.857230,"North Kivu, DRC",,,,,,,,2018-04-12 07:33:37.768193
+,ua-sdfm-blacklist.1198,2018-04-26 08:30:28.921362,"South Kivu, DRC",,,,,,,,2018-04-12 07:33:37.942325
+,ua-sdfm-blacklist.1210,2018-04-26 08:30:29.704706,Mali,,,,,,,,2018-04-12 07:33:39.986734
+,ua-sdfm-blacklist.1240,2018-04-26 08:30:29.766027,Algeria,,,,,,,,2018-04-12 07:33:43.336638
+,ua-sdfm-blacklist.1240,2018-04-26 08:30:29.782599,Mali,,,,,,,,2018-04-12 07:33:43.352106
+,ua-sdfm-blacklist.1240,2018-04-26 08:30:29.799406,Niger,,,,,,,,2018-04-12 07:33:43.368712
+,ua-sdfm-blacklist.1242,2018-04-26 08:30:30.071824,Nigeria,,,,,,,,2018-04-12 07:33:43.743790
+,ua-sdfm-blacklist.1272,2018-04-26 08:30:30.806826,Syria (located in),,,,,,,,2018-04-12 07:33:44.169545
+,ua-sdfm-blacklist.1282,2018-04-26 08:30:32.400225,"Operates in Benghazi, Libya",,,,,,,,2018-04-12 07:33:44.778950
+,ua-sdfm-blacklist.1282,2018-04-26 08:30:32.416962,Support network in Tunisia,,,,,,,,2018-04-12 07:33:44.812241
+,ua-sdfm-blacklist.1343,2018-04-26 08:30:32.714301,,,,,,,,,2018-04-12 07:33:48.903914
+,ua-sdfm-blacklist.1344,2018-04-26 08:30:33.157845,Algeria,,,,,,,,2018-04-12 07:33:49.187181
+,ua-sdfm-blacklist.1341,2018-04-26 08:30:33.175555,,,,,,,,,2018-04-12 07:33:48.646800
+,ua-sdfm-blacklist.1347,2018-04-26 08:30:33.248127,Syrian Arab Republic (location as at Sep. 2015),,,,,,,,2018-04-12 07:33:49.528368
+,ua-sdfm-blacklist.1382,2018-04-26 08:30:34.273450,"Akharkho Street, 11, Katyr-Yurt, Achkhoy-Martanovskiy District, Republic of Chechnya, Russian Federation",,,,,,,,2018-04-12 07:33:49.904011
+,ua-sdfm-blacklist.1405,2018-04-26 08:30:34.432143,,,,,,,,,2018-04-12 07:33:50.529280
+,ua-sdfm-blacklist.1381,2018-04-26 08:30:34.439038,,,,,,,,,2018-04-12 07:33:49.703986
+,ua-sdfm-blacklist.1451,2018-04-26 08:30:35.257050,"Jungson-dong, Sungri Street, Central District, Pyongyang, Democratic People's Republic of Korea",,,,,,,,2018-04-12 07:33:51.579583
+,ua-sdfm-blacklist.1565,2018-04-26 08:30:36.935101,"Tonghung-dong, Chung-guyok, Pyongyang, Democratic People's Republic of Korea",,,,,,,,2018-04-12 07:33:55.263626
+,ua-sdfm-blacklist.1235,2018-04-26 08:30:30.165843,"Birao, Central African Republic",,,,,,,,2018-04-12 07:33:40.143549
+,ua-sdfm-blacklist.1244,2018-04-26 08:30:30.713526,"North Kivu Province, Democratic Republic of the Congo",,,,,,,,2018-04-12 07:33:40.435296
+,ua-sdfm-blacklist.1295,2018-04-26 08:30:31.641616,"Unity State, South Sudan",,,,,,,,2018-04-12 07:33:45.736642
+,ua-sdfm-blacklist.1295,2018-04-26 08:30:31.658258,"Wau, Western Bahr El Ghazal, South Sudan",,,,,,,,2018-04-12 07:33:45.819225
+,ua-sdfm-blacklist.1314,2018-04-26 08:30:32.028532,Syrian Arab Republic (location as at Sep. 2015),,,,,,,,2018-04-12 07:33:49.929090
+,ua-sdfm-blacklist.1328,2018-04-26 08:30:32.775433,"Moscovskiy Microrayon 6, App. 96, Ust-Dzheguta, Republic of Karachayevo-Cherkessia, Russian Federation",,,,,,,,2018-04-12 07:33:50.220911
+,ua-sdfm-blacklist.1328,2018-04-26 08:30:32.791943,Syrian Arab Republic (located in as at Aug. 2015),,,,,,,,2018-04-12 07:33:50.237604
+,ua-sdfm-blacklist.1328,2018-04-26 08:30:32.808629,Iraq (possible alternative location as at Aug. 2015),,,,,,,,2018-04-12 07:33:50.254243
+,ua-sdfm-blacklist.1345,2018-04-26 08:30:33.167208,Libya (last known location),,,,,,,,2018-04-12 07:33:50.571027
+,ua-sdfm-blacklist.979,2018-04-26 08:30:24.503813,"Pasdaran Avenue, PO Box 19585/777, Tehran, Iran",,,,,,,,2018-04-12 07:33:42.677512
+,ua-sdfm-blacklist.1397,2018-04-26 08:30:34.525939,,,,,,,,,2018-04-12 07:33:49.796265
+,ua-sdfm-blacklist.1401,2018-04-26 08:30:34.534201,,,,,,,,,2018-04-12 07:33:50.546327
+,ua-sdfm-blacklist.1398,2018-04-26 08:30:34.631963,,,,,,,,,2018-04-12 07:33:50.004459
+,ua-sdfm-blacklist.1402,2018-04-26 08:30:34.717562,,,,,,,,,2018-04-12 07:33:51.038098
+,ua-sdfm-blacklist.1444,2018-04-26 08:30:34.992977,"Akara Building, 24 de Castro Street, Wickhams Cay I, Road Town, Tortola, British Virgin Islands",,,,,,,,2018-04-12 07:33:51.571639
+,ua-sdfm-blacklist.1444,2018-04-26 08:30:35.065683,"Dalian, China",,,,,,,,2018-04-12 07:33:51.588341
+,ua-sdfm-blacklist.1446,2018-04-26 08:30:35.257189,"Pyongyang, Democratic People's Republic of Korea",,,,,,,,2018-04-12 07:33:51.746753
+,ua-sdfm-blacklist.1447,2018-04-26 08:30:35.323574,"Segori-dong, Gyongheung St. Potonggang District, Pyongyang, Democratic People's Republic of Korea",,,,,,,,2018-04-12 07:33:51.963553
+,ua-sdfm-blacklist.1463,2018-04-26 08:30:35.340545,Democratic People's Republic of Korea,,,,,,,,2018-04-12 07:33:52.562054
+,ua-sdfm-blacklist.1443,2018-04-26 08:30:35.397526,"Suite 401, Potonggang Hotel, Ansan-Dong, Pyongchon District, Pyongyang, Democratic People's Republic of Korea",,,,,,,,2018-04-12 07:33:51.355194
+,ua-sdfm-blacklist.1443,2018-04-26 08:30:35.414251,"Ansan-dong, Botonggang Hotel, Pongchon, Pyongyang, Democratic People's Republic of Korea",,,,,,,,2018-04-12 07:33:51.372356
+,ua-sdfm-blacklist.1480,2018-04-26 08:30:35.457108,Democratic People`s Republic of Korea,,,,,,,,2018-04-12 07:33:52.947564
+,ua-sdfm-blacklist.1455,2018-04-26 08:30:35.464272,"Pyongyang, Democratic People's Republic of Korea",,,,,,,,2018-04-12 07:33:52.155103
+,ua-sdfm-blacklist.1482,2018-04-26 08:30:35.690469,Democratic People's Republic of Korea,,,,,,,,2018-04-12 07:33:53.247019
+,ua-sdfm-blacklist.1487,2018-04-26 08:30:35.990797,Democratic People's Republic of Korea,,,,,,,,2018-04-12 07:33:53.772291
+,ua-sdfm-blacklist.1481,2018-04-26 08:30:36.014452,"Democratic People's Republic of
+Korea",,,,,,,,2018-04-12 07:33:53.146874
+,ua-sdfm-blacklist.1497,2018-04-26 08:30:36.142989,"Lalpura, Nangarhar Province, Afghanistan (since Jun. 2015)",,,,,,,,2018-04-12 07:33:54.063690
+,ua-sdfm-blacklist.1497,2018-04-26 08:30:36.159690,"Mohmand Agency, Pakistan (as at Aug. 2014)",,,,,,,,2018-04-12 07:33:54.080342
+,ua-sdfm-blacklist.1563,2018-04-26 08:30:36.999476,"Pyongchon 1-dong, Pyongchon-guyok, Pyongyang, Democratic People's Republic of Korea",,,,,,,,2018-04-12 07:33:55.639948
+,ua-sdfm-blacklist.1277,2018-04-26 08:30:31.232944,Egypt,,,,,,,,2018-04-12 07:33:44.295117
+,ua-sdfm-blacklist.1448,2018-04-26 08:30:35.406901,"Pulgan Gori Dong 1, Potonggang District, Pyongyang City, Democratic People's Republic of Korea",,,,,,,,2018-04-12 07:33:51.554538
+,ua-sdfm-blacklist.1476,2018-04-26 08:30:35.874408,"KM5, Bangui, Central African Republic",,,,,,,,2018-04-12 07:33:52.057563
+,ua-sdfm-blacklist.1476,2018-04-26 08:30:35.901318,"Nana-Grebizi, Central African Republic",,,,,,,,2018-04-12 07:33:52.089485
+,ua-sdfm-blacklist.1544,2018-04-26 08:30:36.810071,"Pyongyang, Democratic People's Republic of Korea",,,,,,,,2018-04-12 07:33:52.738711
+,ua-sdfm-blacklist.1556,2018-04-26 08:30:36.884823,"Room 2105, DL1849, Trend Centre, 29-31 Cheung Lee Street, Chai Wan, Hong Kong, China",,,,,,,,2018-04-12 07:33:54.179806
+,ua-sdfm-blacklist.1550,2018-04-26 08:30:36.917146,"Al-Qaim, Al-Anbar Province, Iraq",,,,,,,,2018-04-12 07:33:53.846709
+,ua-sdfm-blacklist.19,2018-04-26 08:30:09.347172,"East London, United Kingdom",,,,,,,,2018-04-12 07:32:12.436279
+,ua-sdfm-blacklist.12,2018-04-26 08:30:09.348678,"Nairobi, Kenya, (at time of listing)",,,,,,,,2018-04-19 08:00:10.891961
+,ua-sdfm-blacklist.12,2018-04-26 08:30:09.464835,"Garissa, Kenya, (at time of listing)",,,,,,,,2018-04-19 08:00:11.061196
+,ua-sdfm-blacklist.12,2018-04-26 08:30:09.548322,"Dadaab, Kenya, (at time of listing)",,,,,,,,2018-04-19 08:00:11.077808
+,ua-sdfm-blacklist.5,2018-04-26 08:30:09.569224,"Number 184 Via Fulvio Testi, – Cinisello Balsamo (MI), Italy",,,,,,,,2018-04-12 07:32:11.486181
+,ua-sdfm-blacklist.5,2018-04-26 08:30:09.786160,"Number 1 Via Porte Giove – 1 Mortara (PV), Italy, (Domicile)",,,,,,,,2018-04-12 07:32:11.564506
+,ua-sdfm-blacklist.20,2018-04-26 08:30:09.785419,"Heimdalsgate 36-V, 0578 Oslo, Norway",,,,,,,,2018-04-12 07:32:11.502154
+,ua-sdfm-blacklist.28,2018-04-26 08:30:09.801382,"Shari Tunis, Sana'a, Yemen, (previous address)",,,,,,,,2018-04-12 07:32:13.811685
+,ua-sdfm-blacklist.28,2018-04-26 08:30:09.905933,Located in Yemen since Nov. 2008,,,,,,,,2018-04-12 07:32:13.873443
+,ua-sdfm-blacklist.10,2018-04-26 08:30:09.906476,"ST-1/A, Gulsahn-e-Iqbal, Block 2, Karachi, 25300, Pakistan",,,,,,,,2018-04-12 07:32:13.131414
+,ua-sdfm-blacklist.8,2018-04-26 08:30:09.906927,Algeria,,,,,,,,2018-04-12 07:32:12.364692
+,ua-sdfm-blacklist.10,2018-04-26 08:30:10.002384,"Gulistan-e-Jauhar, Block 12, Karachi, Pakistan",,,,,,,,2018-04-12 07:32:13.148162
+,ua-sdfm-blacklist.35,2018-04-26 08:30:10.093830,"7th Street, Number 7, Hay Anas Safi, Morocco",,,,,,,,2018-04-12 07:32:11.780489
+,ua-sdfm-blacklist.34,2018-04-26 08:30:10.193253,Tunisia,,,,,,,,2018-04-12 07:32:12.005616
+,ua-sdfm-blacklist.31,2018-04-26 08:30:10.211026,"Via Milano Number 38, Spinadesco, (CR), Italy",,,,,,,,2018-04-12 07:32:15.481125
+,ua-sdfm-blacklist.32,2018-04-26 08:30:10.194523,"Ibn Al-Haythman Street, Number 6, Manubah, Tunis, Tunisia",,,,,,,,2018-04-12 07:32:13.811538
+,ua-sdfm-blacklist.11,2018-04-26 08:30:10.244204,"Woreda District 24 Kebele Section 13, Addis Ababa, Ethiopia (at time of listing)",,,,,,,,2018-04-12 07:32:10.960704
+,ua-sdfm-blacklist.42,2018-04-26 08:30:10.293675,"Bab Ben Ghasheer, Tripoli, Libyan Arab Jamahiriya",,,,,,,,2018-04-12 07:32:15.895824
+,ua-sdfm-blacklist.44,2018-04-26 08:30:10.382024,"Ghout El Shamal, Tripoli, Libyan Arab Jamahiriya",,,,,,,,2018-04-12 07:32:12.347237
+,ua-sdfm-blacklist.46,2018-04-26 08:30:10.528654,"Kela neighborhood/Danda neighborhood, Miramshah, North Waziristan, Pakistan.",,,,,,,,2018-04-12 07:32:12.085621
+,ua-sdfm-blacklist.46,2018-04-26 08:30:10.546264,"Manba'ul uloom Madrasa, Miramshah, North Waziristan, Pakistan.",,,,,,,,2018-04-12 07:32:12.155721
+,ua-sdfm-blacklist.56,2018-04-26 08:30:10.554658,Afghanistan,,,,,,,,2018-04-12 07:32:13.347532
+,ua-sdfm-blacklist.46,2018-04-26 08:30:10.608243,"Dergey Manday Madrasa, Miramshah, North Waziristan, Pakistan.",,,,,,,,2018-04-12 07:32:12.172415
+,ua-sdfm-blacklist.36,2018-04-26 08:30:10.712911,"Via Masina Number 7, Milan, Italy",,,,,,,,2018-04-12 07:32:12.627873
+,ua-sdfm-blacklist.82,2018-04-26 08:30:10.913723,"Al-Salibekhat area, Kuwait (residence as at Mar. 2009)",,,,,,,,2018-04-12 07:32:13.627711
+,ua-sdfm-blacklist.45,2018-04-26 08:30:11.071579,Algeria,,,,,,,,2018-04-12 07:32:11.972399
+,ua-sdfm-blacklist.95,2018-04-26 08:30:11.105455,"9935 South 76th Avenue, Unit 1, Bridgeview, Illinois, 60455, United States of America",,,,,,,,2018-04-12 07:32:15.620113
+,ua-sdfm-blacklist.95,2018-04-26 08:30:11.121843,"P.O. Box 1406, Bridgeview, Illinois, 60455, United States of America",,,,,,,,2018-04-12 07:32:15.636743
+,ua-sdfm-blacklist.97,2018-04-26 08:30:11.120697,Algeria,,,,,,,,2018-04-12 07:32:15.053056
+,ua-sdfm-blacklist.94,2018-04-26 08:30:11.296774,"8820 Mobile Avenue, IA, Oak Lawn, Illinois, 60453, United States of America",,,,,,,,2018-04-12 07:32:15.261326
+,ua-sdfm-blacklist.90,2018-04-26 08:30:11.295884,"Buraydah, Saudi Arabia",,,,,,,,2018-04-12 07:32:14.744593
+,ua-sdfm-blacklist.110,2018-04-26 08:30:11.304268,"Branch Address: Hasiba Brankovica No. 2A, Sarajevo, Bosnia and Herzegovina",,,,,,,,2018-04-12 07:32:15.712199
+,ua-sdfm-blacklist.94,2018-04-26 08:30:11.313478,"P.O. Box 548, Worth, Illinois, 60482, United States of America",,,,,,,,2018-04-12 07:32:15.313617
+,ua-sdfm-blacklist.110,2018-04-26 08:30:11.320810,"Bihacka St. 14, Sarajevo, Bosnia and Herzegovina",,,,,,,,2018-04-12 07:32:15.753974
+,ua-sdfm-blacklist.94,2018-04-26 08:30:11.330237,"(Formerly located at) 9838 S. Roberts Road, Suite 1W, Palos Hills, Illinois, 60465, United States of America",,,,,,,,2018-04-12 07:32:15.330241
+,ua-sdfm-blacklist.98,2018-04-26 08:30:11.329995,Algeria,,,,,,,,2018-04-12 07:32:14.956262
+,ua-sdfm-blacklist.110,2018-04-26 08:30:11.382760,"Travnick, Potur mahala St. 64, Bosnia and Herzegovina",,,,,,,,2018-04-12 07:32:15.770613
+,ua-sdfm-blacklist.94,2018-04-26 08:30:11.438707,"(Formerly located at) 20-24 Branford Place, Suite 705, Newark, New Jersey, 07102, United States of America",,,,,,,,2018-04-12 07:32:15.455679
+,ua-sdfm-blacklist.94,2018-04-26 08:30:11.455472,"P.O. Box 1937, Khartoum, Sudan",,,,,,,,2018-04-12 07:32:15.472151
+,ua-sdfm-blacklist.94,2018-04-26 08:30:11.472120,Bangladesh,,,,,,,,2018-04-12 07:32:15.488827
+,ua-sdfm-blacklist.94,2018-04-26 08:30:11.488681,Gaza Strip,,,,,,,,2018-04-12 07:32:15.553338
+,ua-sdfm-blacklist.94,2018-04-26 08:30:11.505568,Yemen,,,,,,,,2018-04-12 07:32:15.570028
+,ua-sdfm-blacklist.41,2018-04-26 08:30:11.705763,"Number 5/B viale Cambonino, Cremona, Italy",,,,,,,,2018-04-12 07:32:13.914354
+,ua-sdfm-blacklist.120,2018-04-26 08:30:11.862661,"Barangay Mangayao, Tagkawayan, Quezon, Philippines",,,,,,,,2018-04-12 07:32:16.395395
+,ua-sdfm-blacklist.113,2018-04-26 08:30:11.884513,"3111 Ma. Bautista, Punta, Santa Ana, Manila, Philippines",,,,,,,,2018-04-12 07:32:15.603247
+,ua-sdfm-blacklist.120,2018-04-26 08:30:11.892902,"Barangay Tigib, Ayungon, Negros Oriental, Philippines",,,,,,,,2018-04-12 07:32:16.412117
+,ua-sdfm-blacklist.126,2018-04-26 08:30:12.039725,Algeria,,,,,,,,2018-04-12 07:32:16.914640
+,ua-sdfm-blacklist.125,2018-04-26 08:30:12.097365,Algeria,,,,,,,,2018-04-12 07:32:16.589837
+,ua-sdfm-blacklist.99,2018-04-26 08:30:12.931964,Algeria,,,,,,,,2018-04-12 07:32:15.611650
+,ua-sdfm-blacklist.99,2018-04-26 08:30:13.082314,Mali,,,,,,,,2018-04-12 07:32:15.628458
+,ua-sdfm-blacklist.118,2018-04-26 08:30:13.619359,"3111, Ma. Bautista, Punta, Santa Ana, Manila, Philippines",,,,,,,,2018-04-12 07:32:15.936969
+,ua-sdfm-blacklist.109,2018-04-26 08:30:23.920052,"Put Mladih Muslimana 30a, 71 000 Sarajevo, Bosnia and Herzegovina",,,,,,,,2018-04-12 07:32:16.012032
+,ua-sdfm-blacklist.109,2018-04-26 08:30:23.936811,"ul.Strossmajerova 72, Zenica, Bosnia and Herzegovina",,,,,,,,2018-04-12 07:32:16.028607
+,ua-sdfm-blacklist.109,2018-04-26 08:30:24.033645,"Muhameda Hadzijahica #42, Sarajevo, Bosnia and Herzegovina",,,,,,,,2018-04-12 07:32:16.045258
+,ua-sdfm-blacklist.127,2018-04-26 08:30:24.904553,"Barangay Mal-Ong, Anda, Pangasinan Province, Philippines",,,,,,,,2018-04-12 07:32:16.873273
+,ua-sdfm-blacklist.122,2018-04-26 08:30:11.704393,"Kuwait, (residence as at March 2009 and at December 2013)",,,,,,,,2018-04-12 07:32:16.622655
+,ua-sdfm-blacklist.119,2018-04-26 08:30:12.540083,"10th Avenue, Caloocan City, Philippines",,,,,,,,2018-04-12 07:32:16.664420
+,ua-sdfm-blacklist.99,2018-04-26 08:30:13.106905,Mauritania,,,,,,,,2018-04-12 07:32:15.695203
+,ua-sdfm-blacklist.99,2018-04-26 08:30:13.123869,Morocco,,,,,,,,2018-04-12 07:32:15.711830
+,ua-sdfm-blacklist.99,2018-04-26 08:30:13.148908,Niger,,,,,,,,2018-04-12 07:32:15.728538
+,ua-sdfm-blacklist.99,2018-04-26 08:30:13.219304,Tunisia,,,,,,,,2018-04-12 07:32:15.745195
+,ua-sdfm-blacklist.377,2018-04-26 08:30:17.117742,"Rue Leon Theodore Number 107/1, 1090 Jette, Brussels, Belgium",,,,,,,,2018-04-12 07:32:30.484061
+,ua-sdfm-blacklist.557,2018-04-26 08:30:20.101700,"Room 9a, 2nd Floor, Wahdat Road, Education Town, Lahore, Pakistan",,,,,,,,2018-04-12 07:32:39.000074
+,ua-sdfm-blacklist.557,2018-04-26 08:30:20.118525,"Wares Colony, Lahore, Pakistan (at time of listing)",,,,,,,,2018-04-12 07:32:39.061022
+,ua-sdfm-blacklist.609,2018-04-26 08:30:20.294122,"Al Nidhal Street, near Saddoun Park, P.O. Box 109, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:39.693700
+,ua-sdfm-blacklist.609,2018-04-26 08:30:20.310628,"Milla, Iraq",,,,,,,,2018-04-12 07:32:39.774723
+,ua-sdfm-blacklist.609,2018-04-26 08:30:20.327216,"Basrah, Iraq",,,,,,,,2018-04-12 07:32:39.835539
+,ua-sdfm-blacklist.609,2018-04-26 08:30:20.343947,"Kerbala, Iraq",,,,,,,,2018-04-12 07:32:39.852135
+,ua-sdfm-blacklist.609,2018-04-26 08:30:20.415730,"Diwaniya, Iraq",,,,,,,,2018-04-12 07:32:39.868881
+,ua-sdfm-blacklist.609,2018-04-26 08:30:20.477360,"Najaf, Iraq",,,,,,,,2018-04-12 07:32:39.885439
+,ua-sdfm-blacklist.609,2018-04-26 08:30:20.493955,"Mosul, Iraq",,,,,,,,2018-04-12 07:32:39.950544
+,ua-sdfm-blacklist.609,2018-04-26 08:30:20.510728,"Arbil, Iraq",,,,,,,,2018-04-12 07:32:39.968818
+,ua-sdfm-blacklist.609,2018-04-26 08:30:20.527074,"Kirkuk, Iraq",,,,,,,,2018-04-12 07:32:40.027189
+,ua-sdfm-blacklist.609,2018-04-26 08:30:20.543728,"Nasiriya, Iraq",,,,,,,,2018-04-12 07:32:40.043942
+,ua-sdfm-blacklist.609,2018-04-26 08:30:20.660743,"Samawa, Iraq",,,,,,,,2018-04-12 07:32:40.060591
+,ua-sdfm-blacklist.609,2018-04-26 08:30:20.677199,"Baquba, Iraq",,,,,,,,2018-04-12 07:32:40.077163
+,ua-sdfm-blacklist.609,2018-04-26 08:30:20.693741,"Amara, Iraq",,,,,,,,2018-04-12 07:32:40.143843
+,ua-sdfm-blacklist.609,2018-04-26 08:30:20.710491,"Sulaimaniya, Iraq",,,,,,,,2018-04-12 07:32:40.202201
+,ua-sdfm-blacklist.609,2018-04-26 08:30:20.727296,"Dohuk, Iraq",,,,,,,,2018-04-12 07:32:40.218753
+,ua-sdfm-blacklist.652,2018-04-26 08:30:21.052316,"P.O. Box 31, Nassiriyah, Iraq",,,,,,,,2018-04-12 07:32:42.343902
+,ua-sdfm-blacklist.588,2018-04-26 08:30:21.235718,"Khulafa Street, Khulafa Square, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:40.793886
+,ua-sdfm-blacklist.678,2018-04-26 08:30:21.284245,"P.O. Box 12, Muhafadha Salah Aldin, Tikrit, Iraq",,,,,,,,2018-04-12 07:32:41.760517
+,ua-sdfm-blacklist.712,2018-04-26 08:30:21.547956,"P.O. Box 71, Diwaniya, Iraq",,,,,,,,2018-04-12 07:32:44.544117
+,ua-sdfm-blacklist.718,2018-04-26 08:30:21.835621,"P.O. Box Aioroba, K 29 Oroba, Kut, Iraq",,,,,,,,2018-04-12 07:32:46.536711
+,ua-sdfm-blacklist.743,2018-04-26 08:30:21.834633,"Khullani Square, Khulafa St., Baghdad, Iraq",,,,,,,,2018-04-12 07:32:48.320607
+,ua-sdfm-blacklist.697,2018-04-26 08:30:22.069279,"P.O. Box 271, Samara, Iraq",,,,,,,,2018-04-12 07:32:46.829189
+,ua-sdfm-blacklist.720,2018-04-26 08:30:22.110972,"Eastern Karrda, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:46.636811
+,ua-sdfm-blacklist.752,2018-04-26 08:30:22.127962,"P.O. Box 2330, Sa'doon Street, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:49.069510
+,ua-sdfm-blacklist.769,2018-04-26 08:30:22.219117,Iraq,,,,,,,,2018-04-12 07:32:50.070742
+,ua-sdfm-blacklist.919,2018-04-26 08:30:24.136929,"Pasdaran Av., PO Box 19585/777, Tehran, Iran",,,,,,,,2018-04-12 07:33:02.848225
+,ua-sdfm-blacklist.984,2018-04-26 08:30:24.817239,"Pasdaran Avenue, next to Telecommunication Industry, Tehran, 16588, Iran",,,,,,,,2018-04-12 07:33:04.396215
+,ua-sdfm-blacklist.984,2018-04-26 08:30:24.879459,"Postal Box 89195/878, Yazd, Iran",,,,,,,,2018-04-12 07:33:04.412853
+,ua-sdfm-blacklist.984,2018-04-26 08:30:24.896007,"P.O. Box 89195-678, Yazd, Iran",,,,,,,,2018-04-12 07:33:04.429455
+,ua-sdfm-blacklist.984,2018-04-26 08:30:24.967407,"Km 5 of Taft Road, Yazd, Iran",,,,,,,,2018-04-12 07:33:04.446027
+,ua-sdfm-blacklist.1103,2018-04-26 08:30:25.809888,Lebanon (in custody),,,,,,,,2018-04-12 07:33:33.309346
+,ua-sdfm-blacklist.1090,2018-04-26 08:30:25.905043,"Tine, Sudan (Resides in Tine, on the Sudanese side of the border with Chad)",,,,,,,,2018-04-12 07:33:28.426465
+,ua-sdfm-blacklist.1115,2018-04-26 08:30:26.496916,in custody in Libya,,,,,,,,2018-04-12 07:33:27.892840
+,ua-sdfm-blacklist.1133,2018-04-26 08:30:26.838918,Indonesia,,,,,,,,2018-04-12 07:33:33.326929
+,ua-sdfm-blacklist.1157,2018-04-26 08:30:27.689402,"Ungartenstrabe 6, Bonn, 53229, Germany, (previous)",,,,,,,,2018-04-12 07:33:33.426782
+,ua-sdfm-blacklist.1148,2018-04-26 08:30:27.768870,reportedly in prison in Uganda (as of September 2016),,,,,,,,2018-04-12 07:33:33.434983
+,ua-sdfm-blacklist.1172,2018-04-26 08:30:27.977475,"Tongan-dong, Pyongyang, DPRK",,,,,,,,2018-04-12 07:33:34.110278
+,ua-sdfm-blacklist.1004,2018-04-26 08:30:29.057109,"Goma, DRC (As of June 2011.)",,,,,,,,2018-04-12 07:33:26.762156
+,ua-sdfm-blacklist.1285,2018-04-26 08:30:31.849657,"Syrian Arab Republic, (located in as at Dec. 2014)",,,,,,,,2018-04-12 07:33:39.860941
+,ua-sdfm-blacklist.1302,2018-04-26 08:30:32.416930,"Mbaiki, Lobaye Province, Central African Republic (Tel. +236 72 15 47 07 / +236 75 09 43 41)",,,,,,,,2018-04-12 07:33:42.411118
+,ua-sdfm-blacklist.1302,2018-04-26 08:30:32.489453,"Bimbo, Ombella-Mpoko province, Central African Republic (previous location)",,,,,,,,2018-04-12 07:33:42.427739
+,ua-sdfm-blacklist.1404,2018-04-26 08:30:34.908297,,,,,,,,,2018-04-12 07:33:50.387550
+,ua-sdfm-blacklist.1471,2018-04-26 08:30:35.764513,Syrian Arab Republic (Southern. Location as of July 2016),,,,,,,,2018-04-12 07:33:48.261737
+,ua-sdfm-blacklist.1506,2018-04-26 08:30:36.276693,"Albu Kamal (Al-Bukamal), Syrian Arab Republic",,,,,,,,2018-04-12 07:33:48.878233
+,ua-sdfm-blacklist.1576,2018-04-26 08:30:36.876621,"17-22, UOB Plaza 2, Raffles Place, Singapore, 048624, Singapore",,,,,,,,2018-04-12 07:33:53.639789
+,ua-sdfm-blacklist.117,2018-04-26 08:30:11.705431,"Concepcion, Zaragosa, Nueva Ecija, Philippines",,,,,,,,2018-04-12 07:32:16.170955
+,ua-sdfm-blacklist.508,2018-04-26 08:30:18.918583,"Kitab Ghar, Darul Ifta Wal Irshad, Nazimabad No. 4, Karachi, Pakistan, Phone 6683301; Phone 0300-8209199; Fax 6623814",,,,,,,,2018-04-12 07:32:35.610242
+,ua-sdfm-blacklist.508,2018-04-26 08:30:19.027005,"302b-40, Good Earth Court, Opposite Pia Planitarium, Block 13a, Gulshan  I  Iqbal, Karachi; Phone 4979263",,,,,,,,2018-04-12 07:32:35.635590
+,ua-sdfm-blacklist.508,2018-04-26 08:30:19.043624,"617 Clifton Center, Block 5, 6th Floor, Clifton, Karachi; Phone 587-2545",,,,,,,,2018-04-12 07:32:35.652151
+,ua-sdfm-blacklist.508,2018-04-26 08:30:19.060367,"605 Landmark Plaza, 11 Chundrigar Road, Opposite Jang Building, Karachi, Pakistan; Phone 2623818-19",,,,,,,,2018-04-12 07:32:35.668195
+,ua-sdfm-blacklist.508,2018-04-26 08:30:19.076736,"Jamia Masjid, Sulaiman Park, Begum Pura, Lahore, Pakistan; Phone 042-6812081",,,,,,,,2018-04-12 07:32:35.694001
+,ua-sdfm-blacklist.578,2018-04-26 08:30:20.189144,"Baghdad International Airport, General Street, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:39.886096
+,ua-sdfm-blacklist.646,2018-04-26 08:30:20.910596,"P.O. Box 54, Al Ishraq-Ninawa, Mosul, Iraq",,,,,,,,2018-04-12 07:32:41.835777
+,ua-sdfm-blacklist.666,2018-04-26 08:30:21.234470,"P.O. Box 1, Sulaimaniyah, Iraq",,,,,,,,2018-04-12 07:32:42.527373
+,ua-sdfm-blacklist.689,2018-04-26 08:30:21.649346,"P.O. Box 38, Nasiriyah, Iraq",,,,,,,,2018-04-12 07:32:42.352251
+,ua-sdfm-blacklist.846,2018-04-26 08:30:23.661399,"- Fuad Dawod Farm, Az Zabadani, Damascus, Syria;  - Beirut, Lebanon",,,,,,,,2018-04-12 07:32:59.295050
+,ua-sdfm-blacklist.1000,2018-04-26 08:30:25.287952,"Rutshuru Territory, North Kivu, Democratic Republic of the Congo (As of June 2016.)",,,,,,,,2018-04-12 07:33:04.823274
+,ua-sdfm-blacklist.1096,2018-04-26 08:30:26.217096,"South Kivu Province, Democratic Republic of the Congo (As of June 2016)",,,,,,,,2018-04-12 07:33:27.520274
+,ua-sdfm-blacklist.1137,2018-04-26 08:30:26.905631,"Jalan M. Saidi RT 010 RW 001 Pesanggrahan, South Petukangan, South Jakarta, Indonesia",,,,,,,,2018-04-12 07:33:29.492876
+,ua-sdfm-blacklist.1137,2018-04-26 08:30:26.922245,"Jalan Nakula of Witana Harja Complex Block C, Pamulang, Banten, Indonesia",,,,,,,,2018-04-12 07:33:29.918090
+,ua-sdfm-blacklist.1128,2018-04-26 08:30:27.369848,Yemen,,,,,,,,2018-04-12 07:33:27.801178
+,ua-sdfm-blacklist.985,2018-04-26 08:30:28.456576,"Kinshasa, Democratic Republic of the Congo (as of June 2016)",,,,,,,,2018-04-12 07:33:02.254028
+,ua-sdfm-blacklist.1220,2018-04-26 08:30:29.296467,Mali,,,,,,,,2018-04-12 07:33:38.885142
+,ua-sdfm-blacklist.1386,2018-04-26 08:30:34.239966,,,,,,,,,2018-04-12 07:33:47.129274
+,ua-sdfm-blacklist.1442,2018-04-26 08:30:35.298836,"817 Haeun, Donghung-dong, Central District, Pyongyang, Democratic People's Republic of Korea",,,,,,,,2018-04-12 07:33:50.904392
+,ua-sdfm-blacklist.1467,2018-04-26 08:30:35.307465,,,,,,,,,2018-04-12 07:33:49.888462
+,ua-sdfm-blacklist.1442,2018-04-26 08:30:35.315433,"817, Haeum, Tonghun-dong, Chung-gu, Pyongyang, Democratic People's Republic of Korea",,,,,,,,2018-04-12 07:33:51.012875
+,ua-sdfm-blacklist.1474,2018-04-26 08:30:35.640724,"Al-Baydah Governorate, Yemen",,,,,,,,2018-04-12 07:33:47.987202
+,ua-sdfm-blacklist.1474,2018-04-26 08:30:35.657300,"Sana`a, Yemen (previous location)",,,,,,,,2018-04-12 07:33:48.003795
+,ua-sdfm-blacklist.1509,2018-04-26 08:30:36.317902,"Idlib Governorate, Syrian Arab Republic",,,,,,,,2018-04-12 07:33:49.187563
+,ua-sdfm-blacklist.1509,2018-04-26 08:30:36.334459,"Hama Governorate, Syrian Arab Republic",,,,,,,,2018-04-12 07:33:49.204254
+,ua-sdfm-blacklist.1521,2018-04-26 08:30:36.499637,"Pyongyang, DPRK",,,,,,,,2018-04-12 07:33:49.195715
+,ua-sdfm-blacklist.114,2018-04-26 08:30:11.447483,"Atimonana, Quezon Province, Philippines",,,,,,,,2018-04-12 07:32:15.837405
+,ua-sdfm-blacklist.480,2018-04-26 08:30:18.918113,"No.2 89th Street Zehrouni, Tunis,Tunisia",,,,,,,,2018-04-12 07:32:34.718379
+,ua-sdfm-blacklist.585,2018-04-26 08:30:21.052439,"P.O. Box 2009, Uqba Bin Nafia Square, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:40.718947
+,ua-sdfm-blacklist.659,2018-04-26 08:30:21.092822,"Khullani Street, P.O. Box 248, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:41.467392
+,ua-sdfm-blacklist.659,2018-04-26 08:30:21.109560,"Aman Building, Khullani Square, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:41.485445
+,ua-sdfm-blacklist.684,2018-04-26 08:30:21.366013,"P.O. Box 19036, Al Nahda Area, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:42.868860
+,ua-sdfm-blacklist.732,2018-04-26 08:30:21.699073,"Ninewa Governorate, Mosul, Iraq",,,,,,,,2018-04-12 07:32:47.095296
+,ua-sdfm-blacklist.725,2018-04-26 08:30:21.791102,"P.O. Box 9129, Taji/Kadimiya, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:46.686729
+,ua-sdfm-blacklist.710,2018-04-26 08:30:21.827325,"P.O. Box 248, Hartha District, Basrah, Iraq",,,,,,,,2018-04-12 07:32:45.110015
+,ua-sdfm-blacklist.759,2018-04-26 08:30:22.102439,"Khalid Al Bin Al Waleed St., P.O. Box 414, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:46.945705
+,ua-sdfm-blacklist.759,2018-04-26 08:30:22.119082,"Camp Sarah, New Baghdad St., Baghdad, Iraq",,,,,,,,2018-04-12 07:32:46.962220
+,ua-sdfm-blacklist.845,2018-04-26 08:30:23.119635,"- Al-Shahid Street, Al-Mahata Neighborhood, Az Zabadani, Syria;- Yemen",,,,,,,,2018-04-12 07:32:55.694738
+,ua-sdfm-blacklist.858,2018-04-26 08:30:23.532423,,,,,,,,,2018-04-12 07:32:59.613698
+,ua-sdfm-blacklist.989,2018-04-26 08:30:24.904409,Uganda (as of May 2016),,,,,,,,2018-04-12 07:33:04.554628
+,ua-sdfm-blacklist.1094,2018-04-26 08:30:26.409844,"Daman District, Kandahar Province, Afghanistan",,,,,,,,2018-04-12 07:33:27.043538
+,ua-sdfm-blacklist.1107,2018-04-26 08:30:26.425503,"Libya (Believed status/location: restricted freedom of movement in Zintan, Libya)",,,,,,,,2018-04-12 07:33:27.976367
+,ua-sdfm-blacklist.1147,2018-04-26 08:30:27.560239,Iraq,,,,,,,,2018-04-12 07:33:33.284899
+,ua-sdfm-blacklist.1178,2018-04-26 08:30:28.815361,"Branch Office 1: i) Chohar Mir Road, Kandahari Bazaar, Quetta City, Baluchistan Province, Pakistan; ii) Room number 1, Abdul Sattar Plaza, Hafiz Saleem Street, Munsafi Road, Quetta, Baluchistan Province, Pakistan iii) Shop number 3, Dr. Bano Road, Quetta, Baluchistan Province, Pakistan iv) Office number 3, Near Fatima Jinnah Road, Dr. Bano Road, Quetta, Baluchistan Province, Pakistan v) Kachara Road, Nasrullah Khan Chowk, Quetta, Baluchistan Province, Pakistan vi) Wazir Mohammad Road, Quetta, Baluchistan Province, Pakistan;",,,,,,,,2018-04-12 07:33:35.618847
+,ua-sdfm-blacklist.1178,2018-04-26 08:30:28.831912,"Branch Office 2: Peshawar, Khyber Paktunkhwa Province, Pakistan",,,,,,,,2018-04-12 07:33:35.635536
+,ua-sdfm-blacklist.1178,2018-04-26 08:30:28.848592,"Branch Office 3: Moishah Chowk Road, Lahore, Punjab Province, Pakistan",,,,,,,,2018-04-12 07:33:35.702063
+,ua-sdfm-blacklist.1178,2018-04-26 08:30:28.865122,"Branch Office 4: Karachi, Sindh Province, Pakistan",,,,,,,,2018-04-12 07:33:35.718717
+,ua-sdfm-blacklist.1178,2018-04-26 08:30:28.929352,"Branch Office 5: i) Larran Road number 2, Chaman, Baluchistan Province, Pakistan ii) Chaman Central Bazaar, Chaman, Baluchistan Province, Pakistan",,,,,,,,2018-04-12 07:33:35.735474
+,ua-sdfm-blacklist.1178,2018-04-26 08:30:28.945726,"Branch Office 6: Shop number 237, Shah Zada Market (also known as Sarai Shahzada), Puli Khishti area, Police District 1, Kabul, Afghanistan, Telephone: +93-202-103386, +93-202-101714, 0202-104748, Mobile: +93-797-059059, +93-702-222222, e-mail: helmand_exchange_msp@yahoo.com",,,,,,,,2018-04-12 07:33:35.752074
+,ua-sdfm-blacklist.1178,2018-04-26 08:30:29.015314,"Branch Office 7: i) Shops number 21 and 22, 2nd Floor, Kandahar City Sarafi Market, Kandahar City, Kandahar Province, Afghanistan ii) New Sarafi Market, 2nd Floor, Kandahar City, Kandahar Province, Afghanistan iii) Safi Market, Kandahar City, Kandahar Province, Afghanistan",,,,,,,,2018-04-12 07:33:35.768772
+,ua-sdfm-blacklist.1178,2018-04-26 08:30:29.032935,"Branch Office 8: Gereshk City, Nahr-e Saraj District, Helmand Province, Afghanistan",,,,,,,,2018-04-12 07:33:35.835488
+,ua-sdfm-blacklist.1178,2018-04-26 08:30:29.048710,"Branch Office 9: i) Lashkar Gah Bazaar, Lashkar Gah, Lashkar Gah District, Helmand Province, Afghanistan ii) Haji Ghulam Nabi Market, 2nd Floor, Lashkar Gah District, Helmand Province, Afghanistan",,,,,,,,2018-04-12 07:33:35.852137
+,ua-sdfm-blacklist.1178,2018-04-26 08:30:29.112855,"Branch Office 10: i) Suite numbers 196-197, 3rd Floor, Khorasan Market, Herat City, Herat Province, Afghanistan ii) Khorasan Market, Shahre Naw, District 5, Herat City, Herat Province, Afghanistan",,,,,,,,2018-04-12 07:33:35.868770
+,ua-sdfm-blacklist.1178,2018-04-26 08:30:29.129252,"Branch Office 11: i) Sarafi Market, Zaranj District, Nimroz Province, Afghanistan ii) Ansari Market, 2nd Floor, Nimroz Province, Afghanistan",,,,,,,,2018-04-12 07:33:35.885450
+,ua-sdfm-blacklist.1178,2018-04-26 08:30:29.190560,"Branch Office 12: Sarafi Market, Wesh, Spin Boldak District, Afghanistan",,,,,,,,2018-04-12 07:33:35.902076
+,ua-sdfm-blacklist.1178,2018-04-26 08:30:29.215403,"Branch Office 13: Sarafi Market, Farah, Afghanistan",,,,,,,,2018-04-12 07:33:35.918785
+,ua-sdfm-blacklist.1178,2018-04-26 08:30:29.232105,"Branch Office 14: Dubai, United Arab Emirates",,,,,,,,2018-04-12 07:33:35.935531
+,ua-sdfm-blacklist.1178,2018-04-26 08:30:29.295923,"Branch Office 15: Zahedan, Iran",,,,,,,,2018-04-12 07:33:36.002142
+,ua-sdfm-blacklist.1178,2018-04-26 08:30:29.312745,"Branch Office 16: Zabul, Iran",,,,,,,,2018-04-12 07:33:36.018880
+,ua-sdfm-blacklist.1259,2018-04-26 08:30:30.324608,Located in Syria,,,,,,,,2018-04-12 07:33:40.343623
+,ua-sdfm-blacklist.1283,2018-04-26 08:30:31.466295,Syrian Arab Republic (located in as at Dec. 2014),,,,,,,,2018-04-12 07:33:39.877248
+,ua-sdfm-blacklist.1321,2018-04-26 08:30:32.225265,Syrian Arab Republic (as at Nov. 2013),,,,,,,,2018-04-12 07:33:48.445391
+,ua-sdfm-blacklist.1321,2018-04-26 08:30:32.241582,United Kingdom (previous address),,,,,,,,2018-04-12 07:33:48.462328
+,ua-sdfm-blacklist.1318,2018-04-26 08:30:32.497757,"Al Mukalla, Hadramawt province, Yemen",,,,,,,,2018-04-12 07:33:42.852638
+,ua-sdfm-blacklist.1332,2018-04-26 08:30:32.881249,Syrian Arab Republic (located in as at Aug. 2015),,,,,,,,2018-04-12 07:33:46.528936
+,ua-sdfm-blacklist.1332,2018-04-26 08:30:32.897813,Iraq (possible alternative location as at Aug. 2015),,,,,,,,2018-04-12 07:33:46.545529
+,ua-sdfm-blacklist.1449,2018-04-26 08:30:35.298804,Democratic People's Republic of Korea,,,,,,,,2018-04-12 07:33:47.470407
+,ua-sdfm-blacklist.1492,2018-04-26 08:30:35.568077,Democratic People`s Republic of Korea,,,,,,,,2018-04-12 07:33:48.270604
+,ua-sdfm-blacklist.1493,2018-04-26 08:30:36.093302,"Pyongyang, Democratic People`s Republic of Korea",,,,,,,,2018-04-12 07:33:51.062838
+,ua-sdfm-blacklist.1527,2018-04-26 08:30:36.293015,Democratic People's Republic of Korea,,,,,,,,2018-04-12 07:33:49.287440
+,ua-sdfm-blacklist.1557,2018-04-26 08:30:36.876430,"Kalrimgil 2-dong, Mangyongdae-guyok Pyongyang, Democratic People's Republic of Korea; Saemaul 2-dong, Pyongchon-guyok, Pyongyang, Democratic People's Republic of Korea",,,,,,,,2018-04-12 07:33:52.746493
+,ua-sdfm-blacklist.1575,2018-04-26 08:30:37.190159,"419-201, Tongyi Lu, Huancui Qu, Weihai, Shandong, 264200, China",,,,,,,,2018-04-12 07:33:54.155173
+,ua-sdfm-blacklist.368,2018-04-26 08:30:16.541221,"94051 Hauzenberg, Germany",,,,,,,,2018-04-12 07:32:36.437844
+,ua-sdfm-blacklist.594,2018-04-26 08:30:20.467379,"P.O. Box 1058, Al-Masbah, Building 4/356, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:38.225142
+,ua-sdfm-blacklist.714,2018-04-26 08:30:21.564565,"P.O. Box 3095, Al Wahda District, Khalid Bin Al Waleed St., Baghdad, Iraq",,,,,,,,2018-04-12 07:32:46.220129
+,ua-sdfm-blacklist.714,2018-04-26 08:30:21.581242,"P.O. Box 3095, Andalus Square, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:46.245007
+,ua-sdfm-blacklist.776,2018-04-26 08:30:22.268954,"Al-Razi Medical Complex, Jabal Al-Hussein, Amman, Jordan",,,,,,,,2018-04-12 07:32:50.179128
+,ua-sdfm-blacklist.776,2018-04-26 08:30:22.285816,"P.O. Box 212953, Amman 11121, Jordan",,,,,,,,2018-04-12 07:32:50.195770
+,ua-sdfm-blacklist.776,2018-04-26 08:30:22.302628,"P.O. Box 910606, Amman 11191, Jordan",,,,,,,,2018-04-12 07:32:50.212474
+,ua-sdfm-blacklist.841,2018-04-26 08:30:23.427884,,,,,,,,,2018-04-12 07:32:58.170450
+,ua-sdfm-blacklist.881,2018-04-26 08:30:24.033592,"33 Hormozan Building, Pirozan St., Sharak Ghods, Tehran, Iran",,,,,,,,2018-04-12 07:33:00.595311
+,ua-sdfm-blacklist.135,2018-04-26 08:30:25.112944,"64 Poturmahala, Travnik, Bosnia and Herzegovina",,,,,,,,2018-04-12 07:32:16.279155
+,ua-sdfm-blacklist.135,2018-04-26 08:30:25.175811,"Sarajevo, Bosnia and Herzegovina",,,,,,,,2018-04-12 07:32:16.295921
+,ua-sdfm-blacklist.1095,2018-04-26 08:30:26.305082,"North Kivu Province, Democratic Republic of the Congo (as of June 2016)",,,,,,,,2018-04-12 07:33:27.602224
+,ua-sdfm-blacklist.1114,2018-04-26 08:30:26.775668,in custody in Libya,,,,,,,,2018-04-12 07:33:27.676158
+,ua-sdfm-blacklist.1132,2018-04-26 08:30:27.847870,,,,,,,,,2018-04-12 07:33:32.177874
+,ua-sdfm-blacklist.1209,2018-04-26 08:30:29.215362,"Room 1610 Nan Fung Tower, 173 Des Voeux Road, Hong Kong",,,,,,,,2018-04-12 07:33:36.546180
+,ua-sdfm-blacklist.1008,2018-04-26 08:30:29.240542,"Plot 55A, Upper Kololo Terrace, Kampala, Uganda",,,,,,,,2018-04-12 07:33:26.559727
+,ua-sdfm-blacklist.1271,2018-04-26 08:30:31.841694,Syria (located in since 2012),,,,,,,,2018-04-12 07:33:42.218732
+,ua-sdfm-blacklist.1400,2018-04-26 08:30:34.815317,,,,,,,,,2018-04-12 07:33:47.770838
+,ua-sdfm-blacklist.1567,2018-04-26 08:30:37.134820,"Puksong 2-dong, Pyongchon-guyok, Pyongyang, Democratic People's Republic of Korea",,,,,,,,2018-04-12 07:33:53.864334
+,ua-sdfm-blacklist.1477,2018-04-26 08:30:35.689538,,,,,,,,,2018-04-12 07:33:50.054475
+,ua-sdfm-blacklist.103,2018-04-26 08:30:11.505843,"Tripoli, Libya (as at Feb. 2014)",,,,,,,,2018-04-12 07:32:16.020353
+,ua-sdfm-blacklist.103,2018-04-26 08:30:11.575826,"Johannesburg, South Africa",,,,,,,,2018-04-12 07:32:16.037095
+,ua-sdfm-blacklist.138,2018-04-26 08:30:14.240879,"Doha, Qatar",,,,,,,,2018-04-12 07:32:16.606538
+,ua-sdfm-blacklist.437,2018-04-26 08:30:17.950002,"Via Uccelli di Nemi n. 33, Milan",,,,,,,,2018-04-12 07:32:32.739900
+,ua-sdfm-blacklist.437,2018-04-26 08:30:17.966821,"via F. De Lemene n. 50, Milan",,,,,,,,2018-04-12 07:32:32.756510
+,ua-sdfm-blacklist.572,2018-04-26 08:30:20.543478,"Rashid Street, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:39.358570
+,ua-sdfm-blacklist.574,2018-04-26 08:30:21.102221,"Rashid Street, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:41.850614
+,ua-sdfm-blacklist.667,2018-04-26 08:30:21.118715,"Saddoun St., Baghdad, Iraq",,,,,,,,2018-04-12 07:32:46.220517
+,ua-sdfm-blacklist.667,2018-04-26 08:30:21.182406,"P.O. Box 5982, Al-Masbah, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:46.245439
+,ua-sdfm-blacklist.676,2018-04-26 08:30:21.236054,"Mussayib Establishment, Babylon, Iraq",,,,,,,,2018-04-12 07:32:43.810600
+,ua-sdfm-blacklist.682,2018-04-26 08:30:21.364849,"Sara Camp, P.O. Box 2218, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:41.918800
+,ua-sdfm-blacklist.682,2018-04-26 08:30:21.381520,"P.O. Box 12050, Al-Doura, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:41.933912
+,ua-sdfm-blacklist.686,2018-04-26 08:30:21.390612,"P.O. Box 22072, Al-Nahtha, near Sharki Baghdad Station, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:46.370703
+,ua-sdfm-blacklist.691,2018-04-26 08:30:21.432779,"P.O. Box 138, Iskandariya-Babylon, Iraq",,,,,,,,2018-04-12 07:32:44.475672
+,ua-sdfm-blacklist.716,2018-04-26 08:30:21.639725,"P.O. Box 2379, Muaskar Al Rashid Road, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:45.294981
+,ua-sdfm-blacklist.726,2018-04-26 08:30:21.649347,"Dora, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:46.470259
+,ua-sdfm-blacklist.701,2018-04-26 08:30:21.657770,"Al Nasir Square, Arbil, Iraq",,,,,,,,2018-04-12 07:32:47.419653
+,ua-sdfm-blacklist.713,2018-04-26 08:30:21.690888,"P.O. 2330 Aiwiya, Unknown Soldier, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:47.611505
+,ua-sdfm-blacklist.739,2018-04-26 08:30:21.932720,"P.O. Box 2101, Masbeh Square, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:47.845405
+,ua-sdfm-blacklist.748,2018-04-26 08:30:22.035823,"Khullani St., Baghdad, Iraq",,,,,,,,2018-04-12 07:32:48.546191
+,ua-sdfm-blacklist.708,2018-04-26 08:30:22.069303,"Khor Al Zubair, P.O. Box 933, Basrah, Iraq",,,,,,,,2018-04-12 07:32:44.961701
+,ua-sdfm-blacklist.754,2018-04-26 08:30:22.109952,"P.O. Box 14007, Waziriya, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:49.446256
+,ua-sdfm-blacklist.757,2018-04-26 08:30:22.168123,"- Al Masbah Area, Aqaba Ibn Nafaa Square, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:49.564113
+,ua-sdfm-blacklist.757,2018-04-26 08:30:22.184731,"P.O. Box 322, Al-Masbah, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:49.588382
+,ua-sdfm-blacklist.764,2018-04-26 08:30:22.285926,"P.O. Box 526, Baghdad/Alwyiyah Kadhmiyah/Taji, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:47.261191
+,ua-sdfm-blacklist.777,2018-04-26 08:30:22.334883,"P.O. Box 910606, Amman 11191, Jordan",,,,,,,,2018-04-12 07:32:49.729088
+,ua-sdfm-blacklist.775,2018-04-26 08:30:22.344213,"Sadoon St, Al-Ani Building, first floor, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:49.338177
+,ua-sdfm-blacklist.851,2018-04-26 08:30:23.435427,"- Al-Dawar Street, Bludan, Syria;
+- Damascus, Syria;
+- Mosul, Iraq;
+- Wadi Al-Hawi, Iraq;
+- Dubai, United Arab Emirates;
+- Al-Hasaka, Syria",,,,,,,,2018-04-12 07:32:58.629920
+,ua-sdfm-blacklist.864,2018-04-26 08:30:23.800051,Iraq,,,,,,,,2018-04-12 07:33:00.612000
+,ua-sdfm-blacklist.947,2018-04-26 08:30:24.425347,"Corner of Imam Ali Highway and Babaei Highway, Tehran, Iran",,,,,,,,2018-04-12 07:33:03.406549
+,ua-sdfm-blacklist.967,2018-04-26 08:30:24.432440,"Damavand Tehran Highway, Tehran, Iran",,,,,,,,2018-04-12 07:33:04.054544
+,ua-sdfm-blacklist.976,2018-04-26 08:30:24.574629,"Next To Nirou Battery Mfg. Co, Shahid Babaii Expressway, Nobonyad Square, Tehran, Iran",,,,,,,,2018-04-12 07:33:02.020632
+,ua-sdfm-blacklist.976,2018-04-26 08:30:24.591185,"Pasdaran St., P.O. Box 16765, Tehran, 1835, Iran",,,,,,,,2018-04-12 07:33:02.087374
+,ua-sdfm-blacklist.976,2018-04-26 08:30:24.607871,"Babaei Highway - Next to Niru M.F.G, Tehran, Iran",,,,,,,,2018-04-12 07:33:02.103908
+,ua-sdfm-blacklist.992,2018-04-26 08:30:24.879355,"North Kivu Province, Democratic Republic of the Congo (as of June 2016)",,,,,,,,2018-04-12 07:33:03.648182
+,ua-sdfm-blacklist.993,2018-04-26 08:30:24.878565,"Kinshasa, Democratic Republic of the Congo (as of June 2016)",,,,,,,,2018-04-12 07:33:03.570838
+,ua-sdfm-blacklist.1016,2018-04-26 08:30:25.009126,"225 Syracuse Place, Richardson, Texas 75081, USA",,,,,,,,2018-04-12 07:33:27.109913
+,ua-sdfm-blacklist.1016,2018-04-26 08:30:25.071592,"811 South Central Expressway Suite 210, Richardson, Texas 75080, USA",,,,,,,,2018-04-12 07:33:27.126760
+,ua-sdfm-blacklist.1016,2018-04-26 08:30:25.088160,"51 Churchill Ave.
+Reservoir VIC 3073
+Australia",,,,,,,,2018-04-12 07:33:27.143403
+,ua-sdfm-blacklist.1081,2018-04-26 08:30:25.809608,"Somalia
+DOB: circa 1944
+РОВ: Ogaden Region, Ethiopia
+Nationality: Somalia",,,,,,,,2018-04-12 07:33:26.859761
+,ua-sdfm-blacklist.1274,2018-04-26 08:30:31.338843,"Operates in Lebanon, Syria and the Arabian Peninsula",,,,,,,,2018-04-12 07:33:42.468802
+,ua-sdfm-blacklist.1322,2018-04-26 08:30:32.514436,Syrian Arab Republic (as at Nov. 2013),,,,,,,,2018-04-12 07:33:43.910917
+,ua-sdfm-blacklist.1322,2018-04-26 08:30:32.583812,United Kingdom (previous address until Nov. 2013),,,,,,,,2018-04-12 07:33:43.977686
+,ua-sdfm-blacklist.1330,2018-04-26 08:30:33.190910,Syrian Arab Republic (located in as at Aug. 2015),,,,,,,,2018-04-12 07:33:46.261245
+,ua-sdfm-blacklist.1330,2018-04-26 08:30:33.255362,Iraq (possible alternative location as at Aug. 2015),,,,,,,,2018-04-12 07:33:46.277795
+,ua-sdfm-blacklist.1369,2018-04-26 08:30:34.357855,"Grenoble, France (domicile from 1993 to 2012)",,,,,,,,2018-04-12 07:33:47.162737
+,ua-sdfm-blacklist.1369,2018-04-26 08:30:34.422571,Syrian Arab Republic (located in since between 2012 and 2016),,,,,,,,2018-04-12 07:33:47.178942
+,ua-sdfm-blacklist.1369,2018-04-26 08:30:34.439038,Turkey (from Jun. 2016 to Jan. 2017),,,,,,,,2018-04-12 07:33:47.262367
+,ua-sdfm-blacklist.1369,2018-04-26 08:30:34.455653,France (in detention since Jan. 2017),,,,,,,,2018-04-12 07:33:47.278955
+,ua-sdfm-blacklist.1466,2018-04-26 08:30:35.390443,,,,,,,,,2018-04-12 07:33:47.720571
+,ua-sdfm-blacklist.1483,2018-04-26 08:30:35.632701,"Pyongyang, Democratic People's Republic of Korea",,,,,,,,2018-04-12 07:33:48.445809
+,ua-sdfm-blacklist.1526,2018-04-26 08:30:36.434631,"Pyongyang, Democratic People's Republic of Korea",,,,,,,,2018-04-12 07:33:50.746714
+,ua-sdfm-blacklist.1562,2018-04-26 08:30:36.776771,"Sochang-dong, Chung-guyok, Pyongyang, Democratic People's Republic of Korea",,,,,,,,2018-04-12 07:33:51.855519
+,ua-sdfm-blacklist.1559,2018-04-26 08:30:36.867117,"Kumsong 3-dong, Mangyongdae-guyok, Pyongyang, Democratic People's Republic of Korea",,,,,,,,2018-04-12 07:33:53.246744
+,ua-sdfm-blacklist.1549,2018-04-26 08:30:36.876408,"Tel Afar – Al-Saad, Mosul, Iraq (previous address)",,,,,,,,2018-04-12 07:33:52.298713
+,ua-sdfm-blacklist.1572,2018-04-26 08:30:37.134841,"Le Sanalele Complex, Ground Floor, Vaea Street, Saleufi, Apia, Samoa",,,,,,,,2018-04-12 07:33:59.466228
+,ua-sdfm-blacklist.150,2018-04-26 08:30:12.572656,Algeria,,,,,,,,2018-04-12 07:32:16.773340
+,ua-sdfm-blacklist.191,2018-04-26 08:30:13.690910,Previous,,,,,,,,2018-04-12 07:32:20.099614
+,ua-sdfm-blacklist.191,2018-04-26 08:30:13.707398,"Shari Tunis, Sanaa, Yemen",,,,,,,,2018-04-12 07:32:20.157986
+,ua-sdfm-blacklist.191,2018-04-26 08:30:13.724347,Yemeni passport number 00385937,,,,,,,,2018-04-12 07:32:20.174672
+,ua-sdfm-blacklist.383,2018-04-26 08:30:17.542200,"Libya Street Number 9, Manzil Tmim, Nabeul, Tunisia",,,,,,,,2018-04-12 07:32:31.723138
+,ua-sdfm-blacklist.388,2018-04-26 08:30:17.942508,"P.O. Box 8096, Sana'a, Yemen",,,,,,,,2018-04-12 07:32:31.715315
+,ua-sdfm-blacklist.492,2018-04-26 08:30:18.917231,"Taman Bukit Ampang, State of Selangor, Malaysia (previous address)",,,,,,,,2018-04-12 07:32:38.600744
+,ua-sdfm-blacklist.492,2018-04-26 08:30:19.025677,Malaysia (in prison since 2013),,,,,,,,2018-04-12 07:32:38.617747
+,ua-sdfm-blacklist.520,2018-04-26 08:30:19.693177,"House 1, Road 1, S-6, Uttara, Dhaka, Bangladesh (at time of listing)",,,,,,,,2018-04-12 07:32:36.310376
+,ua-sdfm-blacklist.479,2018-04-26 08:30:19.740007,Philippines,,,,,,,,2018-04-12 07:32:34.718362
+,ua-sdfm-blacklist.575,2018-04-26 08:30:19.893668,"P.O. Box 7177, Haifa Street, Baghdad, Iraq
+Al Masarif Street, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:40.708928
+,ua-sdfm-blacklist.528,2018-04-26 08:30:20.485293,"Kitas Ghar, Nazimabad 4, Dahgel-Iftah, Karachi, Pakistan",,,,,,,,2018-04-12 07:32:38.343488
+,ua-sdfm-blacklist.528,2018-04-26 08:30:20.501980,"Jamia Maajid, Sulalman Park, Melgium Pura, Lahore, Pakistan",,,,,,,,2018-04-12 07:32:38.416108
+,ua-sdfm-blacklist.528,2018-04-26 08:30:20.518785,"Office Dha’rbi-M’unin, Opposite Khyber Bank, Abbottabad Road, Mansehra, Pakistan",,,,,,,,2018-04-12 07:32:38.432672
+,ua-sdfm-blacklist.528,2018-04-26 08:30:20.535105,"Office Dha’rbi-M’unin ZR Brothers, Katcherry Road, Chowk Yadgaar, Peshawar, Pakistan",,,,,,,,2018-04-12 07:32:38.493488
+,ua-sdfm-blacklist.528,2018-04-26 08:30:20.607159,"Office Dha’rbi-M’unin, Rm No. 3, Moti Plaza, Near Liaquat Bagh, Muree Road, Rawalpindi, Pakistan",,,,,,,,2018-04-12 07:32:38.510180
+,ua-sdfm-blacklist.528,2018-04-26 08:30:20.668535,"Office Dha’rbi-M’unin, Top Floor, Dr. Dawa Khan Dental Clinic Surgeon, Main Baxae, Mingora, Swat, Pakistan",,,,,,,,2018-04-12 07:32:38.526918
+,ua-sdfm-blacklist.528,2018-04-26 08:30:20.685155,"Kitab Ghar, Darul Ifta Wal Irshad, Nazimabad No. 4, Karachi, Pakistan, Phone 6683301; Phone 0300-8209199; Fax 6623814",,,,,,,,2018-04-12 07:32:38.591155
+,ua-sdfm-blacklist.528,2018-04-26 08:30:20.701627,"302b-40, Good Earth Court, Opposite Pia Planitarium, Block 13a, Gulshan -l Igbal, Karachi, Pakistan; Phone 4979263",,,,,,,,2018-04-12 07:32:38.607678
+,ua-sdfm-blacklist.528,2018-04-26 08:30:20.718338,"617 Clifton Center, Block 5, 6th Floor, Clifton, Karachi, Pakistan; Phone 587-2545",,,,,,,,2018-04-12 07:32:38.624378
+,ua-sdfm-blacklist.528,2018-04-26 08:30:20.734960,"605 Landmark Plaza, 11 Chundrigar Road, Opposite Jang Building, Karachi, Pakistan; Phone 2623818-19",,,,,,,,2018-04-12 07:32:38.685237
+,ua-sdfm-blacklist.528,2018-04-26 08:30:20.852150,"Jamia Masjid, Sulaiman Park, Begum Pura, Lahore, Pakistan; Phone 042-6812081",,,,,,,,2018-04-12 07:32:38.701908
+,ua-sdfm-blacklist.617,2018-04-26 08:30:20.910469,"P.O. Box 10028, Karrada, no. 19, Hay Al-Wadha, Mahala (904), Baghdad, Iraq",,,,,,,,2018-04-12 07:32:39.255405
+,ua-sdfm-blacklist.668,2018-04-26 08:30:21.243915,"P.O. Box 14186, Baghdad-Bab-Al-Mu'adham, near Engineering College,
+Baghdad, Iraq",,,,,,,,2018-04-12 07:32:42.843872
+,ua-sdfm-blacklist.695,2018-04-26 08:30:21.407248,"P.O. Box 11183, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:42.527356
+,ua-sdfm-blacklist.699,2018-04-26 08:30:21.422854,"Ramadi, Al Anbar, Iraq",,,,,,,,2018-04-12 07:32:46.970747
+,ua-sdfm-blacklist.704,2018-04-26 08:30:21.440506,"Karrada Al Sharkiya, Hurriya Square, P.O. Box 3079, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:44.118796
+,ua-sdfm-blacklist.721,2018-04-26 08:30:21.673011,"P.O. Box 16, Misan, Iraq",,,,,,,,2018-04-12 07:32:46.370037
+,ua-sdfm-blacklist.727,2018-04-26 08:30:21.689609,"Haklanya, Haditha, Iraq",,,,,,,,2018-04-12 07:32:46.945305
+,ua-sdfm-blacklist.681,2018-04-26 08:30:22.027599,"Baghdad Al Nidal Street, P.O. Box 5642-5760, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:42.683916
+,ua-sdfm-blacklist.753,2018-04-26 08:30:22.244310,"P.O. Box 5824, Jumhuriya Street, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:49.347337
+,ua-sdfm-blacklist.852,2018-04-26 08:30:23.291481,"- C/o Trading and Transport Services, Al-Razi Medical Complex, Jabal Al-Hussein, Amman, Jordan
+- C/o Alfa Company Limited for International Trading and Marketing, P.O. Box 910606, Amman 11191, Jordan",,,,,,,,2018-04-12 07:32:58.837855
+,ua-sdfm-blacklist.865,2018-04-26 08:30:23.436628,Iraq,,,,,,,,2018-04-12 07:33:00.320300
+,ua-sdfm-blacklist.850,2018-04-26 08:30:23.686636,"Mosul, Iraq;
+- Az Zabadani, Syria",,,,,,,,2018-04-12 07:32:58.479927
+,ua-sdfm-blacklist.913,2018-04-26 08:30:23.920036,"P.O. Box 19585/777 , Tehran, Iran",,,,,,,,2018-04-12 07:33:02.429475
+,ua-sdfm-blacklist.911,2018-04-26 08:30:23.920022,"Kaveh Complex, Khalaj Rd., Seyedi St., Mashad, Iran",,,,,,,,2018-04-12 07:33:01.395361
+,ua-sdfm-blacklist.950,2018-04-26 08:30:24.335676,"P.O. Box 16595-365, Tehran, Iran",,,,,,,,2018-04-12 07:33:01.872554
+,ua-sdfm-blacklist.1005,2018-04-26 08:30:24.887938,"Butembo, DRC",,,,,,,,2018-04-12 07:33:26.743097
+,ua-sdfm-blacklist.1009,2018-04-26 08:30:24.992472,"Goma, North Kivu, DRC",,,,,,,,2018-04-12 07:33:26.668131
+,ua-sdfm-blacklist.1070,2018-04-26 08:30:24.992671,"Rakwon-dong, Pothonggang District, Pyongyang, DPRK.",,,,,,,,2018-04-12 07:33:27.109230
+,ua-sdfm-blacklist.991,2018-04-26 08:30:25.000297,"Gisenyi, Rwanda (As of June 2011)",,,,,,,,2018-04-12 07:33:03.364547
+,ua-sdfm-blacklist.1071,2018-04-26 08:30:25.167315,"Haeudong, Pyongchen District, Pyongyang, DPRK.",,,,,,,,2018-04-12 07:33:27.134507
+,ua-sdfm-blacklist.1069,2018-04-26 08:30:25.270428,"Location: Sanaee St., Kish Island, Iran.",,,,,,,,2018-04-12 07:33:28.684602
+,ua-sdfm-blacklist.1138,2018-04-26 08:30:27.304701,"Nairobi, Kenya",,,,,,,,2018-04-12 07:33:33.276213
+,ua-sdfm-blacklist.1164,2018-04-26 08:30:28.177833,"Jl. Semenromo number 58, 04/XV Ngruki, Cemani, Grogol, Sukoharjo, Jawa Tengah, Indonesia, Telephone: 0271-2167285, Email: info@ansharuttauhid.com",,,,,,,,2018-04-12 07:33:33.418002
+,ua-sdfm-blacklist.1151,2018-04-26 08:30:28.289580,Afghanistan (current location as at Jul. 2016),,,,,,,,2018-04-12 07:33:34.218343
+,ua-sdfm-blacklist.1151,2018-04-26 08:30:28.361147,Pakistan (previous location as at Apr. 2009),,,,,,,,2018-04-12 07:33:34.234989
+,ua-sdfm-blacklist.1238,2018-04-26 08:30:29.765579,Nigeria,,,,,,,,2018-04-12 07:33:39.326842
+,ua-sdfm-blacklist.1218,2018-04-26 08:30:30.182515,"Pyongyang, DPRK",,,,,,,,2018-04-12 07:33:38.660075
+,ua-sdfm-blacklist.1276,2018-04-26 08:30:32.297631,Somalia,,,,,,,,2018-04-12 07:33:39.035675
+,ua-sdfm-blacklist.1316,2018-04-26 08:30:32.425492,"Kabylie region, Algeria",,,,,,,,2018-04-12 07:33:42.685871
+,ua-sdfm-blacklist.1384,2018-04-26 08:30:34.630745,,,,,,,,,2018-04-12 07:33:47.595826
+,ua-sdfm-blacklist.1407,2018-04-26 08:30:34.909329,,,,,,,,,2018-04-12 07:33:50.746055
+,ua-sdfm-blacklist.1499,2018-04-26 08:30:36.134737,"Україна, Донецька обл., м. Горлівка, вул. Невського, буд. 248",,,,,,,,2018-04-12 07:33:51.096103
+,ua-sdfm-blacklist.1499,2018-04-26 08:30:36.151327,"Україна, Донецька обл., м.  Маріуполь, вул. Варганова, буд. 10, кв. 12",,,,,,,,2018-04-12 07:33:51.162968
+,ua-sdfm-blacklist.1566,2018-04-26 08:30:36.868309,"Rakrang 3-dong, Rakrang-guyok, Pyongyang, Democratic People's Republic of Korea",,,,,,,,2018-04-12 07:33:53.632546
+,ua-sdfm-blacklist.279,2018-04-26 08:30:14.874906,"Kushal Khan Mena, District Number 5, Kabul, Afghanistan",,,,,,,,2018-04-12 07:32:24.322551
+,ua-sdfm-blacklist.608,2018-04-26 08:30:20.517341,"P.O. Box 21015, Battawin, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:40.911187
+,ua-sdfm-blacklist.629,2018-04-26 08:30:20.799211,"Aqaba Bin Nafie Square, P.O. Box 989, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:41.643079
+,ua-sdfm-blacklist.629,2018-04-26 08:30:20.860849,"P.O. Box 989, Karradah Al Sharkiya, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:41.661207
+,ua-sdfm-blacklist.707,2018-04-26 08:30:21.431326,"P.O. Box 5763, Iskandariya, Iraq",,,,,,,,2018-04-12 07:32:44.811210
+,ua-sdfm-blacklist.707,2018-04-26 08:30:21.447951,"P.O. Box 367, Iskandariyah-Babylon Governate, Iraq",,,,,,,,2018-04-12 07:32:44.819566
+,ua-sdfm-blacklist.715,2018-04-26 08:30:21.724266,"Al Zawria Building, Al Hindiya, P.O. Box 5856, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:46.470259
+,ua-sdfm-blacklist.715,2018-04-26 08:30:21.791073,"P.O. Box 5817, Al-Nidhal St., Baghdad, Iraq",,,,,,,,2018-04-12 07:32:46.486810
+,ua-sdfm-blacklist.848,2018-04-26 08:30:23.533459,"- Bludan, Syria;
+- Mutanabi Area, Al Monsur, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:58.487613
+,ua-sdfm-blacklist.974,2018-04-26 08:30:24.425815,"Tehran, Iran",,,,,,,,2018-04-12 07:33:04.129322
+,ua-sdfm-blacklist.1010,2018-04-26 08:30:25.104416,"Plot 22, Kanjokya Street, Kamwokya, Kampala, Uganda (Tel.: +256 41 533 578/9)",,,,,,,,2018-04-12 07:33:26.481278
+,ua-sdfm-blacklist.1010,2018-04-26 08:30:25.167297,"PO BOX 22709, Kampala, Uganda",,,,,,,,2018-04-12 07:33:26.560352
+,ua-sdfm-blacklist.1065,2018-04-26 08:30:25.504941,,,,,,,,,2018-04-12 07:33:26.942841
+,ua-sdfm-blacklist.1130,2018-04-26 08:30:26.593147,Libya,,,,,,,,2018-04-12 07:33:27.601298
+,ua-sdfm-blacklist.1232,2018-04-26 08:30:29.624321,,,,,,,,,2018-04-12 07:33:37.269602
+,ua-sdfm-blacklist.1325,2018-04-26 08:30:32.607585,Germany,,,,,,,,2018-04-12 07:33:44.202655
+,ua-sdfm-blacklist.1359,2018-04-26 08:30:33.983958,Afghanistan (since 2009),,,,,,,,2018-04-12 07:33:49.412302
+,ua-sdfm-blacklist.1390,2018-04-26 08:30:34.151015,United Arab Emirates,,,,,,,,2018-04-12 07:33:50.387553
+,ua-sdfm-blacklist.1379,2018-04-26 08:30:34.264870,,,,,,,,,2018-04-12 07:33:46.695899
+,ua-sdfm-blacklist.1519,2018-04-26 08:30:36.250301,"FTB Building, Jungsong-dong, Central District, Pyongyang, DPRK",,,,,,,,2018-04-12 07:33:50.596592
+,ua-sdfm-blacklist.344,2018-04-26 08:30:16.200442,Germany (In prison ),,,,,,,,2018-04-12 07:32:29.642335
+,ua-sdfm-blacklist.592,2018-04-26 08:30:19.998854,"P.O. Box 24042, Al-Jumhuriya Street, Building 66, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:40.900924
+,ua-sdfm-blacklist.587,2018-04-26 08:30:20.467446,"Hashmiya District, Babylon, Iraq",,,,,,,,2018-04-12 07:32:37.791372
+,ua-sdfm-blacklist.651,2018-04-26 08:30:20.989488,"P.O. Box 20195, New Baghdad, Nahrawan, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:42.210635
+,ua-sdfm-blacklist.660,2018-04-26 08:30:21.101271,"P.O. Box 5664, Kadhumia, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:42.527311
+,ua-sdfm-blacklist.696,2018-04-26 08:30:21.532871,"P.O. Box 5689, Sara Khatoon Camp, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:46.662324
+,ua-sdfm-blacklist.696,2018-04-26 08:30:21.549388,"P.O. Box 2108, Al-Za'afaraniya, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:46.679062
+,ua-sdfm-blacklist.729,2018-04-26 08:30:21.699100,"P.O. Box 7021, Karadt Mariam, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:46.787233
+,ua-sdfm-blacklist.755,2018-04-26 08:30:22.177679,"P.O. Box 352, Um Qasr, Basrah, Iraq",,,,,,,,2018-04-12 07:32:47.545446
+,ua-sdfm-blacklist.779,2018-04-26 08:30:22.344334,"53/64 Chancery Lane
+London WC2A 1QU
+United Kingdom",,,,,,,,2018-04-12 07:32:49.696161
+,ua-sdfm-blacklist.941,2018-04-26 08:30:24.075220,"3rd Km of Khalaj Road, Seyyedi Street, Mashad, 91638, Iran",,,,,,,,2018-04-12 07:33:01.814325
+,ua-sdfm-blacklist.941,2018-04-26 08:30:24.136903,"Km 4 of Khalaj Road, End of Seyedi Street, Mashad, Iran",,,,,,,,2018-04-12 07:33:01.830831
+,ua-sdfm-blacklist.941,2018-04-26 08:30:24.153524,"P.O. Box 91735-549, Mashad, Iran",,,,,,,,2018-04-12 07:33:01.847570
+,ua-sdfm-blacklist.941,2018-04-26 08:30:24.217038,"Khalaj Rd., End of Seyyedi Alley, Mashad, Iran",,,,,,,,2018-04-12 07:33:01.864219
+,ua-sdfm-blacklist.941,2018-04-26 08:30:24.233740,"Moqan St., Pasdaran St., Pasdaran Cross Rd., Tehran, Iran",,,,,,,,2018-04-12 07:33:01.880838
+,ua-sdfm-blacklist.1066,2018-04-26 08:30:25.111904,,,,,,,,,2018-04-12 07:33:27.126746
+,ua-sdfm-blacklist.1097,2018-04-26 08:30:25.505373,"Rubavu, Mudende",,,,,,,,2018-04-12 07:33:28.088009
+,ua-sdfm-blacklist.1111,2018-04-26 08:30:26.425504,Sultanate of Oman,,,,,,,,2018-04-12 07:33:27.217872
+,ua-sdfm-blacklist.1098,2018-04-26 08:30:26.626782,"FDLR HQ at Kikoma forest, Bogoyi, Walikale, North Kivu, DRC (As of June 2011.)",,,,,,,,2018-04-12 07:33:28.235381
+,ua-sdfm-blacklist.1139,2018-04-26 08:30:26.776973,Somalia,,,,,,,,2018-04-12 07:33:33.534560
+,ua-sdfm-blacklist.1296,2018-04-26 08:30:32.872899,"Jonglei State, Sudan/South Sudan",,,,,,,,2018-04-12 07:33:40.338212
+,ua-sdfm-blacklist.1377,2018-04-26 08:30:34.175516,"Tavakoli Building, Opposite of 15th Alley, Emam-Jomeh Street, Tehran, Iran",,,,,,,,2018-04-12 07:33:46.570880
+,ua-sdfm-blacklist.1458,2018-04-26 08:30:35.332150,"Pyongyang, Democratic People's Republic of Korea",,,,,,,,2018-04-12 07:33:49.738144
+,ua-sdfm-blacklist.1495,2018-04-26 08:30:36.007651,"Pyongyang, Democratic People`s Republic of Korea",,,,,,,,2018-04-12 07:33:48.795934
+,ua-sdfm-blacklist.1507,2018-04-26 08:30:36.275283,"Al-Kadhumi Complex, Al-Harthia, Baghdad, Iraq",,,,,,,,2018-04-12 07:33:50.513343
+,ua-sdfm-blacklist.1507,2018-04-26 08:30:36.292108,"Al-Abbas Street, Karbala, Iraq",,,,,,,,2018-04-12 07:33:50.529935
+,ua-sdfm-blacklist.424,2018-04-26 08:30:18.231368,"Via del Fosso di Centocelle n.66, Rome, Italy",,,,,,,,2018-04-12 07:32:32.139926
+,ua-sdfm-blacklist.543,2018-04-26 08:30:19.518425,Pakistan,,,,,,,,2018-04-12 07:32:39.660447
+,ua-sdfm-blacklist.627,2018-04-26 08:30:20.700728,"P.O. Box 29029, Za'Faraniya, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:40.985577
+,ua-sdfm-blacklist.677,2018-04-26 08:30:21.252523,"P.O. Box 190, Al-Waziriyah, Safi El-Din, Al-Hilli St., Baghdad, Iraq",,,,,,,,2018-04-12 07:32:45.998272
+,ua-sdfm-blacklist.638,2018-04-26 08:30:21.302161,"P.O. Box 17, Al Masbah, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:42.527953
+,ua-sdfm-blacklist.747,2018-04-26 08:30:22.093965,"Karradat Mariam, Karkh, P.O. Box 917, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:49.395555
+,ua-sdfm-blacklist.747,2018-04-26 08:30:22.111003,"Nassiryah, Iraq",,,,,,,,2018-04-12 07:32:49.412232
+,ua-sdfm-blacklist.747,2018-04-26 08:30:22.127422,"Kirkuk, Iraq",,,,,,,,2018-04-12 07:32:49.428941
+,ua-sdfm-blacklist.747,2018-04-26 08:30:22.144207,"Hilla, Iraq",,,,,,,,2018-04-12 07:32:49.445588
+,ua-sdfm-blacklist.747,2018-04-26 08:30:22.160723,"Yousufia, Iraq",,,,,,,,2018-04-12 07:32:49.470592
+,ua-sdfm-blacklist.768,2018-04-26 08:30:22.177445,"Ibrahim Saeed Lootah Building, Al Ramool Street, P.O. Box 10631 & 638,
+Rashidiya, Dubai, United Arab Emirates",,,,,,,,2018-04-12 07:32:47.502927
+,ua-sdfm-blacklist.768,2018-04-26 08:30:22.194056,"Lootah Building, Airport Road, near Aviation Club, Rashidya, Dubai, United
+Arab Emirates",,,,,,,,2018-04-12 07:32:47.520809
+,ua-sdfm-blacklist.768,2018-04-26 08:30:22.210878,"Villa in the Harasiyah area, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:47.537571
+,ua-sdfm-blacklist.778,2018-04-26 08:30:22.327831,"53/64 Chancery Lane
+London WC2A 1QU
+United Kingdom",,,,,,,,2018-04-12 07:32:49.420952
+,ua-sdfm-blacklist.843,2018-04-26 08:30:23.282930,,,,,,,,,2018-04-12 07:32:58.704547
+,ua-sdfm-blacklist.1007,2018-04-26 08:30:24.895268,"Avenue President Mobutu, Goma, DRC",,,,,,,,2018-04-12 07:33:26.401159
+,ua-sdfm-blacklist.1007,2018-04-26 08:30:24.966486,"Gisenyi, Rwanda",,,,,,,,2018-04-12 07:33:26.467922
+,ua-sdfm-blacklist.1007,2018-04-26 08:30:24.982816,"PO BOX 315, Goma, DRC",,,,,,,,2018-04-12 07:33:26.492685
+,ua-sdfm-blacklist.1102,2018-04-26 08:30:26.217096,Sultanate of Oman (Believed status/location: Sultanate of Oman),,,,,,,,2018-04-12 07:33:32.284193
+,ua-sdfm-blacklist.1088,2018-04-26 08:30:26.234727,"Kabkabiya, Sudan; Kutum, Sudan (Resides in Kabkabiya and the city of Kutum, Northern Darfur and has resided in Khartoum.)",,,,,,,,2018-04-12 07:33:27.968391
+,ua-sdfm-blacklist.1317,2018-04-26 08:30:32.233308,Syrian Arab Republic (as at 2013),,,,,,,,2018-04-12 07:33:43.477970
+,ua-sdfm-blacklist.1317,2018-04-26 08:30:32.297467,United Kingdom (previous location until 2013),,,,,,,,2018-04-12 07:33:43.536353
+,ua-sdfm-blacklist.1349,2018-04-26 08:30:32.991778,Turkey,,,,,,,,2018-04-12 07:33:46.828884
+,ua-sdfm-blacklist.1373,2018-04-26 08:30:33.800640,"Україна, Полтавська обл., Октябрьський район, м. Полтава, вул. Гребінки, буд. 22, кв. 2",,,,,,,,2018-04-12 07:33:49.879163
+,ua-sdfm-blacklist.1368,2018-04-26 08:30:33.975743,Syrian Arab Republic (locaQDi376 ted in since 2013),,,,,,,,2018-04-12 07:33:49.887490
+,ua-sdfm-blacklist.1413,2018-04-26 08:30:34.790248,,,,,,,,,2018-04-12 07:33:47.487572
+,ua-sdfm-blacklist.1503,2018-04-26 08:30:35.707463,"Mosul, Iraq",,,,,,,,2018-04-12 07:33:48.937635
+,ua-sdfm-blacklist.1571,2018-04-26 08:30:37.134856,"Otan-dong, Chung-guyok, Pyongyang, Democratic People's Republic of Korea",,,,,,,,2018-04-12 07:33:52.305823
+,ua-sdfm-blacklist.541,2018-04-26 08:30:20.727031,"8820 Mobile Avenue, IA, Oak Lawn, Illinois, 60453 U.S.A.",,,,,,,,2018-04-12 07:32:40.510574
+,ua-sdfm-blacklist.541,2018-04-26 08:30:20.798877,"P.O. Box 548, Worth, Illinois, 60482 U.S.A.",,,,,,,,2018-04-12 07:32:40.585777
+,ua-sdfm-blacklist.541,2018-04-26 08:30:20.860524,"(Formerly located at) 9838 S. Roberts Road, Suite 1W, Palos Hills, Illinois, 60465 U.S.A.",,,,,,,,2018-04-12 07:32:40.618788
+,ua-sdfm-blacklist.541,2018-04-26 08:30:20.877132,"(Formerly located at) 20-24 Branford Place, Suite 705, Newark, New Jersey, 07102 U.S.A.",,,,,,,,2018-04-12 07:32:40.635613
+,ua-sdfm-blacklist.541,2018-04-26 08:30:20.893659,"Bashir Safar Ugli 69, Baku, Azerbaijan",,,,,,,,2018-04-12 07:32:40.708917
+,ua-sdfm-blacklist.541,2018-04-26 08:30:20.910343,"69 Boshir Safaroglu St., Baku, Azerbaijan",,,,,,,,2018-04-12 07:32:40.727111
+,ua-sdfm-blacklist.541,2018-04-26 08:30:20.926950,"Sarajevo, Bosnia-Herzegovina",,,,,,,,2018-04-12 07:32:40.785569
+,ua-sdfm-blacklist.653,2018-04-26 08:30:21.052333,"Rashid Street, P.O. Box 11387, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:42.352244
+,ua-sdfm-blacklist.541,2018-04-26 08:30:21.052337,"Zenica, Bosnia-Herzegovina",,,,,,,,2018-04-12 07:32:40.802100
+,ua-sdfm-blacklist.541,2018-04-26 08:30:21.068813,"(Last known address) 3 King Street, South Waterloo, Ontario, N2J 3Z6 Canada",,,,,,,,2018-04-12 07:32:40.818798
+,ua-sdfm-blacklist.541,2018-04-26 08:30:21.085496,"(Last known address) P.O. Box 1508 Station 1, Mississauga, Ontario, L4Y 4G2 Canada",,,,,,,,2018-04-12 07:32:40.835513
+,ua-sdfm-blacklist.541,2018-04-26 08:30:21.102174,"(Last known address) 2465 Cawthra Rd., #203, Mississauga, Ontario, L5A 3P2 Canada",,,,,,,,2018-04-12 07:32:40.911018
+,ua-sdfm-blacklist.541,2018-04-26 08:30:21.118937,"Ottawa, Canada",,,,,,,,2018-04-12 07:32:40.977279
+,ua-sdfm-blacklist.541,2018-04-26 08:30:21.182250,"Grozny, Chechnya",,,,,,,,2018-04-12 07:32:40.993878
+,ua-sdfm-blacklist.541,2018-04-26 08:30:21.243974,"91 Paihonggou, Lanzhou, Gansu, China 730000",,,,,,,,2018-04-12 07:32:41.010564
+,ua-sdfm-blacklist.541,2018-04-26 08:30:21.260610,"Hrvatov 30, 41000, Zagreb, Croatia",,,,,,,,2018-04-12 07:32:41.027224
+,ua-sdfm-blacklist.541,2018-04-26 08:30:21.277274,"Makhachkala, Daghestan",,,,,,,,2018-04-12 07:32:41.094286
+,ua-sdfm-blacklist.541,2018-04-26 08:30:21.293978,"Duisi, Georgia",,,,,,,,2018-04-12 07:32:41.160689
+,ua-sdfm-blacklist.685,2018-04-26 08:30:21.302215,"P.O. Box 5784, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:42.034065
+,ua-sdfm-blacklist.541,2018-04-26 08:30:21.310539,"Tbilisi, Georgia",,,,,,,,2018-04-12 07:32:41.178310
+,ua-sdfm-blacklist.541,2018-04-26 08:30:21.374176,"Nazran, Ingushetia",,,,,,,,2018-04-12 07:32:41.193796
+,ua-sdfm-blacklist.541,2018-04-26 08:30:21.390791,"Burgemeester Kessensingel 40, Masstricht, Netherlands",,,,,,,,2018-04-12 07:32:41.210644
+,ua-sdfm-blacklist.541,2018-04-26 08:30:21.407425,"Stichting Benevolence International Nederland (a.k.a. Benevolence International Nederland, a.k.a. BIN). Radeborg 14B, 6228 CV Maastricht, Netherlands. Chamber of commerce, registration: 14063277",,,,,,,,2018-04-12 07:32:41.277566
+,ua-sdfm-blacklist.541,2018-04-26 08:30:21.424153,"House 111, First Floor, Street 64, F-10/3, Islamabad, Pakistan",,,,,,,,2018-04-12 07:32:41.294038
+,ua-sdfm-blacklist.541,2018-04-26 08:30:21.440796,"P.O. Box 1055, Peshawar, Pakistan",,,,,,,,2018-04-12 07:32:41.352206
+,ua-sdfm-blacklist.655,2018-04-26 08:30:21.448891,"P.O. Box 3210 Baghdad, Za'faraniya, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:41.210673
+,ua-sdfm-blacklist.541,2018-04-26 08:30:21.507552,"Azovskaya 6, km. 3, off. 401, Moscow, Russia 113149",,,,,,,,2018-04-12 07:32:41.367177
+,ua-sdfm-blacklist.541,2018-04-26 08:30:21.524234,"Ulitsa Oktyabr'skaya, dom. 89, Moscow, Russia 127521",,,,,,,,2018-04-12 07:32:41.383940
+,ua-sdfm-blacklist.541,2018-04-26 08:30:21.540794,"P.O. Box 1937, Khartoum, Sudan",,,,,,,,2018-04-12 07:32:41.402277
+,ua-sdfm-blacklist.671,2018-04-26 08:30:21.549038,"P.O. Box 1, Sarchina, Sulaimaniya, Iraq",,,,,,,,2018-04-12 07:32:45.629201
+,ua-sdfm-blacklist.541,2018-04-26 08:30:21.557551,"P.O. Box 7600, Jeddah 21472, Saudi Arabia",,,,,,,,2018-04-12 07:32:41.467270
+,ua-sdfm-blacklist.541,2018-04-26 08:30:21.574208,"P.O. Box 10845, Riyadh 11442, Saudi Arabia",,,,,,,,2018-04-12 07:32:41.477123
+,ua-sdfm-blacklist.541,2018-04-26 08:30:21.590973,"Dushanbe, Tajikistan",,,,,,,,2018-04-12 07:32:41.535765
+,ua-sdfm-blacklist.703,2018-04-26 08:30:21.641063,"Karantina, near Sarafiya Bridge, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:43.324009
+,ua-sdfm-blacklist.541,2018-04-26 08:30:21.649376,United Kingdom,,,,,,,,2018-04-12 07:32:41.552485
+,ua-sdfm-blacklist.541,2018-04-26 08:30:21.665986,Afghanistan,,,,,,,,2018-04-12 07:32:41.577211
+,ua-sdfm-blacklist.541,2018-04-26 08:30:21.682584,Bangladesh,,,,,,,,2018-04-12 07:32:41.642387
+,ua-sdfm-blacklist.541,2018-04-26 08:30:21.699307,Gaza Strip,,,,,,,,2018-04-12 07:32:41.660476
+,ua-sdfm-blacklist.541,2018-04-26 08:30:21.715929,Bosnia-Herzegovina,,,,,,,,2018-04-12 07:32:41.719032
+,ua-sdfm-blacklist.693,2018-04-26 08:30:21.715949,"P.O. Box 44, Nassiriyah, Iraq",,,,,,,,2018-04-12 07:32:44.017220
+,ua-sdfm-blacklist.541,2018-04-26 08:30:21.782596,Yemen,,,,,,,,2018-04-12 07:32:41.735547
+,ua-sdfm-blacklist.760,2018-04-26 08:30:22.061119,"P.O. Box 2218, Camp Sarah, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:48.003795
+,ua-sdfm-blacklist.854,2018-04-26 08:30:23.308225,"Mosul, Iraq",,,,,,,,2018-04-12 07:33:00.320328
+,ua-sdfm-blacklist.965,2018-04-26 08:30:24.503668,"Damavand Tehran Highway, Tehran, Iran",,,,,,,,2018-04-12 07:33:18.015646
+,ua-sdfm-blacklist.1068,2018-04-26 08:30:25.350872,"Pyongyang, Democratic People's Republic of Korea",,,,,,,,2018-04-12 07:33:27.169891
+,ua-sdfm-blacklist.1068,2018-04-26 08:30:25.392788,"Sengujadong 11-2/(or Kwangbok-dong), Mangyongdae District, Pyongyang, Democratic People's Republic of Korea",,,,,,,,2018-04-12 07:33:27.226674
+,ua-sdfm-blacklist.1112,2018-04-26 08:30:26.625561,Libya (in custody),,,,,,,,2018-04-12 07:33:27.226355
+,ua-sdfm-blacklist.1152,2018-04-26 08:30:27.664451,Somalia,,,,,,,,2018-04-12 07:33:33.835061
+,ua-sdfm-blacklist.1179,2018-04-26 08:30:28.647438,"Branch Office 8: Lakri City, Helmand Province, Afghanistan",,,,,,,,2018-04-12 07:33:34.885042
+,ua-sdfm-blacklist.1179,2018-04-26 08:30:28.664071,"Branch Office 9: Gerd-e-Jangal, Chaghi District, Baluchistan Province, Pakistan",,,,,,,,2018-04-12 07:33:34.951611
+,ua-sdfm-blacklist.1179,2018-04-26 08:30:28.744719,"Branch Office 10: Chaghi, Chaghi District, Baluchistan Province, Pakistan",,,,,,,,2018-04-12 07:33:34.968422
+,ua-sdfm-blacklist.1179,2018-04-26 08:30:28.761507,"Branch Office 11: Aziz Market, in front of Azizi Bank, Waish Border, Spin Boldak District, Kandahar Province, Afghanistan",,,,,,,,2018-04-12 07:33:35.010154
+,ua-sdfm-blacklist.1219,2018-04-26 08:30:29.304600,"Rakwon-dong, Pothonggang District, Pyongyang, DPRK",,,,,,,,2018-04-12 07:33:38.751812
+,ua-sdfm-blacklist.1121,2018-04-26 08:30:30.054896,Yemen,,,,,,,,2018-04-12 07:33:28.436510
+,ua-sdfm-blacklist.1279,2018-04-26 08:30:31.231977,"Dahyan, Sa’dah Governorate, Yemen",,,,,,,,2018-04-12 07:33:39.294305
+,ua-sdfm-blacklist.1335,2018-04-26 08:30:33.375627,"Bangui, Central African Republic",,,,,,,,2018-04-12 07:33:48.887182
+,ua-sdfm-blacklist.1374,2018-04-26 08:30:33.959066,"Україна, м. Київ, проспект Повітрофлотський, 6",,,,,,,,2018-04-12 07:33:47.412416
+,ua-sdfm-blacklist.1380,2018-04-26 08:30:34.081819,,,,,,,,,2018-04-12 07:33:50.079349
+,ua-sdfm-blacklist.1574,2018-04-26 08:30:37.191239,"Unit 503, 5th Floor, Silvercord Tower 2, 30, Canton Road, Tsim Sha Tsui, Kowloon, Hong Kong, China",,,,,,,,2018-04-12 07:33:55.122090
+,ua-sdfm-blacklist.3,2018-04-26 08:30:09.810267,"Jamal street, Al-Dahima alley, Al-Hudaydah, Yemen",,,,,,,,2018-04-19 08:00:23.496593
+,ua-sdfm-blacklist.38,2018-04-26 08:30:10.269628,"Via Carlo Porta n. 97, Legnano, Italy",,,,,,,,2018-04-12 07:32:16.037694
+,ua-sdfm-blacklist.102,2018-04-26 08:30:11.505545,"Block Four, Street 13, House #179 Kuwait City, Al-Riqqa area, Kuwait",,,,,,,,2018-04-12 07:32:24.181467
+,ua-sdfm-blacklist.614,2018-04-26 08:30:20.659153,"P.O. Box 113, Nassiriyah, Iraq",,,,,,,,2018-04-12 07:32:39.093908
+,ua-sdfm-blacklist.698,2018-04-26 08:30:21.373140,"P.O. Box 74, Basrah, Iraq",,,,,,,,2018-04-12 07:32:42.877232
+,ua-sdfm-blacklist.650,2018-04-26 08:30:21.448879,"P.O. Box 42, Gizlany Street, Mosul, Iraq",,,,,,,,2018-04-12 07:32:42.878190
+,ua-sdfm-blacklist.661,2018-04-26 08:30:21.565816,"P.O. Box 6, Arbil, Iraq",,,,,,,,2018-04-12 07:32:41.560609
+,ua-sdfm-blacklist.680,2018-04-26 08:30:21.690630,"P.O. Box 1118, Waziria, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:44.059045
+,ua-sdfm-blacklist.680,2018-04-26 08:30:21.707496,"P.O. Box 9145, Al-Kadhmiyah, Al-Taji, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:44.118939
+,ua-sdfm-blacklist.680,2018-04-26 08:30:21.724726,"4/356 Al Masbah Building, P.O. Box 1098, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:44.142408
+,ua-sdfm-blacklist.641,2018-04-26 08:30:21.874259,"P.O. Box 65, Nassiriyah, Nassiriyah, Iraq",,,,,,,,2018-04-12 07:32:41.094286
+,ua-sdfm-blacklist.751,2018-04-26 08:30:22.127962,"P.O. Box 2301, Alwiya, Camp Sarah Khatoon, Baghdad, Iraq",,,,,,,,2018-04-12 07:32:47.204583
+,ua-sdfm-blacklist.770,2018-04-26 08:30:22.227534,"Ruggell, Liechtenstein",,,,,,,,2018-04-12 07:32:48.114515
+,ua-sdfm-blacklist.844,2018-04-26 08:30:23.377953,,,,,,,,,2018-04-12 07:32:54.187828
+,ua-sdfm-blacklist.855,2018-04-26 08:30:23.411495,"Baghdad, Iraq; 
+United Arab Emirates (possibly)",,,,,,,,2018-04-12 07:32:59.319877
+,ua-sdfm-blacklist.115,2018-04-26 08:30:24.153516,Philippines,,,,,,,,2018-04-12 07:32:16.304014
+,ua-sdfm-blacklist.949,2018-04-26 08:30:24.335640,"P.O. Box 16315-189, Tehran, Iran",,,,,,,,2018-04-12 07:33:03.687546
+,ua-sdfm-blacklist.949,2018-04-26 08:30:24.399439,"Located on the west side of Dabestan Street, Abbas Abad District, Tehran, Iran",,,,,,,,2018-04-12 07:33:03.704183
+,ua-sdfm-blacklist.994,2018-04-26 08:30:24.442097,Germany (in prison),,,,,,,,2018-04-12 07:33:03.895974
+,ua-sdfm-blacklist.1006,2018-04-26 08:30:24.783941,"Butembo, DRC",,,,,,,,2018-04-12 07:33:26.559726
+,ua-sdfm-blacklist.1006,2018-04-26 08:30:24.800665,Gold trading house in Butembo.,,,,,,,,2018-04-12 07:33:26.576280
+,ua-sdfm-blacklist.1072,2018-04-26 08:30:25.080014,"Pyongyang, DPRK.",,,,,,,,2018-04-12 07:33:27.226321
+,ua-sdfm-blacklist.1067,2018-04-26 08:30:25.642505,"Saemul 1-Dong Pyongchon District, Pyongyang, DPRK",,,,,,,,2018-04-12 07:33:26.942871
+,ua-sdfm-blacklist.1100,2018-04-26 08:30:25.826469,"Peshawar, Pakistan.",,,,,,,,2018-04-12 07:33:28.520442
+,ua-sdfm-blacklist.1100,2018-04-26 08:30:25.905502,"Kayla Village, near Miram Shah, North Waziristan Agency (NWA), Federally Administered Tribal Areas (FATA), Pakistan.",,,,,,,,2018-04-12 07:33:28.685057
+,ua-sdfm-blacklist.1100,2018-04-26 08:30:25.922169,"Sarana Zadran Village, Paktia Province, Afghanistan.",,,,,,,,2018-04-12 07:33:28.701711
+,ua-sdfm-blacklist.1134,2018-04-26 08:30:26.497254,"Butembo, North Kivu",,,,,,,,2018-04-12 07:33:28.726700
+,ua-sdfm-blacklist.1131,2018-04-26 08:30:27.035138,SultanateofOman,,,,,,,,2018-04-12 07:33:28.151287
+,ua-sdfm-blacklist.1131,2018-04-26 08:30:27.097274,(Believedlocation - Egypt),,,,,,,,2018-04-12 07:33:28.167953
+,ua-sdfm-blacklist.1163,2018-04-26 08:30:27.863521,"Podok Pesantren AL Wayain Ngrandu, Sumber Agung Magetan, East Java, Indonesia",,,,,,,,2018-04-12 07:33:34.384966
+,ua-sdfm-blacklist.1174,2018-04-26 08:30:28.431650,"Pyongyang, DPRK",,,,,,,,2018-04-12 07:33:36.001576
+,ua-sdfm-blacklist.1159,2018-04-26 08:30:28.745526,"Gungoren Merkez Mahallesi Toros Sokak 6/5, Istanbul, Turkey, (previous as at Aug. 2009)",,,,,,,,2018-04-12 07:33:33.576195
+,ua-sdfm-blacklist.1291,2018-04-26 08:30:31.562548,"Branch Office 1: Sanatan (variant Sanatin) Bazaar, Sanatan Bazaar Street, near Trench (variant Tranch) Road, Chaman, Baluchistan Province, Pakistan",,,,,,,,2018-04-12 07:33:43.477340
+,ua-sdfm-blacklist.1291,2018-04-26 08:30:31.632168,"Branch Office 2: Quetta, Pakistan",,,,,,,,2018-04-12 07:33:43.535629
+,ua-sdfm-blacklist.1291,2018-04-26 08:30:31.648749,"Branch Office 3: Lahore, Pakistan",,,,,,,,2018-04-12 07:33:43.552246
+,ua-sdfm-blacklist.1291,2018-04-26 08:30:31.665231,"Branch Office 4: Peshawar, Pakistan",,,,,,,,2018-04-12 07:33:43.618976
+,ua-sdfm-blacklist.1291,2018-04-26 08:30:31.729610,"Branch Office 5: Karachi, Pakistan",,,,,,,,2018-04-12 07:33:43.635529
+,ua-sdfm-blacklist.1291,2018-04-26 08:30:31.745969,"Branch Office 6: Islamabad, Pakistan",,,,,,,,2018-04-12 07:33:43.652206
+,ua-sdfm-blacklist.1291,2018-04-26 08:30:31.807351,"Branch Office 7: Kandahar Province, Afghanistan",,,,,,,,2018-04-12 07:33:43.710660
+,ua-sdfm-blacklist.1291,2018-04-26 08:30:31.823949,"Branch Office 8: Herat Province, Afghanistan",,,,,,,,2018-04-12 07:33:43.727255
+,ua-sdfm-blacklist.1291,2018-04-26 08:30:31.840652,"Branch Office 9: Helmand Province, Afghanistan",,,,,,,,2018-04-12 07:33:43.743922
+,ua-sdfm-blacklist.1291,2018-04-26 08:30:31.904472,"Branch Office 10: Dubai, United Arab Emirates",,,,,,,,2018-04-12 07:33:43.802402
+,ua-sdfm-blacklist.1291,2018-04-26 08:30:31.921035,Branch Office 11: Iran,,,,,,,,2018-04-12 07:33:43.819007
+,ua-sdfm-blacklist.1265,2018-04-26 08:30:31.939147,Syrian Arab Republic (located in since 2013),,,,,,,,2018-04-12 07:33:41.660404
+,ua-sdfm-blacklist.1308,2018-04-26 08:30:32.208503,"Al-Laqtah, Qatar",,,,,,,,2018-04-12 07:33:42.902882
+,ua-sdfm-blacklist.1311,2018-04-26 08:30:33.248084,"Homs, Syrian Arab Republic (location as at Sep. 2015)",,,,,,,,2018-04-12 07:33:41.694082
+,ua-sdfm-blacklist.1357,2018-04-26 08:30:33.471810,"Vakaga, Central African Republic",,,,,,,,2018-04-12 07:33:45.828098
+,ua-sdfm-blacklist.1336,2018-04-26 08:30:33.542291,Syrian Arab Republic (located in as at Aug. 2015),,,,,,,,2018-04-12 07:33:49.020125
+,ua-sdfm-blacklist.1357,2018-04-26 08:30:33.541050,"Haute-Kotto, Central African Republic",,,,,,,,2018-04-12 07:33:45.853111
+,ua-sdfm-blacklist.1336,2018-04-26 08:30:33.558962,Iraq (possible alternative location as at Aug. 2015),,,,,,,,2018-04-12 07:33:49.037279
+,ua-sdfm-blacklist.1357,2018-04-26 08:30:33.557662,"Basse-Kotto, Central African Republic",,,,,,,,2018-04-12 07:33:45.869752
+,ua-sdfm-blacklist.1357,2018-04-26 08:30:33.574545,"Haut-Mbomou, Central African Republic",,,,,,,,2018-04-12 07:33:45.886387
+,ua-sdfm-blacklist.1357,2018-04-26 08:30:33.638819,"Mbomou, Central African Republic",,,,,,,,2018-04-12 07:33:45.902955
+,ua-sdfm-blacklist.1357,2018-04-26 08:30:33.655588,"Haut-Uolo, Democratic Republic of the Congo",,,,,,,,2018-04-12 07:33:45.969843
+,ua-sdfm-blacklist.1357,2018-04-26 08:30:33.672125,"Bas-Uolo, Democratic Republic of the Congo",,,,,,,,2018-04-12 07:33:45.986450
+,ua-sdfm-blacklist.1357,2018-04-26 08:30:33.766077,"Reported address: Kafia Kingi (a territory on the border of Sudan and South Sudan whose final status has yet to be determined). As of January 2015, 500 Lord’s Resistance Army elements were reportedly expelled from the Sudan",,,,,,,,2018-04-12 07:33:46.003126
+,ua-sdfm-blacklist.1396,2018-04-26 08:30:34.631962,,,,,,,,,2018-04-12 07:33:47.296021
+,ua-sdfm-blacklist.1454,2018-04-26 08:30:35.373535,"Rakwon-dong, Pothonggang District, Pyongyang, Democratic People's Republic of Korea",,,,,,,,2018-04-12 07:33:49.538194
+,ua-sdfm-blacklist.1459,2018-04-26 08:30:35.398866,Democratic People's Republic of Korea,,,,,,,,2018-04-12 07:33:47.578828
+,ua-sdfm-blacklist.1484,2018-04-26 08:30:35.665799,Viet Nam,,,,,,,,2018-04-12 07:33:50.962159
+,ua-sdfm-blacklist.1568,2018-04-26 08:30:37.008113,"Panama City, Panama",,,,,,,,2018-04-12 07:33:52.006677
+,ua-sdfm-blacklist.1577,2018-04-26 08:30:36.818309,"Запорізька обл., м. Кам'янка-Дніпровська, вул. Таврійська, 39, кв 2; Одеська обл. м. Южне, вул. Будівельників, 9, кв. 221",,,,,,,,2018-04-19 08:00:34.022418
+,ua-sdfm-blacklist.1570,2018-04-26 08:30:36.843180,"Jongbaek 1-dong, Rakrang-guyok, Pyongyang, Democratic People's Republic of Korea",,,,,,,,2018-04-12 07:33:52.181469
