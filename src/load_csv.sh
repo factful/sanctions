@@ -1,7 +1,14 @@
 #! /usr/bin/env bash
 
+if [ $# -eq 0 ]
+then
+  echo "usage: load_csv [FILE]"
+  exit 0
+fi
+
 # cribbed from https://www.cyberciti.biz/faq/unix-linux-extract-filename-and-extension-in-bash/
 FILEPATH="$1"
+
 CSVFILE="${FILEPATH##*/}"
 TABLENAME="${CSVFILE%.*}"
 DBFILE="$TABLENAME.sqlite"
